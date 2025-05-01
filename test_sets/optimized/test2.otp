@@ -1,0 +1,12 @@
+inp_lots=0.1||0.01||1.0||Y
+inp_StopLoss=30||1||150||Y
+inp_TakeProfit=60||3||50||Y
+inp_RiskPercent=1.5||0.1||10.0||Y
+inp_MA_Period=21||1||50||Y
+inp_RSI_Period=9||1||50||Y
+inp_ATR_Period=10||1||50||Y
+inp_TrailingStart=15||1||100||Y
+inp_TrailingStop=30||1||100||Y
+inp_TrailingStep=3||1||100||Y
+inp_MagicNumber=54321
+inp_Comment=Test EA 2

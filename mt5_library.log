@@ -1,0 +1,28 @@
+2025-04-26 15:49:40,478 - INFO - Scanne optimierte .set Files...
+2025-04-26 15:49:40,482 - INFO - Gefunden: 452 optimierte .set Files
+2025-04-26 15:49:40,483 - INFO - Scanne EA-Verzeichnisse...
+2025-04-26 15:49:40,520 - INFO - Gefunden: 450 EA-Verzeichnisse mit optimierten .set Files
+2025-04-26 15:49:40,529 - INFO - Bibliothek gespeichert in: C:\Users\nikol\CascadeProjects\Intelligent_set_opt_creator\mt5_library.json
+2025-04-26 15:49:40,529 - INFO - 
+Bibliotheksstatistik:
+2025-04-26 15:49:40,529 - INFO - Gefundene EAs: 450
+2025-04-26 15:49:40,530 - INFO - 
+Beispiel-Items:
+2025-04-26 15:49:40,530 - INFO - 
+EA: 10-pips
+2025-04-26 15:49:40,530 - INFO - EA-Dir: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001\10-pips
+2025-04-26 15:49:40,530 - INFO - INI-Dir: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001\10-pips\ini
+2025-04-26 15:49:40,531 - INFO - OPT-Set: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\optimized\10-pips_01_opt.set
+2025-04-26 15:49:40,531 - INFO - Batch: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001
+2025-04-26 15:49:40,531 - INFO - 
+EA: 10-pips-EURUSD
+2025-04-26 15:49:40,531 - INFO - EA-Dir: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001\10-pips-EURUSD
+2025-04-26 15:49:40,531 - INFO - INI-Dir: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001\10-pips-EURUSD\ini
+2025-04-26 15:49:40,531 - INFO - OPT-Set: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\optimized\10-pips-EURUSD_01_opt.set
+2025-04-26 15:49:40,532 - INFO - Batch: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001
+2025-04-26 15:49:40,532 - INFO - 
+EA: 1H-EUR-USD
+2025-04-26 15:49:40,532 - INFO - EA-Dir: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001\1H-EUR-USD
+2025-04-26 15:49:40,532 - INFO - INI-Dir: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001\1H-EUR-USD\ini
+2025-04-26 15:49:40,532 - INFO - OPT-Set: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\optimized\1H-EUR-USD_01_opt.set
+2025-04-26 15:49:40,532 - INFO - Batch: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0001

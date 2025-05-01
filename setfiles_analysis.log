@@ -1,0 +1,1086 @@
+2025-04-25 02:03:03,660 - INFO - === Missing Set Files Analysis Report ===
+2025-04-25 02:03:03,660 - INFO - 
+Batch_0002:
+2025-04-25 02:03:03,661 - INFO -   - 3sma_
+2025-04-25 02:03:03,661 - INFO -   - A
+2025-04-25 02:03:03,661 - INFO -   - AC-ACADEMY-US30
+2025-04-25 02:03:03,662 - INFO -   - Accumulator
+2025-04-25 02:03:03,662 - INFO -   - temp_3sma-1
+2025-04-25 02:03:03,662 - INFO -   - temp_temp-3sma-1
+2025-04-25 02:03:03,662 - INFO -   - temp_temp-temp-3sma-1
+2025-04-25 02:03:03,663 - INFO - 
+Batch_0003:
+2025-04-25 02:03:03,663 - INFO -   - AI-GOLD
+2025-04-25 02:03:03,663 - INFO -   - AI-TUNE
+2025-04-25 02:03:03,664 - INFO -   - AI-TUNE-FIXED-YFP
+2025-04-25 02:03:03,664 - INFO -   - AI-Trader
+2025-04-25 02:03:03,664 - INFO -   - AI-Tune-EAMT5-YoforexPremium
+2025-04-25 02:03:03,665 - INFO -   - temp-AI-Tune-EA-YoforexPremium
+2025-04-25 02:03:03,665 - INFO -   - temp-AK-47-Scalper-EA
+2025-04-25 02:03:03,665 - INFO -   - temp_AI-Tune-EA-YoforexPremium
+2025-04-25 02:03:03,665 - INFO -   - temp_AK-47-Scalper-EA
+2025-04-25 02:03:03,665 - INFO - 
+Batch_0004:
+2025-04-25 02:03:03,666 - INFO -   - AK-47-Scalper-EAMT4-with-sourcecode-YoforexPremium-MT5
+2025-04-25 02:03:03,666 - INFO -   - ALCHEMIST-YoforexPremium
+2025-04-25 02:03:03,666 - INFO -   - Alpha-Zero-AI-RobotMT5-YoForexPremium
+2025-04-25 02:03:03,666 - INFO -   - temp-AK-47-Scalper-EA-with-sourcecode-YoforexPremium
+2025-04-25 02:03:03,666 - INFO -   - temp-AK-47-Scalper-EA-yoforexPremium
+2025-04-25 02:03:03,666 - INFO -   - temp-Alpha-Zero-AI-Robot-YoForexPremium
+2025-04-25 02:03:03,667 - INFO -   - temp_AK-47-Scalper-EA-with-sourcecode-YoforexPremium
+2025-04-25 02:03:03,667 - INFO -   - temp_AK-47-Scalper-EA-yoforexPremium
+2025-04-25 02:03:03,667 - INFO -   - temp_Alpha-Zero-AI-Robot-YoForexPremium
+2025-04-25 02:03:03,667 - INFO - 
+Batch_0005:
+2025-04-25 02:03:03,667 - INFO -   - ATR-SCLAPER
+2025-04-25 02:03:03,668 - INFO - 
+Batch_0006:
+2025-04-25 02:03:03,668 - INFO -   - ATR-SCLAPER-EA-MT5-YoforexPremium
+2025-04-25 02:03:03,668 - INFO -   - backtrader-master
+2025-04-25 02:03:03,668 - INFO -   - temp-ATR-SCLAPER-EA-YoforexPremium
+2025-04-25 02:03:03,668 - INFO -   - temp_ATR-SCLAPER-EA-YoforexPremium
+2025-04-25 02:03:03,668 - INFO - 
+Batch_0007:
+2025-04-25 02:03:03,669 - INFO -   - bb-automated
+2025-04-25 02:03:03,669 - INFO -   - temp-BB-stops
+2025-04-25 02:03:03,669 - INFO -   - temp_BB-stops
+2025-04-25 02:03:03,669 - INFO - 
+Batch_0008:
+2025-04-25 02:03:03,669 - INFO -   - BEAR-row-full-EA
+2025-04-25 02:03:03,669 - INFO -   - BIG-RECOVERY-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,670 - INFO -   - BORN4PIPS-EA-1-YoForexPremium
+2025-04-25 02:03:03,670 - INFO -   - BORN4PIPS-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,670 - INFO -   - temp-BIG-RECOVERY-EA-YoForexPremium
+2025-04-25 02:03:03,670 - INFO -   - temp-BORN4PIPS-EA-YoForexPremium
+2025-04-25 02:03:03,671 - INFO -   - temp_BIG-RECOVERY-EA-YoForexPremium
+2025-04-25 02:03:03,671 - INFO -   - temp_BORN4PIPS-EA-YoForexPremium
+2025-04-25 02:03:03,671 - INFO - 
+Batch_0009:
+2025-04-25 02:03:03,671 - INFO -   - Brazilian-EA-MT5-YoforexPremium
+2025-04-25 02:03:03,671 - INFO -   - temp-Brazilian-EA-YoforexPremium
+2025-04-25 02:03:03,671 - INFO -   - temp_Brazilian-EA-YoforexPremium
+2025-04-25 02:03:03,672 - INFO - 
+Batch_0010:
+2025-04-25 02:03:03,672 - INFO -   - BTA-Optimal-Trade-Zone-EA-v.1.0-MT5-YoForexPremium
+2025-04-25 02:03:03,672 - INFO -   - BTA-Sniper-Entry-v.1.0-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,672 - INFO -   - BULL-row-full-EA
+2025-04-25 02:03:03,672 - INFO -   - temp-BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium
+2025-04-25 02:03:03,672 - INFO -   - temp-BTA-Sniper-Entry-v.1.0-EA-YoForexPremium
+2025-04-25 02:03:03,673 - INFO -   - temp-BykovTrend-EA-v3
+2025-04-25 02:03:03,673 - INFO -   - temp_BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium
+2025-04-25 02:03:03,673 - INFO -   - temp_BTA-Sniper-Entry-v.1.0-EA-YoForexPremium
+2025-04-25 02:03:03,673 - INFO -   - temp_BykovTrend-EA-v3
+2025-04-25 02:03:03,673 - INFO - 
+Batch_0012:
+2025-04-25 02:03:03,673 - INFO -   - Daily-Candle-ScalperEA-MT5-YoForexPremium
+2025-04-25 02:03:03,673 - INFO -   - Daily-Candle-ScalperEA-MT5-YoForexPremium-1
+2025-04-25 02:03:03,674 - INFO -   - Dark-Mimas-MT5
+2025-04-25 02:03:03,674 - INFO -   - temp-Daily-Candle-ScalperEA-YoForexPremium
+2025-04-25 02:03:03,674 - INFO -   - temp-Daily-Candle-ScalperEA-YoForexPremium-1
+2025-04-25 02:03:03,674 - INFO -   - temp-Dark-Mimas
+2025-04-25 02:03:03,674 - INFO -   - temp_Daily-Candle-ScalperEA-YoForexPremium
+2025-04-25 02:03:03,674 - INFO -   - temp_Daily-Candle-ScalperEA-YoForexPremium-1
+2025-04-25 02:03:03,675 - INFO -   - temp_Dark-Mimas
+2025-04-25 02:03:03,675 - INFO - 
+Batch_0014:
+2025-04-25 02:03:03,675 - INFO -   - Divergence-EA-BB
+2025-04-25 02:03:03,675 - INFO -   - Divergence-EA-pip-sl-tp
+2025-04-25 02:03:03,676 - INFO - 
+Batch_0015:
+2025-04-25 02:03:03,676 - INFO -   - temp-Driver-EA
+2025-04-25 02:03:03,676 - INFO -   - temp_Driver-EA
+2025-04-25 02:03:03,676 - INFO - 
+Batch_0016:
+2025-04-25 02:03:03,676 - INFO -   - EA-Gold-Stuff-MT5-YoForexPremium
+2025-04-25 02:03:03,677 - INFO -   - Elevator-Robot-PMT5-YoForexPremium
+2025-04-25 02:03:03,677 - INFO -   - temp-EA-Gold-Stuff-YoForexPremium
+2025-04-25 02:03:03,677 - INFO -   - temp-Elevator-Robot-P-YoForexPremium
+2025-04-25 02:03:03,677 - INFO -   - temp_EA-Gold-Stuff-YoForexPremium
+2025-04-25 02:03:03,678 - INFO -   - temp_Elevator-Robot-P-YoForexPremium
+2025-04-25 02:03:03,678 - INFO - 
+Batch_0017:
+2025-04-25 02:03:03,678 - INFO -   - EMA_WMA v2
+2025-04-25 02:03:03,678 - INFO -   - EURUSDH1
+2025-04-25 02:03:03,678 - INFO -   - Euronis-Scalper-EA-MT5-With-DLL-YoForexPremium
+2025-04-25 02:03:03,679 - INFO -   - temp-EMA-WMA-v2
+2025-04-25 02:03:03,679 - INFO -   - temp-Euronis-Scalper-EA-With-DLL-YoForexPremium
+2025-04-25 02:03:03,679 - INFO -   - temp_EMA-WMA-v2
+2025-04-25 02:03:03,679 - INFO -   - temp_Euronis-Scalper-EA-With-DLL-YoForexPremium
+2025-04-25 02:03:03,679 - INFO - 
+Batch_0018:
+2025-04-25 02:03:03,679 - INFO -   - FI-TRADING-ROBOTMT5-yoforexprenium
+2025-04-25 02:03:03,680 - INFO -   - Fi-Trading-Robot-1.0
+2025-04-25 02:03:03,680 - INFO -   - Fi-Trading-Robot-YoForexPremium
+2025-04-25 02:03:03,680 - INFO -   - temp-FI-TRADING-ROBOT-yoforexprenium
+2025-04-25 02:03:03,680 - INFO -   - temp_FI-TRADING-ROBOT-yoforexprenium
+2025-04-25 02:03:03,680 - INFO - 
+Batch_0019:
+2025-04-25 02:03:03,680 - INFO -   - temp-fratal-EA
+2025-04-25 02:03:03,681 - INFO -   - temp_fratal-EA
+2025-04-25 02:03:03,681 - INFO - 
+Batch_0020:
+2025-04-25 02:03:03,681 - INFO -   - FT-Sniper-GOLD-MT5-4
+2025-04-25 02:03:03,681 - INFO -   - Galaxy-5-1.0-MT5
+2025-04-25 02:03:03,681 - INFO -   - temp-FT-Sniper-GOLD-4
+2025-04-25 02:03:03,681 - INFO -   - temp-Galaxy-5-1.0
+2025-04-25 02:03:03,681 - INFO -   - temp_FT-Sniper-GOLD-4
+2025-04-25 02:03:03,682 - INFO -   - temp_Galaxy-5-1.0
+2025-04-25 02:03:03,682 - INFO - 
+Batch_0021:
+2025-04-25 02:03:03,682 - INFO -   - Godzillar-EABanker-MT5-FX-XRACKED
+2025-04-25 02:03:03,682 - INFO -   - GoldHero-FX-Cracked
+2025-04-25 02:03:03,682 - INFO -   - temp-Godzillar-EABanker-FX-XRACKED
+2025-04-25 02:03:03,682 - INFO -   - temp_Godzillar-EABanker-FX-XRACKED
+2025-04-25 02:03:03,683 - INFO - 
+Batch_0022:
+2025-04-25 02:03:03,683 - INFO -   - heiken-ashi-engulf-ea-buy-mt5
+2025-04-25 02:03:03,683 - INFO -   - heiken-ashi-engulf-sell-ea-mt5
+2025-04-25 02:03:03,683 - INFO -   - temp-heiken-ashi-engulf-ea-buy
+2025-04-25 02:03:03,683 - INFO -   - temp-heiken-ashi-engulf-sell-ea
+2025-04-25 02:03:03,684 - INFO -   - temp_heiken-ashi-engulf-ea-buy
+2025-04-25 02:03:03,684 - INFO -   - temp_heiken-ashi-engulf-sell-ea
+2025-04-25 02:03:03,684 - INFO - 
+Batch_0023:
+2025-04-25 02:03:03,684 - INFO -   - i-impulsesystem
+2025-04-25 02:03:03,684 - INFO - 
+Batch_0024:
+2025-04-25 02:03:03,685 - INFO -   - temp-Ichimoku-Dashboard
+2025-04-25 02:03:03,685 - INFO -   - temp-Ichimoku-Scanner-1
+2025-04-25 02:03:03,685 - INFO -   - temp_Ichimoku-Dashboard
+2025-04-25 02:03:03,685 - INFO -   - temp_Ichimoku-Scanner-1
+2025-04-25 02:03:03,685 - INFO - 
+Batch_0026:
+2025-04-25 02:03:03,686 - INFO -   - JS-MA-SAR-Trades-EA-MT5-YoforexPremium
+2025-04-25 02:03:03,686 - INFO -   - JS-MA-SAR-Trades-Yoforexpremium
+2025-04-25 02:03:03,686 - INFO -   - Juggernaut
+2025-04-25 02:03:03,686 - INFO -   - temp-JS-MA-SAR-Trades-EA-YoforexPremium
+2025-04-25 02:03:03,686 - INFO -   - temp_JS-MA-SAR-Trades-EA-YoforexPremium
+2025-04-25 02:03:03,687 - INFO - 
+Batch_0027:
+2025-04-25 02:03:03,687 - INFO -   - temp-KueFx-Arrows-EA-v1.10
+2025-04-25 02:03:03,687 - INFO -   - temp-KueFx-Baseline-EA-v1.10
+2025-04-25 02:03:03,687 - INFO -   - temp_KueFx-Arrows-EA-v1.10
+2025-04-25 02:03:03,687 - INFO -   - temp_KueFx-Baseline-EA-v1.10
+2025-04-25 02:03:03,687 - INFO - 
+Batch_0029:
+2025-04-25 02:03:03,688 - INFO -   - temp-LazyBot
+2025-04-25 02:03:03,688 - INFO -   - temp_LazyBot
+2025-04-25 02:03:03,688 - INFO - 
+Batch_0030:
+2025-04-25 02:03:03,688 - INFO -   - M.A-break-mt5-buy
+2025-04-25 02:03:03,688 - INFO -   - M.A-break-mt5-sell
+2025-04-25 02:03:03,688 - INFO -   - MA MACD Position averaging v2
+2025-04-25 02:03:03,688 - INFO -   - temp-M.A-break-buy
+2025-04-25 02:03:03,689 - INFO -   - temp-M.A-break-sell
+2025-04-25 02:03:03,689 - INFO -   - temp-MA-MACD-Position-averaging-v2
+2025-04-25 02:03:03,689 - INFO -   - temp_M.A-break-buy
+2025-04-25 02:03:03,689 - INFO -   - temp_M.A-break-sell
+2025-04-25 02:03:03,689 - INFO -   - temp_MA-MACD-Position-averaging-v2
+2025-04-25 02:03:03,689 - INFO - 
+Batch_0031:
+2025-04-25 02:03:03,689 - INFO -   - MACD-wonder
+2025-04-25 02:03:03,690 - INFO -   - Macd-diver-and-rsi-mt5
+2025-04-25 02:03:03,690 - INFO -   - temp-Macd-diver-and-rsi
+2025-04-25 02:03:03,690 - INFO -   - temp_Macd-diver-and-rsi
+2025-04-25 02:03:03,690 - INFO - 
+Batch_0032:
+2025-04-25 02:03:03,690 - INFO -   - MACD-wonder-YoforexPremium
+2025-04-25 02:03:03,691 - INFO -   - MagneticBrake
+2025-04-25 02:03:03,691 - INFO -   - MagneticStopExpert
+2025-04-25 02:03:03,691 - INFO -   - temp-Mariner
+2025-04-25 02:03:03,691 - INFO -   - temp_Mariner
+2025-04-25 02:03:03,692 - INFO - 
+Batch_0033:
+2025-04-25 02:03:03,692 - INFO -   - temp-Marubozu-EA-v1.10
+2025-04-25 02:03:03,692 - INFO -   - temp_Marubozu-EA-v1.10
+2025-04-25 02:03:03,692 - INFO - 
+Batch_0034:
+2025-04-25 02:03:03,692 - INFO -   - MelBarTTake325-T-5.5Y-NZD-USD.ex5
+2025-04-25 02:03:03,693 - INFO -   - MelBarTTake325-T-5.5Y-NZD-USD.mq5
+2025-04-25 02:03:03,693 - INFO -   - Minning-GoldMT5-Yoforexpremium
+2025-04-25 02:03:03,693 - INFO -   - temp-MA-Crossover-20EA
+2025-04-25 02:03:03,693 - INFO -   - temp-Ma-Crosses
+2025-04-25 02:03:03,693 - INFO -   - temp-Minning-Gold-Yoforexpremium
+2025-04-25 02:03:03,693 - INFO -   - temp_MA-Crossover-20EA
+2025-04-25 02:03:03,694 - INFO -   - temp_Ma-Crosses
+2025-04-25 02:03:03,694 - INFO -   - temp_Minning-Gold-Yoforexpremium
+2025-04-25 02:03:03,694 - INFO - 
+Batch_0036:
+2025-04-25 02:03:03,694 - INFO -   - temp-5
+2025-04-25 02:03:03,694 - INFO -   - temp-CoupleHedgeEA
+2025-04-25 02:03:03,694 - INFO -   - temp-RingSystemEA
+2025-04-25 02:03:03,694 - INFO -   - temp-williams-directional-index-EA
+2025-04-25 02:03:03,695 - INFO -   - temp_-CoupleHedgeEA
+2025-04-25 02:03:03,695 - INFO -   - temp_-RingSystemEA
+2025-04-25 02:03:03,695 - INFO -   - temp_-williams-directional-index-EA
+2025-04-25 02:03:03,695 - INFO -   - temp_5
+2025-04-25 02:03:03,695 - INFO - 
+Batch_0037:
+2025-04-25 02:03:03,695 - INFO -   - Multi-Trader-BC-Robot
+2025-04-25 02:03:03,696 - INFO -   - N Candles v2
+2025-04-25 02:03:03,696 - INFO -   - N Candles v3
+2025-04-25 02:03:03,696 - INFO -   - N Candles v4
+2025-04-25 02:03:03,696 - INFO -   - N Candles v5
+2025-04-25 02:03:03,696 - INFO -   - temp-N-Candles-v2
+2025-04-25 02:03:03,696 - INFO -   - temp-N-Candles-v3
+2025-04-25 02:03:03,696 - INFO -   - temp-N-Candles-v4
+2025-04-25 02:03:03,697 - INFO -   - temp-N-Candles-v5
+2025-04-25 02:03:03,697 - INFO -   - temp-N-Candles-v7
+2025-04-25 02:03:03,697 - INFO -   - temp_N-Candles-v2
+2025-04-25 02:03:03,697 - INFO -   - temp_N-Candles-v3
+2025-04-25 02:03:03,698 - INFO -   - temp_N-Candles-v4
+2025-04-25 02:03:03,698 - INFO -   - temp_N-Candles-v5
+2025-04-25 02:03:03,698 - INFO -   - temp_N-Candles-v7
+2025-04-25 02:03:03,698 - INFO - 
+Batch_0038:
+2025-04-25 02:03:03,699 - INFO -   - NSK-SWING-EA-MT5-Yoforexpremium
+2025-04-25 02:03:03,699 - INFO -   - temp-NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:03:03,699 - INFO -   - temp_NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:03:03,699 - INFO - 
+Batch_0039:
+2025-04-25 02:03:03,699 - INFO -   - NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:03:03,699 - INFO -   - optimization-result
+2025-04-25 02:03:03,700 - INFO - 
+Batch_0040:
+2025-04-25 02:03:03,700 - INFO -   - Par-20sar-20mt5-201
+2025-04-25 02:03:03,700 - INFO -   - temp-Par-20sar-20-201
+2025-04-25 02:03:03,700 - INFO -   - temp_Par-20sar-20-201
+2025-04-25 02:03:03,700 - INFO - 
+Batch_0041:
+2025-04-25 02:03:03,701 - INFO -   - POVERTY-KILLER-GHOSTMT5-YoForexPremium
+2025-04-25 02:03:03,701 - INFO -   - POW-BANKER-EA-MT5-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:03:03,701 - INFO -   - temp-POVERTY-KILLER-GHOST-YoForexPremium
+2025-04-25 02:03:03,701 - INFO -   - temp-POW-BANKER-EA-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:03:03,701 - INFO -   - temp_POVERTY-KILLER-GHOST-YoForexPremium
+2025-04-25 02:03:03,701 - INFO -   - temp_POW-BANKER-EA-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:03:03,701 - INFO - 
+Batch_0042:
+2025-04-25 02:03:03,702 - INFO -   - PrizmaL-Pro-EAMT5-YoforexPremium
+2025-04-25 02:03:03,702 - INFO -   - temp-PrizmaL-Pro-EA-YoforexPremium
+2025-04-25 02:03:03,702 - INFO -   - temp_PrizmaL-Pro-EA-YoforexPremium
+2025-04-25 02:03:03,702 - INFO - 
+Batch_0043:
+2025-04-25 02:03:03,702 - INFO -   - RedDragon-v.1.03
+2025-04-25 02:03:03,702 - INFO - 
+Batch_0044:
+2025-04-25 02:03:03,703 - INFO -   - RSI EA v2
+2025-04-25 02:03:03,703 - INFO -   - RSI-Bollinger-Bands-EA
+2025-04-25 02:03:03,703 - INFO -   - temp-RSI-EA-v2
+2025-04-25 02:03:03,703 - INFO -   - temp_RSI-EA-v2
+2025-04-25 02:03:03,703 - INFO - 
+Batch_0045:
+2025-04-25 02:03:03,703 - INFO -   - temp-RSI-Expert-v2.0
+2025-04-25 02:03:03,704 - INFO -   - temp-SampleTrailingstop
+2025-04-25 02:03:03,704 - INFO -   - temp_RSI-Expert-v2.0
+2025-04-25 02:03:03,704 - INFO -   - temp_SampleTrailingstop
+2025-04-25 02:03:03,704 - INFO - 
+Batch_0047:
+2025-04-25 02:03:03,704 - INFO -   - SimpleTrade
+2025-04-25 02:03:03,705 - INFO - 
+Batch_0048:
+2025-04-25 02:03:03,705 - INFO -   - SPYDER-EA-V-6.1-MT5-YoforexPremium
+2025-04-25 02:03:03,705 - INFO -   - Sound-Fx
+2025-04-25 02:03:03,705 - INFO -   - Stargogs-Ghost-Spike-Robot-EAMT5-YoForexPremium
+2025-04-25 02:03:03,706 - INFO -   - Stargogs-Pay-EA-MT5-YoforexPremium
+2025-04-25 02:03:03,706 - INFO -   - sound
+2025-04-25 02:03:03,706 - INFO -   - temp-SPYDER-EA-V-6.1-YoforexPremium
+2025-04-25 02:03:03,706 - INFO -   - temp-Sprd-20EA
+2025-04-25 02:03:03,706 - INFO -   - temp-Stargogs-Ghost-Spike-Robot-EA-YoForexPremium
+2025-04-25 02:03:03,706 - INFO -   - temp-Stargogs-Pay-EA-YoforexPremium
+2025-04-25 02:03:03,707 - INFO -   - temp_SPYDER-EA-V-6.1-YoforexPremium
+2025-04-25 02:03:03,707 - INFO -   - temp_Sprd-20EA
+2025-04-25 02:03:03,707 - INFO -   - temp_Stargogs-Ghost-Spike-Robot-EA-YoForexPremium
+2025-04-25 02:03:03,707 - INFO -   - temp_Stargogs-Pay-EA-YoforexPremium
+2025-04-25 02:03:03,708 - INFO - 
+Batch_0050:
+2025-04-25 02:03:03,708 - INFO -   - SUPER-TURBO-EAMT5-YoForexPremium
+2025-04-25 02:03:03,708 - INFO -   - Strategie-Boom-Crash-System-MT5-YoForexPremium
+2025-04-25 02:03:03,708 - INFO -   - TAILOR-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,708 - INFO -   - TAKASHI-SNIPEREA-MT5-yYoForexPremium
+2025-04-25 02:03:03,708 - INFO -   - temp-SUPER-TURBO-EA-YoForexPremium
+2025-04-25 02:03:03,708 - INFO -   - temp-Strategie-Boom-Crash-System-YoForexPremium
+2025-04-25 02:03:03,709 - INFO -   - temp-TAILOR-EA-YoForexPremium
+2025-04-25 02:03:03,709 - INFO -   - temp-TAKASHI-SNIPEREA-yYoForexPremium
+2025-04-25 02:03:03,709 - INFO -   - temp_SUPER-TURBO-EA-YoForexPremium
+2025-04-25 02:03:03,709 - INFO -   - temp_Strategie-Boom-Crash-System-YoForexPremium
+2025-04-25 02:03:03,709 - INFO -   - temp_TAILOR-EA-YoForexPremium
+2025-04-25 02:03:03,709 - INFO -   - temp_TAKASHI-SNIPEREA-yYoForexPremium
+2025-04-25 02:03:03,709 - INFO - 
+Batch_0051:
+2025-04-25 02:03:03,710 - INFO -   - Thomas-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,710 - INFO -   - Time-bomb-mt5-1
+2025-04-25 02:03:03,710 - INFO -   - temp-Thomas-EA-YoForexPremium
+2025-04-25 02:03:03,710 - INFO -   - temp-Thomas-EA-YoForexPremium-1
+2025-04-25 02:03:03,710 - INFO -   - temp-Time-bomb-1
+2025-04-25 02:03:03,710 - INFO -   - temp-Time-bomb-1-1
+2025-04-25 02:03:03,711 - INFO -   - temp_Thomas-EA-YoForexPremium
+2025-04-25 02:03:03,711 - INFO -   - temp_Time-bomb-1
+2025-04-25 02:03:03,711 - INFO - 
+Batch_0052:
+2025-04-25 02:03:03,711 - INFO -   - Titan-X-21.18-EA-MT5
+2025-04-25 02:03:03,711 - INFO -   - temp-Titan-X-21.18-EA
+2025-04-25 02:03:03,712 - INFO -   - temp-Titan-X-21.18-EA-1
+2025-04-25 02:03:03,712 - INFO -   - temp_Titan-X-21.18-EA
+2025-04-25 02:03:03,712 - INFO - 
+Batch_0053:
+2025-04-25 02:03:03,712 - INFO -   - Trade-Republic-1.75-MT5
+2025-04-25 02:03:03,712 - INFO -   - temp-Trade-Republic-1.75
+2025-04-25 02:03:03,713 - INFO -   - temp-Trade-Republic-1.75-1
+2025-04-25 02:03:03,713 - INFO -   - temp_Trade-Republic-1.75
+2025-04-25 02:03:03,713 - INFO - 
+Batch_0054:
+2025-04-25 02:03:03,713 - INFO -   - Tunnel-Vision-2024-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,713 - INFO -   - Two-PerBar
+2025-04-25 02:03:03,713 - INFO -   - temp-Tunnel-Vision-2024-EA-YoForexPremium
+2025-04-25 02:03:03,714 - INFO -   - temp-Tunnel-Vision-2024-EA-YoForexPremium-1
+2025-04-25 02:03:03,714 - INFO -   - temp_Tunnel-Vision-2024-EA-YoForexPremium
+2025-04-25 02:03:03,714 - INFO - 
+Batch_0055:
+2025-04-25 02:03:03,714 - INFO -   - Upgraded-EA-CRASH-1000MT5-YoforexPremium
+2025-04-25 02:03:03,714 - INFO -   - temp-Upgraded-EA-CRASH-1000-YoforexPremium
+2025-04-25 02:03:03,714 - INFO -   - temp-Upgraded-EA-CRASH-1000-YoforexPremium-1
+2025-04-25 02:03:03,715 - INFO -   - temp_Upgraded-EA-CRASH-1000-YoforexPremium
+2025-04-25 02:03:03,715 - INFO - 
+Batch_0057:
+2025-04-25 02:03:03,715 - INFO -   - NSK-Swing
+2025-04-25 02:03:03,715 - INFO -   - Simple-Trade
+2025-04-25 02:03:03,715 - INFO -   - Two-Perbar
+2025-04-25 02:03:03,715 - INFO -   - XKPRMST-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,716 - INFO -   - XT-EURUSD-EA-MT5-YoForexPremium
+2025-04-25 02:03:03,716 - INFO -   - Yumnaa-Classic-EA-MT5-Setfiles-YoForexPremium
+2025-04-25 02:03:03,716 - INFO -   - temp-XKPRMST-EA-YoForexPremium
+2025-04-25 02:03:03,716 - INFO -   - temp-XKPRMST-EA-YoForexPremium-1
+2025-04-25 02:03:03,716 - INFO -   - temp-XT-EURUSD-EA-YoForexPremium
+2025-04-25 02:03:03,716 - INFO -   - temp-XT-EURUSD-EA-YoForexPremium-1
+2025-04-25 02:03:03,717 - INFO -   - temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium
+2025-04-25 02:03:03,717 - INFO -   - temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium-1
+2025-04-25 02:03:03,717 - INFO -   - temp_XKPRMST-EA-YoForexPremium
+2025-04-25 02:03:03,717 - INFO -   - temp_XT-EURUSD-EA-YoForexPremium
+2025-04-25 02:03:03,717 - INFO -   - temp_Yumnaa-Classic-EA-Setfiles-YoForexPremium
+2025-04-25 02:03:03,718 - INFO -   - wagonKing1-EA
+2025-04-25 02:03:03,718 - INFO - 
+Total EAs missing standard set files: 263
+2025-04-25 02:12:06,615 - INFO - === Missing Set Files Analysis Report ===
+2025-04-25 02:12:06,615 - INFO - 
+Batch_0002:
+2025-04-25 02:12:06,616 - INFO -   - 3sma_
+2025-04-25 02:12:06,616 - INFO -   - A
+2025-04-25 02:12:06,616 - INFO -   - AC-ACADEMY-US30
+2025-04-25 02:12:06,617 - INFO -   - Accumulator
+2025-04-25 02:12:06,617 - INFO -   - temp_3sma-1
+2025-04-25 02:12:06,617 - INFO -   - temp_temp-3sma-1
+2025-04-25 02:12:06,617 - INFO -   - temp_temp-temp-3sma-1
+2025-04-25 02:12:06,618 - INFO - 
+Batch_0003:
+2025-04-25 02:12:06,618 - INFO -   - AI-GOLD
+2025-04-25 02:12:06,618 - INFO -   - AI-TUNE
+2025-04-25 02:12:06,619 - INFO -   - AI-TUNE-FIXED-YFP
+2025-04-25 02:12:06,619 - INFO -   - AI-Trader
+2025-04-25 02:12:06,619 - INFO -   - AI-Tune-EAMT5-YoforexPremium
+2025-04-25 02:12:06,620 - INFO -   - temp-AI-Tune-EA-YoforexPremium
+2025-04-25 02:12:06,620 - INFO -   - temp-AK-47-Scalper-EA
+2025-04-25 02:12:06,621 - INFO -   - temp_AI-Tune-EA-YoforexPremium
+2025-04-25 02:12:06,621 - INFO -   - temp_AK-47-Scalper-EA
+2025-04-25 02:12:06,621 - INFO - 
+Batch_0004:
+2025-04-25 02:12:06,622 - INFO -   - AK-47-Scalper-EAMT4-with-sourcecode-YoforexPremium-MT5
+2025-04-25 02:12:06,622 - INFO -   - ALCHEMIST-YoforexPremium
+2025-04-25 02:12:06,622 - INFO -   - Alpha-Zero-AI-RobotMT5-YoForexPremium
+2025-04-25 02:12:06,622 - INFO -   - temp-AK-47-Scalper-EA-with-sourcecode-YoforexPremium
+2025-04-25 02:12:06,623 - INFO -   - temp-AK-47-Scalper-EA-yoforexPremium
+2025-04-25 02:12:06,623 - INFO -   - temp-Alpha-Zero-AI-Robot-YoForexPremium
+2025-04-25 02:12:06,623 - INFO -   - temp_AK-47-Scalper-EA-with-sourcecode-YoforexPremium
+2025-04-25 02:12:06,624 - INFO -   - temp_AK-47-Scalper-EA-yoforexPremium
+2025-04-25 02:12:06,624 - INFO -   - temp_Alpha-Zero-AI-Robot-YoForexPremium
+2025-04-25 02:12:06,624 - INFO - 
+Batch_0005:
+2025-04-25 02:12:06,624 - INFO -   - ATR-SCLAPER
+2025-04-25 02:12:06,624 - INFO - 
+Batch_0006:
+2025-04-25 02:12:06,625 - INFO -   - ATR-SCLAPER-EA-MT5-YoforexPremium
+2025-04-25 02:12:06,625 - INFO -   - backtrader-master
+2025-04-25 02:12:06,625 - INFO -   - temp-ATR-SCLAPER-EA-YoforexPremium
+2025-04-25 02:12:06,626 - INFO -   - temp_ATR-SCLAPER-EA-YoforexPremium
+2025-04-25 02:12:06,626 - INFO - 
+Batch_0007:
+2025-04-25 02:12:06,626 - INFO -   - bb-automated
+2025-04-25 02:12:06,627 - INFO -   - temp-BB-stops
+2025-04-25 02:12:06,627 - INFO -   - temp_BB-stops
+2025-04-25 02:12:06,627 - INFO - 
+Batch_0008:
+2025-04-25 02:12:06,627 - INFO -   - BEAR-row-full-EA
+2025-04-25 02:12:06,628 - INFO -   - BIG-RECOVERY-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,628 - INFO -   - BORN4PIPS-EA-1-YoForexPremium
+2025-04-25 02:12:06,628 - INFO -   - BORN4PIPS-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,628 - INFO -   - temp-BIG-RECOVERY-EA-YoForexPremium
+2025-04-25 02:12:06,629 - INFO -   - temp-BORN4PIPS-EA-YoForexPremium
+2025-04-25 02:12:06,629 - INFO -   - temp_BIG-RECOVERY-EA-YoForexPremium
+2025-04-25 02:12:06,629 - INFO -   - temp_BORN4PIPS-EA-YoForexPremium
+2025-04-25 02:12:06,629 - INFO - 
+Batch_0009:
+2025-04-25 02:12:06,630 - INFO -   - Brazilian-EA-MT5-YoforexPremium
+2025-04-25 02:12:06,630 - INFO -   - temp-Brazilian-EA-YoforexPremium
+2025-04-25 02:12:06,630 - INFO -   - temp_Brazilian-EA-YoforexPremium
+2025-04-25 02:12:06,630 - INFO - 
+Batch_0010:
+2025-04-25 02:12:06,630 - INFO -   - BTA-Optimal-Trade-Zone-EA-v.1.0-MT5-YoForexPremium
+2025-04-25 02:12:06,631 - INFO -   - BTA-Sniper-Entry-v.1.0-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,631 - INFO -   - BULL-row-full-EA
+2025-04-25 02:12:06,631 - INFO -   - temp-BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium
+2025-04-25 02:12:06,631 - INFO -   - temp-BTA-Sniper-Entry-v.1.0-EA-YoForexPremium
+2025-04-25 02:12:06,632 - INFO -   - temp-BykovTrend-EA-v3
+2025-04-25 02:12:06,632 - INFO -   - temp_BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium
+2025-04-25 02:12:06,632 - INFO -   - temp_BTA-Sniper-Entry-v.1.0-EA-YoForexPremium
+2025-04-25 02:12:06,633 - INFO -   - temp_BykovTrend-EA-v3
+2025-04-25 02:12:06,633 - INFO - 
+Batch_0012:
+2025-04-25 02:12:06,634 - INFO -   - Daily-Candle-ScalperEA-MT5-YoForexPremium
+2025-04-25 02:12:06,634 - INFO -   - Daily-Candle-ScalperEA-MT5-YoForexPremium-1
+2025-04-25 02:12:06,635 - INFO -   - Dark-Mimas-MT5
+2025-04-25 02:12:06,635 - INFO -   - temp-Daily-Candle-ScalperEA-YoForexPremium
+2025-04-25 02:12:06,636 - INFO -   - temp-Daily-Candle-ScalperEA-YoForexPremium-1
+2025-04-25 02:12:06,636 - INFO -   - temp-Dark-Mimas
+2025-04-25 02:12:06,636 - INFO -   - temp_Daily-Candle-ScalperEA-YoForexPremium
+2025-04-25 02:12:06,637 - INFO -   - temp_Daily-Candle-ScalperEA-YoForexPremium-1
+2025-04-25 02:12:06,637 - INFO -   - temp_Dark-Mimas
+2025-04-25 02:12:06,638 - INFO - 
+Batch_0014:
+2025-04-25 02:12:06,638 - INFO -   - Divergence-EA-BB
+2025-04-25 02:12:06,638 - INFO -   - Divergence-EA-pip-sl-tp
+2025-04-25 02:12:06,639 - INFO - 
+Batch_0015:
+2025-04-25 02:12:06,639 - INFO -   - temp-Driver-EA
+2025-04-25 02:12:06,639 - INFO -   - temp_Driver-EA
+2025-04-25 02:12:06,640 - INFO - 
+Batch_0016:
+2025-04-25 02:12:06,640 - INFO -   - EA-Gold-Stuff-MT5-YoForexPremium
+2025-04-25 02:12:06,641 - INFO -   - Elevator-Robot-PMT5-YoForexPremium
+2025-04-25 02:12:06,641 - INFO -   - temp-EA-Gold-Stuff-YoForexPremium
+2025-04-25 02:12:06,642 - INFO -   - temp-Elevator-Robot-P-YoForexPremium
+2025-04-25 02:12:06,642 - INFO -   - temp_EA-Gold-Stuff-YoForexPremium
+2025-04-25 02:12:06,643 - INFO -   - temp_Elevator-Robot-P-YoForexPremium
+2025-04-25 02:12:06,643 - INFO - 
+Batch_0017:
+2025-04-25 02:12:06,643 - INFO -   - EMA_WMA v2
+2025-04-25 02:12:06,644 - INFO -   - EURUSDH1
+2025-04-25 02:12:06,644 - INFO -   - Euronis-Scalper-EA-MT5-With-DLL-YoForexPremium
+2025-04-25 02:12:06,645 - INFO -   - temp-EMA-WMA-v2
+2025-04-25 02:12:06,645 - INFO -   - temp-Euronis-Scalper-EA-With-DLL-YoForexPremium
+2025-04-25 02:12:06,645 - INFO -   - temp_EMA-WMA-v2
+2025-04-25 02:12:06,646 - INFO -   - temp_Euronis-Scalper-EA-With-DLL-YoForexPremium
+2025-04-25 02:12:06,646 - INFO - 
+Batch_0018:
+2025-04-25 02:12:06,647 - INFO -   - FI-TRADING-ROBOTMT5-yoforexprenium
+2025-04-25 02:12:06,647 - INFO -   - Fi-Trading-Robot-1.0
+2025-04-25 02:12:06,648 - INFO -   - Fi-Trading-Robot-YoForexPremium
+2025-04-25 02:12:06,648 - INFO -   - temp-FI-TRADING-ROBOT-yoforexprenium
+2025-04-25 02:12:06,648 - INFO -   - temp_FI-TRADING-ROBOT-yoforexprenium
+2025-04-25 02:12:06,648 - INFO - 
+Batch_0019:
+2025-04-25 02:12:06,649 - INFO -   - temp-fratal-EA
+2025-04-25 02:12:06,649 - INFO -   - temp_fratal-EA
+2025-04-25 02:12:06,649 - INFO - 
+Batch_0020:
+2025-04-25 02:12:06,650 - INFO -   - FT-Sniper-GOLD-MT5-4
+2025-04-25 02:12:06,650 - INFO -   - Galaxy-5-1.0-MT5
+2025-04-25 02:12:06,650 - INFO -   - temp-FT-Sniper-GOLD-4
+2025-04-25 02:12:06,651 - INFO -   - temp-Galaxy-5-1.0
+2025-04-25 02:12:06,651 - INFO -   - temp_FT-Sniper-GOLD-4
+2025-04-25 02:12:06,652 - INFO -   - temp_Galaxy-5-1.0
+2025-04-25 02:12:06,652 - INFO - 
+Batch_0021:
+2025-04-25 02:12:06,652 - INFO -   - Godzillar-EABanker-MT5-FX-XRACKED
+2025-04-25 02:12:06,653 - INFO -   - GoldHero-FX-Cracked
+2025-04-25 02:12:06,653 - INFO -   - temp-Godzillar-EABanker-FX-XRACKED
+2025-04-25 02:12:06,654 - INFO -   - temp_Godzillar-EABanker-FX-XRACKED
+2025-04-25 02:12:06,654 - INFO - 
+Batch_0022:
+2025-04-25 02:12:06,654 - INFO -   - heiken-ashi-engulf-ea-buy-mt5
+2025-04-25 02:12:06,655 - INFO -   - heiken-ashi-engulf-sell-ea-mt5
+2025-04-25 02:12:06,655 - INFO -   - temp-heiken-ashi-engulf-ea-buy
+2025-04-25 02:12:06,656 - INFO -   - temp-heiken-ashi-engulf-sell-ea
+2025-04-25 02:12:06,656 - INFO -   - temp_heiken-ashi-engulf-ea-buy
+2025-04-25 02:12:06,656 - INFO -   - temp_heiken-ashi-engulf-sell-ea
+2025-04-25 02:12:06,657 - INFO - 
+Batch_0023:
+2025-04-25 02:12:06,657 - INFO -   - i-impulsesystem
+2025-04-25 02:12:06,657 - INFO - 
+Batch_0024:
+2025-04-25 02:12:06,659 - INFO -   - temp-Ichimoku-Dashboard
+2025-04-25 02:12:06,659 - INFO -   - temp-Ichimoku-Scanner-1
+2025-04-25 02:12:06,660 - INFO -   - temp_Ichimoku-Dashboard
+2025-04-25 02:12:06,660 - INFO -   - temp_Ichimoku-Scanner-1
+2025-04-25 02:12:06,661 - INFO - 
+Batch_0026:
+2025-04-25 02:12:06,662 - INFO -   - JS-MA-SAR-Trades-EA-MT5-YoforexPremium
+2025-04-25 02:12:06,663 - INFO -   - JS-MA-SAR-Trades-Yoforexpremium
+2025-04-25 02:12:06,664 - INFO -   - Juggernaut
+2025-04-25 02:12:06,664 - INFO -   - temp-JS-MA-SAR-Trades-EA-YoforexPremium
+2025-04-25 02:12:06,664 - INFO -   - temp_JS-MA-SAR-Trades-EA-YoforexPremium
+2025-04-25 02:12:06,665 - INFO - 
+Batch_0027:
+2025-04-25 02:12:06,665 - INFO -   - temp-KueFx-Arrows-EA-v1.10
+2025-04-25 02:12:06,666 - INFO -   - temp-KueFx-Baseline-EA-v1.10
+2025-04-25 02:12:06,666 - INFO -   - temp_KueFx-Arrows-EA-v1.10
+2025-04-25 02:12:06,666 - INFO -   - temp_KueFx-Baseline-EA-v1.10
+2025-04-25 02:12:06,667 - INFO - 
+Batch_0029:
+2025-04-25 02:12:06,668 - INFO -   - temp-LazyBot
+2025-04-25 02:12:06,668 - INFO -   - temp_LazyBot
+2025-04-25 02:12:06,669 - INFO - 
+Batch_0030:
+2025-04-25 02:12:06,669 - INFO -   - M.A-break-mt5-buy
+2025-04-25 02:12:06,669 - INFO -   - M.A-break-mt5-sell
+2025-04-25 02:12:06,670 - INFO -   - MA MACD Position averaging v2
+2025-04-25 02:12:06,670 - INFO -   - temp-M.A-break-buy
+2025-04-25 02:12:06,671 - INFO -   - temp-M.A-break-sell
+2025-04-25 02:12:06,671 - INFO -   - temp-MA-MACD-Position-averaging-v2
+2025-04-25 02:12:06,671 - INFO -   - temp_M.A-break-buy
+2025-04-25 02:12:06,672 - INFO -   - temp_M.A-break-sell
+2025-04-25 02:12:06,672 - INFO -   - temp_MA-MACD-Position-averaging-v2
+2025-04-25 02:12:06,672 - INFO - 
+Batch_0031:
+2025-04-25 02:12:06,673 - INFO -   - MACD-wonder
+2025-04-25 02:12:06,673 - INFO -   - Macd-diver-and-rsi-mt5
+2025-04-25 02:12:06,673 - INFO -   - temp-Macd-diver-and-rsi
+2025-04-25 02:12:06,674 - INFO -   - temp_Macd-diver-and-rsi
+2025-04-25 02:12:06,674 - INFO - 
+Batch_0032:
+2025-04-25 02:12:06,675 - INFO -   - MACD-wonder-YoforexPremium
+2025-04-25 02:12:06,675 - INFO -   - MagneticBrake
+2025-04-25 02:12:06,675 - INFO -   - MagneticStopExpert
+2025-04-25 02:12:06,676 - INFO -   - temp-Mariner
+2025-04-25 02:12:06,676 - INFO -   - temp_Mariner
+2025-04-25 02:12:06,676 - INFO - 
+Batch_0033:
+2025-04-25 02:12:06,676 - INFO -   - temp-Marubozu-EA-v1.10
+2025-04-25 02:12:06,677 - INFO -   - temp_Marubozu-EA-v1.10
+2025-04-25 02:12:06,677 - INFO - 
+Batch_0034:
+2025-04-25 02:12:06,677 - INFO -   - MelBarTTake325-T-5.5Y-NZD-USD.ex5
+2025-04-25 02:12:06,678 - INFO -   - MelBarTTake325-T-5.5Y-NZD-USD.mq5
+2025-04-25 02:12:06,678 - INFO -   - Minning-GoldMT5-Yoforexpremium
+2025-04-25 02:12:06,678 - INFO -   - temp-MA-Crossover-20EA
+2025-04-25 02:12:06,679 - INFO -   - temp-Ma-Crosses
+2025-04-25 02:12:06,679 - INFO -   - temp-Minning-Gold-Yoforexpremium
+2025-04-25 02:12:06,679 - INFO -   - temp_MA-Crossover-20EA
+2025-04-25 02:12:06,680 - INFO -   - temp_Ma-Crosses
+2025-04-25 02:12:06,680 - INFO -   - temp_Minning-Gold-Yoforexpremium
+2025-04-25 02:12:06,681 - INFO - 
+Batch_0036:
+2025-04-25 02:12:06,681 - INFO -   - temp-5
+2025-04-25 02:12:06,682 - INFO -   - temp-CoupleHedgeEA
+2025-04-25 02:12:06,684 - INFO -   - temp-RingSystemEA
+2025-04-25 02:12:06,685 - INFO -   - temp-williams-directional-index-EA
+2025-04-25 02:12:06,686 - INFO -   - temp_-CoupleHedgeEA
+2025-04-25 02:12:06,686 - INFO -   - temp_-RingSystemEA
+2025-04-25 02:12:06,687 - INFO -   - temp_-williams-directional-index-EA
+2025-04-25 02:12:06,687 - INFO -   - temp_5
+2025-04-25 02:12:06,688 - INFO - 
+Batch_0037:
+2025-04-25 02:12:06,689 - INFO -   - Multi-Trader-BC-Robot
+2025-04-25 02:12:06,689 - INFO -   - N Candles v2
+2025-04-25 02:12:06,690 - INFO -   - N Candles v3
+2025-04-25 02:12:06,690 - INFO -   - N Candles v4
+2025-04-25 02:12:06,691 - INFO -   - N Candles v5
+2025-04-25 02:12:06,691 - INFO -   - temp-N-Candles-v2
+2025-04-25 02:12:06,692 - INFO -   - temp-N-Candles-v3
+2025-04-25 02:12:06,692 - INFO -   - temp-N-Candles-v4
+2025-04-25 02:12:06,693 - INFO -   - temp-N-Candles-v5
+2025-04-25 02:12:06,693 - INFO -   - temp-N-Candles-v7
+2025-04-25 02:12:06,694 - INFO -   - temp_N-Candles-v2
+2025-04-25 02:12:06,694 - INFO -   - temp_N-Candles-v3
+2025-04-25 02:12:06,695 - INFO -   - temp_N-Candles-v4
+2025-04-25 02:12:06,696 - INFO -   - temp_N-Candles-v5
+2025-04-25 02:12:06,697 - INFO -   - temp_N-Candles-v7
+2025-04-25 02:12:06,697 - INFO - 
+Batch_0038:
+2025-04-25 02:12:06,698 - INFO -   - NSK-SWING-EA-MT5-Yoforexpremium
+2025-04-25 02:12:06,699 - INFO -   - temp-NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:12:06,700 - INFO -   - temp_NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:12:06,700 - INFO - 
+Batch_0039:
+2025-04-25 02:12:06,701 - INFO -   - NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:12:06,701 - INFO -   - optimization-result
+2025-04-25 02:12:06,701 - INFO - 
+Batch_0040:
+2025-04-25 02:12:06,702 - INFO -   - Par-20sar-20mt5-201
+2025-04-25 02:12:06,702 - INFO -   - temp-Par-20sar-20-201
+2025-04-25 02:12:06,703 - INFO -   - temp_Par-20sar-20-201
+2025-04-25 02:12:06,703 - INFO - 
+Batch_0041:
+2025-04-25 02:12:06,704 - INFO -   - POVERTY-KILLER-GHOSTMT5-YoForexPremium
+2025-04-25 02:12:06,704 - INFO -   - POW-BANKER-EA-MT5-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:12:06,704 - INFO -   - temp-POVERTY-KILLER-GHOST-YoForexPremium
+2025-04-25 02:12:06,705 - INFO -   - temp-POW-BANKER-EA-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:12:06,705 - INFO -   - temp_POVERTY-KILLER-GHOST-YoForexPremium
+2025-04-25 02:12:06,706 - INFO -   - temp_POW-BANKER-EA-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:12:06,706 - INFO - 
+Batch_0042:
+2025-04-25 02:12:06,706 - INFO -   - PrizmaL-Pro-EAMT5-YoforexPremium
+2025-04-25 02:12:06,707 - INFO -   - temp-PrizmaL-Pro-EA-YoforexPremium
+2025-04-25 02:12:06,707 - INFO -   - temp_PrizmaL-Pro-EA-YoforexPremium
+2025-04-25 02:12:06,708 - INFO - 
+Batch_0043:
+2025-04-25 02:12:06,708 - INFO -   - RedDragon-v.1.03
+2025-04-25 02:12:06,709 - INFO - 
+Batch_0044:
+2025-04-25 02:12:06,709 - INFO -   - RSI EA v2
+2025-04-25 02:12:06,709 - INFO -   - RSI-Bollinger-Bands-EA
+2025-04-25 02:12:06,710 - INFO -   - temp-RSI-EA-v2
+2025-04-25 02:12:06,710 - INFO -   - temp_RSI-EA-v2
+2025-04-25 02:12:06,711 - INFO - 
+Batch_0045:
+2025-04-25 02:12:06,711 - INFO -   - temp-RSI-Expert-v2.0
+2025-04-25 02:12:06,711 - INFO -   - temp-SampleTrailingstop
+2025-04-25 02:12:06,712 - INFO -   - temp_RSI-Expert-v2.0
+2025-04-25 02:12:06,712 - INFO -   - temp_SampleTrailingstop
+2025-04-25 02:12:06,712 - INFO - 
+Batch_0047:
+2025-04-25 02:12:06,713 - INFO -   - SimpleTrade
+2025-04-25 02:12:06,713 - INFO - 
+Batch_0048:
+2025-04-25 02:12:06,714 - INFO -   - SPYDER-EA-V-6.1-MT5-YoforexPremium
+2025-04-25 02:12:06,714 - INFO -   - Sound-Fx
+2025-04-25 02:12:06,714 - INFO -   - Stargogs-Ghost-Spike-Robot-EAMT5-YoForexPremium
+2025-04-25 02:12:06,714 - INFO -   - Stargogs-Pay-EA-MT5-YoforexPremium
+2025-04-25 02:12:06,715 - INFO -   - sound
+2025-04-25 02:12:06,715 - INFO -   - temp-SPYDER-EA-V-6.1-YoforexPremium
+2025-04-25 02:12:06,715 - INFO -   - temp-Sprd-20EA
+2025-04-25 02:12:06,716 - INFO -   - temp-Stargogs-Ghost-Spike-Robot-EA-YoForexPremium
+2025-04-25 02:12:06,716 - INFO -   - temp-Stargogs-Pay-EA-YoforexPremium
+2025-04-25 02:12:06,717 - INFO -   - temp_SPYDER-EA-V-6.1-YoforexPremium
+2025-04-25 02:12:06,717 - INFO -   - temp_Sprd-20EA
+2025-04-25 02:12:06,717 - INFO -   - temp_Stargogs-Ghost-Spike-Robot-EA-YoForexPremium
+2025-04-25 02:12:06,718 - INFO -   - temp_Stargogs-Pay-EA-YoforexPremium
+2025-04-25 02:12:06,718 - INFO - 
+Batch_0050:
+2025-04-25 02:12:06,719 - INFO -   - SUPER-TURBO-EAMT5-YoForexPremium
+2025-04-25 02:12:06,719 - INFO -   - Strategie-Boom-Crash-System-MT5-YoForexPremium
+2025-04-25 02:12:06,720 - INFO -   - TAILOR-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,720 - INFO -   - TAKASHI-SNIPEREA-MT5-yYoForexPremium
+2025-04-25 02:12:06,720 - INFO -   - temp-SUPER-TURBO-EA-YoForexPremium
+2025-04-25 02:12:06,721 - INFO -   - temp-Strategie-Boom-Crash-System-YoForexPremium
+2025-04-25 02:12:06,721 - INFO -   - temp-TAILOR-EA-YoForexPremium
+2025-04-25 02:12:06,721 - INFO -   - temp-TAKASHI-SNIPEREA-yYoForexPremium
+2025-04-25 02:12:06,722 - INFO -   - temp_SUPER-TURBO-EA-YoForexPremium
+2025-04-25 02:12:06,723 - INFO -   - temp_Strategie-Boom-Crash-System-YoForexPremium
+2025-04-25 02:12:06,723 - INFO -   - temp_TAILOR-EA-YoForexPremium
+2025-04-25 02:12:06,723 - INFO -   - temp_TAKASHI-SNIPEREA-yYoForexPremium
+2025-04-25 02:12:06,724 - INFO - 
+Batch_0051:
+2025-04-25 02:12:06,724 - INFO -   - Thomas-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,724 - INFO -   - Time-bomb-mt5-1
+2025-04-25 02:12:06,725 - INFO -   - temp-Thomas-EA-YoForexPremium
+2025-04-25 02:12:06,725 - INFO -   - temp-Thomas-EA-YoForexPremium-1
+2025-04-25 02:12:06,725 - INFO -   - temp-Time-bomb-1
+2025-04-25 02:12:06,725 - INFO -   - temp-Time-bomb-1-1
+2025-04-25 02:12:06,726 - INFO -   - temp_Thomas-EA-YoForexPremium
+2025-04-25 02:12:06,726 - INFO -   - temp_Time-bomb-1
+2025-04-25 02:12:06,726 - INFO - 
+Batch_0052:
+2025-04-25 02:12:06,726 - INFO -   - Titan-X-21.18-EA-MT5
+2025-04-25 02:12:06,727 - INFO -   - temp-Titan-X-21.18-EA
+2025-04-25 02:12:06,727 - INFO -   - temp-Titan-X-21.18-EA-1
+2025-04-25 02:12:06,727 - INFO -   - temp_Titan-X-21.18-EA
+2025-04-25 02:12:06,728 - INFO - 
+Batch_0053:
+2025-04-25 02:12:06,728 - INFO -   - Trade-Republic-1.75-MT5
+2025-04-25 02:12:06,728 - INFO -   - temp-Trade-Republic-1.75
+2025-04-25 02:12:06,729 - INFO -   - temp-Trade-Republic-1.75-1
+2025-04-25 02:12:06,729 - INFO -   - temp_Trade-Republic-1.75
+2025-04-25 02:12:06,729 - INFO - 
+Batch_0054:
+2025-04-25 02:12:06,730 - INFO -   - Tunnel-Vision-2024-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,730 - INFO -   - Two-PerBar
+2025-04-25 02:12:06,731 - INFO -   - temp-Tunnel-Vision-2024-EA-YoForexPremium
+2025-04-25 02:12:06,731 - INFO -   - temp-Tunnel-Vision-2024-EA-YoForexPremium-1
+2025-04-25 02:12:06,732 - INFO -   - temp_Tunnel-Vision-2024-EA-YoForexPremium
+2025-04-25 02:12:06,732 - INFO - 
+Batch_0055:
+2025-04-25 02:12:06,733 - INFO -   - Upgraded-EA-CRASH-1000MT5-YoforexPremium
+2025-04-25 02:12:06,733 - INFO -   - temp-Upgraded-EA-CRASH-1000-YoforexPremium
+2025-04-25 02:12:06,733 - INFO -   - temp-Upgraded-EA-CRASH-1000-YoforexPremium-1
+2025-04-25 02:12:06,734 - INFO -   - temp_Upgraded-EA-CRASH-1000-YoforexPremium
+2025-04-25 02:12:06,734 - INFO - 
+Batch_0057:
+2025-04-25 02:12:06,734 - INFO -   - NSK-Swing
+2025-04-25 02:12:06,735 - INFO -   - Simple-Trade
+2025-04-25 02:12:06,735 - INFO -   - Two-Perbar
+2025-04-25 02:12:06,735 - INFO -   - XKPRMST-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,736 - INFO -   - XT-EURUSD-EA-MT5-YoForexPremium
+2025-04-25 02:12:06,736 - INFO -   - Yumnaa-Classic-EA-MT5-Setfiles-YoForexPremium
+2025-04-25 02:12:06,736 - INFO -   - temp-XKPRMST-EA-YoForexPremium
+2025-04-25 02:12:06,737 - INFO -   - temp-XKPRMST-EA-YoForexPremium-1
+2025-04-25 02:12:06,737 - INFO -   - temp-XT-EURUSD-EA-YoForexPremium
+2025-04-25 02:12:06,738 - INFO -   - temp-XT-EURUSD-EA-YoForexPremium-1
+2025-04-25 02:12:06,738 - INFO -   - temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium
+2025-04-25 02:12:06,739 - INFO -   - temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium-1
+2025-04-25 02:12:06,739 - INFO -   - temp_XKPRMST-EA-YoForexPremium
+2025-04-25 02:12:06,739 - INFO -   - temp_XT-EURUSD-EA-YoForexPremium
+2025-04-25 02:12:06,740 - INFO -   - temp_Yumnaa-Classic-EA-Setfiles-YoForexPremium
+2025-04-25 02:12:06,740 - INFO -   - wagonKing1-EA
+2025-04-25 02:12:06,741 - INFO - 
+Total EAs missing standard set files: 263
+2025-04-25 02:12:21,646 - INFO - === Missing Set Files Analysis Report ===
+2025-04-25 02:12:21,647 - INFO - 
+Batch_0002:
+2025-04-25 02:12:21,648 - INFO -   - 3sma_
+2025-04-25 02:12:21,648 - INFO -   - A
+2025-04-25 02:12:21,648 - INFO -   - AC-ACADEMY-US30
+2025-04-25 02:12:21,649 - INFO -   - Accumulator
+2025-04-25 02:12:21,649 - INFO -   - temp_3sma-1
+2025-04-25 02:12:21,650 - INFO -   - temp_temp-3sma-1
+2025-04-25 02:12:21,651 - INFO -   - temp_temp-temp-3sma-1
+2025-04-25 02:12:21,651 - INFO - 
+Batch_0003:
+2025-04-25 02:12:21,652 - INFO -   - AI-GOLD
+2025-04-25 02:12:21,652 - INFO -   - AI-TUNE
+2025-04-25 02:12:21,653 - INFO -   - AI-TUNE-FIXED-YFP
+2025-04-25 02:12:21,653 - INFO -   - AI-Trader
+2025-04-25 02:12:21,653 - INFO -   - AI-Tune-EAMT5-YoforexPremium
+2025-04-25 02:12:21,654 - INFO -   - temp-AI-Tune-EA-YoforexPremium
+2025-04-25 02:12:21,654 - INFO -   - temp-AK-47-Scalper-EA
+2025-04-25 02:12:21,655 - INFO -   - temp_AI-Tune-EA-YoforexPremium
+2025-04-25 02:12:21,655 - INFO -   - temp_AK-47-Scalper-EA
+2025-04-25 02:12:21,655 - INFO - 
+Batch_0004:
+2025-04-25 02:12:21,656 - INFO -   - AK-47-Scalper-EAMT4-with-sourcecode-YoforexPremium-MT5
+2025-04-25 02:12:21,656 - INFO -   - ALCHEMIST-YoforexPremium
+2025-04-25 02:12:21,657 - INFO -   - Alpha-Zero-AI-RobotMT5-YoForexPremium
+2025-04-25 02:12:21,657 - INFO -   - temp-AK-47-Scalper-EA-with-sourcecode-YoforexPremium
+2025-04-25 02:12:21,658 - INFO -   - temp-AK-47-Scalper-EA-yoforexPremium
+2025-04-25 02:12:21,659 - INFO -   - temp-Alpha-Zero-AI-Robot-YoForexPremium
+2025-04-25 02:12:21,659 - INFO -   - temp_AK-47-Scalper-EA-with-sourcecode-YoforexPremium
+2025-04-25 02:12:21,659 - INFO -   - temp_AK-47-Scalper-EA-yoforexPremium
+2025-04-25 02:12:21,660 - INFO -   - temp_Alpha-Zero-AI-Robot-YoForexPremium
+2025-04-25 02:12:21,660 - INFO - 
+Batch_0005:
+2025-04-25 02:12:21,661 - INFO -   - ATR-SCLAPER
+2025-04-25 02:12:21,661 - INFO - 
+Batch_0006:
+2025-04-25 02:12:21,662 - INFO -   - ATR-SCLAPER-EA-MT5-YoforexPremium
+2025-04-25 02:12:21,662 - INFO -   - backtrader-master
+2025-04-25 02:12:21,663 - INFO -   - temp-ATR-SCLAPER-EA-YoforexPremium
+2025-04-25 02:12:21,663 - INFO -   - temp_ATR-SCLAPER-EA-YoforexPremium
+2025-04-25 02:12:21,664 - INFO - 
+Batch_0007:
+2025-04-25 02:12:21,664 - INFO -   - bb-automated
+2025-04-25 02:12:21,665 - INFO -   - temp-BB-stops
+2025-04-25 02:12:21,665 - INFO -   - temp_BB-stops
+2025-04-25 02:12:21,666 - INFO - 
+Batch_0008:
+2025-04-25 02:12:21,667 - INFO -   - BEAR-row-full-EA
+2025-04-25 02:12:21,667 - INFO -   - BIG-RECOVERY-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,668 - INFO -   - BORN4PIPS-EA-1-YoForexPremium
+2025-04-25 02:12:21,668 - INFO -   - BORN4PIPS-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,668 - INFO -   - temp-BIG-RECOVERY-EA-YoForexPremium
+2025-04-25 02:12:21,669 - INFO -   - temp-BORN4PIPS-EA-YoForexPremium
+2025-04-25 02:12:21,669 - INFO -   - temp_BIG-RECOVERY-EA-YoForexPremium
+2025-04-25 02:12:21,670 - INFO -   - temp_BORN4PIPS-EA-YoForexPremium
+2025-04-25 02:12:21,670 - INFO - 
+Batch_0009:
+2025-04-25 02:12:21,670 - INFO -   - Brazilian-EA-MT5-YoforexPremium
+2025-04-25 02:12:21,671 - INFO -   - temp-Brazilian-EA-YoforexPremium
+2025-04-25 02:12:21,672 - INFO -   - temp_Brazilian-EA-YoforexPremium
+2025-04-25 02:12:21,672 - INFO - 
+Batch_0010:
+2025-04-25 02:12:21,673 - INFO -   - BTA-Optimal-Trade-Zone-EA-v.1.0-MT5-YoForexPremium
+2025-04-25 02:12:21,674 - INFO -   - BTA-Sniper-Entry-v.1.0-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,675 - INFO -   - BULL-row-full-EA
+2025-04-25 02:12:21,676 - INFO -   - temp-BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium
+2025-04-25 02:12:21,676 - INFO -   - temp-BTA-Sniper-Entry-v.1.0-EA-YoForexPremium
+2025-04-25 02:12:21,677 - INFO -   - temp-BykovTrend-EA-v3
+2025-04-25 02:12:21,677 - INFO -   - temp_BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium
+2025-04-25 02:12:21,678 - INFO -   - temp_BTA-Sniper-Entry-v.1.0-EA-YoForexPremium
+2025-04-25 02:12:21,679 - INFO -   - temp_BykovTrend-EA-v3
+2025-04-25 02:12:21,679 - INFO - 
+Batch_0012:
+2025-04-25 02:12:21,680 - INFO -   - Daily-Candle-ScalperEA-MT5-YoForexPremium
+2025-04-25 02:12:21,680 - INFO -   - Daily-Candle-ScalperEA-MT5-YoForexPremium-1
+2025-04-25 02:12:21,681 - INFO -   - Dark-Mimas-MT5
+2025-04-25 02:12:21,682 - INFO -   - temp-Daily-Candle-ScalperEA-YoForexPremium
+2025-04-25 02:12:21,683 - INFO -   - temp-Daily-Candle-ScalperEA-YoForexPremium-1
+2025-04-25 02:12:21,684 - INFO -   - temp-Dark-Mimas
+2025-04-25 02:12:21,684 - INFO -   - temp_Daily-Candle-ScalperEA-YoForexPremium
+2025-04-25 02:12:21,687 - INFO -   - temp_Daily-Candle-ScalperEA-YoForexPremium-1
+2025-04-25 02:12:21,688 - INFO -   - temp_Dark-Mimas
+2025-04-25 02:12:21,690 - INFO - 
+Batch_0014:
+2025-04-25 02:12:21,693 - INFO -   - Divergence-EA-BB
+2025-04-25 02:12:21,694 - INFO -   - Divergence-EA-pip-sl-tp
+2025-04-25 02:12:21,694 - INFO - 
+Batch_0015:
+2025-04-25 02:12:21,696 - INFO -   - temp-Driver-EA
+2025-04-25 02:12:21,697 - INFO -   - temp_Driver-EA
+2025-04-25 02:12:21,697 - INFO - 
+Batch_0016:
+2025-04-25 02:12:21,698 - INFO -   - EA-Gold-Stuff-MT5-YoForexPremium
+2025-04-25 02:12:21,698 - INFO -   - Elevator-Robot-PMT5-YoForexPremium
+2025-04-25 02:12:21,699 - INFO -   - temp-EA-Gold-Stuff-YoForexPremium
+2025-04-25 02:12:21,699 - INFO -   - temp-Elevator-Robot-P-YoForexPremium
+2025-04-25 02:12:21,700 - INFO -   - temp_EA-Gold-Stuff-YoForexPremium
+2025-04-25 02:12:21,700 - INFO -   - temp_Elevator-Robot-P-YoForexPremium
+2025-04-25 02:12:21,701 - INFO - 
+Batch_0017:
+2025-04-25 02:12:21,701 - INFO -   - EMA_WMA v2
+2025-04-25 02:12:21,702 - INFO -   - EURUSDH1
+2025-04-25 02:12:21,702 - INFO -   - Euronis-Scalper-EA-MT5-With-DLL-YoForexPremium
+2025-04-25 02:12:21,704 - INFO -   - temp-EMA-WMA-v2
+2025-04-25 02:12:21,704 - INFO -   - temp-Euronis-Scalper-EA-With-DLL-YoForexPremium
+2025-04-25 02:12:21,705 - INFO -   - temp_EMA-WMA-v2
+2025-04-25 02:12:21,708 - INFO -   - temp_Euronis-Scalper-EA-With-DLL-YoForexPremium
+2025-04-25 02:12:21,709 - INFO - 
+Batch_0018:
+2025-04-25 02:12:21,710 - INFO -   - FI-TRADING-ROBOTMT5-yoforexprenium
+2025-04-25 02:12:21,710 - INFO -   - Fi-Trading-Robot-1.0
+2025-04-25 02:12:21,711 - INFO -   - Fi-Trading-Robot-YoForexPremium
+2025-04-25 02:12:21,711 - INFO -   - temp-FI-TRADING-ROBOT-yoforexprenium
+2025-04-25 02:12:21,712 - INFO -   - temp_FI-TRADING-ROBOT-yoforexprenium
+2025-04-25 02:12:21,712 - INFO - 
+Batch_0019:
+2025-04-25 02:12:21,714 - INFO -   - temp-fratal-EA
+2025-04-25 02:12:21,715 - INFO -   - temp_fratal-EA
+2025-04-25 02:12:21,715 - INFO - 
+Batch_0020:
+2025-04-25 02:12:21,716 - INFO -   - FT-Sniper-GOLD-MT5-4
+2025-04-25 02:12:21,716 - INFO -   - Galaxy-5-1.0-MT5
+2025-04-25 02:12:21,717 - INFO -   - temp-FT-Sniper-GOLD-4
+2025-04-25 02:12:21,717 - INFO -   - temp-Galaxy-5-1.0
+2025-04-25 02:12:21,717 - INFO -   - temp_FT-Sniper-GOLD-4
+2025-04-25 02:12:21,718 - INFO -   - temp_Galaxy-5-1.0
+2025-04-25 02:12:21,718 - INFO - 
+Batch_0021:
+2025-04-25 02:12:21,718 - INFO -   - Godzillar-EABanker-MT5-FX-XRACKED
+2025-04-25 02:12:21,719 - INFO -   - GoldHero-FX-Cracked
+2025-04-25 02:12:21,719 - INFO -   - temp-Godzillar-EABanker-FX-XRACKED
+2025-04-25 02:12:21,720 - INFO -   - temp_Godzillar-EABanker-FX-XRACKED
+2025-04-25 02:12:21,721 - INFO - 
+Batch_0022:
+2025-04-25 02:12:21,722 - INFO -   - heiken-ashi-engulf-ea-buy-mt5
+2025-04-25 02:12:21,723 - INFO -   - heiken-ashi-engulf-sell-ea-mt5
+2025-04-25 02:12:21,723 - INFO -   - temp-heiken-ashi-engulf-ea-buy
+2025-04-25 02:12:21,724 - INFO -   - temp-heiken-ashi-engulf-sell-ea
+2025-04-25 02:12:21,724 - INFO -   - temp_heiken-ashi-engulf-ea-buy
+2025-04-25 02:12:21,725 - INFO -   - temp_heiken-ashi-engulf-sell-ea
+2025-04-25 02:12:21,726 - INFO - 
+Batch_0023:
+2025-04-25 02:12:21,728 - INFO -   - i-impulsesystem
+2025-04-25 02:12:21,729 - INFO - 
+Batch_0024:
+2025-04-25 02:12:21,729 - INFO -   - temp-Ichimoku-Dashboard
+2025-04-25 02:12:21,730 - INFO -   - temp-Ichimoku-Scanner-1
+2025-04-25 02:12:21,730 - INFO -   - temp_Ichimoku-Dashboard
+2025-04-25 02:12:21,730 - INFO -   - temp_Ichimoku-Scanner-1
+2025-04-25 02:12:21,731 - INFO - 
+Batch_0026:
+2025-04-25 02:12:21,731 - INFO -   - JS-MA-SAR-Trades-EA-MT5-YoforexPremium
+2025-04-25 02:12:21,731 - INFO -   - JS-MA-SAR-Trades-Yoforexpremium
+2025-04-25 02:12:21,732 - INFO -   - Juggernaut
+2025-04-25 02:12:21,732 - INFO -   - temp-JS-MA-SAR-Trades-EA-YoforexPremium
+2025-04-25 02:12:21,733 - INFO -   - temp_JS-MA-SAR-Trades-EA-YoforexPremium
+2025-04-25 02:12:21,733 - INFO - 
+Batch_0027:
+2025-04-25 02:12:21,734 - INFO -   - temp-KueFx-Arrows-EA-v1.10
+2025-04-25 02:12:21,734 - INFO -   - temp-KueFx-Baseline-EA-v1.10
+2025-04-25 02:12:21,736 - INFO -   - temp_KueFx-Arrows-EA-v1.10
+2025-04-25 02:12:21,736 - INFO -   - temp_KueFx-Baseline-EA-v1.10
+2025-04-25 02:12:21,737 - INFO - 
+Batch_0029:
+2025-04-25 02:12:21,738 - INFO -   - temp-LazyBot
+2025-04-25 02:12:21,738 - INFO -   - temp_LazyBot
+2025-04-25 02:12:21,739 - INFO - 
+Batch_0030:
+2025-04-25 02:12:21,739 - INFO -   - M.A-break-mt5-buy
+2025-04-25 02:12:21,740 - INFO -   - M.A-break-mt5-sell
+2025-04-25 02:12:21,740 - INFO -   - MA MACD Position averaging v2
+2025-04-25 02:12:21,741 - INFO -   - temp-M.A-break-buy
+2025-04-25 02:12:21,742 - INFO -   - temp-M.A-break-sell
+2025-04-25 02:12:21,742 - INFO -   - temp-MA-MACD-Position-averaging-v2
+2025-04-25 02:12:21,743 - INFO -   - temp_M.A-break-buy
+2025-04-25 02:12:21,744 - INFO -   - temp_M.A-break-sell
+2025-04-25 02:12:21,744 - INFO -   - temp_MA-MACD-Position-averaging-v2
+2025-04-25 02:12:21,744 - INFO - 
+Batch_0031:
+2025-04-25 02:12:21,745 - INFO -   - MACD-wonder
+2025-04-25 02:12:21,745 - INFO -   - Macd-diver-and-rsi-mt5
+2025-04-25 02:12:21,746 - INFO -   - temp-Macd-diver-and-rsi
+2025-04-25 02:12:21,747 - INFO -   - temp_Macd-diver-and-rsi
+2025-04-25 02:12:21,747 - INFO - 
+Batch_0032:
+2025-04-25 02:12:21,748 - INFO -   - MACD-wonder-YoforexPremium
+2025-04-25 02:12:21,748 - INFO -   - MagneticBrake
+2025-04-25 02:12:21,749 - INFO -   - MagneticStopExpert
+2025-04-25 02:12:21,749 - INFO -   - temp-Mariner
+2025-04-25 02:12:21,749 - INFO -   - temp_Mariner
+2025-04-25 02:12:21,750 - INFO - 
+Batch_0033:
+2025-04-25 02:12:21,750 - INFO -   - temp-Marubozu-EA-v1.10
+2025-04-25 02:12:21,751 - INFO -   - temp_Marubozu-EA-v1.10
+2025-04-25 02:12:21,751 - INFO - 
+Batch_0034:
+2025-04-25 02:12:21,751 - INFO -   - MelBarTTake325-T-5.5Y-NZD-USD.ex5
+2025-04-25 02:12:21,752 - INFO -   - MelBarTTake325-T-5.5Y-NZD-USD.mq5
+2025-04-25 02:12:21,752 - INFO -   - Minning-GoldMT5-Yoforexpremium
+2025-04-25 02:12:21,753 - INFO -   - temp-MA-Crossover-20EA
+2025-04-25 02:12:21,753 - INFO -   - temp-Ma-Crosses
+2025-04-25 02:12:21,753 - INFO -   - temp-Minning-Gold-Yoforexpremium
+2025-04-25 02:12:21,754 - INFO -   - temp_MA-Crossover-20EA
+2025-04-25 02:12:21,754 - INFO -   - temp_Ma-Crosses
+2025-04-25 02:12:21,755 - INFO -   - temp_Minning-Gold-Yoforexpremium
+2025-04-25 02:12:21,755 - INFO - 
+Batch_0036:
+2025-04-25 02:12:21,756 - INFO -   - temp-5
+2025-04-25 02:12:21,756 - INFO -   - temp-CoupleHedgeEA
+2025-04-25 02:12:21,756 - INFO -   - temp-RingSystemEA
+2025-04-25 02:12:21,757 - INFO -   - temp-williams-directional-index-EA
+2025-04-25 02:12:21,757 - INFO -   - temp_-CoupleHedgeEA
+2025-04-25 02:12:21,758 - INFO -   - temp_-RingSystemEA
+2025-04-25 02:12:21,758 - INFO -   - temp_-williams-directional-index-EA
+2025-04-25 02:12:21,758 - INFO -   - temp_5
+2025-04-25 02:12:21,759 - INFO - 
+Batch_0037:
+2025-04-25 02:12:21,759 - INFO -   - Multi-Trader-BC-Robot
+2025-04-25 02:12:21,759 - INFO -   - N Candles v2
+2025-04-25 02:12:21,760 - INFO -   - N Candles v3
+2025-04-25 02:12:21,760 - INFO -   - N Candles v4
+2025-04-25 02:12:21,760 - INFO -   - N Candles v5
+2025-04-25 02:12:21,761 - INFO -   - temp-N-Candles-v2
+2025-04-25 02:12:21,761 - INFO -   - temp-N-Candles-v3
+2025-04-25 02:12:21,762 - INFO -   - temp-N-Candles-v4
+2025-04-25 02:12:21,762 - INFO -   - temp-N-Candles-v5
+2025-04-25 02:12:21,763 - INFO -   - temp-N-Candles-v7
+2025-04-25 02:12:21,763 - INFO -   - temp_N-Candles-v2
+2025-04-25 02:12:21,763 - INFO -   - temp_N-Candles-v3
+2025-04-25 02:12:21,764 - INFO -   - temp_N-Candles-v4
+2025-04-25 02:12:21,764 - INFO -   - temp_N-Candles-v5
+2025-04-25 02:12:21,764 - INFO -   - temp_N-Candles-v7
+2025-04-25 02:12:21,765 - INFO - 
+Batch_0038:
+2025-04-25 02:12:21,765 - INFO -   - NSK-SWING-EA-MT5-Yoforexpremium
+2025-04-25 02:12:21,766 - INFO -   - temp-NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:12:21,766 - INFO -   - temp_NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:12:21,766 - INFO - 
+Batch_0039:
+2025-04-25 02:12:21,799 - INFO -   - NSK-SWING-EA-Yoforexpremium
+2025-04-25 02:12:21,800 - INFO -   - optimization-result
+2025-04-25 02:12:21,805 - INFO - 
+Batch_0040:
+2025-04-25 02:12:21,807 - INFO -   - Par-20sar-20mt5-201
+2025-04-25 02:12:21,816 - INFO -   - temp-Par-20sar-20-201
+2025-04-25 02:12:21,821 - INFO -   - temp_Par-20sar-20-201
+2025-04-25 02:12:21,827 - INFO - 
+Batch_0041:
+2025-04-25 02:12:21,828 - INFO -   - POVERTY-KILLER-GHOSTMT5-YoForexPremium
+2025-04-25 02:12:21,829 - INFO -   - POW-BANKER-EA-MT5-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:12:21,843 - INFO -   - temp-POVERTY-KILLER-GHOST-YoForexPremium
+2025-04-25 02:12:21,848 - INFO -   - temp-POW-BANKER-EA-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:12:21,848 - INFO -   - temp_POVERTY-KILLER-GHOST-YoForexPremium
+2025-04-25 02:12:21,853 - INFO -   - temp_POW-BANKER-EA-4170-with-SetFiles-YoForexPremium
+2025-04-25 02:12:21,856 - INFO - 
+Batch_0042:
+2025-04-25 02:12:21,857 - INFO -   - PrizmaL-Pro-EAMT5-YoforexPremium
+2025-04-25 02:12:21,858 - INFO -   - temp-PrizmaL-Pro-EA-YoforexPremium
+2025-04-25 02:12:21,861 - INFO -   - temp_PrizmaL-Pro-EA-YoforexPremium
+2025-04-25 02:12:21,863 - INFO - 
+Batch_0043:
+2025-04-25 02:12:21,863 - INFO -   - RedDragon-v.1.03
+2025-04-25 02:12:21,864 - INFO - 
+Batch_0044:
+2025-04-25 02:12:21,864 - INFO -   - RSI EA v2
+2025-04-25 02:12:21,867 - INFO -   - RSI-Bollinger-Bands-EA
+2025-04-25 02:12:21,868 - INFO -   - temp-RSI-EA-v2
+2025-04-25 02:12:21,869 - INFO -   - temp_RSI-EA-v2
+2025-04-25 02:12:21,869 - INFO - 
+Batch_0045:
+2025-04-25 02:12:21,870 - INFO -   - temp-RSI-Expert-v2.0
+2025-04-25 02:12:21,870 - INFO -   - temp-SampleTrailingstop
+2025-04-25 02:12:21,871 - INFO -   - temp_RSI-Expert-v2.0
+2025-04-25 02:12:21,871 - INFO -   - temp_SampleTrailingstop
+2025-04-25 02:12:21,872 - INFO - 
+Batch_0047:
+2025-04-25 02:12:21,875 - INFO -   - SimpleTrade
+2025-04-25 02:12:21,875 - INFO - 
+Batch_0048:
+2025-04-25 02:12:21,876 - INFO -   - SPYDER-EA-V-6.1-MT5-YoforexPremium
+2025-04-25 02:12:21,876 - INFO -   - Sound-Fx
+2025-04-25 02:12:21,877 - INFO -   - Stargogs-Ghost-Spike-Robot-EAMT5-YoForexPremium
+2025-04-25 02:12:21,878 - INFO -   - Stargogs-Pay-EA-MT5-YoforexPremium
+2025-04-25 02:12:21,878 - INFO -   - sound
+2025-04-25 02:12:21,880 - INFO -   - temp-SPYDER-EA-V-6.1-YoforexPremium
+2025-04-25 02:12:21,884 - INFO -   - temp-Sprd-20EA
+2025-04-25 02:12:21,890 - INFO -   - temp-Stargogs-Ghost-Spike-Robot-EA-YoForexPremium
+2025-04-25 02:12:21,894 - INFO -   - temp-Stargogs-Pay-EA-YoforexPremium
+2025-04-25 02:12:21,896 - INFO -   - temp_SPYDER-EA-V-6.1-YoforexPremium
+2025-04-25 02:12:21,897 - INFO -   - temp_Sprd-20EA
+2025-04-25 02:12:21,898 - INFO -   - temp_Stargogs-Ghost-Spike-Robot-EA-YoForexPremium
+2025-04-25 02:12:21,899 - INFO -   - temp_Stargogs-Pay-EA-YoforexPremium
+2025-04-25 02:12:21,899 - INFO - 
+Batch_0050:
+2025-04-25 02:12:21,900 - INFO -   - SUPER-TURBO-EAMT5-YoForexPremium
+2025-04-25 02:12:21,901 - INFO -   - Strategie-Boom-Crash-System-MT5-YoForexPremium
+2025-04-25 02:12:21,902 - INFO -   - TAILOR-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,903 - INFO -   - TAKASHI-SNIPEREA-MT5-yYoForexPremium
+2025-04-25 02:12:21,903 - INFO -   - temp-SUPER-TURBO-EA-YoForexPremium
+2025-04-25 02:12:21,906 - INFO -   - temp-Strategie-Boom-Crash-System-YoForexPremium
+2025-04-25 02:12:21,908 - INFO -   - temp-TAILOR-EA-YoForexPremium
+2025-04-25 02:12:21,909 - INFO -   - temp-TAKASHI-SNIPEREA-yYoForexPremium
+2025-04-25 02:12:21,910 - INFO -   - temp_SUPER-TURBO-EA-YoForexPremium
+2025-04-25 02:12:21,911 - INFO -   - temp_Strategie-Boom-Crash-System-YoForexPremium
+2025-04-25 02:12:21,911 - INFO -   - temp_TAILOR-EA-YoForexPremium
+2025-04-25 02:12:21,912 - INFO -   - temp_TAKASHI-SNIPEREA-yYoForexPremium
+2025-04-25 02:12:21,912 - INFO - 
+Batch_0051:
+2025-04-25 02:12:21,912 - INFO -   - Thomas-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,913 - INFO -   - Time-bomb-mt5-1
+2025-04-25 02:12:21,914 - INFO -   - temp-Thomas-EA-YoForexPremium
+2025-04-25 02:12:21,915 - INFO -   - temp-Thomas-EA-YoForexPremium-1
+2025-04-25 02:12:21,915 - INFO -   - temp-Time-bomb-1
+2025-04-25 02:12:21,916 - INFO -   - temp-Time-bomb-1-1
+2025-04-25 02:12:21,917 - INFO -   - temp_Thomas-EA-YoForexPremium
+2025-04-25 02:12:21,917 - INFO -   - temp_Time-bomb-1
+2025-04-25 02:12:21,918 - INFO - 
+Batch_0052:
+2025-04-25 02:12:21,918 - INFO -   - Titan-X-21.18-EA-MT5
+2025-04-25 02:12:21,919 - INFO -   - temp-Titan-X-21.18-EA
+2025-04-25 02:12:21,919 - INFO -   - temp-Titan-X-21.18-EA-1
+2025-04-25 02:12:21,920 - INFO -   - temp_Titan-X-21.18-EA
+2025-04-25 02:12:21,920 - INFO - 
+Batch_0053:
+2025-04-25 02:12:21,921 - INFO -   - Trade-Republic-1.75-MT5
+2025-04-25 02:12:21,922 - INFO -   - temp-Trade-Republic-1.75
+2025-04-25 02:12:21,922 - INFO -   - temp-Trade-Republic-1.75-1
+2025-04-25 02:12:21,923 - INFO -   - temp_Trade-Republic-1.75
+2025-04-25 02:12:21,923 - INFO - 
+Batch_0054:
+2025-04-25 02:12:21,923 - INFO -   - Tunnel-Vision-2024-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,924 - INFO -   - Two-PerBar
+2025-04-25 02:12:21,924 - INFO -   - temp-Tunnel-Vision-2024-EA-YoForexPremium
+2025-04-25 02:12:21,925 - INFO -   - temp-Tunnel-Vision-2024-EA-YoForexPremium-1
+2025-04-25 02:12:21,925 - INFO -   - temp_Tunnel-Vision-2024-EA-YoForexPremium
+2025-04-25 02:12:21,926 - INFO - 
+Batch_0055:
+2025-04-25 02:12:21,926 - INFO -   - Upgraded-EA-CRASH-1000MT5-YoforexPremium
+2025-04-25 02:12:21,927 - INFO -   - temp-Upgraded-EA-CRASH-1000-YoforexPremium
+2025-04-25 02:12:21,927 - INFO -   - temp-Upgraded-EA-CRASH-1000-YoforexPremium-1
+2025-04-25 02:12:21,927 - INFO -   - temp_Upgraded-EA-CRASH-1000-YoforexPremium
+2025-04-25 02:12:21,928 - INFO - 
+Batch_0057:
+2025-04-25 02:12:21,929 - INFO -   - NSK-Swing
+2025-04-25 02:12:21,930 - INFO -   - Simple-Trade
+2025-04-25 02:12:21,930 - INFO -   - Two-Perbar
+2025-04-25 02:12:21,931 - INFO -   - XKPRMST-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,931 - INFO -   - XT-EURUSD-EA-MT5-YoForexPremium
+2025-04-25 02:12:21,932 - INFO -   - Yumnaa-Classic-EA-MT5-Setfiles-YoForexPremium
+2025-04-25 02:12:21,932 - INFO -   - temp-XKPRMST-EA-YoForexPremium
+2025-04-25 02:12:21,933 - INFO -   - temp-XKPRMST-EA-YoForexPremium-1
+2025-04-25 02:12:21,933 - INFO -   - temp-XT-EURUSD-EA-YoForexPremium
+2025-04-25 02:12:21,934 - INFO -   - temp-XT-EURUSD-EA-YoForexPremium-1
+2025-04-25 02:12:21,934 - INFO -   - temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium
+2025-04-25 02:12:21,939 - INFO -   - temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium-1
+2025-04-25 02:12:21,943 - INFO -   - temp_XKPRMST-EA-YoForexPremium
+2025-04-25 02:12:21,944 - INFO -   - temp_XT-EURUSD-EA-YoForexPremium
+2025-04-25 02:12:21,947 - INFO -   - temp_Yumnaa-Classic-EA-Setfiles-YoForexPremium
+2025-04-25 02:12:21,948 - INFO -   - wagonKing1-EA
+2025-04-25 02:12:21,949 - INFO - 
+Total EAs missing standard set files: 263

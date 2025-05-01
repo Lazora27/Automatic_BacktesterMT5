@@ -1,0 +1,215 @@
+{
+  "timestamp": "2025-04-17T17:42:00.592595",
+  "file_path": "C:\\Users\\nikol\\CascadeProjects\\Intelligent_set_opt_creator\\test\\optimized\\sample_opt_v20250417_1742.set",
+  "parameter_groups": {
+    "risk": [
+      {
+        "name": "MaximumRisk",
+        "original": "2.0",
+        "optimized": "2.00||1.40||0.06||2.60||Y",
+        "type": "float",
+        "priority": 90
+      },
+      {
+        "name": "StopLoss",
+        "original": "100",
+        "optimized": "100||70||6||130||Y",
+        "type": "int",
+        "priority": 100
+      },
+      {
+        "name": "TakeProfit",
+        "original": "150",
+        "optimized": "150.00||105.00||5.00||195.00||Y",
+        "type": "float",
+        "priority": 100
+      }
+    ],
+    "trailing": [
+      {
+        "name": "TrailingStop",
+        "original": "30",
+        "optimized": "30||21||1||39||Y",
+        "type": "int",
+        "priority": 80
+      },
+      {
+        "name": "TrailingStart",
+        "original": "20",
+        "optimized": "20||14||1||26||Y",
+        "type": "int",
+        "priority": 80
+      },
+      {
+        "name": "TrailingStep",
+        "original": "5",
+        "optimized": "5||3||1||6||Y",
+        "type": "int",
+        "priority": 70
+      }
+    ],
+    "positioning": [
+      {
+        "name": "Lots",
+        "original": "0.1",
+        "optimized": "0.10||0.07||0.01||0.13||Y",
+        "type": "float",
+        "priority": 90
+      }
+    ],
+    "feature_switch": [
+      {
+        "name": "UseRSI",
+        "original": "true",
+        "optimized": "true",
+        "type": "bool",
+        "priority": 0
+      },
+      {
+        "name": "UseTrailing",
+        "original": "true",
+        "optimized": "true",
+        "type": "bool",
+        "priority": 0
+      },
+      {
+        "name": "UseBreakEven",
+        "original": "true",
+        "optimized": "true",
+        "type": "bool",
+        "priority": 0
+      }
+    ],
+    "system": [
+      {
+        "name": "Magic",
+        "original": "12345",
+        "optimized": "12345",
+        "type": "int",
+        "priority": 0
+      },
+      {
+        "name": "Slippage",
+        "original": "3",
+        "optimized": "3",
+        "type": "int",
+        "priority": 0
+      },
+      {
+        "name": "Comment",
+        "original": "Sample EA",
+        "optimized": "Sample EA",
+        "type": "string",
+        "priority": 0
+      }
+    ],
+    "technical": [
+      {
+        "name": "Shift",
+        "original": "1",
+        "optimized": "1",
+        "type": "int",
+        "priority": 30
+      },
+      {
+        "name": "RSI_Period",
+        "original": "14",
+        "optimized": "14",
+        "type": "int",
+        "priority": 40
+      },
+      {
+        "name": "MA_Period",
+        "original": "20",
+        "optimized": "20",
+        "type": "int",
+        "priority": 40
+      }
+    ],
+    "breakeven": [
+      {
+        "name": "BreakEvenOffset",
+        "original": "2",
+        "optimized": "2",
+        "type": "int",
+        "priority": 50
+      },
+      {
+        "name": "BreakEvenStart",
+        "original": "25",
+        "optimized": "25",
+        "type": "int",
+        "priority": 60
+      }
+    ]
+  },
+  "ratios": {},
+  "optimization_summary": {
+    "total_parameters": 18,
+    "optimized": 7,
+    "static": 11,
+    "skipped": 11,
+    "combinations": 540000,
+    "estimated_time": "5.4 minutes",
+    "selected_parameters": [
+      "StopLoss",
+      "TakeProfit",
+      "MaximumRisk",
+      "Lots",
+      "TrailingStop",
+      "TrailingStart",
+      "TrailingStep"
+    ],
+    "steps_per_parameter": {
+      "StopLoss": 11,
+      "TakeProfit": 19,
+      "MaximumRisk": 21,
+      "Lots": 7,
+      "TrailingStop": 19,
+      "TrailingStart": 13,
+      "TrailingStep": 4
+    }
+  },
+  "skipped_parameters": [
+    "UseRSI",
+    "Magic",
+    "Shift",
+    "RSI_Period",
+    "UseTrailing",
+    "UseBreakEven",
+    "Slippage",
+    "BreakEvenOffset",
+    "Comment",
+    "MA_Period",
+    "BreakEvenStart"
+  ],
+  "parameter_types": {
+    "MaximumRisk": "float",
+    "Lots": "float",
+    "StopLoss": "int",
+    "TakeProfit": "float",
+    "TrailingStop": "int",
+    "TrailingStart": "int",
+    "TrailingStep": "int",
+    "BreakEvenStart": "int",
+    "BreakEvenOffset": "int",
+    "RSI_Period": "int",
+    "MA_Period": "int",
+    "Shift": "int",
+    "Magic": "int",
+    "Comment": "string",
+    "Slippage": "int",
+    "UseTrailing": "bool",
+    "UseBreakEven": "bool",
+    "UseRSI": "bool"
+  },
+  "parameter_priorities": {
+    "StopLoss": 100,
+    "TakeProfit": 100,
+    "MaximumRisk": 90,
+    "Lots": 90,
+    "TrailingStop": 80,
+    "TrailingStart": 80,
+    "TrailingStep": 70
+  }
+}

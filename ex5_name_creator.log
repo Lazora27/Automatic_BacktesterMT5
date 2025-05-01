@@ -1,0 +1,363 @@
+2025-04-27 16:54:04,127 - __main__ - INFO - Saved name mapping to ea_name_mapping.json
+2025-04-27 16:55:43,009 - __main__ - INFO - Saved name mapping to ea_name_mapping.json
+2025-04-27 16:58:52,983 - __main__ - INFO - Processing MT5 Experts directory: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts
+2025-04-27 16:58:52,986 - __main__ - INFO - Renaming 10 pips EURUSD.ex5 -> 10-pips-EURUSD.ex5
+2025-04-27 16:58:52,997 - __main__ - INFO - Renaming 10 pips.ex5 -> 10-pips.ex5
+2025-04-27 16:58:53,003 - __main__ - INFO - Renaming 1H EUR_USD.ex5 -> 1H-EUR-USD.ex5
+2025-04-27 16:58:53,009 - __main__ - INFO - Renaming 20011201_GBPUSD_M1_v2.ex5 -> 20011201-GBPUSD-M1-v2.ex5
+2025-04-27 16:58:53,016 - __main__ - INFO - Renaming 2HR_HL_EA_v1.00.ex5 -> 2HR-HL-EA-v100.ex5
+2025-04-27 16:58:53,021 - __main__ - INFO - Renaming 2MA_4Level.ex5 -> 2MA-4Level.ex5
+2025-04-27 16:58:53,026 - __main__ - INFO - Renaming 3sma_v2.ex5 -> 3sma-v2.ex5
+2025-04-27 16:58:53,031 - __main__ - INFO - Renaming ADX & MA.ex5 -> ADX-MA.ex5
+2025-04-27 16:58:53,036 - __main__ - INFO - Renaming ADX MACD Deev.ex5 -> ADX-MACD-Deev.ex5
+2025-04-27 16:58:53,041 - __main__ - INFO - Renaming ADX System.ex5 -> ADX-System.ex5
+2025-04-27 16:58:53,047 - __main__ - INFO - Renaming AI_Trader.ex5 -> AI-Trader.ex5
+2025-04-27 16:58:53,054 - __main__ - INFO - Renaming AK-47 Scalper EA - MT5.ex5 -> AK-47-Scalper-EA-MT5.ex5
+2025-04-27 16:58:53,060 - __main__ - INFO - Renaming AK-47 Scalper EA @yoforexPremium- MT5.ex5 -> AK-47-Scalper-EA-yoforexPremium-MT5.ex5
+2025-04-27 16:58:53,066 - __main__ - INFO - Renaming Alexav D1 Profit GBPUSD.ex5 -> Alexav-D1-Profit-GBPUSD.ex5
+2025-04-27 16:58:53,071 - __main__ - INFO - Renaming Alligator Simple v1.0.ex5 -> Alligator-Simple-v10.ex5
+2025-04-27 16:58:53,077 - __main__ - INFO - Renaming Altarius_RSI_Stohastic.ex5 -> Altarius-RSI-Stohastic.ex5
+2025-04-27 16:58:53,082 - __main__ - INFO - Renaming AMA Trader 2.ex5 -> AMA-Trader-2.ex5
+2025-04-27 16:58:53,088 - __main__ - INFO - Renaming AMA Trader.ex5 -> AMA-Trader.ex5
+2025-04-27 16:58:53,094 - __main__ - INFO - Renaming AO_Lightning.ex5 -> AO-Lightning.ex5
+2025-04-27 16:58:53,100 - __main__ - INFO - Renaming Artificial Intelligence.ex5 -> Artificial-Intelligence.ex5
+2025-04-27 16:58:53,105 - __main__ - INFO - Renaming At random Full.ex5 -> At-random-Full.ex5
+2025-04-27 16:58:53,111 - __main__ - INFO - Renaming At random.ex5 -> At-random.ex5
+2025-04-27 16:58:53,117 - __main__ - INFO - Renaming Auto-Pivot_Plotter_%28Mid-Levels%29_V1-41.ex5 -> Auto-Pivot-Plotter-28Mid-Levels29-V1-41.ex5
+2025-04-27 16:58:53,122 - __main__ - INFO - Renaming AutoLock_EA_v2.ex5 -> AutoLock-EA-v2.ex5
+2025-04-27 16:58:53,127 - __main__ - INFO - Renaming Autotrader Momentum.ex5 -> Autotrader-Momentum.ex5
+2025-04-27 16:58:53,132 - __main__ - INFO - Renaming Avalanche AV.ex5 -> Avalanche-AV.ex5
+2025-04-27 16:58:53,137 - __main__ - INFO - Renaming Bago EA.ex5 -> Bago-EA.ex5
+2025-04-27 16:58:53,143 - __main__ - INFO - Renaming Bands 2.ex5 -> Bands-2.ex5
+2025-04-27 16:58:53,149 - __main__ - INFO - Renaming Basic CCI RSI.ex5 -> Basic-CCI-RSI.ex5
+2025-04-27 16:58:53,153 - __main__ - INFO - Renaming Basic Martingale EA 3.ex5 -> Basic-Martingale-EA-3.ex5
+2025-04-27 16:58:53,158 - __main__ - INFO - Renaming BBPercentile_EA.ex5 -> BBPercentile-EA.ex5
+2025-04-27 16:58:53,164 - __main__ - INFO - Renaming BB_stops_MT5.ex5 -> BB-stops-MT5.ex5
+2025-04-27 16:58:53,169 - __main__ - INFO - Renaming BDCrossOver%20EA.ex5 -> BDCrossOver20EA.ex5
+2025-04-27 16:58:53,176 - __main__ - INFO - Renaming BEAR row full EA.ex5 -> BEAR-row-full-EA.ex5
+2025-04-27 16:58:53,183 - __main__ - INFO - Renaming BIG DOG.ex5 -> BIG-DOG.ex5
+2025-04-27 16:58:53,189 - __main__ - INFO - Renaming Bill Williams.ex5 -> Bill-Williams.ex5
+2025-04-27 16:58:53,195 - __main__ - INFO - Renaming Bollinger Band Two MA and Zig-Zag.ex5 -> Bollinger-Band-Two-MA-and-Zig-Zag.ex5
+2025-04-27 16:58:53,201 - __main__ - INFO - Renaming Bollinger Bands N positions.ex5 -> Bollinger-Bands-N-positions.ex5
+2025-04-27 16:58:53,206 - __main__ - INFO - Renaming Bollinger Bands RSI.ex5 -> Bollinger-Bands-RSI.ex5
+2025-04-27 16:58:53,212 - __main__ - INFO - Renaming Brakeout_Trader_v1.ex5 -> Brakeout-Trader-v1.ex5
+2025-04-27 16:58:53,218 - __main__ - INFO - Renaming Breakdown catcher.ex5 -> Breakdown-catcher.ex5
+2025-04-27 16:58:53,225 - __main__ - INFO - Renaming Breakout_Str.ex5 -> Breakout-Str.ex5
+2025-04-27 16:58:53,231 - __main__ - INFO - Renaming Bronze Warrioir.ex5 -> Bronze-Warrioir.ex5
+2025-04-27 16:58:53,237 - __main__ - INFO - Renaming BSS 1_0.ex5 -> BSS-1-0.ex5
+2025-04-27 16:58:53,244 - __main__ - INFO - Renaming BULL row full EA.ex5 -> BULL-row-full-EA.ex5
+2025-04-27 16:58:53,252 - __main__ - INFO - Renaming Bullish and Bearish Engulfing.ex5 -> Bullish-and-Bearish-Engulfing.ex5
+2025-04-27 16:58:53,258 - __main__ - INFO - Renaming Burg Extrapolator.ex5 -> Burg-Extrapolator.ex5
+2025-04-27 16:58:53,264 - __main__ - INFO - Renaming BykovTrend_EA.ex5 -> BykovTrend-EA.ex5
+2025-04-27 16:58:53,270 - __main__ - INFO - Renaming BykovTrend_EA_v3.ex5 -> BykovTrend-EA-v3.ex5
+2025-04-27 16:58:53,276 - __main__ - INFO - Renaming Calculate lotsize and Trailling stop.ex5 -> Calculate-lotsize-and-Trailling-stop.ex5
+2025-04-27 16:58:53,281 - __main__ - INFO - Renaming CashMachine_5min.ex5 -> CashMachine-5min.ex5
+2025-04-27 16:58:53,286 - __main__ - INFO - Renaming CCI MACD Scalper.ex5 -> CCI-MACD-Scalper.ex5
+2025-04-27 16:58:53,291 - __main__ - INFO - Renaming CloseProfit v2.ex5 -> CloseProfit-v2.ex5
+2025-04-27 16:58:53,296 - __main__ - INFO - Renaming cloud's trade 2.ex5 -> clouds-trade-2.ex5
+2025-04-27 16:58:53,302 - __main__ - INFO - Renaming Constituents EA.ex5 -> Constituents-EA.ex5
+2025-04-27 16:58:53,306 - __main__ - INFO - Renaming Contrarian trade MA.ex5 -> Contrarian-trade-MA.ex5
+2025-04-27 16:58:53,312 - __main__ - INFO - Renaming Crossing Moving Average.ex5 -> Crossing-Moving-Average.ex5
+2025-04-27 16:58:53,317 - __main__ - INFO - Renaming Currencyprofits_01.1.ex5 -> Currencyprofits-011.ex5
+2025-04-27 16:58:53,322 - __main__ - INFO - Renaming Daily BreakPoint.ex5 -> Daily-BreakPoint.ex5
+2025-04-27 16:58:53,327 - __main__ - INFO - Renaming Daily range.ex5 -> Daily-range.ex5
+2025-04-27 16:58:53,333 - __main__ - INFO - Renaming Daily%20reversal%20%20EA.ex5 -> Daily20reversal2020EA.ex5
+2025-04-27 16:58:53,338 - __main__ - INFO - Renaming Daily_Open_EA.ex5 -> Daily-Open-EA.ex5
+2025-04-27 16:58:53,343 - __main__ - INFO - Renaming Day Trading PAMXA.ex5 -> Day-Trading-PAMXA.ex5
+2025-04-27 16:58:53,348 - __main__ - INFO - Renaming Dealers Trade v 7.74 MACD.ex5 -> Dealers-Trade-v-774-MACD.ex5
+2025-04-27 16:58:53,354 - __main__ - INFO - Renaming Deep Drawdown MA.ex5 -> Deep-Drawdown-MA.ex5
+2025-04-27 16:58:53,359 - __main__ - INFO - Renaming DeMarker gaining position volume 2.ex5 -> DeMarker-gaining-position-volume-2.ex5
+2025-04-27 16:58:53,365 - __main__ - INFO - Renaming DeMarker gaining position volume.ex5 -> DeMarker-gaining-position-volume.ex5
+2025-04-27 16:58:53,370 - __main__ - INFO - Renaming DeMarker Pending 2.ex5 -> DeMarker-Pending-2.ex5
+2025-04-27 16:58:53,376 - __main__ - INFO - Renaming DeMarker Pending 2_5.ex5 -> DeMarker-Pending-2-5.ex5
+2025-04-27 16:58:53,383 - __main__ - INFO - Renaming DeMarker Pending.ex5 -> DeMarker-Pending.ex5
+2025-04-27 16:58:53,388 - __main__ - INFO - Renaming Divergence EA BB.ex5 -> Divergence-EA-BB.ex5
+2025-04-27 16:58:53,395 - __main__ - INFO - Renaming Divergence EA pip sl tp.ex5 -> Divergence-EA-pip-sl-tp.ex5
+2025-04-27 16:58:53,401 - __main__ - INFO - Renaming Divergence%20for%20many%20indicator.ex5 -> Divergence20for20many20indicator.ex5
+2025-04-27 16:58:53,407 - __main__ - INFO - Renaming Doji Arrows.ex5 -> Doji-Arrows.ex5
+2025-04-27 16:58:53,412 - __main__ - INFO - Renaming Donchian_Chanel_EA.ex5 -> Donchian-Chanel-EA.ex5
+2025-04-27 16:58:53,419 - __main__ - INFO - Renaming DoubleHullMA_EA.ex5 -> DoubleHullMA-EA.ex5
+2025-04-27 16:58:53,424 - __main__ - INFO - Renaming DoubleMA Crossover EA.ex5 -> DoubleMA-Crossover-EA.ex5
+2025-04-27 16:58:53,430 - __main__ - INFO - Renaming Driver_EA_MT5.ex5 -> Driver-EA-MT5.ex5
+2025-04-27 16:58:53,436 - __main__ - INFO - Renaming Dynamic averaging.ex5 -> Dynamic-averaging.ex5
+2025-04-27 16:58:53,442 - __main__ - INFO - Renaming e-Skoch pending orders.ex5 -> e-Skoch-pending-orders.ex5
+2025-04-27 16:58:53,448 - __main__ - INFO - Renaming e-Smart_Trailing.ex5 -> e-Smart-Trailing.ex5
+2025-04-27 16:58:53,453 - __main__ - INFO - Renaming EA Close.ex5 -> EA-Close.ex5
+2025-04-27 16:58:53,460 - __main__ - INFO - Renaming EA Moving Average.ex5 -> EA-Moving-Average.ex5
+2025-04-27 16:58:53,464 - __main__ - INFO - Renaming EA_MA_Stoch_RSI.ex5 -> EA-MA-Stoch-RSI.ex5
+2025-04-27 16:58:53,469 - __main__ - INFO - Renaming Elite eFibo Trader.ex5 -> Elite-eFibo-Trader.ex5
+2025-04-27 16:58:53,474 - __main__ - INFO - Renaming EMA 6.12.ex5 -> EMA-612.ex5
+2025-04-27 16:58:53,479 - __main__ - INFO - Renaming EMA LWMA RSI.ex5 -> EMA-LWMA-RSI.ex5
+2025-04-27 16:58:53,484 - __main__ - INFO - Renaming EMA_CROSS.ex5 -> EMA-CROSS.ex5
+2025-04-27 16:58:53,488 - __main__ - INFO - Renaming EMA_RSI_EA_v1.00.ex5 -> EMA-RSI-EA-v100.ex5
+2025-04-27 16:58:53,493 - __main__ - INFO - Renaming EMA_WMA v2.ex5 -> EMA-WMA-v2.ex5
+2025-04-27 16:58:53,499 - __main__ - INFO - Renaming EMA_WMA.ex5 -> EMA-WMA.ex5
+2025-04-27 16:58:53,504 - __main__ - INFO - Renaming eur usd m5.ex5 -> eur-usd-m5.ex5
+2025-04-27 16:58:53,509 - __main__ - INFO - Renaming EURUSD breakout.ex5 -> EURUSD-breakout.ex5
+2025-04-27 16:58:53,514 - __main__ - INFO - Renaming Executer AC.ex5 -> Executer-AC.ex5
+2025-04-27 16:58:53,519 - __main__ - INFO - Renaming Executor AO.ex5 -> Executor-AO.ex5
+2025-04-27 16:58:53,524 - __main__ - INFO - Renaming Expert_NEWS.ex5 -> Expert-NEWS.ex5
+2025-04-27 16:58:53,530 - __main__ - INFO - Renaming Expert_RSI_Stochastic_MA.ex5 -> Expert-RSI-Stochastic-MA.ex5
+2025-04-27 16:58:53,535 - __main__ - INFO - Renaming exp_Amstell.ex5 -> exp-Amstell.ex5
+2025-04-27 16:58:53,540 - __main__ - INFO - Renaming ExtremePrice_EA_v1.00.ex5 -> ExtremePrice-EA-v100.ex5
+2025-04-27 16:58:53,545 - __main__ - INFO - Renaming e_Breakeven_v4.ex5 -> e-Breakeven-v4.ex5
+2025-04-27 16:58:53,551 - __main__ - INFO - Renaming FiboRetracement%20EA.ex5 -> FiboRetracement20EA.ex5
+2025-04-27 16:58:53,556 - __main__ - INFO - Renaming Firebird v0.60.ex5 -> Firebird-v060.ex5
+2025-04-27 16:58:53,562 - __main__ - INFO - Renaming Firestorm_EA.ex5 -> Firestorm-EA.ex5
+2025-04-27 16:58:53,566 - __main__ - INFO - Renaming Firestorm_indicator.ex5 -> Firestorm-indicator.ex5
+2025-04-27 16:58:53,571 - __main__ - INFO - Renaming Forex Fraus M1.ex5 -> Forex-Fraus-M1.ex5
+2025-04-27 16:58:53,576 - __main__ - INFO - Renaming Forex Profit.ex5 -> Forex-Profit.ex5
+2025-04-27 16:58:53,581 - __main__ - INFO - Renaming Fractals minimum distance.ex5 -> Fractals-minimum-distance.ex5
+2025-04-27 16:58:53,586 - __main__ - INFO - Renaming Fraktrak xonax.ex5 -> Fraktrak-xonax.ex5
+2025-04-27 16:58:53,592 - __main__ - INFO - Renaming Frank Ud.ex5 -> Frank-Ud.ex5
+2025-04-27 16:58:53,597 - __main__ - INFO - Renaming fratal_mt5_EA.ex5 -> fratal-mt5-EA.ex5
+2025-04-27 16:58:53,602 - __main__ - INFO - Renaming FT_CCI.ex5 -> FT-CCI.ex5
+2025-04-27 16:58:53,607 - __main__ - INFO - Renaming Fuzzy logic.ex5 -> Fuzzy-logic.ex5
+2025-04-27 16:58:53,611 - __main__ - INFO - Renaming Gandalf_PRO.ex5 -> Gandalf-PRO.ex5
+2025-04-27 16:58:53,616 - __main__ - INFO - Renaming Gap DM.ex5 -> Gap-DM.ex5
+2025-04-27 16:58:53,622 - __main__ - INFO - Renaming GAP_EA_v1.00.ex5 -> GAP-EA-v100.ex5
+2025-04-27 16:58:53,627 - __main__ - INFO - Renaming Gold Dust.ex5 -> Gold-Dust.ex5
+2025-04-27 16:58:53,632 - __main__ - INFO - Renaming Grid_Martingale.ex5 -> Grid-Martingale.ex5
+2025-04-27 16:58:53,637 - __main__ - INFO - Renaming Hedging_EA.ex5 -> Hedging-EA.ex5
+2025-04-27 16:58:53,642 - __main__ - INFO - Renaming heiken ashi engulf ea buy mt5.ex5 -> heiken-ashi-engulf-ea-buy-mt5.ex5
+2025-04-27 16:58:53,648 - __main__ - INFO - Renaming heiken ashi engulf sell ea mt5.ex5 -> heiken-ashi-engulf-sell-ea-mt5.ex5
+2025-04-27 16:58:53,654 - __main__ - INFO - Renaming HeikenAshi_Lines.ex5 -> HeikenAshi-Lines.ex5
+2025-04-27 16:58:53,659 - __main__ - INFO - Renaming HeikenAshi_Lines_EA.ex5 -> HeikenAshi-Lines-EA.ex5
+2025-04-27 16:58:53,664 - __main__ - INFO - Renaming Heiken_Ashi_Smoothed_EA.ex5 -> Heiken-Ashi-Smoothed-EA.ex5
+2025-04-27 16:58:53,670 - __main__ - INFO - Renaming Heiken_Ashi_Smoothed_EA_with_MA.ex5 -> Heiken-Ashi-Smoothed-EA-with-MA.ex5
+2025-04-27 16:58:53,676 - __main__ - INFO - Renaming Heinken_Ashi_Color_Candles.ex5 -> Heinken-Ashi-Color-Candles.ex5
+2025-04-27 16:58:53,681 - __main__ - INFO - Renaming High_Low_EA.ex5 -> High-Low-EA.ex5
+2025-04-27 16:58:53,686 - __main__ - INFO - Renaming High_Low_Indicator.ex5 -> High-Low-Indicator.ex5
+2025-04-27 16:58:53,692 - __main__ - INFO - Renaming Hoop master 2.ex5 -> Hoop-master-2.ex5
+2025-04-27 16:58:53,697 - __main__ - INFO - Renaming iCCI iMA.ex5 -> iCCI-iMA.ex5
+2025-04-27 16:58:53,702 - __main__ - INFO - Renaming Ichimoku%20Kijun%20Alert.ex5 -> Ichimoku20Kijun20Alert.ex5
+2025-04-27 16:58:53,708 - __main__ - INFO - Renaming Ichimoku%20Tenkan%20Alert.ex5 -> Ichimoku20Tenkan20Alert.ex5
+2025-04-27 16:58:53,714 - __main__ - INFO - Renaming IchimokuMTF_EA_v1.00.ex5 -> IchimokuMTF-EA-v100.ex5
+2025-04-27 16:58:53,719 - __main__ - INFO - Renaming Ichimoku_Dashboard_MT5.ex5 -> Ichimoku-Dashboard-MT5.ex5
+2025-04-27 16:58:53,724 - __main__ - INFO - Renaming Ichimoku_Scanner.ex5 -> Ichimoku-Scanner.ex5
+2025-04-27 16:58:53,728 - __main__ - INFO - Renaming Ichimoku_Scanner_MT5.ex5 -> Ichimoku-Scanner-MT5.ex5
+2025-04-27 16:58:53,733 - __main__ - INFO - Renaming Ichimoku_Signals_and_Alert.ex5 -> Ichimoku-Signals-and-Alert.ex5
+2025-04-27 16:58:53,738 - __main__ - INFO - Renaming ICH_With_Alert_Derekers.ex5 -> ICH-With-Alert-Derekers.ex5
+2025-04-27 16:58:53,742 - __main__ - INFO - Renaming ICH_With_Alert_Derekers_EA.ex5 -> ICH-With-Alert-Derekers-EA.ex5
+2025-04-27 16:58:53,747 - __main__ - INFO - Renaming Ilan iMA.ex5 -> Ilan-iMA.ex5
+2025-04-27 16:58:53,752 - __main__ - INFO - Renaming Ilan1.4.ex5 -> Ilan14.ex5
+2025-04-27 16:58:53,757 - __main__ - INFO - Renaming iMA iStdDev.ex5 -> iMA-iStdDev.ex5
+2025-04-27 16:58:53,762 - __main__ - INFO - Renaming Indices Tester.ex5 -> Indices-Tester.ex5
+2025-04-27 16:58:53,767 - __main__ - INFO - Renaming Inka%20Edho%20EA.ex5 -> Inka20Edho20EA.ex5
+2025-04-27 16:58:53,771 - __main__ - INFO - Renaming Intersection 2 iMA.ex5 -> Intersection-2-iMA.ex5
+2025-04-27 16:58:53,776 - __main__ - INFO - Renaming IStochastic_Trading.ex5 -> IStochastic-Trading.ex5
+2025-04-27 16:58:53,781 - __main__ - INFO - Renaming iVIDyA Simple.ex5 -> iVIDyA-Simple.ex5
+2025-04-27 16:58:53,786 - __main__ - INFO - Renaming Jackpot_Strategy_EA.ex5 -> Jackpot-Strategy-EA.ex5
+2025-04-27 16:58:53,791 - __main__ - INFO - Renaming JackPot_Strategy_Elite.ex5 -> JackPot-Strategy-Elite.ex5
+2025-04-27 16:58:53,795 - __main__ - INFO - Renaming JK BullP AutoTrader.ex5 -> JK-BullP-AutoTrader.ex5
+2025-04-27 16:58:53,800 - __main__ - INFO - Renaming JS MA SAR Trades.ex5 -> JS-MA-SAR-Trades.ex5
+2025-04-27 16:58:53,805 - __main__ - INFO - Renaming KA-Gold Bot.ex5 -> KA-Gold-Bot.ex5
+2025-04-27 16:58:53,810 - __main__ - INFO - Renaming KueFx%20Arrows.ex5 -> KueFx20Arrows.ex5
+2025-04-27 16:58:53,814 - __main__ - INFO - Renaming KueFx%20Baseline.ex5 -> KueFx20Baseline.ex5
+2025-04-27 16:58:53,819 - __main__ - INFO - Renaming KueFxTrend%20EA.ex5 -> KueFxTrend20EA.ex5
+2025-04-27 16:58:53,824 - __main__ - INFO - Renaming KueFxTrend_EA.ex5 -> KueFxTrend-EA.ex5
+2025-04-27 16:58:53,829 - __main__ - INFO - Renaming KueFx_Arrows%20EA.ex5 -> KueFx-Arrows20EA.ex5
+2025-04-27 16:58:53,834 - __main__ - INFO - Renaming KueFx_Arrows.ex5 -> KueFx-Arrows.ex5
+2025-04-27 16:58:53,839 - __main__ - INFO - Renaming KueFx_Arrows_EA_v1.00.ex5 -> KueFx-Arrows-EA-v100.ex5
+2025-04-27 16:58:53,843 - __main__ - INFO - Renaming KueFx_Arrows_EA_v1.10.ex5 -> KueFx-Arrows-EA-v110.ex5
+2025-04-27 16:58:53,848 - __main__ - INFO - Renaming KueFx_Baseline_EA_v1.00.ex5 -> KueFx-Baseline-EA-v100.ex5
+2025-04-27 16:58:53,853 - __main__ - INFO - Renaming KueFx_Baseline_EA_v1.10.ex5 -> KueFx-Baseline-EA-v110.ex5
+2025-04-27 16:58:53,857 - __main__ - INFO - Renaming KueFx_Baseline_v1.10.ex5 -> KueFx-Baseline-v110.ex5
+2025-04-27 16:58:53,862 - __main__ - INFO - Renaming KueFx_Clean_2025_EA.ex5 -> KueFx-Clean-2025-EA.ex5
+2025-04-27 16:58:53,868 - __main__ - INFO - Renaming KueFx_Extreme_EA.ex5 -> KueFx-Extreme-EA.ex5
+2025-04-27 16:58:53,874 - __main__ - INFO - Renaming KueFx_Harare_EA.ex5 -> KueFx-Harare-EA.ex5
+2025-04-27 16:58:53,881 - __main__ - INFO - Renaming KueFX_Money_Management.ex5 -> KueFX-Money-Management.ex5
+2025-04-27 16:58:53,887 - __main__ - INFO - Renaming KueFx_Motor_EA_v1.00.ex5 -> KueFx-Motor-EA-v100.ex5
+2025-04-27 16:58:53,892 - __main__ - INFO - Renaming KueFx_Motor_v1.00.ex5 -> KueFx-Motor-v100.ex5
+2025-04-27 16:58:53,898 - __main__ - INFO - Renaming KueFx_Trend.ex5 -> KueFx-Trend.ex5
+2025-04-27 16:58:53,903 - __main__ - INFO - Renaming Kue_Electric_EA.ex5 -> Kue-Electric-EA.ex5
+2025-04-27 16:58:53,909 - __main__ - INFO - Renaming Last ZZ50.ex5 -> Last-ZZ50.ex5
+2025-04-27 16:58:53,915 - __main__ - INFO - Renaming LazyBot MT5_V1.ex5 -> LazyBot-MT5-V1.ex5
+2025-04-27 16:58:53,921 - __main__ - INFO - Renaming Lego EA.ex5 -> Lego-EA.ex5
+2025-04-27 16:58:53,927 - __main__ - INFO - Renaming Lesson 3_ Price Action.ex5 -> Lesson-3-Price-Action.ex5
+2025-04-27 16:58:53,933 - __main__ - INFO - Renaming Lesson 4_ Price Action & MA Filter.ex5 -> Lesson-4-Price-Action-MA-Filter.ex5
+2025-04-27 16:58:53,939 - __main__ - INFO - Renaming Lesson 6 Trailling ATR.ex5 -> Lesson-6-Trailling-ATR.ex5
+2025-04-27 16:58:53,945 - __main__ - INFO - Renaming Lesson 7 Price action Ket hop Volume VSA.ex5 -> Lesson-7-Price-action-Ket-hop-Volume-VSA.ex5
+2025-04-27 16:58:53,951 - __main__ - INFO - Renaming M.A break mt5 buy.ex5 -> MA-break-mt5-buy.ex5
+2025-04-27 16:58:53,957 - __main__ - INFO - Renaming M.A break mt5 sell.ex5 -> MA-break-mt5-sell.ex5
+2025-04-27 16:58:53,963 - __main__ - INFO - Renaming MA Cross.ex5 -> MA-Cross.ex5
+2025-04-27 16:58:53,969 - __main__ - INFO - Renaming MA Envelopes.ex5 -> MA-Envelopes.ex5
+2025-04-27 16:58:53,974 - __main__ - INFO - Renaming MA MACD Position averaging v2.ex5 -> MA-MACD-Position-averaging-v2.ex5
+2025-04-27 16:58:53,980 - __main__ - INFO - Renaming MA MACD Position averaging.ex5 -> MA-MACD-Position-averaging.ex5
+2025-04-27 16:58:53,986 - __main__ - INFO - Renaming MA Trend.ex5 -> MA-Trend.ex5
+2025-04-27 16:58:53,991 - __main__ - INFO - Renaming MA%20Alert.ex5 -> MA20Alert.ex5
+2025-04-27 16:58:53,996 - __main__ - INFO - Renaming MA%20AO%20Arrow.ex5 -> MA20AO20Arrow.ex5
+2025-04-27 16:58:54,002 - __main__ - INFO - Renaming MACD and SAR.ex5 -> MACD-and-SAR.ex5
+2025-04-27 16:58:54,007 - __main__ - INFO - Renaming MACD Cleaner.ex5 -> MACD-Cleaner.ex5
+2025-04-27 16:58:54,013 - __main__ - INFO - Renaming Macd diver and rsi mt5.ex5 -> Macd-diver-and-rsi-mt5.ex5
+2025-04-27 16:58:54,020 - __main__ - INFO - Renaming MACD No Sample.ex5 -> MACD-No-Sample.ex5
+2025-04-27 16:58:54,027 - __main__ - INFO - Renaming MACD signal.ex5 -> MACD-signal.ex5
+2025-04-27 16:58:54,033 - __main__ - INFO - Renaming MACD Stochastic 2.ex5 -> MACD-Stochastic-2.ex5
+2025-04-27 16:58:54,038 - __main__ - INFO - Renaming MACD Stochastic.ex5 -> MACD-Stochastic.ex5
+2025-04-27 16:58:54,044 - __main__ - INFO - Renaming MacdPatternTraderAll0.01.ex5 -> MacdPatternTraderAll001.ex5
+2025-04-27 16:58:54,051 - __main__ - INFO - Renaming MACD_EA_H4.ex5 -> MACD-EA-H4.ex5
+2025-04-27 16:58:54,056 - __main__ - INFO - Renaming Mariner_MT5.ex5 -> Mariner-MT5.ex5
+2025-04-27 16:58:54,062 - __main__ - INFO - Renaming Market Capture.ex5 -> Market-Capture.ex5
+2025-04-27 16:58:54,067 - __main__ - INFO - Renaming Martin 1.ex5 -> Martin-1.ex5
+2025-04-27 16:58:54,073 - __main__ - INFO - Renaming Martin for small deposits.ex5 -> Martin-for-small-deposits.ex5
+2025-04-27 16:58:54,079 - __main__ - INFO - Renaming Marubozu_EA_v1.00.ex5 -> Marubozu-EA-v100.ex5
+2025-04-27 16:58:54,085 - __main__ - INFO - Renaming Marubozu_EA_v1.10.ex5 -> Marubozu-EA-v110.ex5
+2025-04-27 16:58:54,091 - __main__ - INFO - Renaming MA_AO_EA_v1.00.ex5 -> MA-AO-EA-v100.ex5
+2025-04-27 16:58:54,097 - __main__ - INFO - Renaming ma_channels.ex5 -> ma-channels.ex5
+2025-04-27 16:58:54,102 - __main__ - INFO - Renaming Ma_Crosses_MT5.ex5 -> Ma-Crosses-MT5.ex5
+2025-04-27 16:58:54,107 - __main__ - INFO - Renaming MA_Crossover_mt5%20EA.ex5 -> MA-Crossover-mt520EA.ex5
+2025-04-27 16:58:54,113 - __main__ - INFO - Renaming MelBar EuSwiss 1.85.ex5 -> MelBar-EuSwiss-185.ex5
+2025-04-27 16:58:54,120 - __main__ - INFO - Renaming MelBar™Take325%™ 5.5Y NZD-USD.ex5 -> MelBarTake325-55Y-NZD-USD.ex5
+2025-04-27 16:58:54,126 - __main__ - INFO - Renaming Mobo_Bands.ex5 -> Mobo-Bands.ex5
+2025-04-27 16:58:54,131 - __main__ - INFO - Renaming Mobo_Bands_EA.ex5 -> Mobo-Bands-EA.ex5
+2025-04-27 16:58:54,136 - __main__ - INFO - Renaming Modified Moving Averages.ex5 -> Modified-Moving-Averages.ex5
+2025-04-27 16:58:54,141 - __main__ - INFO - Renaming Momo_trades.ex5 -> Momo-trades.ex5
+2025-04-27 16:58:54,147 - __main__ - INFO - Renaming Money Fixed Margin.ex5 -> Money-Fixed-Margin.ex5
+2025-04-27 16:58:54,153 - __main__ - INFO - Renaming Money Fixed Risk.ex5 -> Money-Fixed-Risk.ex5
+2025-04-27 16:58:54,159 - __main__ - INFO - Renaming Morning-evening_star_EA_v1.00.ex5 -> Morning-evening-star-EA-v100.ex5
+2025-04-27 16:58:54,165 - __main__ - INFO - Renaming MostasHaR15 Pivot.ex5 -> MostasHaR15-Pivot.ex5
+2025-04-27 16:58:54,171 - __main__ - INFO - Renaming Moving Average Trade System.ex5 -> Moving-Average-Trade-System.ex5
+2025-04-27 16:58:54,176 - __main__ - INFO - Renaming Moving Averages.ex5 -> Moving-Averages.ex5
+2025-04-27 16:58:54,182 - __main__ - INFO - Renaming Moving%20average%20and%20ichimoku%20EA.ex5 -> Moving20average20and20ichimoku20EA.ex5
+2025-04-27 16:58:54,187 - __main__ - INFO - Renaming MQL5_Wizard_MACD_Parabolic_SAR.ex5 -> MQL5-Wizard-MACD-Parabolic-SAR.ex5
+2025-04-27 16:58:54,193 - __main__ - INFO - Renaming MQL5_Wizard_MA_RSI.ex5 -> MQL5-Wizard-MA-RSI.ex5
+2025-04-27 16:58:54,199 - __main__ - INFO - Renaming Mt5 williams % directional index EA.ex5 -> Mt5-williams-directional-index-EA.ex5
+2025-04-27 16:58:54,204 - __main__ - INFO - Renaming MT5-CoupleHedgeEA_v2.6.3.ex5 -> MT5-CoupleHedgeEA-v263.ex5
+2025-04-27 16:58:54,211 - __main__ - INFO - Renaming MT5-RingSystemEA_v3.7.3.ex5 -> MT5-RingSystemEA-v373.ex5
+2025-04-27 16:58:54,219 - __main__ - INFO - Renaming MTC Сombo v2.ex5 -> MTC-ombo-v2.ex5
+2025-04-27 16:58:54,225 - __main__ - INFO - Renaming Multi Stochastic.ex5 -> Multi-Stochastic.ex5
+2025-04-27 16:58:54,230 - __main__ - INFO - Renaming N Candles v2.ex5 -> N-Candles-v2.ex5
+2025-04-27 16:58:54,235 - __main__ - INFO - Renaming N Candles v3.ex5 -> N-Candles-v3.ex5
+2025-04-27 16:58:54,240 - __main__ - INFO - Renaming N Candles v4.ex5 -> N-Candles-v4.ex5
+2025-04-27 16:58:54,246 - __main__ - INFO - Renaming N Candles v5.ex5 -> N-Candles-v5.ex5
+2025-04-27 16:58:54,251 - __main__ - INFO - Renaming N Candles.ex5 -> N-Candles.ex5
+2025-04-27 16:58:54,259 - __main__ - INFO - Renaming N-_Candles_v7.ex5 -> N-Candles-v7.ex5
+2025-04-27 16:58:54,265 - __main__ - INFO - Renaming Nevalyashka3_1.ex5 -> Nevalyashka3-1.ex5
+2025-04-27 16:58:54,270 - __main__ - INFO - Renaming Nevalyashka_BreakdownLevel.ex5 -> Nevalyashka-BreakdownLevel.ex5
+2025-04-27 16:58:54,276 - __main__ - INFO - Renaming New Martin.ex5 -> New-Martin.ex5
+2025-04-27 16:58:54,281 - __main__ - INFO - Renaming New Random.ex5 -> New-Random.ex5
+2025-04-27 16:58:54,290 - __main__ - INFO - Renaming NRTR_Revers.ex5 -> NRTR-Revers.ex5
+2025-04-27 16:58:54,295 - __main__ - INFO - Renaming Open Close.ex5 -> Open-Close.ex5
+2025-04-27 16:58:54,302 - __main__ - INFO - Renaming Opening and Сlosing on time v2.ex5 -> Opening-and-losing-on-time-v2.ex5
+2025-04-27 16:58:54,307 - __main__ - INFO - Renaming Opening_and_ilosing_on_time.ex5 -> Opening-and-ilosing-on-time.ex5
+2025-04-27 16:58:54,313 - __main__ - INFO - Renaming Open_Candle_EA.ex5 -> Open-Candle-EA.ex5
+2025-04-27 16:58:54,319 - __main__ - INFO - Renaming ORB_EA_BOX.ex5 -> ORB-EA-BOX.ex5
+2025-04-27 16:58:54,325 - __main__ - INFO - Renaming OsMaSter v0.ex5 -> OsMaSter-v0.ex5
+2025-04-27 16:58:54,330 - __main__ - INFO - Renaming OTT%20AND%20PRICE%20CROSS%20EA.ex5 -> OTT20AND20PRICE20CROSS20EA.ex5
+2025-04-27 16:58:54,335 - __main__ - INFO - Renaming Par%20sar%20mt5%201.ex5 -> Par20sar20mt5201.ex5
+2025-04-27 16:58:54,342 - __main__ - INFO - Renaming Parabolic SAR.ex5 -> Parabolic-SAR.ex5
+2025-04-27 16:58:54,348 - __main__ - INFO - Renaming PARSI_v2_EA_v1.00.ex5 -> PARSI-v2-EA-v100.ex5
+2025-04-27 16:58:54,353 - __main__ - INFO - Renaming Peceptron_Mult.ex5 -> Peceptron-Mult.ex5
+2025-04-27 16:58:54,359 - __main__ - INFO - Renaming Pending orders by time.ex5 -> Pending-orders-by-time.ex5
+2025-04-27 16:58:54,364 - __main__ - INFO - Renaming Pinball machine.ex5 -> Pinball-machine.ex5
+2025-04-27 16:58:54,369 - __main__ - INFO - Renaming Pinbar_Magic_EA.ex5 -> Pinbar-Magic-EA.ex5
+2025-04-27 16:58:54,376 - __main__ - INFO - Renaming PinBar_Magic_Indicator.ex5 -> PinBar-Magic-Indicator.ex5
+2025-04-27 16:58:54,390 - __main__ - INFO - Renaming Plan X.ex5 -> Plan-X.ex5
+2025-04-27 16:58:54,401 - __main__ - INFO - Renaming Poker_SHOW.ex5 -> Poker-SHOW.ex5
+2025-04-27 16:58:54,412 - __main__ - INFO - Renaming Precipice MartIn.ex5 -> Precipice-MartIn.ex5
+2025-04-27 16:58:54,421 - __main__ - INFO - Renaming Proffessor v3.ex5 -> Proffessor-v3.ex5
+2025-04-27 16:58:54,427 - __main__ - INFO - Renaming Puria method.ex5 -> Puria-method.ex5
+2025-04-27 16:58:54,437 - __main__ - INFO - Renaming Range Breakout.ex5 -> Range-Breakout.ex5
+2025-04-27 16:58:54,444 - __main__ - INFO - Renaming Rapid Doji EA.ex5 -> Rapid-Doji-EA.ex5
+2025-04-27 16:58:54,452 - __main__ - INFO - Renaming Raymond Cloudy Day for EA.ex5 -> Raymond-Cloudy-Day-for-EA.ex5
+2025-04-27 16:58:54,458 - __main__ - INFO - Renaming Reflex_EA.ex5 -> Reflex-EA.ex5
+2025-04-27 16:58:54,465 - __main__ - INFO - Renaming REFLEX_INDICATOR.ex5 -> REFLEX-INDICATOR.ex5
+2025-04-27 16:58:54,471 - __main__ - INFO - Renaming Reversing Martingale.ex5 -> Reversing-Martingale.ex5
+2025-04-27 16:58:54,477 - __main__ - INFO - Renaming RobotPowerM5 meta4V12.ex5 -> RobotPowerM5-meta4V12.ex5
+2025-04-27 16:58:54,482 - __main__ - INFO - Renaming Robot_MACD.ex5 -> Robot-MACD.ex5
+2025-04-27 16:58:54,488 - __main__ - INFO - Renaming Rollback system.ex5 -> Rollback-system.ex5
+2025-04-27 16:58:54,494 - __main__ - INFO - Renaming RSI and Bollinger Bands.ex5 -> RSI-and-Bollinger-Bands.ex5
+2025-04-27 16:58:54,500 - __main__ - INFO - Renaming RSI EA v2.ex5 -> RSI-EA-v2.ex5
+2025-04-27 16:58:54,506 - __main__ - INFO - Renaming RSI EA.ex5 -> RSI-EA.ex5
+2025-04-27 16:58:54,511 - __main__ - INFO - Renaming RSI Eraser.ex5 -> RSI-Eraser.ex5
+2025-04-27 16:58:54,516 - __main__ - INFO - Renaming RSI Levels.ex5 -> RSI-Levels.ex5
+2025-04-27 16:58:54,523 - __main__ - INFO - Renaming RSI trader v0.15.ex5 -> RSI-trader-v015.ex5
+2025-04-27 16:58:54,528 - __main__ - INFO - Renaming RSI_Arrow.ex5 -> RSI-Arrow.ex5
+2025-04-27 16:58:54,535 - __main__ - INFO - Renaming RSI_Arrow_EA_v1.00.ex5 -> RSI-Arrow-EA-v100.ex5
+2025-04-27 16:58:54,540 - __main__ - INFO - Renaming RSI_Expert.ex5 -> RSI-Expert.ex5
+2025-04-27 16:58:54,546 - __main__ - INFO - Renaming RSI_Expert_v2.0.ex5 -> RSI-Expert-v20.ex5
+2025-04-27 16:58:54,551 - __main__ - INFO - Renaming RSI_Trend_v3.ex5 -> RSI-Trend-v3.ex5
+2025-04-27 16:58:54,556 - __main__ - INFO - Renaming RSI_Trend_v3_EA_v1.00.ex5 -> RSI-Trend-v3-EA-v100.ex5
+2025-04-27 16:58:54,562 - __main__ - INFO - Renaming RSI_with_channels.ex5 -> RSI-with-channels.ex5
+2025-04-27 16:58:54,567 - __main__ - INFO - Renaming RSI_with_channels_EA_v1.00.ex5 -> RSI-with-channels-EA-v100.ex5
+2025-04-27 16:58:54,572 - __main__ - INFO - Renaming SAR trading v2.0.ex5 -> SAR-trading-v20.ex5
+2025-04-27 16:58:54,579 - __main__ - INFO - Renaming Sell_Stop.ex5 -> Sell-Stop.ex5
+2025-04-27 16:58:54,584 - __main__ - INFO - Renaming Separate trade.ex5 -> Separate-trade.ex5
+2025-04-27 16:58:54,590 - __main__ - INFO - Renaming SilverTrend v3.ex5 -> SilverTrend-v3.ex5
+2025-04-27 16:58:54,595 - __main__ - INFO - Renaming Simple EA MA plus MACD.ex5 -> Simple-EA-MA-plus-MACD.ex5
+2025-04-27 16:58:54,601 - __main__ - INFO - Renaming Simple FX.ex5 -> Simple-FX.ex5
+2025-04-27 16:58:54,607 - __main__ - INFO - Renaming Simple%20Volume%20EA.ex5 -> Simple20Volume20EA.ex5
+2025-04-27 16:58:54,613 - __main__ - INFO - Renaming Simplest Hedging EA ever.ex5 -> Simplest-Hedging-EA-ever.ex5
+2025-04-27 16:58:54,619 - __main__ - INFO - Renaming SimpleTrade .ex5 -> SimpleTrade.ex5
+2025-04-27 16:58:54,626 - __main__ - INFO - Renaming Simple_MACD.ex5 -> Simple-MACD.ex5
+2025-04-27 16:58:54,631 - __main__ - INFO - Renaming Simple_Volume_EA_v2.ex5 -> Simple-Volume-EA-v2.ex5
+2025-04-27 16:58:54,638 - __main__ - INFO - Renaming Six_Soldiers.ex5 -> Six-Soldiers.ex5
+2025-04-27 16:58:54,643 - __main__ - INFO - Renaming Six_Soldiers_EA.ex5 -> Six-Soldiers-EA.ex5
+2025-04-27 16:58:54,650 - __main__ - INFO - Renaming Six_Soldiers_EA_Grid.ex5 -> Six-Soldiers-EA-Grid.ex5
+2025-04-27 16:58:54,657 - __main__ - INFO - Renaming Smart_Machine%20EA.ex5 -> Smart-Machine20EA.ex5
+2025-04-27 16:58:54,664 - __main__ - INFO - Renaming Smoothing Average.ex5 -> Smoothing-Average.ex5
+2025-04-27 16:58:54,670 - __main__ - INFO - Renaming Sprd_mt5%20EA.ex5 -> Sprd-mt520EA.ex5
+2025-04-27 16:58:54,677 - __main__ - INFO - Renaming ssb5_123.ex5 -> ssb5-123.ex5
+2025-04-27 16:58:54,683 - __main__ - INFO - Renaming Steve Cartwright Trader Camel CCI MACD.ex5 -> Steve-Cartwright-Trader-Camel-CCI-MACD.ex5
+2025-04-27 16:58:54,689 - __main__ - INFO - Renaming Stochastic%20Alert.ex5 -> Stochastic20Alert.ex5
+2025-04-27 16:58:54,695 - __main__ - INFO - Renaming StochasticDiffSign_EA.ex5 -> StochasticDiffSign-EA.ex5
+2025-04-27 16:58:54,701 - __main__ - INFO - Renaming Stochastic_K_Divergence.lua.ex5 -> Stochastic-K-Divergencelua.ex5
+2025-04-27 16:58:54,709 - __main__ - INFO - Renaming stochastic_three_periods.ex5 -> stochastic-three-periods.ex5
+2025-04-27 16:58:54,716 - __main__ - INFO - Renaming StochMA_EA_v1.00.ex5 -> StochMA-EA-v100.ex5
+2025-04-27 16:58:54,721 - __main__ - INFO - Renaming Stoch_EA_1192.ex5 -> Stoch-EA-1192.ex5
+2025-04-27 16:58:54,727 - __main__ - INFO - Renaming Stop Loss Take Profit.ex5 -> Stop-Loss-Take-Profit.ex5
+2025-04-27 16:58:54,734 - __main__ - INFO - Renaming Surefirething_.ex5 -> Surefirething.ex5
+2025-04-27 16:58:54,740 - __main__ - INFO - Renaming The MasterMind 2.ex5 -> The-MasterMind-2.ex5
+2025-04-27 16:58:54,747 - __main__ - INFO - Renaming The MasterMind 3.ex5 -> The-MasterMind-3.ex5
+2025-04-27 16:58:54,754 - __main__ - INFO - Renaming The MasterMind.ex5 -> The-MasterMind.ex5
+2025-04-27 16:58:54,761 - __main__ - INFO - Renaming The Puncher.ex5 -> The-Puncher.ex5
+2025-04-27 16:58:54,767 - __main__ - INFO - Renaming TheClassicTurtleTrader_no_dots.ex5 -> TheClassicTurtleTrader-no-dots.ex5
+2025-04-27 16:58:54,773 - __main__ - INFO - Renaming TheClassicTurtleTrader_no_dots_EA_v1.00.ex5 -> TheClassicTurtleTrader-no-dots-EA-v100.ex5
+2025-04-27 16:58:54,779 - __main__ - INFO - Renaming Three indicators.ex5 -> Three-indicators.ex5
+2025-04-27 16:58:54,785 - __main__ - INFO - Renaming Three neural networks.ex5 -> Three-neural-networks.ex5
+2025-04-27 16:58:54,791 - __main__ - INFO - Renaming Three timeframes.ex5 -> Three-timeframes.ex5
+2025-04-27 16:58:54,797 - __main__ - INFO - Renaming Three Typical Candles.ex5 -> Three-Typical-Candles.ex5
+2025-04-27 16:58:54,803 - __main__ - INFO - Renaming Time bomb mt5 (1).ex5 -> Time-bomb-mt5-1.ex5
+2025-04-27 16:58:54,810 - __main__ - INFO - Renaming timer_trade.ex5 -> timer-trade.ex5
+2025-04-27 16:58:54,817 - __main__ - INFO - Renaming Time_sync_forts.ex5 -> Time-sync-forts.ex5
+2025-04-27 16:58:54,824 - __main__ - INFO - Renaming TmaTrue_2.0_with_Distances_6xx.ex5 -> TmaTrue-20-with-Distances-6xx.ex5
+2025-04-27 16:58:54,831 - __main__ - INFO - Renaming TmaTrue_3.0_with_Distances_6xx.ex5 -> TmaTrue-30-with-Distances-6xx.ex5
+2025-04-27 16:58:54,837 - __main__ - INFO - Renaming TMA_ATR_Channel.ex5 -> TMA-ATR-Channel.ex5
+2025-04-27 16:58:54,843 - __main__ - INFO - Renaming TMA_ATR_EA_v1.00.ex5 -> TMA-ATR-EA-v100.ex5
+2025-04-27 16:58:54,849 - __main__ - INFO - Renaming TMA_CG_EA.ex5 -> TMA-CG-EA.ex5
+2025-04-27 16:58:54,855 - __main__ - INFO - Renaming TMA_CG_Martingale%20EA.ex5 -> TMA-CG-Martingale20EA.ex5
+2025-04-27 16:58:54,863 - __main__ - INFO - Renaming TMA_CG_mladen.ex5 -> TMA-CG-mladen.ex5
+2025-04-27 16:58:54,869 - __main__ - INFO - Renaming TMA_CG_special.ex5 -> TMA-CG-special.ex5
+2025-04-27 16:58:54,875 - __main__ - INFO - Renaming TMA_slope_bands.ex5 -> TMA-slope-bands.ex5
+2025-04-27 16:58:54,881 - __main__ - INFO - Renaming TP_with_money.ex5 -> TP-with-money.ex5
+2025-04-27 16:58:54,887 - __main__ - INFO - Renaming Trade in Channel.ex5 -> Trade-in-Channel.ex5
+2025-04-27 16:58:54,893 - __main__ - INFO - Renaming Trade on qualified RSI.ex5 -> Trade-on-qualified-RSI.ex5
+2025-04-27 16:58:54,899 - __main__ - INFO - Renaming Trading Breakout_ MrThanhTan.ex5 -> Trading-Breakout-MrThanhTan.ex5
+2025-04-27 16:58:54,906 - __main__ - INFO - Renaming Trend_Trader_Strategy.ex5 -> Trend-Trader-Strategy.ex5
+2025-04-27 16:58:54,911 - __main__ - INFO - Renaming Trend_Trader_Strategy_EA_v1.00.ex5 -> Trend-Trader-Strategy-EA-v100.ex5
+2025-04-27 16:58:54,918 - __main__ - INFO - Renaming True Scalper Profit Lock.ex5 -> True-Scalper-Profit-Lock.ex5
+2025-04-27 16:58:54,924 - __main__ - INFO - Renaming TrueSort_1100.ex5 -> TrueSort-1100.ex5
+2025-04-27 16:58:54,929 - __main__ - INFO - Renaming Tru_EA.ex5 -> Tru-EA.ex5
+2025-04-27 16:58:54,936 - __main__ - INFO - Renaming Tunnel gen4.ex5 -> Tunnel-gen4.ex5
+2025-04-27 16:58:54,941 - __main__ - INFO - Renaming Tunnel Method.ex5 -> Tunnel-Method.ex5
+2025-04-27 16:58:54,948 - __main__ - INFO - Renaming Two pending orders 2.ex5 -> Two-pending-orders-2.ex5
+2025-04-27 16:58:54,956 - __main__ - INFO - Renaming Two PerBar .ex5 -> Two-PerBar.ex5
+2025-04-27 16:58:54,963 - __main__ - INFO - Renaming Two%20MA%20RSI%20ADX%20EA.ex5 -> Two20MA20RSI20ADX20EA.ex5
+2025-04-27 16:58:54,969 - __main__ - INFO - Renaming Two%20Orders%20Panel.ex5 -> Two20Orders20Panel.ex5
+2025-04-27 16:58:54,976 - __main__ - INFO - Renaming Universum 3.0.ex5 -> Universum-30.ex5
+2025-04-27 16:58:54,981 - __main__ - INFO - Renaming UnNomGuai%20EA.ex5 -> UnNomGuai20EA.ex5
+2025-04-27 16:58:54,989 - __main__ - INFO - Renaming up3x1 Investor.ex5 -> up3x1-Investor.ex5
+2025-04-27 16:58:54,995 - __main__ - INFO - Renaming up3x1_premium_v2M.ex5 -> up3x1-premium-v2M.ex5
+2025-04-27 16:58:55,001 - __main__ - INFO - Renaming Urdala_Trol.ex5 -> Urdala-Trol.ex5
+2025-04-27 16:58:55,007 - __main__ - INFO - Renaming Very Blonde System.ex5 -> Very-Blonde-System.ex5
+2025-04-27 16:58:55,013 - __main__ - INFO - Renaming Virtual Trailing Stop.ex5 -> Virtual-Trailing-Stop.ex5
+2025-04-27 16:58:55,019 - __main__ - INFO - Renaming VLT_TRADER.ex5 -> VLT-TRADER.ex5
+2025-04-27 16:58:55,025 - __main__ - INFO - Renaming Volume trader.ex5 -> Volume-trader.ex5
+2025-04-27 16:58:55,031 - __main__ - INFO - Renaming Vortex Indicator System.ex5 -> Vortex-Indicator-System.ex5
+2025-04-27 16:58:55,038 - __main__ - INFO - Renaming VR---Overturn.ex5 -> VR-Overturn.ex5
+2025-04-27 16:58:55,043 - __main__ - INFO - Renaming VR---ZVER v.2.ex5 -> VR-ZVER-v2.ex5
+2025-04-27 16:58:55,048 - __main__ - INFO - Renaming VR---ZVER.ex5 -> VR-ZVER.ex5
+2025-04-27 16:58:55,054 - __main__ - INFO - Renaming Waddah_Attar_Win.ex5 -> Waddah-Attar-Win.ex5
+2025-04-27 16:58:55,064 - __main__ - INFO - Renaming WE TRUST.ex5 -> WE-TRUST.ex5
+2025-04-27 16:58:55,071 - __main__ - INFO - Renaming Yesterday Today.ex5 -> Yesterday-Today.ex5
+2025-04-27 16:58:55,085 - __main__ - INFO - Saved name mapping to ea_name_mapping.json

@@ -1,0 +1,85 @@
+rules:
+  # Risk/Reward Rules
+  - name: "tp_sl_ratio"
+    condition: "tp > sl"
+    apply_if: ["takeprofit", "stoploss"]
+    priority: "high"
+    error_on_fail: true
+    min_ratio: 1.5
+    max_ratio: 3.0
+    
+  # Trailing Stop Rules
+  - name: "trailing_stop_start"
+    condition: "stop > start"
+    apply_if: ["trailingstop", "trailingstart"]
+    priority: "medium"
+    error_on_fail: false
+    min_ratio: 1.2
+    max_ratio: 2.0
+    
+  # Breakeven Rules
+  - name: "breakeven_offset"
+    condition: "start > offset"
+    apply_if: ["breakevenstart", "breakevenoffset"]
+    priority: "medium"
+    error_on_fail: false
+    min_ratio: 2.0
+    max_ratio: 5.0
+    
+  # Risk Management Rules
+  - name: "risk_limit"
+    condition: "value <= 30"
+    apply_if: ["risk", "maximumrisk"]
+    priority: "high"
+    error_on_fail: true
+    
+  # Lot Size Rules
+  - name: "lot_size"
+    condition: "0.01 <= value <= 100"
+    apply_if: ["lots", "volume"]
+    priority: "high"
+    error_on_fail: true
+    
+  # Period Rules
+  - name: "period_range"
+    condition: "1 <= value <= 10000"
+    apply_if: ["period", "timeframe"]
+    priority: "medium"
+    error_on_fail: false
+
+# MT5 Parameter Constraints
+constraints:
+  risk:
+    min: 0.01
+    max: 100.0
+    step_min: 0.01
+    
+  lots:
+    min: 0.01
+    max: 100.0
+    step_min: 0.01
+    
+  stoploss:
+    min: 5.0
+    max: 1000.0
+    step_min: 1.0
+    
+  takeprofit:
+    min: 5.0
+    max: 1000.0
+    step_min: 1.0
+    
+  trailing:
+    min: 1.0
+    max: 500.0
+    step_min: 1.0
+    
+  period:
+    min: 1.0
+    max: 10000.0
+    step_min: 1.0
+    
+  deviation:
+    min: 0.0
+    max: 100.0
+    step_min: 0.1

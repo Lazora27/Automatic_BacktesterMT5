@@ -1,0 +1,20 @@
+;Expert Advisor: Test EA
+; Risk parameters
+lots=0.1
+stoploss=50
+takeprofit=100
+risk_percent=2.5
+
+; Technical parameters
+ma_period=14
+rsi_period=14
+atr_period=14
+
+; Trailing parameters
+trailing_start=20
+trailing_stop=40
+trailing_step=5
+
+; System parameters
+magic=12345
+comment=Test EA

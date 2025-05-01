@@ -1,0 +1,18 @@
+{
+    "default": {
+        "symbol": "EURUSD",
+        "timeframe": "H1"
+    },
+    "MACD-Trader": {
+        "symbol": "EURUSD",
+        "timeframe": "H1"
+    },
+    "RSI-System": {
+        "symbol": "GBPUSD",
+        "timeframe": "H4"
+    },
+    "Trend-Follower": {
+        "symbol": "USDJPY",
+        "timeframe": "D1"
+    }
+}

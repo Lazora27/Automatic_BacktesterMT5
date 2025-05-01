@@ -1,0 +1,30 @@
+; Sample MT5 Expert Advisor settings
+; Risk Management
+MaximumRisk=2.0
+Lots=0.1
+StopLoss=100
+TakeProfit=150
+
+; Trailing Settings
+TrailingStop=30
+TrailingStart=20
+TrailingStep=5
+
+; Breakeven
+BreakEvenStart=25
+BreakEvenOffset=2
+
+; Technical Parameters
+RSI_Period=14
+MA_Period=20
+Shift=1
+
+; System Parameters
+Magic=12345
+Comment=Sample EA
+Slippage=3
+
+; Feature Switches
+UseTrailing=true
+UseBreakEven=true
+UseRSI=true

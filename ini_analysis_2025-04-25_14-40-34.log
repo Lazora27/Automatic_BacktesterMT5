@@ -1,0 +1,915 @@
+=== INI File Analysis Report ===
+
+
+Batch_0001:
+-----------
+✅ 10-pips: 252 ini files
+✅ 10-pips-EURUSD: 252 ini files
+✅ 1H-EUR-USD: 252 ini files
+✅ 20011201-GBPUSD-M1: 252 ini files
+✅ 21hour: 252 ini files
+✅ 2HR-HL: 252 ini files
+✅ 2MA-4Level: 252 ini files
+✅ 2MA-Bunny-Cross: 252 ini files
+✅ 3-bars-high-low-indicator: 252 ini files
+✅ 35-Pip-Scalper: 252 ini files
+
+Batch_0002:
+-----------
+✅ 3BarsHighLowEA: 252 ini files
+✅ 3sma: 252 ini files
+✅ 3sma_: 252 ini files
+✅ 500: 252 ini files
+✅ 55-MA: 252 ini files
+✅ A: 252 ini files
+✅ AC-ACADEMY-US30: 252 ini files
+✅ Above-Below-MA: 252 ini files
+✅ Absorption: 252 ini files
+✅ Accumulator: 252 ini files
+✅ temp_3sma-1: 252 ini files
+✅ temp_temp-3sma-1: 252 ini files
+✅ temp_temp-temp-3sma-1: 252 ini files
+
+Batch_0003:
+-----------
+✅ ADX-MA: 252 ini files
+✅ ADX-MACD-Deev: 252 ini files
+✅ ADX-System: 252 ini files
+✅ AI-GOLD: 252 ini files
+✅ AI-TUNE: 252 ini files
+✅ AI-TUNE-FIXED-YFP: 252 ini files
+✅ AI-Trader: 252 ini files
+✅ AI-Tune-EAMT5-YoforexPremium: 252 ini files
+✅ AIS1: 252 ini files
+✅ AK-47-Scalper-EA-MT5: 252 ini files
+✅ temp-AI-Tune-EA-YoforexPremium: 252 ini files
+✅ temp-AK-47-Scalper-EA: 252 ini files
+✅ temp_AI-Tune-EA-YoforexPremium: 252 ini files
+✅ temp_AK-47-Scalper-EA: 252 ini files
+
+Batch_0004:
+-----------
+✅ AK-47-Scalper-EA-yoforexPremium-MT5: 252 ini files
+✅ AK-47-Scalper-EAMT4-with-sourcecode-YoforexPremium-MT5: 252 ini files
+✅ ALCHEMIST-YoforexPremium: 252 ini files
+✅ AMA-Trader: 252 ini files
+✅ Alexav-D1-Profit-GBPUSD: 252 ini files
+✅ All-Average-Ea: 252 ini files
+✅ Alligator: 252 ini files
+✅ Alligator-Simple: 252 ini files
+✅ Alpha-Zero-AI-RobotMT5-YoForexPremium: 252 ini files
+✅ Altarius-RSI-Stohastic: 252 ini files
+✅ temp-AK-47-Scalper-EA-with-sourcecode-YoforexPremium: 252 ini files
+✅ temp-AK-47-Scalper-EA-yoforexPremium: 252 ini files
+✅ temp-Alpha-Zero-AI-Robot-YoForexPremium: 252 ini files
+✅ temp_AK-47-Scalper-EA-with-sourcecode-YoforexPremium: 252 ini files
+✅ temp_AK-47-Scalper-EA-yoforexPremium: 252 ini files
+✅ temp_Alpha-Zero-AI-Robot-YoForexPremium: 252 ini files
+
+Batch_0005:
+-----------
+✅ AMA-Trader-2: 252 ini files
+✅ AO-Lightning: 252 ini files
+✅ AOCCI: 252 ini files
+✅ ATR-SCLAPER: 252 ini files
+✅ ArbSint: 252 ini files
+✅ Arbitrage: 252 ini files
+✅ Area-MACD: 252 ini files
+✅ Artificial-Intelligence: 252 ini files
+✅ At-random: 252 ini files
+✅ At-random-Full: 252 ini files
+
+Batch_0006:
+-----------
+✅ ATR-SCLAPER-EA-MT5-YoforexPremium: 252 ini files
+✅ Auto-ADX: 252 ini files
+✅ Auto-Pivot-Plotter-28Mid-Levels-29-41: 252 ini files
+✅ AutoLock-EA: 252 ini files
+✅ Autotrader-Momentum: 252 ini files
+✅ Avalanche-AV: 252 ini files
+✅ BADX: 252 ini files
+✅ Backbone: 252 ini files
+✅ Bago-EA: 252 ini files
+✅ backtrader-master: 252 ini files
+✅ temp-ATR-SCLAPER-EA-YoforexPremium: 252 ini files
+✅ temp_ATR-SCLAPER-EA-YoforexPremium: 252 ini files
+
+Batch_0007:
+-----------
+✅ BARS-Alligator: 252 ini files
+✅ BB-stops-MT5: 252 ini files
+✅ BBPercentile: 252 ini files
+✅ BBPercentile-EA: 252 ini files
+✅ BDCrossOver-20EA: 252 ini files
+✅ BalancedScalper-20EA: 252 ini files
+✅ Bands-2: 252 ini files
+✅ Basic-CCI-RSI: 252 ini files
+✅ Basic-Martingale-EA-3: 252 ini files
+✅ bb-automated: 252 ini files
+✅ temp-BB-stops: 252 ini files
+✅ temp_BB-stops: 252 ini files
+
+Batch_0008:
+-----------
+✅ BEAR-row-full-EA: 252 ini files
+✅ BIG-DOG: 252 ini files
+✅ BIG-RECOVERY-EA-MT5-YoForexPremium: 252 ini files
+✅ BORN4PIPS-EA-1-YoForexPremium: 252 ini files
+✅ BORN4PIPS-EA-MT5-YoForexPremium: 252 ini files
+✅ Bill-Williams: 252 ini files
+✅ Bollinger-Band-Two-MA-and-Zig-Zag: 252 ini files
+✅ Bollinger-Bands-N-positions: 252 ini files
+✅ Bollinger-Bands-RSI: 252 ini files
+✅ bollinger: 252 ini files
+✅ temp-BIG-RECOVERY-EA-YoForexPremium: 252 ini files
+✅ temp-BORN4PIPS-EA-YoForexPremium: 252 ini files
+✅ temp_BIG-RECOVERY-EA-YoForexPremium: 252 ini files
+✅ temp_BORN4PIPS-EA-YoForexPremium: 252 ini files
+
+Batch_0009:
+-----------
+✅ BSS-1-0: 252 ini files
+✅ Brakeout-Trader: 252 ini files
+✅ Brandy: 252 ini files
+✅ Brazilian-EA-MT5-YoforexPremium: 252 ini files
+✅ Breadandbutter2: 252 ini files
+✅ Breakdown-catcher: 252 ini files
+✅ Breakout-Str: 252 ini files
+✅ Bronze-Warrioir: 252 ini files
+✅ Bruno: 252 ini files
+✅ breakdown: 252 ini files
+✅ temp-Brazilian-EA-YoforexPremium: 252 ini files
+✅ temp_Brazilian-EA-YoforexPremium: 252 ini files
+
+Batch_0010:
+-----------
+✅ BTA-Optimal-Trade-Zone-EA-v.1.0-MT5-YoForexPremium: 252 ini files
+✅ BTA-Sniper-Entry-v.1.0-EA-MT5-YoForexPremium: 252 ini files
+✅ BULL-row-full-EA: 252 ini files
+✅ Bullish-and-Bearish-Engulfing: 252 ini files
+✅ Burg-Extrapolator: 252 ini files
+✅ BykovTrend-EA: 252 ini files
+✅ BykovTrend_EA_v3: 252 ini files
+✅ Calculate-lotsize-and-Trailling-stop: 252 ini files
+✅ Candle: 252 ini files
+✅ candlepatternsexample: 252 ini files
+✅ temp-BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium: 252 ini files
+✅ temp-BTA-Sniper-Entry-v.1.0-EA-YoForexPremium: 252 ini files
+✅ temp-BykovTrend-EA-v3: 252 ini files
+✅ temp_BTA-Optimal-Trade-Zone-EA-v.1.0-YoForexPremium: 252 ini files
+✅ temp_BTA-Sniper-Entry-v.1.0-EA-YoForexPremium: 252 ini files
+✅ temp_BykovTrend-EA-v3: 252 ini files
+
+Batch_0011:
+-----------
+✅ CCI-MACD-Scalper: 252 ini files
+✅ CLOUD: 252 ini files
+✅ Carbophos: 252 ini files
+✅ CashMachine-5min: 252 ini files
+✅ Cidomo: 252 ini files
+✅ CloseAgent: 252 ini files
+✅ CloseProfit: 252 ini files
+✅ Constituents-EA: 252 ini files
+✅ Contrarian-trade-MA: 252 ini files
+✅ cloud's-trade-2: 252 ini files
+
+Batch_0012:
+-----------
+✅ CrossMA: 252 ini files
+✅ Crossing-Moving-Average: 252 ini files
+✅ Currencyprofits-01.1: 252 ini files
+✅ Daily-20reversal-20-20EA: 252 ini files
+✅ Daily-BreakPoint: 252 ini files
+✅ Daily-Candle-ScalperEA-MT5-YoForexPremium: 252 ini files
+✅ Daily-Candle-ScalperEA-MT5-YoForexPremium-1: 252 ini files
+✅ Daily-Open-EA: 252 ini files
+✅ Daily-range: 252 ini files
+✅ Dark-Mimas-MT5: 252 ini files
+✅ temp-Daily-Candle-ScalperEA-YoForexPremium: 252 ini files
+✅ temp-Daily-Candle-ScalperEA-YoForexPremium-1: 252 ini files
+✅ temp-Dark-Mimas: 252 ini files
+✅ temp_Daily-Candle-ScalperEA-YoForexPremium: 252 ini files
+✅ temp_Daily-Candle-ScalperEA-YoForexPremium-1: 252 ini files
+✅ temp_Dark-Mimas: 252 ini files
+
+Batch_0013:
+-----------
+✅ Day-Trading-PAMXA: 252 ini files
+✅ DayTrading: 252 ini files
+✅ Daydream: 252 ini files
+✅ DeMarker-Pending: 252 ini files
+✅ DeMarker-Pending-2: 252 ini files
+✅ DeMarker-Pending-2-5: 252 ini files
+✅ DeMarker-gaining-position-volume: 252 ini files
+✅ DeMarker-gaining-position-volume-2: 252 ini files
+✅ Dealers-Trade-v-7.74-MACD: 252 ini files
+✅ Deep-Drawdown-MA: 252 ini files
+
+Batch_0014:
+-----------
+✅ Dematus: 252 ini files
+✅ Divergence-20for-20many-20indicator: 252 ini files
+✅ Divergence-EA: 252 ini files
+✅ Divergence-EA-BB: 252 ini files
+✅ Divergence-EA-pip-sl-tp: 252 ini files
+✅ Doji-Arrows: 252 ini files
+✅ DojiTrader: 252 ini files
+✅ Donchian-Chanel-EA: 252 ini files
+✅ DoubleHullMA: 252 ini files
+✅ DoubleHullMA-EA: 252 ini files
+
+Batch_0015:
+-----------
+✅ DoubleMA-Crossover-EA: 252 ini files
+✅ Doubler: 252 ini files
+✅ Driver-EA-MT5: 252 ini files
+✅ Dynamic-averaging: 252 ini files
+✅ E-Friday: 252 ini files
+✅ E-Skoch-Open: 252 ini files
+✅ dummy: 252 ini files
+✅ e-Skoch-pending-orders: 252 ini files
+✅ e-Smart-Trailing: 252 ini files
+✅ e-TurboFx: 252 ini files
+✅ temp-Driver-EA: 252 ini files
+✅ temp_Driver-EA: 252 ini files
+
+Batch_0016:
+-----------
+✅ EA-Close: 252 ini files
+✅ EA-Gold-Stuff-MT5-YoForexPremium: 252 ini files
+✅ EA-MA-Stoch-RSI: 252 ini files
+✅ EA-Moving-Average: 252 ini files
+✅ EMA: 252 ini files
+✅ EMA-6.12: 252 ini files
+✅ EMA-CROSS: 252 ini files
+✅ EMA-LWMA-RSI: 252 ini files
+✅ Elevator-Robot-PMT5-YoForexPremium: 252 ini files
+✅ Elite-eFibo-Trader: 252 ini files
+✅ temp-EA-Gold-Stuff-YoForexPremium: 252 ini files
+✅ temp-Elevator-Robot-P-YoForexPremium: 252 ini files
+✅ temp_EA-Gold-Stuff-YoForexPremium: 252 ini files
+✅ temp_Elevator-Robot-P-YoForexPremium: 252 ini files
+
+Batch_0017:
+-----------
+✅ EMA-RSI-EA: 252 ini files
+✅ EMA-WMA: 252 ini files
+✅ EMA_WMA v2: 252 ini files
+✅ EURUSD-breakout: 252 ini files
+✅ EURUSDH1: 252 ini files
+✅ Eugene: 252 ini files
+✅ Euronis-Scalper-EA-MT5-With-DLL-YoForexPremium: 252 ini files
+✅ Executer-AC: 252 ini files
+✅ Executor-AO: 252 ini files
+✅ eur-usd-m5: 252 ini files
+✅ temp-EMA-WMA-v2: 252 ini files
+✅ temp-Euronis-Scalper-EA-With-DLL-YoForexPremium: 252 ini files
+✅ temp_EMA-WMA-v2: 252 ini files
+✅ temp_Euronis-Scalper-EA-With-DLL-YoForexPremium: 252 ini files
+
+Batch_0018:
+-----------
+✅ Executor-Candles: 252 ini files
+✅ Expert-NEWS: 252 ini files
+✅ Expert-RSI-Stochastic-MA: 252 ini files
+✅ ExtremePrice-EA: 252 ini files
+✅ FI-TRADING-ROBOTMT5-yoforexprenium: 252 ini files
+✅ Fi-Trading-Robot-1.0: 252 ini files
+✅ Fi-Trading-Robot-YoForexPremium: 252 ini files
+✅ FiboRetracement-20EA: 252 ini files
+✅ e-Breakeven: 252 ini files
+✅ exp-Amstell: 252 ini files
+✅ temp-FI-TRADING-ROBOT-yoforexprenium: 252 ini files
+✅ temp_FI-TRADING-ROBOT-yoforexprenium: 252 ini files
+
+Batch_0019:
+-----------
+✅ Firebird: 252 ini files
+✅ Firestorm-EA: 252 ini files
+✅ Firestorm-indicator: 252 ini files
+✅ Fluctuate: 252 ini files
+✅ Forex-Fraus-M1: 252 ini files
+✅ Forex-Profit: 252 ini files
+✅ Fractals-minimum-distance: 252 ini files
+✅ Fraktrak-xonax: 252 ini files
+✅ Frank-Ud: 252 ini files
+✅ fratal-mt5-EA: 252 ini files
+✅ temp-fratal-EA: 252 ini files
+✅ temp_fratal-EA: 252 ini files
+
+Batch_0020:
+-----------
+✅ FT-CCI: 252 ini files
+✅ FT-Sniper-GOLD-MT5-4: 252 ini files
+✅ Fuzzy-logic: 252 ini files
+✅ GAP-EA: 252 ini files
+✅ GBP9AM: 252 ini files
+✅ GalacticExplosion: 252 ini files
+✅ Galaxy-5-1.0-MT5: 252 ini files
+✅ Gandalf-PRO: 252 ini files
+✅ Gap-DM: 252 ini files
+✅ Gaps: 252 ini files
+✅ temp-FT-Sniper-GOLD-4: 252 ini files
+✅ temp-Galaxy-5-1.0: 252 ini files
+✅ temp_FT-Sniper-GOLD-4: 252 ini files
+✅ temp_Galaxy-5-1.0: 252 ini files
+
+Batch_0021:
+-----------
+✅ GO: 252 ini files
+✅ GbpChf: 252 ini files
+✅ Godzillar-EABanker-MT5-FX-XRACKED: 252 ini files
+✅ Gold-Dust: 252 ini files
+✅ GoldHero-FX-Cracked: 252 ini files
+✅ GreenTrade: 252 ini files
+✅ Grid: 252 ini files
+✅ Grid-Martingale: 252 ini files
+✅ GridEA: 252 ini files
+✅ HarVesteR: 252 ini files
+✅ temp-Godzillar-EABanker-FX-XRACKED: 252 ini files
+✅ temp_Godzillar-EABanker-FX-XRACKED: 252 ini files
+
+Batch_0022:
+-----------
+✅ HedgeEA: 252 ini files
+✅ Hedging-EA: 252 ini files
+✅ Heiken-Ashi-Smoothed-EA: 252 ini files
+✅ HeikenAshi-Lines: 252 ini files
+✅ HeikenAshi-Lines-EA: 252 ini files
+✅ hedger: 252 ini files
+✅ heiken-ashi-engulf-ea-buy-mt5: 252 ini files
+✅ heiken-ashi-engulf-sell-ea-mt5: 252 ini files
+✅ heiken-ashi-smoothed: 252 ini files
+✅ heiken-ashi-smoothedLine: 252 ini files
+✅ temp-heiken-ashi-engulf-ea-buy: 252 ini files
+✅ temp-heiken-ashi-engulf-sell-ea: 252 ini files
+✅ temp_heiken-ashi-engulf-ea-buy: 252 ini files
+✅ temp_heiken-ashi-engulf-sell-ea: 252 ini files
+
+Batch_0023:
+-----------
+✅ Heiken-Ashi-Smoothed-EA-with-MA: 252 ini files
+✅ Heinken-Ashi-Color-Candles: 252 ini files
+✅ HelloSmart: 252 ini files
+✅ High-Low-EA: 252 ini files
+✅ High-Low-Indicator: 252 ini files
+✅ Hoop-master-2: 252 ini files
+✅ Ichimoku: 252 ini files
+✅ i-impulsesystem: 252 ini files
+✅ iCCI-iMA: 252 ini files
+✅ ichimok2005: 252 ini files
+
+Batch_0024:
+-----------
+✅ ICH-With-Alert-Derekers: 252 ini files
+✅ ICH-With-Alert-Derekers-EA: 252 ini files
+✅ Ichimoku-20Kijun-20Alert: 252 ini files
+✅ Ichimoku-20Tenkan-20Alert: 252 ini files
+✅ Ichimoku-Dashboard-MT5: 252 ini files
+✅ Ichimoku-Scanner: 252 ini files
+✅ Ichimoku-Scanner-MT5: 252 ini files
+✅ Ichimoku-Signals-and-Alert: 252 ini files
+✅ IchimokuMTF-EA: 252 ini files
+✅ Ilan-iMA: 252 ini files
+✅ temp-Ichimoku-Dashboard: 252 ini files
+✅ temp-Ichimoku-Scanner-1: 252 ini files
+✅ temp_Ichimoku-Dashboard: 252 ini files
+✅ temp_Ichimoku-Scanner-1: 252 ini files
+
+Batch_0025:
+-----------
+✅ IStochastic-Trading: 252 ini files
+✅ Ilan1.4: 252 ini files
+✅ Indices-Tester: 252 ini files
+✅ Inka-20Edho-20EA: 252 ini files
+✅ Intersection-2-iMA: 252 ini files
+✅ Ivan: 252 ini files
+✅ JackPot-Strategy-Elite: 252 ini files
+✅ Jackpot-Strategy-EA: 252 ini files
+✅ iMA-iStdDev: 252 ini files
+✅ iVIDyA-Simple: 252 ini files
+
+Batch_0026:
+-----------
+✅ JK-BullP-AutoTrader: 252 ini files
+✅ JS-Chaos: 252 ini files
+✅ JS-MA-Day: 252 ini files
+✅ JS-MA-SAR-Trades: 252 ini files
+✅ JS-MA-SAR-Trades-EA-MT5-YoforexPremium: 252 ini files
+✅ JS-MA-SAR-Trades-Yoforexpremium: 252 ini files
+✅ Juggernaut: 252 ini files
+✅ KA-Gold-Bot: 252 ini files
+✅ KueFx-20Arrows: 252 ini files
+✅ KueFx-20Baseline: 252 ini files
+✅ temp-JS-MA-SAR-Trades-EA-YoforexPremium: 252 ini files
+✅ temp_JS-MA-SAR-Trades-EA-YoforexPremium: 252 ini files
+
+Batch_0027:
+-----------
+✅ KueFx-Arrows: 252 ini files
+✅ KueFx-Arrows-20EA: 252 ini files
+✅ KueFx-Arrows-EA: 252 ini files
+✅ KueFx-Baseline: 252 ini files
+✅ KueFx-Baseline-EA: 252 ini files
+✅ KueFx-Clean-2025-EA: 252 ini files
+✅ KueFxTrend-20EA: 252 ini files
+✅ KueFxTrend-EA: 252 ini files
+✅ KueFx_Arrows_EA_v1.10: 252 ini files
+✅ KueFx_Baseline_EA_v1.10: 252 ini files
+✅ temp-KueFx-Arrows-EA-v1.10: 252 ini files
+✅ temp-KueFx-Baseline-EA-v1.10: 252 ini files
+✅ temp_KueFx-Arrows-EA-v1.10: 252 ini files
+✅ temp_KueFx-Baseline-EA-v1.10: 252 ini files
+
+Batch_0028:
+-----------
+✅ Kue-Electric-EA: 252 ini files
+✅ KueFX-Money-Management: 252 ini files
+✅ KueFx-Extreme-EA: 252 ini files
+✅ KueFx-Harare-EA: 252 ini files
+✅ KueFx-Motor: 252 ini files
+✅ KueFx-Motor-EA: 252 ini files
+✅ KueFx-Trend: 252 ini files
+✅ LarryConnersRSI2: 252 ini files
+✅ Last-ZZ50: 252 ini files
+✅ Lavika100: 252 ini files
+
+Batch_0029:
+-----------
+✅ LBS: 252 ini files
+✅ LazyBot-MT5: 252 ini files
+✅ Lego-EA: 252 ini files
+✅ Lesson-3-Price-Action: 252 ini files
+✅ Lesson-4-Price-Action-MA-Filter: 252 ini files
+✅ Lesson-6-Trailling-ATR: 252 ini files
+✅ Lesson-7-Price-action-Ket-hop-Volume-VSA: 252 ini files
+✅ Little-EA: 252 ini files
+✅ Lock: 252 ini files
+✅ Locker: 252 ini files
+✅ temp-LazyBot: 252 ini files
+✅ temp_LazyBot: 252 ini files
+
+Batch_0030:
+-----------
+✅ Lucky: 252 ini files
+✅ M.A-break-mt5-buy: 252 ini files
+✅ M.A-break-mt5-sell: 252 ini files
+✅ MA MACD Position averaging v2: 252 ini files
+✅ MA-20AO-20Arrow: 252 ini files
+✅ MA-20Alert: 252 ini files
+✅ MA-Cross: 252 ini files
+✅ MA-Envelopes: 252 ini files
+✅ MA-MACD-Position-averaging: 252 ini files
+✅ MA-Trend: 252 ini files
+✅ temp-M.A-break-buy: 252 ini files
+✅ temp-M.A-break-sell: 252 ini files
+✅ temp-MA-MACD-Position-averaging-v2: 252 ini files
+✅ temp_M.A-break-buy: 252 ini files
+✅ temp_M.A-break-sell: 252 ini files
+✅ temp_MA-MACD-Position-averaging-v2: 252 ini files
+
+Batch_0031:
+-----------
+✅ MA2CCI: 252 ini files
+✅ MACD: 252 ini files
+✅ MACD-Cleaner: 252 ini files
+✅ MACD-No-Sample: 252 ini files
+✅ MACD-Stochastic: 252 ini files
+✅ MACD-Stochastic-2: 252 ini files
+✅ MACD-and-SAR: 252 ini files
+✅ MACD-signal: 252 ini files
+✅ MACD-wonder: 252 ini files
+✅ Macd-diver-and-rsi-mt5: 252 ini files
+✅ temp-Macd-diver-and-rsi: 252 ini files
+✅ temp_Macd-diver-and-rsi: 252 ini files
+
+Batch_0032:
+-----------
+✅ MACD-EA-H4: 252 ini files
+✅ MACD-wonder-YoforexPremium: 252 ini files
+✅ MACDCCI: 252 ini files
+✅ MAGrid: 252 ini files
+✅ MAMACD: 252 ini files
+✅ MacdPatternTraderAll: 252 ini files
+✅ MacdPatternTraderAll0.01: 252 ini files
+✅ MagneticBrake: 252 ini files
+✅ MagneticStopExpert: 252 ini files
+✅ Mariner-MT5: 252 ini files
+✅ temp-Mariner: 252 ini files
+✅ temp_Mariner: 252 ini files
+
+Batch_0033:
+-----------
+✅ MA-AO-EA: 252 ini files
+✅ Market-Capture: 252 ini files
+✅ Martin: 252 ini files
+✅ Martin-1: 252 ini files
+✅ Martin-for-small-deposits: 252 ini files
+✅ MartinGaleBreakout: 252 ini files
+✅ MartingailExpert: 252 ini files
+✅ Marubozu: 252 ini files
+✅ Marubozu-EA: 252 ini files
+✅ Marubozu_EA_v1.10: 252 ini files
+✅ temp-Marubozu-EA-v1.10: 252 ini files
+✅ temp_Marubozu-EA-v1.10: 252 ini files
+
+Batch_0034:
+-----------
+✅ MA-Crossover-mt5-20EA: 252 ini files
+✅ Ma-Crosses-MT5: 252 ini files
+✅ MelBar-EuSwiss-1.85: 252 ini files
+✅ MelBarTTake325-T-5.5Y-NZD-USD.ex5: 252 ini files
+✅ MelBarTTake325-T-5.5Y-NZD-USD.mq5: 252 ini files
+✅ MelBar™Take325-™-5.5Y-NZD-USD: 252 ini files
+✅ Minning-GoldMT5-Yoforexpremium: 252 ini files
+✅ Mobo-Bands: 252 ini files
+✅ Mobo-Bands-EA: 252 ini files
+✅ ma-channels: 252 ini files
+✅ temp-MA-Crossover-20EA: 252 ini files
+✅ temp-Ma-Crosses: 252 ini files
+✅ temp-Minning-Gold-Yoforexpremium: 252 ini files
+✅ temp_MA-Crossover-20EA: 252 ini files
+✅ temp_Ma-Crosses: 252 ini files
+✅ temp_Minning-Gold-Yoforexpremium: 252 ini files
+
+Batch_0035:
+-----------
+✅ Modified-Moving-Averages: 252 ini files
+✅ Momentum-M15: 252 ini files
+✅ Momo-trades: 252 ini files
+✅ Money-Fixed-Margin: 252 ini files
+✅ Money-Fixed-Risk: 252 ini files
+✅ MoneyRain: 252 ini files
+✅ Morning-evening-star-EA: 252 ini files
+✅ MostasHaR15-Pivot: 252 ini files
+✅ Moving-Average-Trade-System: 252 ini files
+✅ Moving-Averages: 252 ini files
+
+Batch_0036:
+-----------
+✅ MQL5-Wizard-MA-RSI: 252 ini files
+✅ MQL5-Wizard-MACD-Parabolic-SAR: 252 ini files
+✅ MT45: 252 ini files
+✅ MT5-CoupleHedgeEA: 252 ini files
+✅ MT5-RingSystemEA: 252 ini files
+✅ MTC-Сombo: 252 ini files
+✅ Moving-20average-20and-20ichimoku-20EA: 252 ini files
+✅ MovingAverage: 252 ini files
+✅ MovingAverageMartinGale: 252 ini files
+✅ Mt5-williams-directional-index-EA: 252 ini files
+✅ temp-5: 252 ini files
+✅ temp-CoupleHedgeEA: 252 ini files
+✅ temp-RingSystemEA: 252 ini files
+✅ temp-williams-directional-index-EA: 252 ini files
+✅ temp_-CoupleHedgeEA: 252 ini files
+✅ temp_-RingSystemEA: 252 ini files
+✅ temp_-williams-directional-index-EA: 252 ini files
+✅ temp_5: 252 ini files
+
+Batch_0037:
+-----------
+✅ Multi-Stochastic: 252 ini files
+✅ Multi-Trader-BC-Robot: 252 ini files
+✅ MultiMartin: 252 ini files
+✅ MySystem: 252 ini files
+✅ N Candles v2: 252 ini files
+✅ N Candles v3: 252 ini files
+✅ N Candles v4: 252 ini files
+✅ N Candles v5: 252 ini files
+✅ N-Candles: 252 ini files
+✅ N-_Candles_v7: 252 ini files
+✅ temp-N-Candles-v2: 252 ini files
+✅ temp-N-Candles-v3: 252 ini files
+✅ temp-N-Candles-v4: 252 ini files
+✅ temp-N-Candles-v5: 252 ini files
+✅ temp-N-Candles-v7: 252 ini files
+✅ temp_N-Candles-v2: 252 ini files
+✅ temp_N-Candles-v3: 252 ini files
+✅ temp_N-Candles-v4: 252 ini files
+✅ temp_N-Candles-v5: 252 ini files
+✅ temp_N-Candles-v7: 252 ini files
+
+Batch_0038:
+-----------
+✅ NRTR-Revers: 252 ini files
+✅ NSK-SWING-EA-MT5-Yoforexpremium: 252 ini files
+✅ Nevalyashka: 252 ini files
+✅ Nevalyashka-BreakdownLevel: 252 ini files
+✅ Nevalyashka3-1: 252 ini files
+✅ New-Martin: 252 ini files
+✅ New-Random: 252 ini files
+✅ Nextbar: 252 ini files
+✅ Night-Flat-Trade: 252 ini files
+✅ NightScalper: 252 ini files
+✅ temp-NSK-SWING-EA-Yoforexpremium: 252 ini files
+✅ temp_NSK-SWING-EA-Yoforexpremium: 252 ini files
+
+Batch_0039:
+-----------
+✅ NSK-SWING-EA-Yoforexpremium: 252 ini files
+✅ NUp1Down: 252 ini files
+✅ ORB-EA-BOX: 252 ini files
+✅ Open-Candle-EA: 252 ini files
+✅ Open-Close: 252 ini files
+✅ OpenPendingorderAfterPositionGetStopLoss: 252 ini files
+✅ OpenTicks: 252 ini files
+✅ Opening-and-ilosing-on-time: 252 ini files
+✅ Opening-and-Сlosing-on-time: 252 ini files
+✅ optimization-result: 252 ini files
+
+Batch_0040:
+-----------
+✅ OTT-20AND-20PRICE-20CROSS-20EA: 252 ini files
+✅ OsMaSter: 252 ini files
+✅ OverHedge: 252 ini files
+✅ OzFx: 252 ini files
+✅ PARSI-EA: 252 ini files
+✅ Par-20sar-20mt5-201: 252 ini files
+✅ Parabolic-SAR: 252 ini files
+✅ Peceptron-Mult: 252 ini files
+✅ Pending-orders-by-time: 252 ini files
+✅ Pending-orders-by-time-2: 252 ini files
+✅ temp-Par-20sar-20-201: 252 ini files
+✅ temp_Par-20sar-20-201: 252 ini files
+
+Batch_0041:
+-----------
+✅ POVERTY-KILLER-GHOSTMT5-YoForexPremium: 252 ini files
+✅ POW-BANKER-EA-MT5-4170-with-SetFiles-YoForexPremium: 252 ini files
+✅ Pendulum: 252 ini files
+✅ PinBar-Magic-Indicator: 252 ini files
+✅ Pinball-machine: 252 ini files
+✅ Pinbar-Magic-EA: 252 ini files
+✅ Pipsover: 252 ini files
+✅ Plan-X: 252 ini files
+✅ Plateau: 252 ini files
+✅ Poker-SHOW: 252 ini files
+✅ temp-POVERTY-KILLER-GHOST-YoForexPremium: 252 ini files
+✅ temp-POW-BANKER-EA-4170-with-SetFiles-YoForexPremium: 252 ini files
+✅ temp_POVERTY-KILLER-GHOST-YoForexPremium: 252 ini files
+✅ temp_POW-BANKER-EA-4170-with-SetFiles-YoForexPremium: 252 ini files
+
+Batch_0042:
+-----------
+✅ PROphet: 252 ini files
+✅ Precipice: 252 ini files
+✅ Precipice-MartIn: 252 ini files
+✅ PrizmaL-Pro-EAMT5-YoforexPremium: 252 ini files
+✅ Probe: 252 ini files
+✅ Proffessor: 252 ini files
+✅ PropFirmHelper: 252 ini files
+✅ Puria-method: 252 ini files
+✅ Rabbit3: 252 ini files
+✅ Range-Breakout: 252 ini files
+✅ temp-PrizmaL-Pro-EA-YoforexPremium: 252 ini files
+✅ temp_PrizmaL-Pro-EA-YoforexPremium: 252 ini files
+
+Batch_0043:
+-----------
+✅ REFLEX-INDICATOR: 252 ini files
+✅ RNN: 252 ini files
+✅ Rapid-Doji-EA: 252 ini files
+✅ Raymond-Cloudy-Day-for-EA: 252 ini files
+✅ RedDragon-v.1.03: 252 ini files
+✅ Reflex: 252 ini files
+✅ Reflex-EA: 252 ini files
+✅ Reversing-Martingale: 252 ini files
+✅ RideAlligator: 252 ini files
+✅ RobotPowerM5-meta4: 252 ini files
+
+Batch_0044:
+-----------
+✅ RSI EA v2: 252 ini files
+✅ RSI-Arrow: 252 ini files
+✅ RSI-Bollinger-Bands-EA: 252 ini files
+✅ RSI-EA: 252 ini files
+✅ RSI-Eraser: 252 ini files
+✅ RSI-Levels: 252 ini files
+✅ RSI-and-Bollinger-Bands: 252 ini files
+✅ RSI-trader: 252 ini files
+✅ Robot-MACD: 252 ini files
+✅ Rollback-system: 252 ini files
+✅ temp-RSI-EA-v2: 252 ini files
+✅ temp_RSI-EA-v2: 252 ini files
+
+Batch_0045:
+-----------
+✅ RSI-Arrow-EA: 252 ini files
+✅ RSI-Expert: 252 ini files
+✅ RSI-Trend: 252 ini files
+✅ RSI-Trend-EA: 252 ini files
+✅ RSI-with-channels: 252 ini files
+✅ RSI-with-channels-EA: 252 ini files
+✅ RSI_Expert_v2.0: 252 ini files
+✅ Russian20-hp1: 252 ini files
+✅ SampleCheckPendingOrder: 252 ini files
+✅ SampleTrailingstop-MT5: 252 ini files
+✅ temp-RSI-Expert-v2.0: 252 ini files
+✅ temp-SampleTrailingstop: 252 ini files
+✅ temp_RSI-Expert-v2.0: 252 ini files
+✅ temp_SampleTrailingstop: 252 ini files
+
+Batch_0046:
+-----------
+✅ SAR-trading: 252 ini files
+✅ Secwenta: 252 ini files
+✅ Sell-Stop: 252 ini files
+✅ Sensitive: 252 ini files
+✅ Separate-trade: 252 ini files
+✅ SilverTrend: 252 ini files
+✅ Simple-20Price-20Alert-20-20EA: 252 ini files
+✅ Simple-20Volume-20EA: 252 ini files
+✅ Simple-EA-MA-plus-MACD: 252 ini files
+✅ Simple-FX: 252 ini files
+
+Batch_0047:
+-----------
+✅ Simple-MACD: 252 ini files
+✅ Simple-Volume-EA: 252 ini files
+✅ SimplePivot: 252 ini files
+✅ SimpleTrade: 252 ini files
+✅ Simplest-Hedging-EA-ever: 252 ini files
+✅ Six-Soldiers: 252 ini files
+✅ Six-Soldiers-EA: 252 ini files
+✅ Six-Soldiers-EA-Grid: 252 ini files
+✅ Small-Inside-Bar-Strategy: 252 ini files
+✅ Smart-Machine-20EA: 252 ini files
+
+Batch_0048:
+-----------
+✅ SPYDER-EA-V-6.1-MT5-YoforexPremium: 252 ini files
+✅ Smoothing-Average: 252 ini files
+✅ Sound-Fx: 252 ini files
+✅ Spasm: 252 ini files
+✅ Sprd-mt5-20EA: 252 ini files
+✅ Stargogs-Ghost-Spike-Robot-EAMT5-YoForexPremium: 252 ini files
+✅ Stargogs-Pay-EA-MT5-YoforexPremium: 252 ini files
+✅ Starter: 252 ini files
+✅ sound: 252 ini files
+✅ ssb5-123: 252 ini files
+✅ temp-SPYDER-EA-V-6.1-YoforexPremium: 252 ini files
+✅ temp-Sprd-20EA: 252 ini files
+✅ temp-Stargogs-Ghost-Spike-Robot-EA-YoForexPremium: 252 ini files
+✅ temp-Stargogs-Pay-EA-YoforexPremium: 252 ini files
+✅ temp_SPYDER-EA-V-6.1-YoforexPremium: 252 ini files
+✅ temp_Sprd-20EA: 252 ini files
+✅ temp_Stargogs-Ghost-Spike-Robot-EA-YoForexPremium: 252 ini files
+✅ temp_Stargogs-Pay-EA-YoforexPremium: 252 ini files
+
+Batch_0049:
+-----------
+✅ Steve-Cartwright-Trader-Camel-CCI-MACD: 252 ini files
+✅ Stoch: 252 ini files
+✅ Stoch-EA-1192: 252 ini files
+✅ StochMA: 252 ini files
+✅ StochMA-EA: 252 ini files
+✅ Stochastic-20Alert: 252 ini files
+✅ Stochastic-K-Divergence.lua: 252 ini files
+✅ StochasticDiffSign-EA: 252 ini files
+✅ stochastic-three-periods: 252 ini files
+✅ stochasticdiffsign: 252 ini files
+
+Batch_0050:
+-----------
+✅ SUPER-TURBO-EAMT5-YoForexPremium: 252 ini files
+✅ Stop-Loss-Take-Profit: 252 ini files
+✅ StraddleqTrail: 252 ini files
+✅ Strategie-Boom-Crash-System-MT5-YoForexPremium: 252 ini files
+✅ Surefirething: 252 ini files
+✅ TAILOR-EA-MT5-YoForexPremium: 252 ini files
+✅ TAKASHI-SNIPEREA-MT5-yYoForexPremium: 252 ini files
+✅ TDSGlobal: 252 ini files
+✅ The-MasterMind: 252 ini files
+✅ The-MasterMind-2: 252 ini files
+✅ temp-SUPER-TURBO-EA-YoForexPremium: 252 ini files
+✅ temp-Strategie-Boom-Crash-System-YoForexPremium: 252 ini files
+✅ temp-TAILOR-EA-YoForexPremium: 252 ini files
+✅ temp-TAKASHI-SNIPEREA-yYoForexPremium: 252 ini files
+✅ temp_SUPER-TURBO-EA-YoForexPremium: 252 ini files
+✅ temp_Strategie-Boom-Crash-System-YoForexPremium: 252 ini files
+✅ temp_TAILOR-EA-YoForexPremium: 252 ini files
+✅ temp_TAKASHI-SNIPEREA-yYoForexPremium: 252 ini files
+
+Batch_0051:
+-----------
+✅ The-MasterMind-3: 252 ini files
+✅ The-Puncher: 252 ini files
+✅ TheClassicTurtleTrader-no-dots: 252 ini files
+✅ TheClassicTurtleTrader-no-dots-EA: 252 ini files
+✅ Thomas-EA-MT5-YoForexPremium: 252 ini files
+✅ Three-Typical-Candles: 252 ini files
+✅ Three-indicators: 252 ini files
+✅ Three-neural-networks: 252 ini files
+✅ Three-timeframes: 252 ini files
+✅ Time-bomb-mt5-1: 252 ini files
+✅ temp-Thomas-EA-YoForexPremium: 252 ini files
+✅ temp-Thomas-EA-YoForexPremium-1: 252 ini files
+✅ temp-Time-bomb-1: 252 ini files
+✅ temp-Time-bomb-1-1: 252 ini files
+✅ temp_Thomas-EA-YoForexPremium: 252 ini files
+✅ temp_Time-bomb-1: 252 ini files
+
+Batch_0052:
+-----------
+✅ TMA-ATR-Channel: 252 ini files
+✅ TMA-ATR-EA: 252 ini files
+✅ TMA-CG-EA: 252 ini files
+✅ TMA-CG-Martingale-20EA: 252 ini files
+✅ TMA-CG-mladen: 252 ini files
+✅ Time-sync-forts: 252 ini files
+✅ Titan-X-21.18-EA-MT5: 252 ini files
+✅ TmaTrue-2.0-with-Distances-6xx: 252 ini files
+✅ TmaTrue-3.0-with-Distances-6xx: 252 ini files
+✅ temp-Titan-X-21.18-EA: 252 ini files
+✅ temp-Titan-X-21.18-EA-1: 252 ini files
+✅ temp_Titan-X-21.18-EA: 252 ini files
+✅ timer-trade: 252 ini files
+
+Batch_0053:
+-----------
+✅ TMA-CG-special: 252 ini files
+✅ TMA-slope-bands: 252 ini files
+✅ TP-with-money: 252 ini files
+✅ Trade-Republic-1.75-MT5: 252 ini files
+✅ Trade-in-Channel: 252 ini files
+✅ Trade-on-qualified-RSI: 252 ini files
+✅ Trading-Breakout-MrThanhTan: 252 ini files
+✅ Trend-Trader-Strategy: 252 ini files
+✅ Trend-Trader-Strategy-EA: 252 ini files
+✅ True-Scalper-Profit-Lock: 252 ini files
+✅ temp-Trade-Republic-1.75: 252 ini files
+✅ temp-Trade-Republic-1.75-1: 252 ini files
+✅ temp_Trade-Republic-1.75: 252 ini files
+
+Batch_0054:
+-----------
+✅ Tru-EA: 252 ini files
+✅ TrueSort-1100: 252 ini files
+✅ Tunnel-Method: 252 ini files
+✅ Tunnel-Vision-2024-EA-MT5-YoForexPremium: 252 ini files
+✅ Tunnel-gen4: 252 ini files
+✅ TurnGrid: 252 ini files
+✅ Two-20MA-20RSI-20ADX-20EA: 252 ini files
+✅ Two-20Orders-20Panel: 252 ini files
+✅ Two-PerBar: 252 ini files
+✅ Two-pending-orders-2: 252 ini files
+✅ temp-Tunnel-Vision-2024-EA-YoForexPremium: 252 ini files
+✅ temp-Tunnel-Vision-2024-EA-YoForexPremium-1: 252 ini files
+✅ temp_Tunnel-Vision-2024-EA-YoForexPremium: 252 ini files
+
+Batch_0055:
+-----------
+✅ UnNomGuai-20EA: 252 ini files
+✅ UnityPro: 252 ini files
+✅ UniversalMACrossEA: 252 ini files
+✅ UniversalSignalDemo: 252 ini files
+✅ Universum-3.0: 252 ini files
+✅ Upgraded-EA-CRASH-1000MT5-YoforexPremium: 252 ini files
+✅ Urdala-Trol: 252 ini files
+✅ temp-Upgraded-EA-CRASH-1000-YoforexPremium: 252 ini files
+✅ temp-Upgraded-EA-CRASH-1000-YoforexPremium-1: 252 ini files
+✅ temp_Upgraded-EA-CRASH-1000-YoforexPremium: 252 ini files
+✅ up3x1: 252 ini files
+✅ up3x1-Investor: 252 ini files
+✅ up3x1-premium-M: 252 ini files
+
+Batch_0056:
+-----------
+✅ VLT-TRADER: 252 ini files
+✅ VR-Overturn: 252 ini files
+✅ VR-ZVER: 252 ini files
+✅ VR-ZVER-v.2: 252 ini files
+✅ VZO: 252 ini files
+✅ Very-Blonde-System: 252 ini files
+✅ Virtual-Trailing-Stop: 252 ini files
+✅ Volume-trader: 252 ini files
+✅ Vortex-Indicator-System: 252 ini files
+✅ Waddah-Attar-Win: 252 ini files
+
+Batch_0057:
+-----------
+✅ NSK-Swing: 252 ini files
+✅ Simple-Trade: 252 ini files
+✅ Two-Perbar: 252 ini files
+✅ WE-TRUST: 252 ini files
+✅ X-RSIOMA: 252 ini files
+✅ XKPRMST-EA-MT5-YoForexPremium: 252 ini files
+✅ XT-EURUSD-EA-MT5-YoForexPremium: 252 ini files
+✅ Yesterday-Today: 252 ini files
+✅ Yumnaa-Classic-EA-MT5-Setfiles-YoForexPremium: 252 ini files
+✅ temp-XKPRMST-EA-YoForexPremium: 252 ini files
+✅ temp-XKPRMST-EA-YoForexPremium-1: 252 ini files
+✅ temp-XT-EURUSD-EA-YoForexPremium: 252 ini files
+✅ temp-XT-EURUSD-EA-YoForexPremium-1: 252 ini files
+✅ temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium: 252 ini files
+✅ temp-Yumnaa-Classic-EA-Setfiles-YoForexPremium-1: 252 ini files
+✅ temp_XKPRMST-EA-YoForexPremium: 252 ini files
+✅ temp_XT-EURUSD-EA-YoForexPremium: 252 ini files
+✅ temp_Yumnaa-Classic-EA-Setfiles-YoForexPremium: 252 ini files
+✅ wagonKing1-EA: 252 ini files
+
+=== Summary Statistics ===
+Total EAs processed: 736
+Successfully created (252 ini files): 736
+Failed to create 252 ini files: 0
+Success rate: 100.00%

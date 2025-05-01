@@ -1,0 +1,749 @@
+=== INI File Analysis Report ===
+
+
+Batch_0001:
+-----------
+⚠️ 10 pips: 255 ini files (more than expected)
+⚠️ 10 pips EURUSD: 255 ini files (more than expected)
+⚠️ 1H EUR_USD: 255 ini files (more than expected)
+⚠️ 20011201_GBPUSD_M1_v2: 255 ini files (more than expected)
+⚠️ 21hour: 255 ini files (more than expected)
+⚠️ 2HR_HL_EA_v1.00: 255 ini files (more than expected)
+⚠️ 2MA Bunny Cross Expert: 255 ini files (more than expected)
+⚠️ 2MA_4Level: 255 ini files (more than expected)
+⚠️ 3-bars-high-low-indicator: 255 ini files (more than expected)
+⚠️ 3.5_Pip_Scalper_EA: 255 ini files (more than expected)
+
+Batch_0002:
+-----------
+❌ A: 2 ini files (Found 2/252 ini files)
+❌ AC ACADEMY US30 EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Accumulator EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ 3BarsHighLowEA: 255 ini files (more than expected)
+⚠️ 3sma: 256 ini files (more than expected)
+⚠️ 3sma_v2: 255 ini files (more than expected)
+⚠️ 500: 255 ini files (more than expected)
+⚠️ 55 MA: 255 ini files (more than expected)
+⚠️ Above Below MA: 255 ini files (more than expected)
+⚠️ Absorption: 255 ini files (more than expected)
+
+Batch_0003:
+-----------
+❌ AI GOLD EA: 2 ini files (Found 2/252 ini files)
+❌ AI TUNE EA V3.0 MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ AI TUNE FIXED@YFP: 2 ini files (Found 2/252 ini files)
+❌ AI Trader EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ AI Tune EA V3.3 MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ ADX & MA: 255 ini files (more than expected)
+⚠️ ADX MACD Deev: 255 ini files (more than expected)
+⚠️ ADX System: 255 ini files (more than expected)
+⚠️ AIS1: 255 ini files (more than expected)
+⚠️ AK-47 Scalper EA - MT5: 255 ini files (more than expected)
+
+Batch_0004:
+-----------
+❌ AK-47 Scalper EA V1 MT4 with sourcecode@YoforexPremium - MT5: 2 ini files (Found 2/252 ini files)
+❌ ALCHEMIST@YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ Alpha Zero AI Robot V1.0 MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ AK-47 Scalper EA @yoforexPremium- MT5: 255 ini files (more than expected)
+⚠️ AMA Trader: 255 ini files (more than expected)
+⚠️ Alexav D1 Profit GBPUSD: 255 ini files (more than expected)
+⚠️ All_Average_Ea: 255 ini files (more than expected)
+⚠️ Alligator: 255 ini files (more than expected)
+⚠️ Alligator Simple v1.0: 255 ini files (more than expected)
+⚠️ Altarius_RSI_Stohastic: 255 ini files (more than expected)
+
+Batch_0005:
+-----------
+❌ ATR SCLAPER: 2 ini files (Found 2/252 ini files)
+⚠️ AMA Trader 2: 255 ini files (more than expected)
+⚠️ AOCCI: 255 ini files (more than expected)
+⚠️ AO_Lightning: 255 ini files (more than expected)
+⚠️ ArbSint: 255 ini files (more than expected)
+⚠️ Arbitrage: 255 ini files (more than expected)
+⚠️ Area MACD: 255 ini files (more than expected)
+⚠️ Artificial Intelligence: 255 ini files (more than expected)
+⚠️ At random: 255 ini files (more than expected)
+⚠️ At random Full: 255 ini files (more than expected)
+
+Batch_0006:
+-----------
+❌ ATR SCLAPER EA MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ backtrader-master: 2 ini files (Found 2/252 ini files)
+⚠️ Auto ADX: 255 ini files (more than expected)
+⚠️ Auto-Pivot_Plotter_%28Mid-Levels%29_V1-41: 255 ini files (more than expected)
+⚠️ AutoLock_EA_v2: 255 ini files (more than expected)
+⚠️ Autotrader Momentum: 255 ini files (more than expected)
+⚠️ Avalanche AV: 255 ini files (more than expected)
+⚠️ BADX: 255 ini files (more than expected)
+⚠️ Backbone: 255 ini files (more than expected)
+⚠️ Bago EA: 255 ini files (more than expected)
+
+Batch_0007:
+-----------
+❌ bb-automated: 2 ini files (Found 2/252 ini files)
+⚠️ BARS Alligator: 255 ini files (more than expected)
+⚠️ BBPercentile: 256 ini files (more than expected)
+⚠️ BBPercentile_EA: 255 ini files (more than expected)
+⚠️ BB_stops_MT5: 255 ini files (more than expected)
+⚠️ BDCrossOver%20EA: 255 ini files (more than expected)
+⚠️ BalancedScalper%20EA: 255 ini files (more than expected)
+⚠️ Bands 2: 255 ini files (more than expected)
+⚠️ Basic CCI RSI: 255 ini files (more than expected)
+⚠️ Basic Martingale EA 3: 255 ini files (more than expected)
+
+Batch_0008:
+-----------
+❌ BEAR row full EA: 2 ini files (Found 2/252 ini files)
+❌ BIG RECOVERY EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ BORN4PIPS EA (1)@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ BORN4PIPS EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ BIG DOG: 255 ini files (more than expected)
+⚠️ Bill Williams: 255 ini files (more than expected)
+⚠️ Bollinger Band Two MA and Zig-Zag: 255 ini files (more than expected)
+⚠️ Bollinger Bands N positions: 255 ini files (more than expected)
+⚠️ Bollinger Bands RSI: 255 ini files (more than expected)
+⚠️ bollinger: 255 ini files (more than expected)
+
+Batch_0009:
+-----------
+❌ Brazilian EA MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ BSS 1_0: 255 ini files (more than expected)
+⚠️ Brakeout_Trader_v1: 255 ini files (more than expected)
+⚠️ Brandy: 255 ini files (more than expected)
+⚠️ Breadandbutter2: 255 ini files (more than expected)
+⚠️ Breakdown catcher: 255 ini files (more than expected)
+⚠️ Breakout_Str: 255 ini files (more than expected)
+⚠️ Bronze Warrioir: 255 ini files (more than expected)
+⚠️ Bruno: 255 ini files (more than expected)
+⚠️ breakdown: 255 ini files (more than expected)
+
+Batch_0010:
+-----------
+❌ BTA Optimal Trade Zone EA v.1.0 MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ BTA Sniper Entry v.1.0 EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ BULL row full EA: 2 ini files (Found 2/252 ini files)
+⚠️ Bullish and Bearish Engulfing: 255 ini files (more than expected)
+⚠️ Burg Extrapolator: 255 ini files (more than expected)
+⚠️ BykovTrend_EA: 256 ini files (more than expected)
+⚠️ BykovTrend_EA_v3: 253 ini files (more than expected)
+⚠️ Calculate lotsize and Trailling stop: 255 ini files (more than expected)
+⚠️ Candle: 255 ini files (more than expected)
+⚠️ candlepatternsexample: 255 ini files (more than expected)
+
+Batch_0011:
+-----------
+⚠️ CCI MACD Scalper: 255 ini files (more than expected)
+⚠️ CLOUD: 255 ini files (more than expected)
+⚠️ Carbophos: 255 ini files (more than expected)
+⚠️ CashMachine_5min: 255 ini files (more than expected)
+⚠️ Cidomo: 255 ini files (more than expected)
+⚠️ CloseAgent: 255 ini files (more than expected)
+⚠️ CloseProfit v2: 255 ini files (more than expected)
+⚠️ Constituents EA: 255 ini files (more than expected)
+⚠️ Contrarian trade MA: 255 ini files (more than expected)
+⚠️ cloud's trade 2: 255 ini files (more than expected)
+
+Batch_0012:
+-----------
+❌ Daily Candle Scalper V2.8 EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Daily Candle Scalper V2.8 EA MT5@YoForexPremium (1): 2 ini files (Found 2/252 ini files)
+❌ Dark Mimas MT5: 2 ini files (Found 2/252 ini files)
+⚠️ CrossMA: 255 ini files (more than expected)
+⚠️ Crossing Moving Average: 255 ini files (more than expected)
+⚠️ Currencyprofits_01.1: 255 ini files (more than expected)
+⚠️ Daily BreakPoint: 255 ini files (more than expected)
+⚠️ Daily range: 255 ini files (more than expected)
+⚠️ Daily%20reversal%20%20EA: 255 ini files (more than expected)
+⚠️ Daily_Open_EA: 255 ini files (more than expected)
+
+Batch_0013:
+-----------
+⚠️ Day Trading PAMXA: 255 ini files (more than expected)
+⚠️ DayTrading: 255 ini files (more than expected)
+⚠️ Daydream: 255 ini files (more than expected)
+⚠️ DeMarker Pending: 255 ini files (more than expected)
+⚠️ DeMarker Pending 2: 256 ini files (more than expected)
+⚠️ DeMarker Pending 2_5: 255 ini files (more than expected)
+⚠️ DeMarker gaining position volume: 255 ini files (more than expected)
+⚠️ DeMarker gaining position volume 2: 255 ini files (more than expected)
+⚠️ Dealers Trade v 7.74 MACD: 255 ini files (more than expected)
+⚠️ Deep Drawdown MA: 255 ini files (more than expected)
+
+Batch_0014:
+-----------
+❌ Divergence EA BB: 2 ini files (Found 2/252 ini files)
+❌ Divergence EA pip sl tp: 2 ini files (Found 2/252 ini files)
+⚠️ Dematus: 255 ini files (more than expected)
+⚠️ Divergence%20for%20many%20indicator: 255 ini files (more than expected)
+⚠️ Divergence_EA: 255 ini files (more than expected)
+⚠️ Doji Arrows: 255 ini files (more than expected)
+⚠️ DojiTrader: 255 ini files (more than expected)
+⚠️ Donchian_Chanel_EA: 255 ini files (more than expected)
+⚠️ DoubleHullMA: 256 ini files (more than expected)
+⚠️ DoubleHullMA_EA: 255 ini files (more than expected)
+
+Batch_0015:
+-----------
+⚠️ DoubleMA Crossover EA: 255 ini files (more than expected)
+⚠️ Doubler: 255 ini files (more than expected)
+⚠️ Driver_EA_MT5: 255 ini files (more than expected)
+⚠️ Dynamic averaging: 255 ini files (more than expected)
+⚠️ E-Friday: 255 ini files (more than expected)
+⚠️ E-Skoch-Open: 255 ini files (more than expected)
+⚠️ dummy: 255 ini files (more than expected)
+⚠️ e-Skoch pending orders: 255 ini files (more than expected)
+⚠️ e-Smart_Trailing: 255 ini files (more than expected)
+⚠️ e-TurboFx: 255 ini files (more than expected)
+
+Batch_0016:
+-----------
+❌ EA Gold Stuff MT5 v9.0@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Elevator Robot PV1.1 MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ EA Close: 255 ini files (more than expected)
+⚠️ EA Moving Average: 255 ini files (more than expected)
+⚠️ EA_MA_Stoch_RSI: 255 ini files (more than expected)
+⚠️ EMA: 259 ini files (more than expected)
+⚠️ EMA 6.12: 255 ini files (more than expected)
+⚠️ EMA LWMA RSI: 255 ini files (more than expected)
+⚠️ EMA_CROSS: 255 ini files (more than expected)
+⚠️ Elite eFibo Trader: 255 ini files (more than expected)
+
+Batch_0017:
+-----------
+❌ EURUSDH1: 2 ini files (Found 2/252 ini files)
+❌ Euronis Scalper EA MT5 With DLL@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ EMA_RSI_EA_v1.00: 255 ini files (more than expected)
+⚠️ EMA_WMA: 255 ini files (more than expected)
+⚠️ EMA_WMA v2: 255 ini files (more than expected)
+⚠️ EURUSD breakout: 255 ini files (more than expected)
+⚠️ Eugene: 255 ini files (more than expected)
+⚠️ Executer AC: 255 ini files (more than expected)
+⚠️ Executor AO: 255 ini files (more than expected)
+⚠️ eur usd m5: 255 ini files (more than expected)
+
+Batch_0018:
+-----------
+❌ FI TRADING ROBOT V1.0 MT5@yoforexprenium: 2 ini files (Found 2/252 ini files)
+❌ Fi-Trading Robot 1.0: 2 ini files (Found 2/252 ini files)
+❌ Fi-Trading Robot V2.0@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ Executor Candles: 255 ini files (more than expected)
+⚠️ Expert_NEWS: 255 ini files (more than expected)
+⚠️ Expert_RSI_Stochastic_MA: 255 ini files (more than expected)
+⚠️ ExtremePrice_EA_v1.00: 255 ini files (more than expected)
+⚠️ FiboRetracement%20EA: 255 ini files (more than expected)
+⚠️ e_Breakeven_v4: 255 ini files (more than expected)
+⚠️ exp_Amstell: 255 ini files (more than expected)
+
+Batch_0019:
+-----------
+⚠️ Firebird v0.60: 255 ini files (more than expected)
+⚠️ Firestorm_EA: 254 ini files (more than expected)
+⚠️ Firestorm_indicator: 255 ini files (more than expected)
+⚠️ Fluctuate: 255 ini files (more than expected)
+⚠️ Forex Fraus M1: 255 ini files (more than expected)
+⚠️ Forex Profit: 255 ini files (more than expected)
+⚠️ Fractals minimum distance: 255 ini files (more than expected)
+⚠️ Fraktrak xonax: 255 ini files (more than expected)
+⚠️ Frank Ud: 255 ini files (more than expected)
+⚠️ fratal_mt5_EA: 255 ini files (more than expected)
+
+Batch_0020:
+-----------
+❌ FT Sniper GOLD MT5 (4): 2 ini files (Found 2/252 ini files)
+❌ Galaxy 5 1.0 MT5: 2 ini files (Found 2/252 ini files)
+⚠️ FT_CCI: 255 ini files (more than expected)
+⚠️ Fuzzy logic: 255 ini files (more than expected)
+⚠️ GAP_EA_v1.00: 255 ini files (more than expected)
+⚠️ GBP9AM: 255 ini files (more than expected)
+⚠️ GalacticExplosion: 255 ini files (more than expected)
+⚠️ Gandalf_PRO: 255 ini files (more than expected)
+⚠️ Gap DM: 255 ini files (more than expected)
+⚠️ Gaps: 255 ini files (more than expected)
+
+Batch_0021:
+-----------
+❌ Godzillar EA V4.0 Banker MT5 @FX XRACKED: 2 ini files (Found 2/252 ini files)
+❌ GoldHeroV4@FX Cracked: 2 ini files (Found 2/252 ini files)
+⚠️ GO: 255 ini files (more than expected)
+⚠️ GbpChf: 255 ini files (more than expected)
+⚠️ Gold Dust: 255 ini files (more than expected)
+⚠️ GreenTrade: 255 ini files (more than expected)
+⚠️ Grid: 256 ini files (more than expected)
+⚠️ GridEA: 255 ini files (more than expected)
+⚠️ Grid_Martingale: 255 ini files (more than expected)
+⚠️ HarVesteR: 255 ini files (more than expected)
+
+Batch_0022:
+-----------
+❌ heiken ashi engulf ea buy mt5: 2 ini files (Found 2/252 ini files)
+❌ heiken ashi engulf sell ea mt5: 2 ini files (Found 2/252 ini files)
+⚠️ HedgeEA: 255 ini files (more than expected)
+⚠️ Hedging_EA: 255 ini files (more than expected)
+⚠️ HeikenAshi_Lines: 256 ini files (more than expected)
+⚠️ HeikenAshi_Lines_EA: 255 ini files (more than expected)
+⚠️ Heiken_Ashi_Smoothed_EA: 256 ini files (more than expected)
+⚠️ hedger: 255 ini files (more than expected)
+⚠️ heiken-ashi-smoothed: 255 ini files (more than expected)
+⚠️ heiken-ashi-smoothedLine: 255 ini files (more than expected)
+
+Batch_0023:
+-----------
+❌ i-impulsesystem: 2 ini files (Found 2/252 ini files)
+⚠️ Heiken_Ashi_Smoothed_EA_with_MA: 255 ini files (more than expected)
+⚠️ Heinken_Ashi_Color_Candles: 255 ini files (more than expected)
+⚠️ HelloSmart: 255 ini files (more than expected)
+⚠️ High_Low_EA: 255 ini files (more than expected)
+⚠️ High_Low_Indicator: 255 ini files (more than expected)
+⚠️ Hoop master 2: 255 ini files (more than expected)
+⚠️ Ichimoku: 259 ini files (more than expected)
+⚠️ iCCI iMA: 255 ini files (more than expected)
+⚠️ ichimok2005: 255 ini files (more than expected)
+
+Batch_0024:
+-----------
+⚠️ ICH_With_Alert_Derekers: 256 ini files (more than expected)
+⚠️ ICH_With_Alert_Derekers_EA: 255 ini files (more than expected)
+⚠️ Ichimoku%20Kijun%20Alert: 255 ini files (more than expected)
+⚠️ Ichimoku%20Tenkan%20Alert: 255 ini files (more than expected)
+⚠️ IchimokuMTF_EA_v1.00: 255 ini files (more than expected)
+⚠️ Ichimoku_Dashboard_MT5: 255 ini files (more than expected)
+⚠️ Ichimoku_Scanner: 256 ini files (more than expected)
+⚠️ Ichimoku_Scanner_MT5: 255 ini files (more than expected)
+⚠️ Ichimoku_Signals_and_Alert: 255 ini files (more than expected)
+⚠️ Ilan iMA: 255 ini files (more than expected)
+
+Batch_0025:
+-----------
+⚠️ IStochastic_Trading: 255 ini files (more than expected)
+⚠️ Ilan1.4: 255 ini files (more than expected)
+⚠️ Indices Tester: 255 ini files (more than expected)
+⚠️ Inka%20Edho%20EA: 255 ini files (more than expected)
+⚠️ Intersection 2 iMA: 255 ini files (more than expected)
+⚠️ Ivan: 255 ini files (more than expected)
+⚠️ JackPot_Strategy_Elite: 255 ini files (more than expected)
+⚠️ Jackpot_Strategy_EA: 255 ini files (more than expected)
+⚠️ iMA iStdDev: 255 ini files (more than expected)
+⚠️ iVIDyA Simple: 255 ini files (more than expected)
+
+Batch_0026:
+-----------
+❌ JS MA SAR Trades EA MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ JS MA SAR Trades@Yoforexpremium: 2 ini files (Found 2/252 ini files)
+❌ Juggernaut V1.3: 2 ini files (Found 2/252 ini files)
+⚠️ JK BullP AutoTrader: 255 ini files (more than expected)
+⚠️ JS MA SAR Trades: 255 ini files (more than expected)
+⚠️ JS-Chaos: 255 ini files (more than expected)
+⚠️ JS-MA-Day: 255 ini files (more than expected)
+⚠️ KA-Gold Bot: 255 ini files (more than expected)
+⚠️ KueFx%20Arrows: 255 ini files (more than expected)
+⚠️ KueFx%20Baseline: 255 ini files (more than expected)
+
+Batch_0027:
+-----------
+⚠️ KueFxTrend%20EA: 255 ini files (more than expected)
+⚠️ KueFxTrend_EA: 255 ini files (more than expected)
+⚠️ KueFx_Arrows: 257 ini files (more than expected)
+⚠️ KueFx_Arrows%20EA: 255 ini files (more than expected)
+⚠️ KueFx_Arrows_EA_v1.00: 255 ini files (more than expected)
+⚠️ KueFx_Arrows_EA_v1.10: 255 ini files (more than expected)
+⚠️ KueFx_Baseline_EA_v1.00: 255 ini files (more than expected)
+⚠️ KueFx_Baseline_EA_v1.10: 255 ini files (more than expected)
+⚠️ KueFx_Baseline_v1.10: 255 ini files (more than expected)
+⚠️ KueFx_Clean_2025_EA: 255 ini files (more than expected)
+
+Batch_0028:
+-----------
+⚠️ KueFX_Money_Management: 255 ini files (more than expected)
+⚠️ KueFx_Extreme_EA: 255 ini files (more than expected)
+⚠️ KueFx_Harare_EA: 255 ini files (more than expected)
+⚠️ KueFx_Motor_EA_v1.00: 255 ini files (more than expected)
+⚠️ KueFx_Motor_v1.00: 255 ini files (more than expected)
+⚠️ KueFx_Trend: 255 ini files (more than expected)
+⚠️ Kue_Electric_EA: 255 ini files (more than expected)
+⚠️ LarryConnersRSI2: 255 ini files (more than expected)
+⚠️ Last ZZ50: 255 ini files (more than expected)
+⚠️ Lavika100: 255 ini files (more than expected)
+
+Batch_0029:
+-----------
+⚠️ LBS: 255 ini files (more than expected)
+⚠️ LazyBot MT5_V1: 255 ini files (more than expected)
+⚠️ Lego EA: 255 ini files (more than expected)
+⚠️ Lesson 3_ Price Action: 255 ini files (more than expected)
+⚠️ Lesson 4_ Price Action & MA Filter: 255 ini files (more than expected)
+⚠️ Lesson 6 Trailling ATR: 255 ini files (more than expected)
+⚠️ Lesson 7 Price action Ket hop Volume VSA: 255 ini files (more than expected)
+⚠️ Little EA: 255 ini files (more than expected)
+⚠️ Lock: 255 ini files (more than expected)
+⚠️ Locker: 255 ini files (more than expected)
+
+Batch_0030:
+-----------
+❌ M.A break mt5 buy: 2 ini files (Found 2/252 ini files)
+❌ M.A break mt5 sell: 2 ini files (Found 2/252 ini files)
+⚠️ Lucky: 255 ini files (more than expected)
+⚠️ MA Cross: 255 ini files (more than expected)
+⚠️ MA Envelopes: 255 ini files (more than expected)
+⚠️ MA MACD Position averaging: 255 ini files (more than expected)
+⚠️ MA MACD Position averaging v2: 255 ini files (more than expected)
+⚠️ MA Trend: 255 ini files (more than expected)
+⚠️ MA%20AO%20Arrow: 255 ini files (more than expected)
+⚠️ MA%20Alert: 255 ini files (more than expected)
+
+Batch_0031:
+-----------
+❌ MACD wonder: 2 ini files (Found 2/252 ini files)
+❌ Macd diver and rsi mt5: 2 ini files (Found 2/252 ini files)
+⚠️ MA2CCI: 255 ini files (more than expected)
+⚠️ MACD: 256 ini files (more than expected)
+⚠️ MACD Cleaner: 255 ini files (more than expected)
+⚠️ MACD No Sample: 255 ini files (more than expected)
+⚠️ MACD Stochastic: 255 ini files (more than expected)
+⚠️ MACD Stochastic 2: 255 ini files (more than expected)
+⚠️ MACD and SAR: 255 ini files (more than expected)
+⚠️ MACD signal: 255 ini files (more than expected)
+
+Batch_0032:
+-----------
+❌ MACD wonder@YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ MagneticBrake: 2 ini files (Found 2/252 ini files)
+❌ MagneticStopExpert: 2 ini files (Found 2/252 ini files)
+⚠️ MACDCCI: 255 ini files (more than expected)
+⚠️ MACD_EA_H4: 255 ini files (more than expected)
+⚠️ MAGrid: 255 ini files (more than expected)
+⚠️ MAMACD: 255 ini files (more than expected)
+⚠️ MacdPatternTraderAll: 255 ini files (more than expected)
+⚠️ MacdPatternTraderAll0.01: 255 ini files (more than expected)
+⚠️ Mariner_MT5: 255 ini files (more than expected)
+
+Batch_0033:
+-----------
+⚠️ MA_AO_EA_v1.00: 255 ini files (more than expected)
+⚠️ Market Capture: 255 ini files (more than expected)
+⚠️ Martin: 255 ini files (more than expected)
+⚠️ Martin 1: 255 ini files (more than expected)
+⚠️ Martin for small deposits: 255 ini files (more than expected)
+⚠️ MartinGaleBreakout: 255 ini files (more than expected)
+⚠️ MartingailExpert: 255 ini files (more than expected)
+⚠️ Marubozu: 257 ini files (more than expected)
+⚠️ Marubozu_EA_v1.00: 255 ini files (more than expected)
+⚠️ Marubozu_EA_v1.10: 255 ini files (more than expected)
+
+Batch_0034:
+-----------
+❌ MelBarTTake325%T 5.5Y NZD-USD.ex5: 2 ini files (Found 2/252 ini files)
+❌ MelBarTTake325%T 5.5Y NZD-USD.mq5: 2 ini files (Found 2/252 ini files)
+❌ Minning Gold V1 MT5@Yoforexpremium: 2 ini files (Found 2/252 ini files)
+⚠️ MA_Crossover_mt5%20EA: 255 ini files (more than expected)
+⚠️ Ma_Crosses_MT5: 255 ini files (more than expected)
+⚠️ MelBar EuSwiss 1.85: 255 ini files (more than expected)
+⚠️ MelBar™Take325%™ 5.5Y NZD-USD: 255 ini files (more than expected)
+⚠️ Mobo_Bands: 256 ini files (more than expected)
+⚠️ Mobo_Bands_EA: 255 ini files (more than expected)
+⚠️ ma_channels: 255 ini files (more than expected)
+
+Batch_0035:
+-----------
+⚠️ Modified Moving Averages: 255 ini files (more than expected)
+⚠️ Momentum-M15: 255 ini files (more than expected)
+⚠️ Momo_trades: 255 ini files (more than expected)
+⚠️ Money Fixed Margin: 255 ini files (more than expected)
+⚠️ Money Fixed Risk: 255 ini files (more than expected)
+⚠️ MoneyRain: 255 ini files (more than expected)
+⚠️ Morning-evening_star_EA_v1.00: 255 ini files (more than expected)
+⚠️ MostasHaR15 Pivot: 255 ini files (more than expected)
+⚠️ Moving Average Trade System: 255 ini files (more than expected)
+⚠️ Moving Averages: 255 ini files (more than expected)
+
+Batch_0036:
+-----------
+⚠️ MQL5_Wizard_MACD_Parabolic_SAR: 255 ini files (more than expected)
+⚠️ MQL5_Wizard_MA_RSI: 255 ini files (more than expected)
+⚠️ MT45: 255 ini files (more than expected)
+⚠️ MT5-CoupleHedgeEA_v2.6.3: 255 ini files (more than expected)
+⚠️ MT5-RingSystemEA_v3.7.3: 255 ini files (more than expected)
+⚠️ MTC Сombo v2: 255 ini files (more than expected)
+⚠️ Moving%20average%20and%20ichimoku%20EA: 255 ini files (more than expected)
+⚠️ MovingAverage: 255 ini files (more than expected)
+⚠️ MovingAverageMartinGale: 255 ini files (more than expected)
+⚠️ Mt5 williams % directional index EA: 255 ini files (more than expected)
+
+Batch_0037:
+-----------
+❌ Multi Trader BC Robot: 2 ini files (Found 2/252 ini files)
+⚠️ Multi Stochastic: 255 ini files (more than expected)
+⚠️ MultiMartin: 255 ini files (more than expected)
+⚠️ MySystem: 255 ini files (more than expected)
+⚠️ N Candles: 255 ini files (more than expected)
+⚠️ N Candles v2: 255 ini files (more than expected)
+⚠️ N Candles v3: 255 ini files (more than expected)
+⚠️ N Candles v4: 255 ini files (more than expected)
+⚠️ N Candles v5: 255 ini files (more than expected)
+⚠️ N-_Candles_v7: 255 ini files (more than expected)
+
+Batch_0038:
+-----------
+❌ NSK SWING EA MT5@Yoforexpremium: 2 ini files (Found 2/252 ini files)
+⚠️ NRTR_Revers: 255 ini files (more than expected)
+⚠️ Nevalyashka: 256 ini files (more than expected)
+⚠️ Nevalyashka3_1: 255 ini files (more than expected)
+⚠️ Nevalyashka_BreakdownLevel: 255 ini files (more than expected)
+⚠️ New Martin: 255 ini files (more than expected)
+⚠️ New Random: 255 ini files (more than expected)
+⚠️ Nextbar: 255 ini files (more than expected)
+⚠️ Night Flat Trade: 255 ini files (more than expected)
+⚠️ NightScalper: 255 ini files (more than expected)
+
+Batch_0039:
+-----------
+❌ NSK SWING EA@Yoforexpremium: 2 ini files (Found 2/252 ini files)
+❌ optimization result: 2 ini files (Found 2/252 ini files)
+⚠️ NUp1Down: 255 ini files (more than expected)
+⚠️ ORB_EA_BOX: 255 ini files (more than expected)
+⚠️ Open Close: 255 ini files (more than expected)
+⚠️ OpenPendingorderAfterPositionGetStopLoss: 255 ini files (more than expected)
+⚠️ OpenTicks: 255 ini files (more than expected)
+⚠️ Open_Candle_EA: 255 ini files (more than expected)
+⚠️ Opening and Сlosing on time v2: 255 ini files (more than expected)
+⚠️ Opening_and_ilosing_on_time: 255 ini files (more than expected)
+
+Batch_0040:
+-----------
+❌ Par%20sar%20mt5%201: 2 ini files (Found 2/252 ini files)
+⚠️ OTT%20AND%20PRICE%20CROSS%20EA: 255 ini files (more than expected)
+⚠️ OsMaSter v0: 255 ini files (more than expected)
+⚠️ OverHedgeV2: 255 ini files (more than expected)
+⚠️ OzFx: 255 ini files (more than expected)
+⚠️ PARSI_v2_EA_v1.00: 255 ini files (more than expected)
+⚠️ Parabolic SAR: 255 ini files (more than expected)
+⚠️ Peceptron_Mult: 255 ini files (more than expected)
+⚠️ Pending orders by time: 255 ini files (more than expected)
+⚠️ Pending orders by time 2: 255 ini files (more than expected)
+
+Batch_0041:
+-----------
+❌ POVERTY KILLER GHOST V2.0 MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ POW BANKER EA MT5 V8.44 (4170) with SetFiles@YoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ Pendulum: 255 ini files (more than expected)
+⚠️ PinBar_Magic_Indicator: 255 ini files (more than expected)
+⚠️ Pinball machine: 255 ini files (more than expected)
+⚠️ Pinbar_Magic_EA: 255 ini files (more than expected)
+⚠️ Pipsover: 255 ini files (more than expected)
+⚠️ Plan X: 255 ini files (more than expected)
+⚠️ Plateau: 255 ini files (more than expected)
+⚠️ Poker_SHOW: 255 ini files (more than expected)
+
+Batch_0042:
+-----------
+❌ PrizmaL Pro EA V10.504 MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ PROphet: 255 ini files (more than expected)
+⚠️ Precipice: 255 ini files (more than expected)
+⚠️ Precipice MartIn: 255 ini files (more than expected)
+⚠️ Probe: 255 ini files (more than expected)
+⚠️ Proffessor v3: 255 ini files (more than expected)
+⚠️ PropFirmHelper: 255 ini files (more than expected)
+⚠️ Puria method: 255 ini files (more than expected)
+⚠️ Rabbit3: 255 ini files (more than expected)
+⚠️ Range Breakout: 255 ini files (more than expected)
+
+Batch_0043:
+-----------
+❌ RedDragon_v.1.03: 2 ini files (Found 2/252 ini files)
+⚠️ REFLEX_INDICATOR: 255 ini files (more than expected)
+⚠️ RNN: 255 ini files (more than expected)
+⚠️ Rapid Doji EA: 255 ini files (more than expected)
+⚠️ Raymond Cloudy Day for EA: 255 ini files (more than expected)
+⚠️ Reflex: 257 ini files (more than expected)
+⚠️ Reflex_EA: 255 ini files (more than expected)
+⚠️ Reversing Martingale: 255 ini files (more than expected)
+⚠️ RideAlligator: 255 ini files (more than expected)
+⚠️ RobotPowerM5 meta4V12: 255 ini files (more than expected)
+
+Batch_0044:
+-----------
+❌ RSI Bollinger Bands EA: 2 ini files (Found 2/252 ini files)
+⚠️ RSI EA: 255 ini files (more than expected)
+⚠️ RSI EA v2: 255 ini files (more than expected)
+⚠️ RSI Eraser: 255 ini files (more than expected)
+⚠️ RSI Levels: 255 ini files (more than expected)
+⚠️ RSI and Bollinger Bands: 255 ini files (more than expected)
+⚠️ RSI trader v0.15: 255 ini files (more than expected)
+⚠️ RSI_Arrow: 256 ini files (more than expected)
+⚠️ Robot_MACD: 255 ini files (more than expected)
+⚠️ Rollback system: 255 ini files (more than expected)
+
+Batch_0045:
+-----------
+⚠️ RSI_Arrow_EA_v1.00: 255 ini files (more than expected)
+⚠️ RSI_Expert: 256 ini files (more than expected)
+⚠️ RSI_Expert_v2.0: 255 ini files (more than expected)
+⚠️ RSI_Trend_v3: 256 ini files (more than expected)
+⚠️ RSI_Trend_v3_EA_v1.00: 255 ini files (more than expected)
+⚠️ RSI_with_channels: 256 ini files (more than expected)
+⚠️ RSI_with_channels_EA_v1.00: 255 ini files (more than expected)
+⚠️ Russian20-hp1: 255 ini files (more than expected)
+⚠️ SampleCheckPendingOrder: 255 ini files (more than expected)
+⚠️ SampleTrailingstop-MT5: 255 ini files (more than expected)
+
+Batch_0046:
+-----------
+⚠️ SAR trading v2.0: 255 ini files (more than expected)
+⚠️ Secwenta: 255 ini files (more than expected)
+⚠️ Sell_Stop: 255 ini files (more than expected)
+⚠️ Sensitive: 255 ini files (more than expected)
+⚠️ Separate trade: 255 ini files (more than expected)
+⚠️ SilverTrend v3: 255 ini files (more than expected)
+⚠️ Simple EA MA plus MACD: 255 ini files (more than expected)
+⚠️ Simple FX: 255 ini files (more than expected)
+⚠️ Simple%20Price%20Alert%20%20EA: 255 ini files (more than expected)
+⚠️ Simple%20Volume%20EA: 255 ini files (more than expected)
+
+Batch_0047:
+-----------
+❌ SimpleTrade: 2 ini files (Found 2/252 ini files)
+⚠️ SimplePivot: 255 ini files (more than expected)
+⚠️ Simple_MACD: 255 ini files (more than expected)
+⚠️ Simple_Volume_EA_v2: 255 ini files (more than expected)
+⚠️ Simplest Hedging EA ever: 255 ini files (more than expected)
+⚠️ Six_Soldiers: 257 ini files (more than expected)
+⚠️ Six_Soldiers_EA: 256 ini files (more than expected)
+⚠️ Six_Soldiers_EA_Grid: 255 ini files (more than expected)
+⚠️ Small_Inside_Bar_Strategy: 255 ini files (more than expected)
+⚠️ Smart_Machine%20EA: 255 ini files (more than expected)
+
+Batch_0048:
+-----------
+❌ SPYDER EA V 6.1 MT5 @YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ Sound-Fx: 2 ini files (Found 2/252 ini files)
+❌ Stargogs Ghost Spike Robot EA V1.0 MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Stargogs Pay EA_MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+❌ sound: 2 ini files (Found 2/252 ini files)
+⚠️ Smoothing Average: 255 ini files (more than expected)
+⚠️ Spasm: 255 ini files (more than expected)
+⚠️ Sprd_mt5%20EA: 255 ini files (more than expected)
+⚠️ Starter: 255 ini files (more than expected)
+⚠️ ssb5_123: 255 ini files (more than expected)
+
+Batch_0049:
+-----------
+⚠️ Steve Cartwright Trader Camel CCI MACD: 255 ini files (more than expected)
+⚠️ Stoch: 256 ini files (more than expected)
+⚠️ StochMA: 256 ini files (more than expected)
+⚠️ StochMA_EA_v1.00: 255 ini files (more than expected)
+⚠️ Stoch_EA_1192: 255 ini files (more than expected)
+⚠️ Stochastic%20Alert: 255 ini files (more than expected)
+⚠️ StochasticDiffSign_EA: 255 ini files (more than expected)
+⚠️ Stochastic_K_Divergence.lua: 255 ini files (more than expected)
+⚠️ stochastic_three_periods: 255 ini files (more than expected)
+⚠️ stochasticdiffsign: 256 ini files (more than expected)
+
+Batch_0050:
+-----------
+❌ SUPER TURBO EA V2.0 MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Strategie Boom Crash System MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ TAILOR EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ TAKASHI SNIPER V2 EA MT5@yYoForexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ Stop Loss Take Profit: 255 ini files (more than expected)
+⚠️ StraddleqTrail: 255 ini files (more than expected)
+⚠️ Surefirething_: 255 ini files (more than expected)
+⚠️ TDSGlobal: 255 ini files (more than expected)
+⚠️ The MasterMind: 255 ini files (more than expected)
+⚠️ The MasterMind 2: 255 ini files (more than expected)
+
+Batch_0051:
+-----------
+❌ Thomas EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Time bomb mt5 (1): 2 ini files (Found 2/252 ini files)
+⚠️ The MasterMind 3: 255 ini files (more than expected)
+⚠️ The Puncher: 255 ini files (more than expected)
+⚠️ TheClassicTurtleTrader_no_dots: 256 ini files (more than expected)
+⚠️ TheClassicTurtleTrader_no_dots_EA_v1.00: 255 ini files (more than expected)
+⚠️ Three Typical Candles: 255 ini files (more than expected)
+⚠️ Three indicators: 255 ini files (more than expected)
+⚠️ Three neural networks: 255 ini files (more than expected)
+⚠️ Three timeframes: 255 ini files (more than expected)
+
+Batch_0052:
+-----------
+❌ Titan X 21.18 EA MT5: 2 ini files (Found 2/252 ini files)
+⚠️ TMA_ATR_Channel: 255 ini files (more than expected)
+⚠️ TMA_ATR_EA_v1.00: 255 ini files (more than expected)
+⚠️ TMA_CG_EA: 255 ini files (more than expected)
+⚠️ TMA_CG_Martingale%20EA: 255 ini files (more than expected)
+⚠️ TMA_CG_mladen: 255 ini files (more than expected)
+⚠️ Time_sync_forts: 255 ini files (more than expected)
+⚠️ TmaTrue_2.0_with_Distances_6xx: 255 ini files (more than expected)
+⚠️ TmaTrue_3.0_with_Distances_6xx: 255 ini files (more than expected)
+⚠️ timer_trade: 255 ini files (more than expected)
+
+Batch_0053:
+-----------
+❌ Trade Republic 1.75 MT5: 2 ini files (Found 2/252 ini files)
+⚠️ TMA_CG_special: 255 ini files (more than expected)
+⚠️ TMA_slope_bands: 255 ini files (more than expected)
+⚠️ TP_with_money: 255 ini files (more than expected)
+⚠️ Trade in Channel: 255 ini files (more than expected)
+⚠️ Trade on qualified RSI: 255 ini files (more than expected)
+⚠️ Trading Breakout_ MrThanhTan: 255 ini files (more than expected)
+⚠️ Trend_Trader_Strategy: 256 ini files (more than expected)
+⚠️ Trend_Trader_Strategy_EA_v1.00: 255 ini files (more than expected)
+⚠️ True Scalper Profit Lock: 255 ini files (more than expected)
+
+Batch_0054:
+-----------
+❌ Tunnel Vision 2024 EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Two PerBar: 2 ini files (Found 2/252 ini files)
+⚠️ Tru_EA: 255 ini files (more than expected)
+⚠️ TrueSort_1100: 255 ini files (more than expected)
+⚠️ Tunnel Method: 255 ini files (more than expected)
+⚠️ Tunnel gen4: 255 ini files (more than expected)
+⚠️ TurnGrid: 255 ini files (more than expected)
+⚠️ Two pending orders 2: 255 ini files (more than expected)
+⚠️ Two%20MA%20RSI%20ADX%20EA: 255 ini files (more than expected)
+⚠️ Two%20Orders%20Panel: 255 ini files (more than expected)
+
+Batch_0055:
+-----------
+❌ Upgraded EA CRASH 1000 V1.3 MT5@YoforexPremium: 2 ini files (Found 2/252 ini files)
+⚠️ UnNomGuai%20EA: 255 ini files (more than expected)
+⚠️ UnityPro: 255 ini files (more than expected)
+⚠️ UniversalMACrossEA: 255 ini files (more than expected)
+⚠️ UniversalSignalDemo: 255 ini files (more than expected)
+⚠️ Universum 3.0: 255 ini files (more than expected)
+⚠️ Urdala_Trol: 255 ini files (more than expected)
+⚠️ up3x1: 256 ini files (more than expected)
+⚠️ up3x1 Investor: 255 ini files (more than expected)
+⚠️ up3x1_premium_v2M: 255 ini files (more than expected)
+
+Batch_0056:
+-----------
+⚠️ VLT_TRADER: 255 ini files (more than expected)
+⚠️ VR---Overturn: 255 ini files (more than expected)
+⚠️ VR---ZVER: 255 ini files (more than expected)
+⚠️ VR---ZVER v.2: 255 ini files (more than expected)
+⚠️ VZO: 255 ini files (more than expected)
+⚠️ Very Blonde System: 255 ini files (more than expected)
+⚠️ Virtual Trailing Stop: 255 ini files (more than expected)
+⚠️ Volume trader: 255 ini files (more than expected)
+⚠️ Vortex Indicator System: 255 ini files (more than expected)
+⚠️ Waddah_Attar_Win: 255 ini files (more than expected)
+
+Batch_0057:
+-----------
+❌ NSK Swing: 2 ini files (Found 2/252 ini files)
+❌ Simple Trade: 2 ini files (Found 2/252 ini files)
+❌ Two Perbar: 2 ini files (Found 2/252 ini files)
+❌ XKPRMST EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ XT EURUSD EA MT5@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ Yumnaa Classic EA MT5+Setfiles@YoForexPremium: 2 ini files (Found 2/252 ini files)
+❌ wagonKing1 EA: 2 ini files (Found 2/252 ini files)
+⚠️ WE TRUST: 255 ini files (more than expected)
+⚠️ X-RSIOMA: 255 ini files (more than expected)
+⚠️ Yesterday Today: 255 ini files (more than expected)
+
+=== Summary Statistics ===
+Total EAs processed: 570
+Successfully created (252+ ini files): 481
+Failed to create 252 ini files: 89
+Success rate: 84.39%

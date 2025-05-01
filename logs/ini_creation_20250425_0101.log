@@ -1,0 +1,36 @@
+2025-04-25 01:01:06,412 - INFO - Starting processing of Batch 57-58...
+2025-04-25 01:01:06,413 - INFO - Processing Batch_0057 at path: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057
+2025-04-25 01:01:06,414 - INFO - Found EA folder: NSK Swing
+2025-04-25 01:01:06,414 - INFO - Found EA folder: Simple Trade
+2025-04-25 01:01:06,415 - INFO - Found EA folder: Two Perbar
+2025-04-25 01:01:06,415 - INFO - Found EA folder: wagonKing1 EA
+2025-04-25 01:01:06,416 - INFO - Found EA folder: WE TRUST
+2025-04-25 01:01:06,416 - INFO - Found EA folder: X-RSIOMA
+2025-04-25 01:01:06,420 - INFO - Found EA folder: XKPRMST EA MT5@YoForexPremium
+2025-04-25 01:01:06,420 - INFO - Found EA folder: XT EURUSD EA MT5@YoForexPremium
+2025-04-25 01:01:06,421 - INFO - Found EA folder: Yesterday Today
+2025-04-25 01:01:06,421 - INFO - Found 9 EA folders in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057
+2025-04-25 01:01:06,422 - INFO - Processing EA: NSK Swing
+2025-04-25 01:01:06,428 - ERROR - No set file found for NSK Swing
+2025-04-25 01:01:06,429 - INFO - Processing EA: Simple Trade
+2025-04-25 01:01:06,435 - ERROR - No set file found for Simple Trade
+2025-04-25 01:01:06,436 - INFO - Processing EA: Two Perbar
+2025-04-25 01:01:06,442 - ERROR - No set file found for Two Perbar
+2025-04-25 01:01:06,442 - INFO - Processing EA: wagonKing1 EA
+2025-04-25 01:01:06,448 - ERROR - No set file found for wagonKing1 EA
+2025-04-25 01:01:06,449 - INFO - Processing EA: WE TRUST
+2025-04-25 01:01:06,451 - INFO - Found set file: WE TRUST_01_opt.set
+2025-04-25 01:01:06,663 - INFO - Created 252 ini files for WE TRUST
+2025-04-25 01:01:06,664 - INFO - Processing EA: X-RSIOMA
+2025-04-25 01:01:06,666 - INFO - Found set file: X-RSIOMA_01_opt.set
+2025-04-25 01:01:06,877 - INFO - Created 252 ini files for X-RSIOMA
+2025-04-25 01:01:06,877 - INFO - Processing EA: XKPRMST EA MT5@YoForexPremium
+2025-04-25 01:01:06,884 - ERROR - No set file found for XKPRMST EA MT5@YoForexPremium
+2025-04-25 01:01:06,885 - INFO - Processing EA: XT EURUSD EA MT5@YoForexPremium
+2025-04-25 01:01:06,891 - ERROR - No set file found for XT EURUSD EA MT5@YoForexPremium
+2025-04-25 01:01:06,892 - INFO - Processing EA: Yesterday Today
+2025-04-25 01:01:06,895 - INFO - Found set file: Yesterday Today_01_opt.set
+2025-04-25 01:01:07,057 - INFO - Created 252 ini files for Yesterday Today
+2025-04-25 01:01:07,057 - INFO - Processing Batch_0058 at path: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0058
+2025-04-25 01:01:07,058 - INFO - Found 0 EA folders in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0058
+2025-04-25 01:01:07,058 - INFO - Completed processing Batch 57-58

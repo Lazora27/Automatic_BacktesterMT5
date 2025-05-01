@@ -1,0 +1,964 @@
+2025-04-25 02:43:04,137 - INFO - Processing 10-pips-EURUSD_01_standard.set
+2025-04-25 02:43:04,142 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\10-pips-EURUSD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,145 - INFO - Processing 10-pips_01_standard.set
+2025-04-25 02:43:04,153 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\10-pips_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,154 - INFO - Processing 1H-EUR-USD_01_standard.set
+2025-04-25 02:43:04,159 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\1H-EUR-USD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,160 - INFO - Processing 20011201-GBPUSD-M1_01_standard.set
+2025-04-25 02:43:04,164 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\20011201-GBPUSD-M1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,165 - INFO - Processing 21hour_01_standard.set
+2025-04-25 02:43:04,168 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\21hour_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,170 - INFO - Processing 2HR-HL_01_standard.set
+2025-04-25 02:43:04,174 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2HR-HL_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,175 - INFO - Processing 2MA-4Level_01_standard.set
+2025-04-25 02:43:04,180 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2MA-4Level_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,182 - INFO - Processing 2MA-Bunny-Cross_01_standard.set
+2025-04-25 02:43:04,184 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2MA-Bunny-Cross_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,187 - INFO - Processing 3-bars-high-low-indicator_01_standard.set
+2025-04-25 02:43:04,190 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3-bars-high-low-indicator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,191 - INFO - Processing 35-Pip-Scalper_01_standard.set
+2025-04-25 02:43:04,196 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\35-Pip-Scalper_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,197 - INFO - Processing 3BarsHighLowEA_01_standard.set
+2025-04-25 02:43:04,205 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3BarsHighLowEA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,207 - INFO - Processing 3sma_01_standard.set
+2025-04-25 02:43:04,211 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3sma_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,214 - INFO - Processing 500_01_standard.set
+2025-04-25 02:43:04,218 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\500_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,220 - INFO - Processing 55-MA_01_standard.set
+2025-04-25 02:43:04,223 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\55-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,225 - INFO - Processing Above-Below-MA_01_standard.set
+2025-04-25 02:43:04,229 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Above-Below-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,231 - INFO - Processing Absorption_01_standard.set
+2025-04-25 02:43:04,236 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Absorption_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,237 - INFO - Processing ADX-MACD-Deev_01_standard.set
+2025-04-25 02:43:04,243 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-MACD-Deev_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,246 - INFO - Processing ADX-MA_01_standard.set
+2025-04-25 02:43:04,251 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,253 - INFO - Processing ADX-System_01_standard.set
+2025-04-25 02:43:04,258 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-System_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,264 - INFO - Processing AIS1_01_standard.set
+2025-04-25 02:43:04,272 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AIS1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,274 - INFO - Processing AK-47-Scalper-EA-MT5_01_standard.set
+2025-04-25 02:43:04,279 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AK-47-Scalper-EA-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,280 - INFO - Processing AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set
+2025-04-25 02:43:04,284 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,286 - INFO - Processing Alexav-D1-Profit-GBPUSD_01_standard.set
+2025-04-25 02:43:04,290 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alexav-D1-Profit-GBPUSD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,292 - INFO - Processing All-Average-Ea_01_standard.set
+2025-04-25 02:43:04,296 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\All-Average-Ea_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,298 - INFO - Processing Alligator-Simple_01_standard.set
+2025-04-25 02:43:04,302 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alligator-Simple_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,306 - INFO - Processing Alligator_01_standard.set
+2025-04-25 02:43:04,312 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alligator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,313 - INFO - Processing Altarius-RSI-Stohastic_01_standard.set
+2025-04-25 02:43:04,318 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Altarius-RSI-Stohastic_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,320 - INFO - Processing AMA-Trader-2_01_standard.set
+2025-04-25 02:43:04,325 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AMA-Trader-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,326 - INFO - Processing AMA-Trader_01_standard.set
+2025-04-25 02:43:04,329 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AMA-Trader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,331 - INFO - Processing AO-Lightning_01_standard.set
+2025-04-25 02:43:04,335 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AO-Lightning_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,336 - INFO - Processing AOCCI_01_standard.set
+2025-04-25 02:43:04,340 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AOCCI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,341 - INFO - Processing Arbitrage_01_standard.set
+2025-04-25 02:43:04,345 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Arbitrage_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,347 - INFO - Processing ArbSint_01_standard.set
+2025-04-25 02:43:04,350 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ArbSint_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,352 - INFO - Processing Area-MACD_01_standard.set
+2025-04-25 02:43:04,356 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Area-MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,357 - INFO - Processing Artificial-Intelligence_01_standard.set
+2025-04-25 02:43:04,362 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Artificial-Intelligence_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,364 - INFO - Processing At-random-Full_01_standard.set
+2025-04-25 02:43:04,371 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\At-random-Full_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,372 - INFO - Processing At-random_01_standard.set
+2025-04-25 02:43:04,375 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\At-random_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,376 - INFO - Processing Auto-ADX_01_standard.set
+2025-04-25 02:43:04,383 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Auto-ADX_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,384 - INFO - Processing Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set
+2025-04-25 02:43:04,388 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,389 - INFO - Processing AutoLock-EA_01_standard.set
+2025-04-25 02:43:04,395 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AutoLock-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,396 - INFO - Processing Autotrader-Momentum_01_standard.set
+2025-04-25 02:43:04,400 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Autotrader-Momentum_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,403 - INFO - Processing Avalanche-AV_01_standard.set
+2025-04-25 02:43:04,406 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Avalanche-AV_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,408 - INFO - Processing Backbone_01_standard.set
+2025-04-25 02:43:04,412 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Backbone_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,413 - INFO - Processing BADX_01_standard.set
+2025-04-25 02:43:04,417 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BADX_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,418 - INFO - Processing Bago-EA_01_standard.set
+2025-04-25 02:43:04,423 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bago-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,424 - INFO - Processing BalancedScalper-20EA_01_standard.set
+2025-04-25 02:43:04,430 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BalancedScalper-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,432 - INFO - Processing Bands-2_01_standard.set
+2025-04-25 02:43:04,436 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bands-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,437 - INFO - Processing BARS-Alligator_01_standard.set
+2025-04-25 02:43:04,441 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BARS-Alligator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,443 - INFO - Processing Basic-CCI-RSI_01_standard.set
+2025-04-25 02:43:04,447 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Basic-CCI-RSI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,448 - INFO - Processing Basic-Martingale-EA-3_01_standard.set
+2025-04-25 02:43:04,454 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Basic-Martingale-EA-3_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,455 - INFO - Processing BB-stops-MT5_01_standard.set
+2025-04-25 02:43:04,461 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BB-stops-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,463 - INFO - Processing BBPercentile-EA_01_standard.set
+2025-04-25 02:43:04,469 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BBPercentile-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,472 - INFO - Processing BBPercentile_01_standard.set
+2025-04-25 02:43:04,476 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BBPercentile_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,478 - INFO - Processing BDCrossOver-20EA_01_standard.set
+2025-04-25 02:43:04,482 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BDCrossOver-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,483 - INFO - Processing BIG-DOG_01_standard.set
+2025-04-25 02:43:04,486 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BIG-DOG_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,488 - INFO - Processing Bill-Williams_01_standard.set
+2025-04-25 02:43:04,492 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bill-Williams_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,494 - INFO - Processing Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set
+2025-04-25 02:43:04,499 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,500 - INFO - Processing Bollinger-Bands-N-positions_01_standard.set
+2025-04-25 02:43:04,505 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Bands-N-positions_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,507 - INFO - Processing Bollinger-Bands-RSI_01_standard.set
+2025-04-25 02:43:04,511 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Bands-RSI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,513 - INFO - Processing bollinger_01_standard.set
+2025-04-25 02:43:04,517 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\bollinger_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,521 - INFO - Processing Brakeout-Trader_01_standard.set
+2025-04-25 02:43:04,526 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Brakeout-Trader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,528 - INFO - Processing Brandy_01_standard.set
+2025-04-25 02:43:04,532 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Brandy_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,535 - INFO - Processing Breadandbutter2_01_standard.set
+2025-04-25 02:43:04,540 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breadandbutter2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,541 - INFO - Processing Breakdown-catcher_01_standard.set
+2025-04-25 02:43:04,545 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breakdown-catcher_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,549 - INFO - Processing breakdown_01_standard.set
+2025-04-25 02:43:04,552 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\breakdown_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,556 - INFO - Processing Breakout-Str_01_standard.set
+2025-04-25 02:43:04,562 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breakout-Str_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,564 - INFO - Processing Bronze-Warrioir_01_standard.set
+2025-04-25 02:43:04,569 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bronze-Warrioir_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,571 - INFO - Processing Bruno_01_standard.set
+2025-04-25 02:43:04,574 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bruno_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,575 - INFO - Processing BSS-1-0_01_standard.set
+2025-04-25 02:43:04,579 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BSS-1-0_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,580 - INFO - Processing Bullish-and-Bearish-Engulfing_01_standard.set
+2025-04-25 02:43:04,584 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bullish-and-Bearish-Engulfing_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,585 - INFO - Processing Burg-Extrapolator_01_standard.set
+2025-04-25 02:43:04,589 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Burg-Extrapolator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,590 - INFO - Processing BykovTrend-EA_01_standard.set
+2025-04-25 02:43:04,597 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BykovTrend-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,598 - INFO - Processing BykovTrend_EA_v3_01_standard.set
+2025-04-25 02:43:04,603 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BykovTrend_EA_v3_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,605 - INFO - Processing Calculate-lotsize-and-Trailling-stop_01_standard.set
+2025-04-25 02:43:04,610 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Calculate-lotsize-and-Trailling-stop_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,611 - INFO - Processing candlepatternsexample_01_standard.set
+2025-04-25 02:43:04,617 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\candlepatternsexample_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,618 - INFO - Processing Candle_01_standard.set
+2025-04-25 02:43:04,621 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Candle_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,624 - INFO - Processing Carbophos_01_standard.set
+2025-04-25 02:43:04,627 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Carbophos_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,628 - INFO - Processing CashMachine-5min_01_standard.set
+2025-04-25 02:43:04,631 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CashMachine-5min_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,633 - INFO - Processing CCI-MACD-Scalper_01_standard.set
+2025-04-25 02:43:04,635 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CCI-MACD-Scalper_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,637 - INFO - Processing Cidomo_01_standard.set
+2025-04-25 02:43:04,640 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Cidomo_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,641 - INFO - Processing CloseAgent_01_standard.set
+2025-04-25 02:43:04,645 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CloseAgent_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,646 - INFO - Processing CloseProfit_01_standard.set
+2025-04-25 02:43:04,650 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CloseProfit_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,651 - INFO - Processing cloud's-trade-2_01_standard.set
+2025-04-25 02:43:04,654 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\cloud's-trade-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,656 - INFO - Processing CLOUD_01_standard.set
+2025-04-25 02:43:04,661 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CLOUD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,662 - INFO - Processing Constituents-EA_01_standard.set
+2025-04-25 02:43:04,666 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Constituents-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,667 - INFO - Processing Contrarian-trade-MA_01_standard.set
+2025-04-25 02:43:04,672 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Contrarian-trade-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,673 - INFO - Processing Crossing-Moving-Average_01_standard.set
+2025-04-25 02:43:04,676 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Crossing-Moving-Average_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,678 - INFO - Processing CrossMA_01_standard.set
+2025-04-25 02:43:04,681 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CrossMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,682 - INFO - Processing Currencyprofits-01.1_01_standard.set
+2025-04-25 02:43:04,686 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Currencyprofits-01.1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,688 - INFO - Processing Daily-20reversal-20-20EA_01_standard.set
+2025-04-25 02:43:04,693 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-20reversal-20-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,694 - INFO - Processing Daily-BreakPoint_01_standard.set
+2025-04-25 02:43:04,697 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-BreakPoint_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,699 - INFO - Processing Daily-Open-EA_01_standard.set
+2025-04-25 02:43:04,704 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-Open-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,706 - INFO - Processing Daily-range_01_standard.set
+2025-04-25 02:43:04,710 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-range_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,711 - INFO - Processing Day-Trading-PAMXA_01_standard.set
+2025-04-25 02:43:04,724 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Day-Trading-PAMXA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,725 - INFO - Processing Daydream_01_standard.set
+2025-04-25 02:43:04,731 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daydream_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,733 - INFO - Processing DayTrading_01_standard.set
+2025-04-25 02:43:04,736 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DayTrading_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,737 - INFO - Processing Dealers-Trade-v-7.74-MACD_01_standard.set
+2025-04-25 02:43:04,742 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dealers-Trade-v-7.74-MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,743 - INFO - Processing Deep-Drawdown-MA_01_standard.set
+2025-04-25 02:43:04,748 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Deep-Drawdown-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,750 - INFO - Processing DeMarker-gaining-position-volume-2_01_standard.set
+2025-04-25 02:43:04,754 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-gaining-position-volume-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,756 - INFO - Processing DeMarker-gaining-position-volume_01_standard.set
+2025-04-25 02:43:04,759 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-gaining-position-volume_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,762 - INFO - Processing DeMarker-Pending-2-5_01_standard.set
+2025-04-25 02:43:04,767 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending-2-5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,770 - INFO - Processing DeMarker-Pending-2_01_standard.set
+2025-04-25 02:43:04,773 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,776 - INFO - Processing DeMarker-Pending_01_standard.set
+2025-04-25 02:43:04,780 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,782 - INFO - Processing Dematus_01_standard.set
+2025-04-25 02:43:04,785 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dematus_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,787 - INFO - Processing Divergence-20for-20many-20indicator_01_standard.set
+2025-04-25 02:43:04,792 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Divergence-20for-20many-20indicator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,794 - INFO - Processing Divergence-EA_01_standard.set
+2025-04-25 02:43:04,801 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Divergence-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,802 - INFO - Processing Doji-Arrows_01_standard.set
+2025-04-25 02:43:04,806 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Doji-Arrows_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,808 - INFO - Processing DojiTrader_01_standard.set
+2025-04-25 02:43:04,813 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DojiTrader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,814 - INFO - Processing Donchian-Chanel-EA_01_standard.set
+2025-04-25 02:43:04,819 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Donchian-Chanel-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,820 - INFO - Processing DoubleHullMA-EA_01_standard.set
+2025-04-25 02:43:04,825 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleHullMA-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,826 - INFO - Processing DoubleHullMA_01_standard.set
+2025-04-25 02:43:04,829 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleHullMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,831 - INFO - Processing DoubleMA-Crossover-EA_01_standard.set
+2025-04-25 02:43:04,835 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleMA-Crossover-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,836 - INFO - Processing Doubler_01_standard.set
+2025-04-25 02:43:04,840 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Doubler_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,842 - INFO - Processing Driver-EA-MT5_01_standard.set
+2025-04-25 02:43:04,848 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Driver-EA-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,850 - INFO - Processing dummy_01_standard.set
+2025-04-25 02:43:04,853 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\dummy_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,855 - INFO - Processing Dynamic-averaging_01_standard.set
+2025-04-25 02:43:04,858 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dynamic-averaging_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,861 - INFO - Processing e-Breakeven_01_standard.set
+2025-04-25 02:43:04,863 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Breakeven_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,864 - INFO - Processing E-Friday_01_standard.set
+2025-04-25 02:43:04,868 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\E-Friday_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,869 - INFO - Processing E-Skoch-Open_01_standard.set
+2025-04-25 02:43:04,873 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\E-Skoch-Open_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,874 - INFO - Processing e-Skoch-pending-orders_01_standard.set
+2025-04-25 02:43:04,877 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Skoch-pending-orders_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,878 - INFO - Processing e-Smart-Trailing_01_standard.set
+2025-04-25 02:43:04,882 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Smart-Trailing_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,883 - INFO - Processing e-TurboFx_01_standard.set
+2025-04-25 02:43:04,887 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-TurboFx_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,889 - INFO - Processing EA-Close_01_standard.set
+2025-04-25 02:43:04,894 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-Close_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,896 - INFO - Processing EA-MA-Stoch-RSI_01_standard.set
+2025-04-25 02:43:04,902 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-MA-Stoch-RSI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,903 - INFO - Processing EA-Moving-Average_01_standard.set
+2025-04-25 02:43:04,907 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-Moving-Average_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,908 - INFO - Processing Elite-eFibo-Trader_01_standard.set
+2025-04-25 02:43:04,911 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Elite-eFibo-Trader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,912 - INFO - Processing EMA-6.12_01_standard.set
+2025-04-25 02:43:04,915 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-6.12_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,916 - INFO - Processing EMA-CROSS_01_standard.set
+2025-04-25 02:43:04,919 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-CROSS_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,920 - INFO - Processing EMA-LWMA-RSI_01_standard.set
+2025-04-25 02:43:04,923 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-LWMA-RSI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,924 - INFO - Processing EMA-RSI-EA_01_standard.set
+2025-04-25 02:43:04,927 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-RSI-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,929 - INFO - Processing EMA-WMA_01_standard.set
+2025-04-25 02:43:04,932 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-WMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,934 - INFO - Processing EMA_01_standard.set
+2025-04-25 02:43:04,937 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,938 - INFO - Processing EMA_WMA v2_01_standard.set
+2025-04-25 02:43:04,941 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA_WMA v2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,942 - INFO - Processing Eugene_01_standard.set
+2025-04-25 02:43:04,944 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Eugene_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,945 - INFO - Processing eur-usd-m5_01_standard.set
+2025-04-25 02:43:04,947 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\eur-usd-m5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,950 - INFO - Processing EURUSD-breakout_01_standard.set
+2025-04-25 02:43:04,953 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EURUSD-breakout_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,954 - INFO - Processing Executer-AC_01_standard.set
+2025-04-25 02:43:04,957 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executer-AC_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,958 - INFO - Processing Executor-AO_01_standard.set
+2025-04-25 02:43:04,961 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executor-AO_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,962 - INFO - Processing Executor-Candles_01_standard.set
+2025-04-25 02:43:04,965 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executor-Candles_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,966 - INFO - Processing exp-Amstell_01_standard.set
+2025-04-25 02:43:04,968 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\exp-Amstell_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,969 - INFO - Processing Expert-NEWS_01_standard.set
+2025-04-25 02:43:04,972 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Expert-NEWS_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,973 - INFO - Processing Expert-RSI-Stochastic-MA_01_standard.set
+2025-04-25 02:43:04,975 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Expert-RSI-Stochastic-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,977 - INFO - Processing ExtremePrice-EA_01_standard.set
+2025-04-25 02:43:04,982 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ExtremePrice-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,983 - INFO - Processing FiboRetracement-20EA_01_standard.set
+2025-04-25 02:43:04,987 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\FiboRetracement-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,988 - INFO - Processing Firebird_01_standard.set
+2025-04-25 02:43:04,992 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firebird_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,993 - INFO - Processing Firestorm-EA_01_standard.set
+2025-04-25 02:43:04,998 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firestorm-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:04,999 - INFO - Processing Firestorm-indicator_01_standard.set
+2025-04-25 02:43:05,003 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firestorm-indicator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,004 - INFO - Processing Fluctuate_01_standard.set
+2025-04-25 02:43:05,007 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fluctuate_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,008 - INFO - Processing Forex-Fraus-M1_01_standard.set
+2025-04-25 02:43:05,011 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Forex-Fraus-M1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,012 - INFO - Processing Forex-Profit_01_standard.set
+2025-04-25 02:43:05,014 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Forex-Profit_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,015 - INFO - Processing Fractals-minimum-distance_01_standard.set
+2025-04-25 02:43:05,017 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fractals-minimum-distance_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,018 - INFO - Processing Fraktrak-xonax_01_standard.set
+2025-04-25 02:43:05,022 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fraktrak-xonax_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,023 - INFO - Processing Frank-Ud_01_standard.set
+2025-04-25 02:43:05,028 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Frank-Ud_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,051 - INFO - Processing fratal-mt5-EA_01_standard.set
+2025-04-25 02:43:05,061 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\fratal-mt5-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,081 - INFO - Processing FT-CCI_01_standard.set
+2025-04-25 02:43:05,097 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\FT-CCI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,103 - INFO - Processing Fuzzy-logic_01_standard.set
+2025-04-25 02:43:05,107 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fuzzy-logic_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,112 - INFO - Processing GalacticExplosion_01_standard.set
+2025-04-25 02:43:05,124 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GalacticExplosion_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,134 - INFO - Processing Gandalf-PRO_01_standard.set
+2025-04-25 02:43:05,141 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gandalf-PRO_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,143 - INFO - Processing Gap-DM_01_standard.set
+2025-04-25 02:43:05,155 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gap-DM_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,163 - INFO - Processing GAP-EA_01_standard.set
+2025-04-25 02:43:05,170 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GAP-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,173 - INFO - Processing Gaps_01_standard.set
+2025-04-25 02:43:05,176 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gaps_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,179 - INFO - Processing GBP9AM_01_standard.set
+2025-04-25 02:43:05,183 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GBP9AM_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,184 - INFO - Processing GbpChf_01_standard.set
+2025-04-25 02:43:05,189 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GbpChf_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,190 - INFO - Processing Gold-Dust_01_standard.set
+2025-04-25 02:43:05,197 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gold-Dust_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,209 - INFO - Processing GO_01_standard.set
+2025-04-25 02:43:05,215 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GO_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,216 - INFO - Processing GreenTrade_01_standard.set
+2025-04-25 02:43:05,236 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GreenTrade_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,242 - INFO - Processing Grid-Martingale_01_standard.set
+2025-04-25 02:43:05,250 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Grid-Martingale_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,252 - INFO - Processing GridEA_01_standard.set
+2025-04-25 02:43:05,258 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GridEA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,260 - INFO - Processing Grid_01_standard.set
+2025-04-25 02:43:05,264 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Grid_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,266 - INFO - Processing HarVesteR_01_standard.set
+2025-04-25 02:43:05,270 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HarVesteR_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,272 - INFO - Processing HedgeEA_01_standard.set
+2025-04-25 02:43:05,275 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HedgeEA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,276 - INFO - Processing hedger_01_standard.set
+2025-04-25 02:43:05,279 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\hedger_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,281 - INFO - Processing Hedging-EA_01_standard.set
+2025-04-25 02:43:05,287 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Hedging-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,288 - INFO - Processing Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set
+2025-04-25 02:43:05,293 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,294 - INFO - Processing Heiken-Ashi-Smoothed-EA_01_standard.set
+2025-04-25 02:43:05,301 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heiken-Ashi-Smoothed-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,302 - INFO - Processing heiken-ashi-smoothedLine_01_standard.set
+2025-04-25 02:43:05,305 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\heiken-ashi-smoothedLine_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,306 - INFO - Processing heiken-ashi-smoothed_01_standard.set
+2025-04-25 02:43:05,310 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\heiken-ashi-smoothed_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,311 - INFO - Processing HeikenAshi-Lines-EA_01_standard.set
+2025-04-25 02:43:05,315 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HeikenAshi-Lines-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,316 - INFO - Processing HeikenAshi-Lines_01_standard.set
+2025-04-25 02:43:05,321 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HeikenAshi-Lines_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,322 - INFO - Processing Heinken-Ashi-Color-Candles_01_standard.set
+2025-04-25 02:43:05,326 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heinken-Ashi-Color-Candles_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,327 - INFO - Processing HelloSmart_01_standard.set
+2025-04-25 02:43:05,331 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HelloSmart_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,333 - INFO - Processing High-Low-EA_01_standard.set
+2025-04-25 02:43:05,337 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\High-Low-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,339 - INFO - Processing High-Low-Indicator_01_standard.set
+2025-04-25 02:43:05,342 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\High-Low-Indicator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,343 - INFO - Processing Hoop-master-2_01_standard.set
+2025-04-25 02:43:05,348 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Hoop-master-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,349 - INFO - Processing iCCI-iMA_01_standard.set
+2025-04-25 02:43:05,353 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iCCI-iMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,354 - INFO - Processing ICH-With-Alert-Derekers-EA_01_standard.set
+2025-04-25 02:43:05,360 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ICH-With-Alert-Derekers-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,361 - INFO - Processing ICH-With-Alert-Derekers_01_standard.set
+2025-04-25 02:43:05,365 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ICH-With-Alert-Derekers_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,366 - INFO - Processing ichimok2005_01_standard.set
+2025-04-25 02:43:05,370 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ichimok2005_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,371 - INFO - Processing Ichimoku-20Kijun-20Alert_01_standard.set
+2025-04-25 02:43:05,375 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-20Kijun-20Alert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,377 - INFO - Processing Ichimoku-20Tenkan-20Alert_01_standard.set
+2025-04-25 02:43:05,380 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-20Tenkan-20Alert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,382 - INFO - Processing Ichimoku-Dashboard-MT5_01_standard.set
+2025-04-25 02:43:05,384 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Dashboard-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,386 - INFO - Processing Ichimoku-Scanner-MT5_01_standard.set
+2025-04-25 02:43:05,389 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Scanner-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,392 - INFO - Processing Ichimoku-Scanner_01_standard.set
+2025-04-25 02:43:05,396 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Scanner_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,397 - INFO - Processing Ichimoku-Signals-and-Alert_01_standard.set
+2025-04-25 02:43:05,402 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Signals-and-Alert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,403 - INFO - Processing IchimokuMTF-EA_01_standard.set
+2025-04-25 02:43:05,406 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\IchimokuMTF-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,408 - INFO - Processing Ichimoku_01_standard.set
+2025-04-25 02:43:05,411 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,412 - INFO - Processing Ilan-iMA_01_standard.set
+2025-04-25 02:43:05,416 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ilan-iMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,417 - INFO - Processing Ilan1.4_01_standard.set
+2025-04-25 02:43:05,421 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ilan1.4_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,424 - INFO - Processing iMA-iStdDev_01_standard.set
+2025-04-25 02:43:05,429 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iMA-iStdDev_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,430 - INFO - Processing Indices-Tester_01_standard.set
+2025-04-25 02:43:05,433 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Indices-Tester_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,436 - INFO - Processing Inka-20Edho-20EA_01_standard.set
+2025-04-25 02:43:05,444 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Inka-20Edho-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,445 - INFO - Processing Intersection-2-iMA_01_standard.set
+2025-04-25 02:43:05,448 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Intersection-2-iMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,450 - INFO - Processing IStochastic-Trading_01_standard.set
+2025-04-25 02:43:05,453 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\IStochastic-Trading_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,454 - INFO - Processing Ivan_01_standard.set
+2025-04-25 02:43:05,458 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ivan_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,459 - INFO - Processing iVIDyA-Simple_01_standard.set
+2025-04-25 02:43:05,463 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iVIDyA-Simple_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,464 - INFO - Processing Jackpot-Strategy-EA_01_standard.set
+2025-04-25 02:43:05,472 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Jackpot-Strategy-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,473 - INFO - Processing JackPot-Strategy-Elite_01_standard.set
+2025-04-25 02:43:05,477 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JackPot-Strategy-Elite_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,479 - INFO - Processing JK-BullP-AutoTrader_01_standard.set
+2025-04-25 02:43:05,482 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JK-BullP-AutoTrader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,483 - INFO - Processing JS-Chaos_01_standard.set
+2025-04-25 02:43:05,488 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-Chaos_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,489 - INFO - Processing JS-MA-Day_01_standard.set
+2025-04-25 02:43:05,493 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-MA-Day_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,494 - INFO - Processing JS-MA-SAR-Trades_01_standard.set
+2025-04-25 02:43:05,499 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-MA-SAR-Trades_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,501 - INFO - Processing KA-Gold-Bot_01_standard.set
+2025-04-25 02:43:05,505 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KA-Gold-Bot_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,507 - INFO - Processing Kue-Electric-EA_01_standard.set
+2025-04-25 02:43:05,513 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Kue-Electric-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,514 - INFO - Processing KueFx-20Arrows_01_standard.set
+2025-04-25 02:43:05,519 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-20Arrows_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,520 - INFO - Processing KueFx-20Baseline_01_standard.set
+2025-04-25 02:43:05,523 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-20Baseline_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,525 - INFO - Processing KueFx-Arrows-20EA_01_standard.set
+2025-04-25 02:43:05,531 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,533 - INFO - Processing KueFx-Arrows-EA_01_standard.set
+2025-04-25 02:43:05,537 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,538 - INFO - Processing KueFx-Arrows_01_standard.set
+2025-04-25 02:43:05,542 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,543 - INFO - Processing KueFx-Baseline-EA_01_standard.set
+2025-04-25 02:43:05,548 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Baseline-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,550 - INFO - Processing KueFx-Baseline_01_standard.set
+2025-04-25 02:43:05,554 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Baseline_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,555 - INFO - Processing KueFx-Clean-2025-EA_01_standard.set
+2025-04-25 02:43:05,565 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Clean-2025-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,567 - INFO - Processing KueFx-Extreme-EA_01_standard.set
+2025-04-25 02:43:05,573 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Extreme-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,574 - INFO - Processing KueFx-Harare-EA_01_standard.set
+2025-04-25 02:43:05,580 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Harare-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,581 - INFO - Processing KueFX-Money-Management_01_standard.set
+2025-04-25 02:43:05,586 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFX-Money-Management_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,588 - INFO - Processing KueFx-Motor-EA_01_standard.set
+2025-04-25 02:43:05,596 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Motor-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,597 - INFO - Processing KueFx-Motor_01_standard.set
+2025-04-25 02:43:05,600 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Motor_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,601 - INFO - Processing KueFx-Trend_01_standard.set
+2025-04-25 02:43:05,606 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Trend_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,610 - INFO - Processing KueFxTrend-20EA_01_standard.set
+2025-04-25 02:43:05,617 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFxTrend-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,618 - INFO - Processing KueFxTrend-EA_01_standard.set
+2025-04-25 02:43:05,623 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFxTrend-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,624 - INFO - Processing KueFx_Arrows_EA_v1.10_01_standard.set
+2025-04-25 02:43:05,629 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx_Arrows_EA_v1.10_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,630 - INFO - Processing KueFx_Baseline_EA_v1.10_01_standard.set
+2025-04-25 02:43:05,633 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx_Baseline_EA_v1.10_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,634 - INFO - Processing LarryConnersRSI2_01_standard.set
+2025-04-25 02:43:05,638 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LarryConnersRSI2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,639 - INFO - Processing Last-ZZ50_01_standard.set
+2025-04-25 02:43:05,642 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Last-ZZ50_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,644 - INFO - Processing Lavika100_01_standard.set
+2025-04-25 02:43:05,647 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lavika100_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,648 - INFO - Processing LazyBot-MT5_01_standard.set
+2025-04-25 02:43:05,653 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LazyBot-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,654 - INFO - Processing LBS_01_standard.set
+2025-04-25 02:43:05,658 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LBS_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,660 - INFO - Processing Lego-EA_01_standard.set
+2025-04-25 02:43:05,664 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lego-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,665 - INFO - Processing Lesson-3-Price-Action_01_standard.set
+2025-04-25 02:43:05,669 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-3-Price-Action_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,670 - INFO - Processing Lesson-4-Price-Action-MA-Filter_01_standard.set
+2025-04-25 02:43:05,673 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-4-Price-Action-MA-Filter_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,675 - INFO - Processing Lesson-6-Trailling-ATR_01_standard.set
+2025-04-25 02:43:05,678 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-6-Trailling-ATR_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,680 - INFO - Processing Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set
+2025-04-25 02:43:05,684 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,686 - INFO - Processing Little-EA_01_standard.set
+2025-04-25 02:43:05,689 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Little-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,690 - INFO - Processing Locker_01_standard.set
+2025-04-25 02:43:05,694 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Locker_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,695 - INFO - Processing Lock_01_standard.set
+2025-04-25 02:43:05,702 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lock_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,703 - INFO - Processing Lucky_01_standard.set
+2025-04-25 02:43:05,707 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lucky_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,708 - INFO - Processing MA MACD Position averaging v2_01_standard.set
+2025-04-25 02:43:05,712 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA MACD Position averaging v2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,713 - INFO - Processing MA-20Alert_01_standard.set
+2025-04-25 02:43:05,717 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-20Alert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,718 - INFO - Processing MA-20AO-20Arrow_01_standard.set
+2025-04-25 02:43:05,722 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-20AO-20Arrow_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,723 - INFO - Processing MA-AO-EA_01_standard.set
+2025-04-25 02:43:05,729 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-AO-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,731 - INFO - Processing ma-channels_01_standard.set
+2025-04-25 02:43:05,734 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ma-channels_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,735 - INFO - Processing Ma-Crosses-MT5_01_standard.set
+2025-04-25 02:43:05,739 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ma-Crosses-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,740 - INFO - Processing MA-Crossover-mt5-20EA_01_standard.set
+2025-04-25 02:43:05,746 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Crossover-mt5-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,749 - INFO - Processing MA-Cross_01_standard.set
+2025-04-25 02:43:05,752 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Cross_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,753 - INFO - Processing MA-Envelopes_01_standard.set
+2025-04-25 02:43:05,757 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Envelopes_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,758 - INFO - Processing MA-MACD-Position-averaging_01_standard.set
+2025-04-25 02:43:05,762 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-MACD-Position-averaging_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,763 - INFO - Processing MA-Trend_01_standard.set
+2025-04-25 02:43:05,767 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Trend_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,768 - INFO - Processing MA2CCI_01_standard.set
+2025-04-25 02:43:05,771 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA2CCI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,772 - INFO - Processing MACD-and-SAR_01_standard.set
+2025-04-25 02:43:05,776 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-and-SAR_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,777 - INFO - Processing MACD-Cleaner_01_standard.set
+2025-04-25 02:43:05,780 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Cleaner_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,781 - INFO - Processing MACD-EA-H4_01_standard.set
+2025-04-25 02:43:05,788 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-EA-H4_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,789 - INFO - Processing MACD-No-Sample_01_standard.set
+2025-04-25 02:43:05,793 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-No-Sample_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,795 - INFO - Processing MACD-signal_01_standard.set
+2025-04-25 02:43:05,798 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-signal_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,799 - INFO - Processing MACD-Stochastic-2_01_standard.set
+2025-04-25 02:43:05,804 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Stochastic-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,805 - INFO - Processing MACD-Stochastic_01_standard.set
+2025-04-25 02:43:05,808 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Stochastic_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,810 - INFO - Processing MACDCCI_01_standard.set
+2025-04-25 02:43:05,813 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACDCCI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,814 - INFO - Processing MacdPatternTraderAll0.01_01_standard.set
+2025-04-25 02:43:05,819 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MacdPatternTraderAll0.01_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,821 - INFO - Processing MacdPatternTraderAll_01_standard.set
+2025-04-25 02:43:05,826 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MacdPatternTraderAll_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,827 - INFO - Processing MACD_01_standard.set
+2025-04-25 02:43:05,830 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,832 - INFO - Processing MAGrid_01_standard.set
+2025-04-25 02:43:05,835 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MAGrid_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,836 - INFO - Processing MAMACD_01_standard.set
+2025-04-25 02:43:05,839 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MAMACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,840 - INFO - Processing Mariner-MT5_01_standard.set
+2025-04-25 02:43:05,844 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mariner-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,846 - INFO - Processing Market-Capture_01_standard.set
+2025-04-25 02:43:05,848 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Market-Capture_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,849 - INFO - Processing Martin-1_01_standard.set
+2025-04-25 02:43:05,853 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin-1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,854 - INFO - Processing Martin-for-small-deposits_01_standard.set
+2025-04-25 02:43:05,856 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin-for-small-deposits_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,857 - INFO - Processing MartingailExpert_01_standard.set
+2025-04-25 02:43:05,860 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MartingailExpert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,861 - INFO - Processing MartinGaleBreakout_01_standard.set
+2025-04-25 02:43:05,864 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MartinGaleBreakout_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,865 - INFO - Processing Martin_01_standard.set
+2025-04-25 02:43:05,868 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,868 - INFO - Processing Marubozu-EA_01_standard.set
+2025-04-25 02:43:05,873 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,874 - INFO - Processing Marubozu_01_standard.set
+2025-04-25 02:43:05,877 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,878 - INFO - Processing Marubozu_EA_v1.10_01_standard.set
+2025-04-25 02:43:05,883 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu_EA_v1.10_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,884 - INFO - Processing MelBar-EuSwiss-1.85_01_standard.set
+2025-04-25 02:43:05,888 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MelBar-EuSwiss-1.85_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,889 - INFO - Processing MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set
+2025-04-25 02:43:05,892 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,894 - INFO - Processing Mobo-Bands-EA_01_standard.set
+2025-04-25 02:43:05,900 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mobo-Bands-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,902 - INFO - Processing Mobo-Bands_01_standard.set
+2025-04-25 02:43:05,905 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mobo-Bands_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,907 - INFO - Processing Modified-Moving-Averages_01_standard.set
+2025-04-25 02:43:05,910 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Modified-Moving-Averages_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,912 - INFO - Processing Momentum-M15_01_standard.set
+2025-04-25 02:43:05,915 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Momentum-M15_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,916 - INFO - Processing Momo-trades_01_standard.set
+2025-04-25 02:43:05,919 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Momo-trades_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,921 - INFO - Processing Money-Fixed-Margin_01_standard.set
+2025-04-25 02:43:05,923 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Money-Fixed-Margin_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,924 - INFO - Processing Money-Fixed-Risk_01_standard.set
+2025-04-25 02:43:05,926 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Money-Fixed-Risk_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,927 - INFO - Processing MoneyRain_01_standard.set
+2025-04-25 02:43:05,930 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MoneyRain_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,932 - INFO - Processing Morning-evening-star-EA_01_standard.set
+2025-04-25 02:43:05,936 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Morning-evening-star-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,937 - INFO - Processing MostasHaR15-Pivot_01_standard.set
+2025-04-25 02:43:05,939 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MostasHaR15-Pivot_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,940 - INFO - Processing Moving-20average-20and-20ichimoku-20EA_01_standard.set
+2025-04-25 02:43:05,944 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-20average-20and-20ichimoku-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,945 - INFO - Processing Moving-Average-Trade-System_01_standard.set
+2025-04-25 02:43:05,949 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-Average-Trade-System_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,950 - INFO - Processing Moving-Averages_01_standard.set
+2025-04-25 02:43:05,953 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-Averages_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,954 - INFO - Processing MovingAverageMartinGale_01_standard.set
+2025-04-25 02:43:05,959 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MovingAverageMartinGale_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,960 - INFO - Processing MovingAverage_01_standard.set
+2025-04-25 02:43:05,965 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MovingAverage_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,966 - INFO - Processing MQL5-Wizard-MA-RSI_01_standard.set
+2025-04-25 02:43:05,968 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MQL5-Wizard-MA-RSI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,971 - INFO - Processing MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set
+2025-04-25 02:43:05,974 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,976 - INFO - Processing MT45_01_standard.set
+2025-04-25 02:43:05,986 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT45_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,989 - INFO - Processing MT5-CoupleHedgeEA_01_standard.set
+2025-04-25 02:43:05,997 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT5-CoupleHedgeEA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:05,999 - INFO - Processing MT5-RingSystemEA_01_standard.set
+2025-04-25 02:43:06,006 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT5-RingSystemEA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,008 - INFO - Processing Mt5-williams-directional-index-EA_01_standard.set
+2025-04-25 02:43:06,012 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mt5-williams-directional-index-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,013 - INFO - Processing MTC-Сombo_01_standard.set
+2025-04-25 02:43:06,017 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MTC-Сombo_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,020 - INFO - Processing Multi-Stochastic_01_standard.set
+2025-04-25 02:43:06,024 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Multi-Stochastic_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,028 - INFO - Processing MultiMartin_01_standard.set
+2025-04-25 02:43:06,033 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MultiMartin_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,035 - INFO - Processing MySystem_01_standard.set
+2025-04-25 02:43:06,040 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MySystem_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,043 - INFO - Processing N Candles v2_01_standard.set
+2025-04-25 02:43:06,047 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,048 - INFO - Processing N Candles v3_01_standard.set
+2025-04-25 02:43:06,051 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v3_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,056 - INFO - Processing N Candles v4_01_standard.set
+2025-04-25 02:43:06,062 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v4_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,064 - INFO - Processing N Candles v5_01_standard.set
+2025-04-25 02:43:06,069 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,078 - INFO - Processing N-Candles_01_standard.set
+2025-04-25 02:43:06,092 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N-Candles_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,100 - INFO - Processing N-_Candles_v7_01_standard.set
+2025-04-25 02:43:06,105 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N-_Candles_v7_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,106 - INFO - Processing Nevalyashka-BreakdownLevel_01_standard.set
+2025-04-25 02:43:06,111 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka-BreakdownLevel_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,112 - INFO - Processing Nevalyashka3-1_01_standard.set
+2025-04-25 02:43:06,115 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka3-1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,118 - INFO - Processing Nevalyashka_01_standard.set
+2025-04-25 02:43:06,124 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,125 - INFO - Processing New-Martin_01_standard.set
+2025-04-25 02:43:06,131 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\New-Martin_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,133 - INFO - Processing New-Random_01_standard.set
+2025-04-25 02:43:06,139 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\New-Random_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,146 - INFO - Processing Nextbar_01_standard.set
+2025-04-25 02:43:06,155 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nextbar_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,156 - INFO - Processing Night-Flat-Trade_01_standard.set
+2025-04-25 02:43:06,161 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Night-Flat-Trade_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,163 - INFO - Processing NightScalper_01_standard.set
+2025-04-25 02:43:06,174 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NightScalper_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,176 - INFO - Processing NRTR-Revers_01_standard.set
+2025-04-25 02:43:06,182 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NRTR-Revers_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,183 - INFO - Processing NUp1Down_01_standard.set
+2025-04-25 02:43:06,188 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NUp1Down_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,189 - INFO - Processing Open-Candle-EA_01_standard.set
+2025-04-25 02:43:06,202 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Open-Candle-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,204 - INFO - Processing Open-Close_01_standard.set
+2025-04-25 02:43:06,210 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Open-Close_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,214 - INFO - Processing Opening-and-ilosing-on-time_01_standard.set
+2025-04-25 02:43:06,217 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Opening-and-ilosing-on-time_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,223 - INFO - Processing Opening-and-Сlosing-on-time_01_standard.set
+2025-04-25 02:43:06,229 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Opening-and-Сlosing-on-time_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,232 - INFO - Processing OpenPendingorderAfterPositionGetStopLoss_01_standard.set
+2025-04-25 02:43:06,244 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OpenPendingorderAfterPositionGetStopLoss_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,245 - INFO - Processing OpenTicks_01_standard.set
+2025-04-25 02:43:06,249 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OpenTicks_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,251 - INFO - Processing ORB-EA-BOX_01_standard.set
+2025-04-25 02:43:06,260 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ORB-EA-BOX_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,262 - INFO - Processing OsMaSter_01_standard.set
+2025-04-25 02:43:06,266 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OsMaSter_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,269 - INFO - Processing OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set
+2025-04-25 02:43:06,278 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,280 - INFO - Processing OverHedge_01_standard.set
+2025-04-25 02:43:06,285 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OverHedge_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,286 - INFO - Processing OzFx_01_standard.set
+2025-04-25 02:43:06,291 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OzFx_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,293 - INFO - Processing Parabolic-SAR_01_standard.set
+2025-04-25 02:43:06,296 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Parabolic-SAR_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,297 - INFO - Processing PARSI-EA_01_standard.set
+2025-04-25 02:43:06,304 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PARSI-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,305 - INFO - Processing Peceptron-Mult_01_standard.set
+2025-04-25 02:43:06,309 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Peceptron-Mult_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,311 - INFO - Processing Pending-orders-by-time-2_01_standard.set
+2025-04-25 02:43:06,314 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pending-orders-by-time-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,316 - INFO - Processing Pending-orders-by-time_01_standard.set
+2025-04-25 02:43:06,320 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pending-orders-by-time_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,322 - INFO - Processing Pendulum_01_standard.set
+2025-04-25 02:43:06,326 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pendulum_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,327 - INFO - Processing Pinball-machine_01_standard.set
+2025-04-25 02:43:06,331 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pinball-machine_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,335 - INFO - Processing Pinbar-Magic-EA_01_standard.set
+2025-04-25 02:43:06,341 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pinbar-Magic-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,342 - INFO - Processing PinBar-Magic-Indicator_01_standard.set
+2025-04-25 02:43:06,346 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PinBar-Magic-Indicator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,347 - INFO - Processing Pipsover_01_standard.set
+2025-04-25 02:43:06,351 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pipsover_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,352 - INFO - Processing Plan-X_01_standard.set
+2025-04-25 02:43:06,356 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Plan-X_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,357 - INFO - Processing Plateau_01_standard.set
+2025-04-25 02:43:06,362 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Plateau_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,364 - INFO - Processing Poker-SHOW_01_standard.set
+2025-04-25 02:43:06,369 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Poker-SHOW_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,370 - INFO - Processing Precipice-MartIn_01_standard.set
+2025-04-25 02:43:06,373 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Precipice-MartIn_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,374 - INFO - Processing Precipice_01_standard.set
+2025-04-25 02:43:06,376 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Precipice_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,377 - INFO - Processing Probe_01_standard.set
+2025-04-25 02:43:06,382 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Probe_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,383 - INFO - Processing Proffessor_01_standard.set
+2025-04-25 02:43:06,386 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Proffessor_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,387 - INFO - Processing PropFirmHelper_01_standard.set
+2025-04-25 02:43:06,390 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PropFirmHelper_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,391 - INFO - Processing PROphet_01_standard.set
+2025-04-25 02:43:06,395 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PROphet_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,396 - INFO - Processing Puria-method_01_standard.set
+2025-04-25 02:43:06,399 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Puria-method_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,400 - INFO - Processing Rabbit3_01_standard.set
+2025-04-25 02:43:06,404 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rabbit3_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,405 - INFO - Processing Range-Breakout_01_standard.set
+2025-04-25 02:43:06,407 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Range-Breakout_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,409 - INFO - Processing Rapid-Doji-EA_01_standard.set
+2025-04-25 02:43:06,411 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rapid-Doji-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,412 - INFO - Processing Raymond-Cloudy-Day-for-EA_01_standard.set
+2025-04-25 02:43:06,415 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Raymond-Cloudy-Day-for-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,416 - INFO - Processing Reflex-EA_01_standard.set
+2025-04-25 02:43:06,421 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reflex-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,422 - INFO - Processing REFLEX-INDICATOR_01_standard.set
+2025-04-25 02:43:06,424 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\REFLEX-INDICATOR_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,426 - INFO - Processing Reflex_01_standard.set
+2025-04-25 02:43:06,429 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reflex_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,430 - INFO - Processing Reversing-Martingale_01_standard.set
+2025-04-25 02:43:06,433 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reversing-Martingale_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,435 - INFO - Processing RideAlligator_01_standard.set
+2025-04-25 02:43:06,437 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RideAlligator_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,438 - INFO - Processing RNN_01_standard.set
+2025-04-25 02:43:06,442 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RNN_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,443 - INFO - Processing Robot-MACD_01_standard.set
+2025-04-25 02:43:06,445 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Robot-MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,446 - INFO - Processing RobotPowerM5-meta4_01_standard.set
+2025-04-25 02:43:06,449 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RobotPowerM5-meta4_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,450 - INFO - Processing Rollback-system_01_standard.set
+2025-04-25 02:43:06,452 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rollback-system_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,453 - INFO - Processing RSI EA v2_01_standard.set
+2025-04-25 02:43:06,457 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI EA v2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,459 - INFO - Processing RSI-and-Bollinger-Bands_01_standard.set
+2025-04-25 02:43:06,461 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-and-Bollinger-Bands_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,463 - INFO - Processing RSI-Arrow-EA_01_standard.set
+2025-04-25 02:43:06,467 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Arrow-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,468 - INFO - Processing RSI-Arrow_01_standard.set
+2025-04-25 02:43:06,473 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Arrow_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,476 - INFO - Processing RSI-EA_01_standard.set
+2025-04-25 02:43:06,480 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,481 - INFO - Processing RSI-Eraser_01_standard.set
+2025-04-25 02:43:06,486 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Eraser_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,492 - INFO - Processing RSI-Expert_01_standard.set
+2025-04-25 02:43:06,497 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Expert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,499 - INFO - Processing RSI-Levels_01_standard.set
+2025-04-25 02:43:06,502 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Levels_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,504 - INFO - Processing RSI-trader_01_standard.set
+2025-04-25 02:43:06,507 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-trader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,509 - INFO - Processing RSI-Trend-EA_01_standard.set
+2025-04-25 02:43:06,514 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Trend-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,515 - INFO - Processing RSI-Trend_01_standard.set
+2025-04-25 02:43:06,521 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Trend_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,523 - INFO - Processing RSI-with-channels-EA_01_standard.set
+2025-04-25 02:43:06,528 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-with-channels-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,529 - INFO - Processing RSI-with-channels_01_standard.set
+2025-04-25 02:43:06,533 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-with-channels_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,534 - INFO - Processing RSI_Expert_v2.0_01_standard.set
+2025-04-25 02:43:06,538 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI_Expert_v2.0_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,540 - INFO - Processing Russian20-hp1_01_standard.set
+2025-04-25 02:43:06,544 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Russian20-hp1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,546 - INFO - Processing SampleCheckPendingOrder_01_standard.set
+2025-04-25 02:43:06,550 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SampleCheckPendingOrder_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,552 - INFO - Processing SampleTrailingstop-MT5_01_standard.set
+2025-04-25 02:43:06,556 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SampleTrailingstop-MT5_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,561 - INFO - Processing SAR-trading_01_standard.set
+2025-04-25 02:43:06,570 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SAR-trading_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,572 - INFO - Processing Secwenta_01_standard.set
+2025-04-25 02:43:06,576 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Secwenta_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,578 - INFO - Processing Sell-Stop_01_standard.set
+2025-04-25 02:43:06,582 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sell-Stop_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,583 - INFO - Processing Sensitive_01_standard.set
+2025-04-25 02:43:06,586 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sensitive_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,588 - INFO - Processing Separate-trade_01_standard.set
+2025-04-25 02:43:06,592 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Separate-trade_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,593 - INFO - Processing SilverTrend_01_standard.set
+2025-04-25 02:43:06,599 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SilverTrend_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,601 - INFO - Processing Simple-20Price-20Alert-20-20EA_01_standard.set
+2025-04-25 02:43:06,605 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-20Price-20Alert-20-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,607 - INFO - Processing Simple-20Volume-20EA_01_standard.set
+2025-04-25 02:43:06,613 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-20Volume-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,616 - INFO - Processing Simple-EA-MA-plus-MACD_01_standard.set
+2025-04-25 02:43:06,620 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-EA-MA-plus-MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,623 - INFO - Processing Simple-FX_01_standard.set
+2025-04-25 02:43:06,628 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-FX_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,631 - INFO - Processing Simple-MACD_01_standard.set
+2025-04-25 02:43:06,633 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,634 - INFO - Processing Simple-Volume-EA_01_standard.set
+2025-04-25 02:43:06,641 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-Volume-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,644 - INFO - Processing SimplePivot_01_standard.set
+2025-04-25 02:43:06,647 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SimplePivot_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,648 - INFO - Processing Simplest-Hedging-EA-ever_01_standard.set
+2025-04-25 02:43:06,653 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simplest-Hedging-EA-ever_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,654 - INFO - Processing SimpleTrade _01_standard.set
+2025-04-25 02:43:06,656 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SimpleTrade _01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,660 - INFO - Processing Six-Soldiers-EA-Grid_01_standard.set
+2025-04-25 02:43:06,666 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers-EA-Grid_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,667 - INFO - Processing Six-Soldiers-EA_01_standard.set
+2025-04-25 02:43:06,673 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,675 - INFO - Processing Six-Soldiers_01_standard.set
+2025-04-25 02:43:06,678 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,679 - INFO - Processing Small-Inside-Bar-Strategy_01_standard.set
+2025-04-25 02:43:06,682 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Small-Inside-Bar-Strategy_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,683 - INFO - Processing Smart-Machine-20EA_01_standard.set
+2025-04-25 02:43:06,689 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Smart-Machine-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,690 - INFO - Processing Smoothing-Average_01_standard.set
+2025-04-25 02:43:06,695 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Smoothing-Average_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,696 - INFO - Processing Spasm_01_standard.set
+2025-04-25 02:43:06,700 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Spasm_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,701 - INFO - Processing Sprd-mt5-20EA_01_standard.set
+2025-04-25 02:43:06,708 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sprd-mt5-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,709 - INFO - Processing ssb5-123_01_standard.set
+2025-04-25 02:43:06,713 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ssb5-123_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,714 - INFO - Processing Starter_01_standard.set
+2025-04-25 02:43:06,718 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Starter_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,720 - INFO - Processing Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set
+2025-04-25 02:43:06,724 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,726 - INFO - Processing Stoch-EA-1192_01_standard.set
+2025-04-25 02:43:06,729 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stoch-EA-1192_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,730 - INFO - Processing Stochastic-20Alert_01_standard.set
+2025-04-25 02:43:06,735 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stochastic-20Alert_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,737 - INFO - Processing Stochastic-K-Divergence.lua_01_standard.set
+2025-04-25 02:43:06,742 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stochastic-K-Divergence.lua_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,743 - INFO - Processing stochastic-three-periods_01_standard.set
+2025-04-25 02:43:06,748 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\stochastic-three-periods_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,749 - INFO - Processing StochasticDiffSign-EA_01_standard.set
+2025-04-25 02:43:06,756 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochasticDiffSign-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,758 - INFO - Processing stochasticdiffsign_01_standard.set
+2025-04-25 02:43:06,762 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\stochasticdiffsign_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,763 - INFO - Processing StochMA-EA_01_standard.set
+2025-04-25 02:43:06,770 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochMA-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,771 - INFO - Processing StochMA_01_standard.set
+2025-04-25 02:43:06,774 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,775 - INFO - Processing Stoch_01_standard.set
+2025-04-25 02:43:06,779 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stoch_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,780 - INFO - Processing Stop-Loss-Take-Profit_01_standard.set
+2025-04-25 02:43:06,785 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stop-Loss-Take-Profit_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,787 - INFO - Processing StraddleqTrail_01_standard.set
+2025-04-25 02:43:06,792 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StraddleqTrail_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,793 - INFO - Processing Surefirething_01_standard.set
+2025-04-25 02:43:06,797 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Surefirething_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,799 - INFO - Processing TDSGlobal_01_standard.set
+2025-04-25 02:43:06,804 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TDSGlobal_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,805 - INFO - Processing The-MasterMind-2_01_standard.set
+2025-04-25 02:43:06,811 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,812 - INFO - Processing The-MasterMind-3_01_standard.set
+2025-04-25 02:43:06,815 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind-3_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,817 - INFO - Processing The-MasterMind_01_standard.set
+2025-04-25 02:43:06,821 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,822 - INFO - Processing The-Puncher_01_standard.set
+2025-04-25 02:43:06,826 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-Puncher_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,827 - INFO - Processing TheClassicTurtleTrader-no-dots-EA_01_standard.set
+2025-04-25 02:43:06,833 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TheClassicTurtleTrader-no-dots-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,834 - INFO - Processing TheClassicTurtleTrader-no-dots_01_standard.set
+2025-04-25 02:43:06,838 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TheClassicTurtleTrader-no-dots_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,839 - INFO - Processing Three-indicators_01_standard.set
+2025-04-25 02:43:06,843 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-indicators_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,844 - INFO - Processing Three-neural-networks_01_standard.set
+2025-04-25 02:43:06,848 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-neural-networks_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,849 - INFO - Processing Three-timeframes_01_standard.set
+2025-04-25 02:43:06,854 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-timeframes_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,855 - INFO - Processing Three-Typical-Candles_01_standard.set
+2025-04-25 02:43:06,860 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-Typical-Candles_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,861 - INFO - Processing Time-sync-forts_01_standard.set
+2025-04-25 02:43:06,864 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Time-sync-forts_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,865 - INFO - Processing timer-trade_01_standard.set
+2025-04-25 02:43:06,868 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\timer-trade_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,869 - INFO - Processing TMA-ATR-Channel_01_standard.set
+2025-04-25 02:43:06,873 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-ATR-Channel_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,874 - INFO - Processing TMA-ATR-EA_01_standard.set
+2025-04-25 02:43:06,879 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-ATR-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,880 - INFO - Processing TMA-CG-EA_01_standard.set
+2025-04-25 02:43:06,885 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,886 - INFO - Processing TMA-CG-Martingale-20EA_01_standard.set
+2025-04-25 02:43:06,892 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-Martingale-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,894 - INFO - Processing TMA-CG-mladen_01_standard.set
+2025-04-25 02:43:06,896 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-mladen_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,898 - INFO - Processing TMA-CG-special_01_standard.set
+2025-04-25 02:43:06,902 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-special_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,903 - INFO - Processing TMA-slope-bands_01_standard.set
+2025-04-25 02:43:06,908 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-slope-bands_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,909 - INFO - Processing TmaTrue-2.0-with-Distances-6xx_01_standard.set
+2025-04-25 02:43:06,912 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TmaTrue-2.0-with-Distances-6xx_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,914 - INFO - Processing TmaTrue-3.0-with-Distances-6xx_01_standard.set
+2025-04-25 02:43:06,917 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TmaTrue-3.0-with-Distances-6xx_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,918 - INFO - Processing TP-with-money_01_standard.set
+2025-04-25 02:43:06,922 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TP-with-money_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,923 - INFO - Processing Trade-in-Channel_01_standard.set
+2025-04-25 02:43:06,926 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trade-in-Channel_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,927 - INFO - Processing Trade-on-qualified-RSI_01_standard.set
+2025-04-25 02:43:06,931 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trade-on-qualified-RSI_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,932 - INFO - Processing Trading-Breakout-MrThanhTan_01_standard.set
+2025-04-25 02:43:06,935 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trading-Breakout-MrThanhTan_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,936 - INFO - Processing Trend-Trader-Strategy-EA_01_standard.set
+2025-04-25 02:43:06,941 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trend-Trader-Strategy-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,943 - INFO - Processing Trend-Trader-Strategy_01_standard.set
+2025-04-25 02:43:06,946 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trend-Trader-Strategy_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,947 - INFO - Processing Tru-EA_01_standard.set
+2025-04-25 02:43:06,952 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Tru-EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,954 - INFO - Processing True-Scalper-Profit-Lock_01_standard.set
+2025-04-25 02:43:06,958 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\True-Scalper-Profit-Lock_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,959 - INFO - Processing TrueSort-1100_01_standard.set
+2025-04-25 02:43:06,962 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TrueSort-1100_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,963 - INFO - Processing Tunnel-gen4_01_standard.set
+2025-04-25 02:43:06,967 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Tunnel-gen4_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,968 - INFO - Processing Tunnel-Method_01_standard.set
+2025-04-25 02:43:06,972 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Tunnel-Method_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,973 - INFO - Processing TurnGrid_01_standard.set
+2025-04-25 02:43:06,976 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TurnGrid_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,977 - INFO - Processing Two PerBar _01_standard.set
+2025-04-25 02:43:06,980 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two PerBar _01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,981 - INFO - Processing Two-20MA-20RSI-20ADX-20EA_01_standard.set
+2025-04-25 02:43:06,986 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two-20MA-20RSI-20ADX-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,988 - INFO - Processing Two-20Orders-20Panel_01_standard.set
+2025-04-25 02:43:06,992 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two-20Orders-20Panel_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:06,993 - INFO - Processing Two-pending-orders-2_01_standard.set
+2025-04-25 02:43:06,998 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two-pending-orders-2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,001 - INFO - Processing UnityPro_01_standard.set
+2025-04-25 02:43:07,005 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UnityPro_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,006 - INFO - Processing UniversalMACrossEA_01_standard.set
+2025-04-25 02:43:07,010 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UniversalMACrossEA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,012 - INFO - Processing UniversalSignalDemo_01_standard.set
+2025-04-25 02:43:07,015 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UniversalSignalDemo_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,017 - INFO - Processing Universum-3.0_01_standard.set
+2025-04-25 02:43:07,022 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Universum-3.0_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,023 - INFO - Processing UnNomGuai-20EA_01_standard.set
+2025-04-25 02:43:07,028 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UnNomGuai-20EA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,029 - INFO - Processing up3x1-Investor_01_standard.set
+2025-04-25 02:43:07,033 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\up3x1-Investor_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,034 - INFO - Processing up3x1-premium-M_01_standard.set
+2025-04-25 02:43:07,037 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\up3x1-premium-M_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,039 - INFO - Processing up3x1_01_standard.set
+2025-04-25 02:43:07,043 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\up3x1_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,044 - INFO - Processing Urdala-Trol_01_standard.set
+2025-04-25 02:43:07,050 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Urdala-Trol_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,052 - INFO - Processing Very-Blonde-System_01_standard.set
+2025-04-25 02:43:07,056 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Very-Blonde-System_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,057 - INFO - Processing Virtual-Trailing-Stop_01_standard.set
+2025-04-25 02:43:07,061 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Virtual-Trailing-Stop_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,062 - INFO - Processing VLT-TRADER_01_standard.set
+2025-04-25 02:43:07,064 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VLT-TRADER_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,065 - INFO - Processing Volume-trader_01_standard.set
+2025-04-25 02:43:07,068 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Volume-trader_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,069 - INFO - Processing Vortex-Indicator-System_01_standard.set
+2025-04-25 02:43:07,071 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Vortex-Indicator-System_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,072 - INFO - Processing VR-Overturn_01_standard.set
+2025-04-25 02:43:07,075 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VR-Overturn_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,076 - INFO - Processing VR-ZVER-v.2_01_standard.set
+2025-04-25 02:43:07,080 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VR-ZVER-v.2_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,081 - INFO - Processing VR-ZVER_01_standard.set
+2025-04-25 02:43:07,084 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VR-ZVER_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,085 - INFO - Processing VZO_01_standard.set
+2025-04-25 02:43:07,087 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VZO_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,087 - INFO - Processing Waddah-Attar-Win_01_standard.set
+2025-04-25 02:43:07,090 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Waddah-Attar-Win_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,091 - INFO - Processing WE-TRUST_01_standard.set
+2025-04-25 02:43:07,094 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\WE-TRUST_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,096 - INFO - Processing X-RSIOMA_01_standard.set
+2025-04-25 02:43:07,099 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\X-RSIOMA_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'
+2025-04-25 02:43:07,101 - INFO - Processing Yesterday-Today_01_standard.set
+2025-04-25 02:43:07,103 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Yesterday-Today_01_standard.set: 'SetFileOptimizer' object has no attribute 'analyze_optimization'

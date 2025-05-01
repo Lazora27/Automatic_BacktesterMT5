@@ -1,0 +1,3 @@
+2025-04-25 13:03:03,874 - ERROR - Error creating EA directories: [WinError 32] The process cannot access the file because it is being used by another process: 'ini\\Batch_0054\\EA_GBPUSD_M1_2001\\ini'
+2025-04-25 13:03:56,140 - INFO - Created 736 EA directories
+2025-04-25 13:03:56,140 - INFO - Successfully created 44160 INI files

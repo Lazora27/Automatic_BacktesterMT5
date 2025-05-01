@@ -1,0 +1,903 @@
+2025-04-18 02:59:52,815 - INFO - Found 450 unique EAs in .set files
+2025-04-18 02:59:52,817 - INFO - Found EA '1H EUR_USD' in Batch_0001
+2025-04-18 02:59:52,818 - INFO - Found EA '10 pips' in Batch_0001
+2025-04-18 02:59:52,819 - INFO - Found EA '2MA_4Level' in Batch_0001
+2025-04-18 02:59:52,821 - INFO - Found EA '10 pips EURUSD' in Batch_0001
+2025-04-18 02:59:52,824 - INFO - Found EA '3-bars-high-low-indicator' in Batch_0001
+2025-04-18 02:59:52,830 - INFO - Found EA '20011201_GBPUSD_M1_v2' in Batch_0001
+2025-04-18 02:59:52,835 - INFO - Found EA '21hour' in Batch_0001
+2025-04-18 02:59:52,835 - INFO - Found EA '2HR_HL_EA_v1.00' in Batch_0001
+2025-04-18 02:59:52,849 - INFO - Found EA '3BarsHighLowEA' in Batch_0002
+2025-04-18 02:59:52,850 - INFO - Found EA '3sma_v2' in Batch_0002
+2025-04-18 02:59:52,854 - INFO - Found EA 'Absorption' in Batch_0002
+2025-04-18 02:59:52,856 - INFO - Found EA '3sma' in Batch_0002
+2025-04-18 02:59:52,865 - INFO - Found EA 'AK-47 Scalper EA - MT5' in Batch_0003
+2025-04-18 02:59:52,868 - INFO - Found EA 'ADX & MA' in Batch_0003
+2025-04-18 02:59:52,873 - INFO - Found EA 'ADX System' in Batch_0003
+2025-04-18 02:59:52,881 - INFO - Found EA 'AIS1' in Batch_0003
+2025-04-18 02:59:52,888 - INFO - Found EA 'ADX MACD Deev' in Batch_0003
+2025-04-18 02:59:52,892 - INFO - Found EA 'Altarius_RSI_Stohastic' in Batch_0004
+2025-04-18 02:59:52,893 - INFO - Found EA 'Alligator Simple v1.0' in Batch_0004
+2025-04-18 02:59:52,898 - INFO - Found EA 'Alexav D1 Profit GBPUSD' in Batch_0004
+2025-04-18 02:59:52,900 - INFO - Found EA 'AMA Trader' in Batch_0004
+2025-04-18 02:59:52,909 - INFO - Found EA 'Alligator' in Batch_0004
+2025-04-18 02:59:52,913 - INFO - Found EA 'AK-47 Scalper EA @yoforexPremium- MT5' in Batch_0004
+2025-04-18 02:59:52,917 - INFO - Found EA 'AO_Lightning' in Batch_0005
+2025-04-18 02:59:52,919 - INFO - Found EA 'At random' in Batch_0005
+2025-04-18 02:59:52,924 - INFO - Found EA 'AMA Trader 2' in Batch_0005
+2025-04-18 02:59:52,925 - INFO - Found EA 'At random Full' in Batch_0005
+2025-04-18 02:59:52,930 - INFO - Found EA 'AOCCI' in Batch_0005
+2025-04-18 02:59:52,938 - INFO - Found EA 'ArbSint' in Batch_0005
+2025-04-18 02:59:52,939 - INFO - Found EA 'Arbitrage' in Batch_0005
+2025-04-18 02:59:52,943 - INFO - Found EA 'Artificial Intelligence' in Batch_0005
+2025-04-18 02:59:52,945 - INFO - Found EA 'Autotrader Momentum' in Batch_0006
+2025-04-18 02:59:52,946 - INFO - Found EA 'AutoLock_EA_v2' in Batch_0006
+2025-04-18 02:59:52,953 - INFO - Found EA 'BADX' in Batch_0006
+2025-04-18 02:59:52,954 - INFO - Found EA 'Bago EA' in Batch_0006
+2025-04-18 02:59:52,962 - INFO - Found EA 'Auto-Pivot_Plotter_%28Mid-Levels%29_V1-41' in Batch_0006
+2025-04-18 02:59:52,963 - INFO - Found EA 'Avalanche AV' in Batch_0006
+2025-04-18 02:59:52,966 - INFO - Found EA 'Backbone' in Batch_0006
+2025-04-18 02:59:52,977 - INFO - Found EA 'BB_stops_MT5' in Batch_0007
+2025-04-18 02:59:52,978 - INFO - Found EA 'Basic CCI RSI' in Batch_0007
+2025-04-18 02:59:52,981 - INFO - Found EA 'BBPercentile_EA' in Batch_0007
+2025-04-18 02:59:52,982 - INFO - Found EA 'Bands 2' in Batch_0007
+2025-04-18 02:59:52,984 - INFO - Found EA 'BDCrossOver%20EA' in Batch_0007
+2025-04-18 02:59:52,985 - INFO - Found EA 'Basic Martingale EA 3' in Batch_0007
+2025-04-18 02:59:52,988 - INFO - Found EA 'BBPercentile' in Batch_0007
+2025-04-18 02:59:52,993 - INFO - Found EA 'Bollinger Bands RSI' in Batch_0008
+2025-04-18 02:59:52,997 - INFO - Found EA 'bollinger' in Batch_0008
+2025-04-18 02:59:53,001 - INFO - Found EA 'BIG DOG' in Batch_0008
+2025-04-18 02:59:53,004 - INFO - Found EA 'Bill Williams' in Batch_0008
+2025-04-18 02:59:53,006 - INFO - Found EA 'Bollinger Band Two MA and Zig-Zag' in Batch_0008
+2025-04-18 02:59:53,010 - INFO - Found EA 'Bollinger Bands N positions' in Batch_0008
+2025-04-18 02:59:53,013 - INFO - Found EA 'Bruno' in Batch_0009
+2025-04-18 02:59:53,017 - INFO - Found EA 'breakdown' in Batch_0009
+2025-04-18 02:59:53,018 - INFO - Found EA 'Brandy' in Batch_0009
+2025-04-18 02:59:53,019 - INFO - Found EA 'Breakout_Str' in Batch_0009
+2025-04-18 02:59:53,020 - INFO - Found EA 'Brakeout_Trader_v1' in Batch_0009
+2025-04-18 02:59:53,021 - INFO - Found EA 'Breadandbutter2' in Batch_0009
+2025-04-18 02:59:53,022 - INFO - Found EA 'Breakdown catcher' in Batch_0009
+2025-04-18 02:59:53,024 - INFO - Found EA 'BSS 1_0' in Batch_0009
+2025-04-18 02:59:53,035 - INFO - Found EA 'Bronze Warrioir' in Batch_0009
+2025-04-18 02:59:53,036 - INFO - Found EA 'Calculate lotsize and Trailling stop' in Batch_0010
+2025-04-18 02:59:53,040 - INFO - Found EA 'BykovTrend_EA' in Batch_0010
+2025-04-18 02:59:53,042 - INFO - Found EA 'BykovTrend_EA_v3' in Batch_0010
+2025-04-18 02:59:53,046 - INFO - Found EA 'Bullish and Bearish Engulfing' in Batch_0010
+2025-04-18 02:59:53,047 - INFO - Found EA 'Burg Extrapolator' in Batch_0010
+2025-04-18 02:59:53,053 - INFO - Found EA 'Candle' in Batch_0010
+2025-04-18 02:59:53,063 - INFO - Found EA 'CashMachine_5min' in Batch_0011
+2025-04-18 02:59:53,064 - INFO - Found EA 'cloud's trade 2' in Batch_0011
+2025-04-18 02:59:53,065 - INFO - Found EA 'CloseProfit v2' in Batch_0011
+2025-04-18 02:59:53,068 - INFO - Found EA 'Contrarian trade MA' in Batch_0011
+2025-04-18 02:59:53,070 - INFO - Found EA 'Constituents EA' in Batch_0011
+2025-04-18 02:59:53,071 - INFO - Found EA 'CloseAgent' in Batch_0011
+2025-04-18 02:59:53,074 - INFO - Found EA 'CCI MACD Scalper' in Batch_0011
+2025-04-18 02:59:53,076 - INFO - Found EA 'CLOUD' in Batch_0011
+2025-04-18 02:59:53,079 - INFO - Found EA 'Carbophos' in Batch_0011
+2025-04-18 02:59:53,084 - INFO - Found EA 'Cidomo' in Batch_0011
+2025-04-18 02:59:53,086 - INFO - Found EA 'Daily_Open_EA' in Batch_0012
+2025-04-18 02:59:53,088 - INFO - Found EA 'Currencyprofits_01.1' in Batch_0012
+2025-04-18 02:59:53,090 - INFO - Found EA 'Crossing Moving Average' in Batch_0012
+2025-04-18 02:59:53,095 - INFO - Found EA 'Daily range' in Batch_0012
+2025-04-18 02:59:53,098 - INFO - Found EA 'Daily%20reversal%20%20EA' in Batch_0012
+2025-04-18 02:59:53,103 - INFO - Found EA 'CrossMA' in Batch_0012
+2025-04-18 02:59:53,107 - INFO - Found EA 'Daily BreakPoint' in Batch_0012
+2025-04-18 02:59:53,108 - INFO - Found EA 'DeMarker Pending 2_5' in Batch_0013
+2025-04-18 02:59:53,109 - INFO - Found EA 'Dealers Trade v 7.74 MACD' in Batch_0013
+2025-04-18 02:59:53,111 - INFO - Found EA 'DeMarker gaining position volume' in Batch_0013
+2025-04-18 02:59:53,111 - INFO - Found EA 'DeMarker gaining position volume 2' in Batch_0013
+2025-04-18 02:59:53,112 - INFO - Found EA 'Day Trading PAMXA' in Batch_0013
+2025-04-18 02:59:53,114 - INFO - Found EA 'Daydream' in Batch_0013
+2025-04-18 02:59:53,115 - INFO - Found EA 'DeMarker Pending' in Batch_0013
+2025-04-18 02:59:53,118 - INFO - Found EA 'DeMarker Pending 2' in Batch_0013
+2025-04-18 02:59:53,119 - INFO - Found EA 'DayTrading' in Batch_0013
+2025-04-18 02:59:53,127 - INFO - Found EA 'Deep Drawdown MA' in Batch_0013
+2025-04-18 02:59:53,133 - INFO - Found EA 'DojiTrader' in Batch_0014
+2025-04-18 02:59:53,135 - INFO - Found EA 'DoubleHullMA' in Batch_0014
+2025-04-18 02:59:53,142 - INFO - Found EA 'Divergence%20for%20many%20indicator' in Batch_0014
+2025-04-18 02:59:53,143 - INFO - Found EA 'Dematus' in Batch_0014
+2025-04-18 02:59:53,147 - INFO - Found EA 'DoubleHullMA_EA' in Batch_0014
+2025-04-18 02:59:53,151 - INFO - Found EA 'Donchian_Chanel_EA' in Batch_0014
+2025-04-18 02:59:53,154 - INFO - Found EA 'Doji Arrows' in Batch_0014
+2025-04-18 02:59:53,157 - INFO - Found EA 'DoubleMA Crossover EA' in Batch_0015
+2025-04-18 02:59:53,158 - INFO - Found EA 'E-Skoch-Open' in Batch_0015
+2025-04-18 02:59:53,159 - INFO - Found EA 'e-TurboFx' in Batch_0015
+2025-04-18 02:59:53,164 - INFO - Found EA 'Dynamic averaging' in Batch_0015
+2025-04-18 02:59:53,166 - INFO - Found EA 'Doubler' in Batch_0015
+2025-04-18 02:59:53,170 - INFO - Found EA 'E-Friday' in Batch_0015
+2025-04-18 02:59:53,173 - INFO - Found EA 'e-Skoch pending orders' in Batch_0015
+2025-04-18 02:59:53,174 - INFO - Found EA 'dummy' in Batch_0015
+2025-04-18 02:59:53,176 - INFO - Found EA 'Driver_EA_MT5' in Batch_0015
+2025-04-18 02:59:53,179 - INFO - Found EA 'EMA_CROSS' in Batch_0016
+2025-04-18 02:59:53,184 - INFO - Found EA 'Elite eFibo Trader' in Batch_0016
+2025-04-18 02:59:53,186 - INFO - Found EA 'EA_MA_Stoch_RSI' in Batch_0016
+2025-04-18 02:59:53,189 - INFO - Found EA 'EA Close' in Batch_0016
+2025-04-18 02:59:53,197 - INFO - Found EA 'EMA LWMA RSI' in Batch_0016
+2025-04-18 02:59:53,197 - INFO - Found EA 'EMA' in Batch_0016
+2025-04-18 02:59:53,198 - INFO - Found EA 'EMA 6.12' in Batch_0016
+2025-04-18 02:59:53,199 - INFO - Found EA 'EA Moving Average' in Batch_0016
+2025-04-18 02:59:53,202 - INFO - Found EA 'Executor AO' in Batch_0017
+2025-04-18 02:59:53,204 - INFO - Found EA 'EMA_WMA' in Batch_0017
+2025-04-18 02:59:53,209 - INFO - Found EA 'EURUSD breakout' in Batch_0017
+2025-04-18 02:59:53,215 - INFO - Found EA 'eur usd m5' in Batch_0017
+2025-04-18 02:59:53,220 - INFO - Found EA 'EMA_WMA v2' in Batch_0017
+2025-04-18 02:59:53,221 - INFO - Found EA 'Eugene' in Batch_0017
+2025-04-18 02:59:53,222 - INFO - Found EA 'EMA_RSI_EA_v1.00' in Batch_0017
+2025-04-18 02:59:53,226 - INFO - Found EA 'Executer AC' in Batch_0017
+2025-04-18 02:59:53,233 - INFO - Found EA 'Expert_RSI_Stochastic_MA' in Batch_0018
+2025-04-18 02:59:53,235 - INFO - Found EA 'Expert_NEWS' in Batch_0018
+2025-04-18 02:59:53,238 - INFO - Found EA 'exp_Amstell' in Batch_0018
+2025-04-18 02:59:53,243 - INFO - Found EA 'ExtremePrice_EA_v1.00' in Batch_0018
+2025-04-18 02:59:53,250 - INFO - Found EA 'FiboRetracement%20EA' in Batch_0018
+2025-04-18 02:59:53,254 - INFO - Found EA 'Firestorm_EA' in Batch_0019
+2025-04-18 02:59:53,254 - INFO - Found EA 'fratal_mt5_EA' in Batch_0019
+2025-04-18 02:59:53,263 - INFO - Found EA 'Fraktrak xonax' in Batch_0019
+2025-04-18 02:59:53,264 - INFO - Found EA 'Firestorm_indicator' in Batch_0019
+2025-04-18 02:59:53,266 - INFO - Found EA 'Forex Profit' in Batch_0019
+2025-04-18 02:59:53,270 - INFO - Found EA 'Firebird v0.60' in Batch_0019
+2025-04-18 02:59:53,272 - INFO - Found EA 'Frank Ud' in Batch_0019
+2025-04-18 02:59:53,272 - INFO - Found EA 'Fluctuate' in Batch_0019
+2025-04-18 02:59:53,274 - INFO - Found EA 'Forex Fraus M1' in Batch_0019
+2025-04-18 02:59:53,275 - INFO - Found EA 'Fractals minimum distance' in Batch_0019
+2025-04-18 02:59:53,281 - INFO - Found EA 'GalacticExplosion' in Batch_0020
+2025-04-18 02:59:53,286 - INFO - Found EA 'Fuzzy logic' in Batch_0020
+2025-04-18 02:59:53,287 - INFO - Found EA 'Gaps' in Batch_0020
+2025-04-18 02:59:53,291 - INFO - Found EA 'GAP_EA_v1.00' in Batch_0020
+2025-04-18 02:59:53,292 - INFO - Found EA 'GBP9AM' in Batch_0020
+2025-04-18 02:59:53,292 - INFO - Found EA 'Gandalf_PRO' in Batch_0020
+2025-04-18 02:59:53,296 - INFO - Found EA 'Gap DM' in Batch_0020
+2025-04-18 02:59:53,299 - INFO - Found EA 'FT_CCI' in Batch_0020
+2025-04-18 02:59:53,306 - INFO - Found EA 'GbpChf' in Batch_0021
+2025-04-18 02:59:53,309 - INFO - Found EA 'HarVesteR' in Batch_0021
+2025-04-18 02:59:53,311 - INFO - Found EA 'Grid_Martingale' in Batch_0021
+2025-04-18 02:59:53,313 - INFO - Found EA 'GO' in Batch_0021
+2025-04-18 02:59:53,318 - INFO - Found EA 'Gold Dust' in Batch_0021
+2025-04-18 02:59:53,321 - INFO - Found EA 'GridEA' in Batch_0021
+2025-04-18 02:59:53,323 - INFO - Found EA 'GreenTrade' in Batch_0021
+2025-04-18 02:59:53,325 - INFO - Found EA 'hedger' in Batch_0022
+2025-04-18 02:59:53,330 - INFO - Found EA 'Heiken_Ashi_Smoothed_EA' in Batch_0022
+2025-04-18 02:59:53,333 - INFO - Found EA 'heiken-ashi-smoothed' in Batch_0022
+2025-04-18 02:59:53,334 - INFO - Found EA 'Hedging_EA' in Batch_0022
+2025-04-18 02:59:53,339 - INFO - Found EA 'heiken-ashi-smoothedLine' in Batch_0022
+2025-04-18 02:59:53,341 - INFO - Found EA 'HeikenAshi_Lines' in Batch_0022
+2025-04-18 02:59:53,343 - INFO - Found EA 'HeikenAshi_Lines_EA' in Batch_0022
+2025-04-18 02:59:53,350 - INFO - Found EA 'HelloSmart' in Batch_0023
+2025-04-18 02:59:53,351 - INFO - Found EA 'iCCI iMA' in Batch_0023
+2025-04-18 02:59:53,351 - INFO - Found EA 'Ichimoku' in Batch_0023
+2025-04-18 02:59:53,356 - INFO - Found EA 'High_Low_EA' in Batch_0023
+2025-04-18 02:59:53,358 - INFO - Found EA 'High_Low_Indicator' in Batch_0023
+2025-04-18 02:59:53,359 - INFO - Found EA 'Hoop master 2' in Batch_0023
+2025-04-18 02:59:53,360 - INFO - Found EA 'Heinken_Ashi_Color_Candles' in Batch_0023
+2025-04-18 02:59:53,363 - INFO - Found EA 'ichimok2005' in Batch_0023
+2025-04-18 02:59:53,368 - INFO - Found EA 'Heiken_Ashi_Smoothed_EA_with_MA' in Batch_0023
+2025-04-18 02:59:53,371 - INFO - Found EA 'Ichimoku_Scanner_MT5' in Batch_0024
+2025-04-18 02:59:53,373 - INFO - Found EA 'IchimokuMTF_EA_v1.00' in Batch_0024
+2025-04-18 02:59:53,374 - INFO - Found EA 'ICH_With_Alert_Derekers' in Batch_0024
+2025-04-18 02:59:53,378 - INFO - Found EA 'Ichimoku_Dashboard_MT5' in Batch_0024
+2025-04-18 02:59:53,380 - INFO - Found EA 'Ilan iMA' in Batch_0024
+2025-04-18 02:59:53,383 - INFO - Found EA 'Ichimoku_Scanner' in Batch_0024
+2025-04-18 02:59:53,385 - INFO - Found EA 'Ichimoku%20Tenkan%20Alert' in Batch_0024
+2025-04-18 02:59:53,389 - INFO - Found EA 'Ichimoku%20Kijun%20Alert' in Batch_0024
+2025-04-18 02:59:53,391 - INFO - Found EA 'ICH_With_Alert_Derekers_EA' in Batch_0024
+2025-04-18 02:59:53,393 - INFO - Found EA 'Ichimoku_Signals_and_Alert' in Batch_0024
+2025-04-18 02:59:53,395 - INFO - Found EA 'Ilan1.4' in Batch_0025
+2025-04-18 02:59:53,397 - INFO - Found EA 'iMA iStdDev' in Batch_0025
+2025-04-18 02:59:53,400 - INFO - Found EA 'Intersection 2 iMA' in Batch_0025
+2025-04-18 02:59:53,404 - INFO - Found EA 'Jackpot_Strategy_EA' in Batch_0025
+2025-04-18 02:59:53,404 - INFO - Found EA 'Inka%20Edho%20EA' in Batch_0025
+2025-04-18 02:59:53,406 - INFO - Found EA 'iVIDyA Simple' in Batch_0025
+2025-04-18 02:59:53,409 - INFO - Found EA 'IStochastic_Trading' in Batch_0025
+2025-04-18 02:59:53,413 - INFO - Found EA 'Indices Tester' in Batch_0025
+2025-04-18 02:59:53,414 - INFO - Found EA 'JackPot_Strategy_Elite' in Batch_0025
+2025-04-18 02:59:53,419 - INFO - Found EA 'KueFx%20Baseline' in Batch_0026
+2025-04-18 02:59:53,423 - INFO - Found EA 'KueFx%20Arrows' in Batch_0026
+2025-04-18 02:59:53,428 - INFO - Found EA 'JK BullP AutoTrader' in Batch_0026
+2025-04-18 02:59:53,429 - INFO - Found EA 'JS MA SAR Trades' in Batch_0026
+2025-04-18 02:59:53,431 - INFO - Found EA 'JS-Chaos' in Batch_0026
+2025-04-18 02:59:53,432 - INFO - Found EA 'KA-Gold Bot' in Batch_0026
+2025-04-18 02:59:53,438 - INFO - Found EA 'KueFxTrend_EA' in Batch_0027
+2025-04-18 02:59:53,441 - INFO - Found EA 'KueFx_Baseline_v1.10' in Batch_0027
+2025-04-18 02:59:53,442 - INFO - Found EA 'KueFx_Baseline_EA_v1.00' in Batch_0027
+2025-04-18 02:59:53,450 - INFO - Found EA 'KueFx_Arrows%20EA' in Batch_0027
+2025-04-18 02:59:53,452 - INFO - Found EA 'KueFx_Arrows' in Batch_0027
+2025-04-18 02:59:53,454 - INFO - Found EA 'KueFxTrend%20EA' in Batch_0027
+2025-04-18 02:59:53,455 - INFO - Found EA 'KueFx_Arrows_EA_v1.10' in Batch_0027
+2025-04-18 02:59:53,457 - INFO - Found EA 'KueFx_Arrows_EA_v1.00' in Batch_0027
+2025-04-18 02:59:53,460 - INFO - Found EA 'KueFx_Baseline_EA_v1.10' in Batch_0027
+2025-04-18 02:59:53,461 - INFO - Found EA 'KueFx_Clean_2025_EA' in Batch_0027
+2025-04-18 02:59:53,463 - INFO - Found EA 'KueFX_Money_Management' in Batch_0028
+2025-04-18 02:59:53,465 - INFO - Found EA 'KueFx_Motor_EA_v1.00' in Batch_0028
+2025-04-18 02:59:53,467 - INFO - Found EA 'KueFx_Harare_EA' in Batch_0028
+2025-04-18 02:59:53,472 - INFO - Found EA 'Lavika100' in Batch_0028
+2025-04-18 02:59:53,473 - INFO - Found EA 'KueFx_Motor_v1.00' in Batch_0028
+2025-04-18 02:59:53,475 - INFO - Found EA 'Last ZZ50' in Batch_0028
+2025-04-18 02:59:53,476 - INFO - Found EA 'KueFx_Extreme_EA' in Batch_0028
+2025-04-18 02:59:53,479 - INFO - Found EA 'LarryConnersRSI2' in Batch_0028
+2025-04-18 02:59:53,483 - INFO - Found EA 'Kue_Electric_EA' in Batch_0028
+2025-04-18 02:59:53,484 - INFO - Found EA 'KueFx_Trend' in Batch_0028
+2025-04-18 02:59:53,491 - INFO - Found EA 'Lesson 3_ Price Action' in Batch_0029
+2025-04-18 02:59:53,493 - INFO - Found EA 'Lesson 6 Trailling ATR' in Batch_0029
+2025-04-18 02:59:53,495 - INFO - Found EA 'LBS' in Batch_0029
+2025-04-18 02:59:53,499 - INFO - Found EA 'Lock' in Batch_0029
+2025-04-18 02:59:53,501 - INFO - Found EA 'Lesson 4_ Price Action & MA Filter' in Batch_0029
+2025-04-18 02:59:53,503 - INFO - Found EA 'LazyBot MT5_V1' in Batch_0029
+2025-04-18 02:59:53,506 - INFO - Found EA 'Locker' in Batch_0029
+2025-04-18 02:59:53,507 - INFO - Found EA 'Lego EA' in Batch_0029
+2025-04-18 02:59:53,509 - INFO - Found EA 'Lesson 7 Price action Ket hop Volume VSA' in Batch_0029
+2025-04-18 02:59:53,514 - INFO - Found EA 'MA Cross' in Batch_0030
+2025-04-18 02:59:53,516 - INFO - Found EA 'Lucky' in Batch_0030
+2025-04-18 02:59:53,517 - INFO - Found EA 'MA%20Alert' in Batch_0030
+2025-04-18 02:59:53,520 - INFO - Found EA 'MA Trend' in Batch_0030
+2025-04-18 02:59:53,522 - INFO - Found EA 'MA MACD Position averaging' in Batch_0030
+2025-04-18 02:59:53,522 - INFO - Found EA 'MA%20AO%20Arrow' in Batch_0030
+2025-04-18 02:59:53,527 - INFO - Found EA 'MA Envelopes' in Batch_0030
+2025-04-18 02:59:53,530 - INFO - Found EA 'MA MACD Position averaging v2' in Batch_0030
+2025-04-18 02:59:53,547 - INFO - Found EA 'MACD Stochastic 2' in Batch_0031
+2025-04-18 02:59:53,548 - INFO - Found EA 'MA2CCI' in Batch_0031
+2025-04-18 02:59:53,551 - INFO - Found EA 'MACD No Sample' in Batch_0031
+2025-04-18 02:59:53,552 - INFO - Found EA 'MACD and SAR' in Batch_0031
+2025-04-18 02:59:53,552 - INFO - Found EA 'MACD signal' in Batch_0031
+2025-04-18 02:59:53,562 - INFO - Found EA 'MACD Stochastic' in Batch_0031
+2025-04-18 02:59:53,568 - INFO - Found EA 'MACD Cleaner' in Batch_0031
+2025-04-18 02:59:53,581 - INFO - Found EA 'MACDCCI' in Batch_0032
+2025-04-18 02:59:53,595 - INFO - Found EA 'MacdPatternTraderAll' in Batch_0032
+2025-04-18 02:59:53,603 - INFO - Found EA 'MacdPatternTraderAll0.01' in Batch_0032
+2025-04-18 02:59:53,606 - INFO - Found EA 'MACD_EA_H4' in Batch_0032
+2025-04-18 02:59:53,607 - INFO - Found EA 'Mariner_MT5' in Batch_0032
+2025-04-18 02:59:53,611 - INFO - Found EA 'MAGrid' in Batch_0032
+2025-04-18 02:59:53,612 - INFO - Found EA 'MAMACD' in Batch_0032
+2025-04-18 02:59:53,618 - INFO - Found EA 'MartingailExpert' in Batch_0033
+2025-04-18 02:59:53,622 - INFO - Found EA 'Marubozu' in Batch_0033
+2025-04-18 02:59:53,622 - INFO - Found EA 'Martin for small deposits' in Batch_0033
+2025-04-18 02:59:53,626 - INFO - Found EA 'Martin' in Batch_0033
+2025-04-18 02:59:53,628 - INFO - Found EA 'MA_AO_EA_v1.00' in Batch_0033
+2025-04-18 02:59:53,633 - INFO - Found EA 'MartinGaleBreakout' in Batch_0033
+2025-04-18 02:59:53,635 - INFO - Found EA 'Marubozu_EA_v1.00' in Batch_0033
+2025-04-18 02:59:53,640 - INFO - Found EA 'Marubozu_EA_v1.10' in Batch_0033
+2025-04-18 02:59:53,641 - INFO - Found EA 'Martin 1' in Batch_0033
+2025-04-18 02:59:53,642 - INFO - Found EA 'Market Capture' in Batch_0033
+2025-04-18 02:59:53,644 - INFO - Found EA 'MelBar™Take325%™ 5.5Y NZD-USD' in Batch_0034
+2025-04-18 02:59:53,645 - INFO - Found EA 'ma_channels' in Batch_0034
+2025-04-18 02:59:53,648 - INFO - Found EA 'Mobo_Bands' in Batch_0034
+2025-04-18 02:59:53,649 - INFO - Found EA 'Ma_Crosses_MT5' in Batch_0034
+2025-04-18 02:59:53,656 - INFO - Found EA 'MA_Crossover_mt5%20EA' in Batch_0034
+2025-04-18 02:59:53,664 - INFO - Found EA 'MelBar EuSwiss 1.85' in Batch_0034
+2025-04-18 02:59:53,665 - INFO - Found EA 'Mobo_Bands_EA' in Batch_0034
+2025-04-18 02:59:53,670 - INFO - Found EA 'MoneyRain' in Batch_0035
+2025-04-18 02:59:53,672 - INFO - Found EA 'Momentum-M15' in Batch_0035
+2025-04-18 02:59:53,673 - INFO - Found EA 'Money Fixed Margin' in Batch_0035
+2025-04-18 02:59:53,677 - INFO - Found EA 'Money Fixed Risk' in Batch_0035
+2025-04-18 02:59:53,679 - INFO - Found EA 'Morning-evening_star_EA_v1.00' in Batch_0035
+2025-04-18 02:59:53,680 - INFO - Found EA 'Modified Moving Averages' in Batch_0035
+2025-04-18 02:59:53,683 - INFO - Found EA 'MostasHaR15 Pivot' in Batch_0035
+2025-04-18 02:59:53,685 - INFO - Found EA 'Moving Averages' in Batch_0035
+2025-04-18 02:59:53,687 - INFO - Found EA 'Moving Average Trade System' in Batch_0035
+2025-04-18 02:59:53,687 - INFO - Found EA 'Momo_trades' in Batch_0035
+2025-04-18 02:59:53,691 - INFO - Found EA 'MQL5_Wizard_MA_RSI' in Batch_0036
+2025-04-18 02:59:53,702 - INFO - Found EA 'MT5-RingSystemEA_v3.7.3' in Batch_0036
+2025-04-18 02:59:53,702 - INFO - Found EA 'MovingAverage' in Batch_0036
+2025-04-18 02:59:53,704 - INFO - Found EA 'MT5-CoupleHedgeEA_v2.6.3' in Batch_0036
+2025-04-18 02:59:53,705 - INFO - Found EA 'Mt5 williams % directional index EA' in Batch_0036
+2025-04-18 02:59:53,705 - INFO - Found EA 'MQL5_Wizard_MACD_Parabolic_SAR' in Batch_0036
+2025-04-18 02:59:53,707 - INFO - Found EA 'MTC Сombo v2' in Batch_0036
+2025-04-18 02:59:53,711 - INFO - Found EA 'Moving%20average%20and%20ichimoku%20EA' in Batch_0036
+2025-04-18 02:59:53,712 - INFO - Found EA 'MovingAverageMartinGale' in Batch_0036
+2025-04-18 02:59:53,717 - INFO - Found EA 'N Candles v2' in Batch_0037
+2025-04-18 02:59:53,720 - INFO - Found EA 'MySystem' in Batch_0037
+2025-04-18 02:59:53,720 - INFO - Found EA 'N Candles v5' in Batch_0037
+2025-04-18 02:59:53,723 - INFO - Found EA 'MultiMartin' in Batch_0037
+2025-04-18 02:59:53,724 - INFO - Found EA 'N Candles v4' in Batch_0037
+2025-04-18 02:59:53,725 - INFO - Found EA 'N-_Candles_v7' in Batch_0037
+2025-04-18 02:59:53,730 - INFO - Found EA 'Multi Stochastic' in Batch_0037
+2025-04-18 02:59:53,734 - INFO - Found EA 'N Candles' in Batch_0037
+2025-04-18 02:59:53,735 - INFO - Found EA 'N Candles v3' in Batch_0037
+2025-04-18 02:59:53,747 - INFO - Found EA 'NRTR_Revers' in Batch_0038
+2025-04-18 02:59:53,750 - INFO - Found EA 'Nevalyashka3_1' in Batch_0038
+2025-04-18 02:59:53,751 - INFO - Found EA 'New Martin' in Batch_0038
+2025-04-18 02:59:53,753 - INFO - Found EA 'Nevalyashka_BreakdownLevel' in Batch_0038
+2025-04-18 02:59:53,755 - INFO - Found EA 'Nextbar' in Batch_0038
+2025-04-18 02:59:53,756 - INFO - Found EA 'NightScalper' in Batch_0038
+2025-04-18 02:59:53,762 - INFO - Found EA 'NUp1Down' in Batch_0039
+2025-04-18 02:59:53,763 - INFO - Found EA 'Opening_and_ilosing_on_time' in Batch_0039
+2025-04-18 02:59:53,766 - INFO - Found EA 'OpenTicks' in Batch_0039
+2025-04-18 02:59:53,766 - INFO - Found EA 'Open_Candle_EA' in Batch_0039
+2025-04-18 02:59:53,767 - INFO - Found EA 'OpenPendingorderAfterPositionGetStopLoss' in Batch_0039
+2025-04-18 02:59:53,769 - INFO - Found EA 'Opening and Сlosing on time v2' in Batch_0039
+2025-04-18 02:59:53,774 - INFO - Found EA 'ORB_EA_BOX' in Batch_0039
+2025-04-18 02:59:53,777 - INFO - Found EA 'Open Close' in Batch_0039
+2025-04-18 02:59:53,788 - INFO - Found EA 'OzFx' in Batch_0040
+2025-04-18 02:59:53,790 - INFO - Found EA 'OverHedgeV2' in Batch_0040
+2025-04-18 02:59:53,792 - INFO - Found EA 'OsMaSter v0' in Batch_0040
+2025-04-18 02:59:53,792 - INFO - Found EA 'PARSI_v2_EA_v1.00' in Batch_0040
+2025-04-18 02:59:53,793 - INFO - Found EA 'Parabolic SAR' in Batch_0040
+2025-04-18 02:59:53,797 - INFO - Found EA 'OTT%20AND%20PRICE%20CROSS%20EA' in Batch_0040
+2025-04-18 02:59:53,800 - INFO - Found EA 'Pending orders by time' in Batch_0040
+2025-04-18 02:59:53,804 - INFO - Found EA 'Peceptron_Mult' in Batch_0040
+2025-04-18 02:59:53,808 - INFO - Found EA 'Pendulum' in Batch_0041
+2025-04-18 02:59:53,809 - INFO - Found EA 'Poker_SHOW' in Batch_0041
+2025-04-18 02:59:53,810 - INFO - Found EA 'Plateau' in Batch_0041
+2025-04-18 02:59:53,814 - INFO - Found EA 'Pinball machine' in Batch_0041
+2025-04-18 02:59:53,818 - INFO - Found EA 'PinBar_Magic_Indicator' in Batch_0041
+2025-04-18 02:59:53,821 - INFO - Found EA 'Pipsover' in Batch_0041
+2025-04-18 02:59:53,826 - INFO - Found EA 'Plan X' in Batch_0041
+2025-04-18 02:59:53,831 - INFO - Found EA 'Pinbar_Magic_EA' in Batch_0041
+2025-04-18 02:59:53,833 - INFO - Found EA 'Range Breakout' in Batch_0042
+2025-04-18 02:59:53,835 - INFO - Found EA 'Rabbit3' in Batch_0042
+2025-04-18 02:59:53,840 - INFO - Found EA 'Proffessor v3' in Batch_0042
+2025-04-18 02:59:53,841 - INFO - Found EA 'Probe' in Batch_0042
+2025-04-18 02:59:53,844 - INFO - Found EA 'Puria method' in Batch_0042
+2025-04-18 02:59:53,845 - INFO - Found EA 'Precipice' in Batch_0042
+2025-04-18 02:59:53,849 - INFO - Found EA 'PROphet' in Batch_0042
+2025-04-18 02:59:53,854 - INFO - Found EA 'PropFirmHelper' in Batch_0042
+2025-04-18 02:59:53,854 - INFO - Found EA 'Precipice MartIn' in Batch_0042
+2025-04-18 02:59:53,858 - INFO - Found EA 'REFLEX_INDICATOR' in Batch_0043
+2025-04-18 02:59:53,860 - INFO - Found EA 'Reflex' in Batch_0043
+2025-04-18 02:59:53,863 - INFO - Found EA 'RobotPowerM5 meta4V12' in Batch_0043
+2025-04-18 02:59:53,864 - INFO - Found EA 'Reflex_EA' in Batch_0043
+2025-04-18 02:59:53,864 - INFO - Found EA 'Reversing Martingale' in Batch_0043
+2025-04-18 02:59:53,867 - INFO - Found EA 'RideAlligator' in Batch_0043
+2025-04-18 02:59:53,873 - INFO - Found EA 'Raymond Cloudy Day for EA' in Batch_0043
+2025-04-18 02:59:53,875 - INFO - Found EA 'Rapid Doji EA' in Batch_0043
+2025-04-18 02:59:53,880 - INFO - Found EA 'RNN' in Batch_0043
+2025-04-18 02:59:53,884 - INFO - Found EA 'Robot_MACD' in Batch_0044
+2025-04-18 02:59:53,885 - INFO - Found EA 'RSI EA v2' in Batch_0044
+2025-04-18 02:59:53,888 - INFO - Found EA 'Rollback system' in Batch_0044
+2025-04-18 02:59:53,889 - INFO - Found EA 'RSI trader v0.15' in Batch_0044
+2025-04-18 02:59:53,894 - INFO - Found EA 'RSI and Bollinger Bands' in Batch_0044
+2025-04-18 02:59:53,894 - INFO - Found EA 'RSI_Arrow' in Batch_0044
+2025-04-18 02:59:53,895 - INFO - Found EA 'RSI Eraser' in Batch_0044
+2025-04-18 02:59:53,901 - INFO - Found EA 'RSI Levels' in Batch_0044
+2025-04-18 02:59:53,903 - INFO - Found EA 'RSI EA' in Batch_0044
+2025-04-18 02:59:53,910 - INFO - Found EA 'RSI_Trend_v3_EA_v1.00' in Batch_0045
+2025-04-18 02:59:53,911 - INFO - Found EA 'RSI_with_channels' in Batch_0045
+2025-04-18 02:59:53,911 - INFO - Found EA 'SampleTrailingstop-MT5' in Batch_0045
+2025-04-18 02:59:53,913 - INFO - Found EA 'RSI_Arrow_EA_v1.00' in Batch_0045
+2025-04-18 02:59:53,914 - INFO - Found EA 'SampleCheckPendingOrder' in Batch_0045
+2025-04-18 02:59:53,915 - INFO - Found EA 'RSI_Expert_v2.0' in Batch_0045
+2025-04-18 02:59:53,916 - INFO - Found EA 'RSI_Trend_v3' in Batch_0045
+2025-04-18 02:59:53,919 - INFO - Found EA 'Russian20-hp1' in Batch_0045
+2025-04-18 02:59:53,924 - INFO - Found EA 'RSI_with_channels_EA_v1.00' in Batch_0045
+2025-04-18 02:59:53,927 - INFO - Found EA 'RSI_Expert' in Batch_0045
+2025-04-18 02:59:53,938 - INFO - Found EA 'Separate trade' in Batch_0046
+2025-04-18 02:59:53,940 - INFO - Found EA 'SAR trading v2.0' in Batch_0046
+2025-04-18 02:59:53,942 - INFO - Found EA 'Sensitive' in Batch_0046
+2025-04-18 02:59:53,945 - INFO - Found EA 'Secwenta' in Batch_0046
+2025-04-18 02:59:53,947 - INFO - Found EA 'SilverTrend v3' in Batch_0046
+2025-04-18 02:59:53,951 - INFO - Found EA 'Sell_Stop' in Batch_0046
+2025-04-18 02:59:53,954 - INFO - Found EA 'Simple FX' in Batch_0046
+2025-04-18 02:59:53,957 - INFO - Found EA 'Simple%20Volume%20EA' in Batch_0046
+2025-04-18 02:59:53,959 - INFO - Found EA 'Simple EA MA plus MACD' in Batch_0046
+2025-04-18 02:59:53,969 - INFO - Found EA 'Smart_Machine%20EA' in Batch_0047
+2025-04-18 02:59:53,970 - INFO - Found EA 'SimpleTrade ' in Batch_0047
+2025-04-18 02:59:53,975 - INFO - Found EA 'Simple_MACD' in Batch_0047
+2025-04-18 02:59:53,976 - INFO - Found EA 'Simple_Volume_EA_v2' in Batch_0047
+2025-04-18 02:59:53,978 - INFO - Found EA 'Six_Soldiers' in Batch_0047
+2025-04-18 02:59:53,980 - INFO - Found EA 'Six_Soldiers_EA_Grid' in Batch_0047
+2025-04-18 02:59:53,981 - INFO - Found EA 'Simplest Hedging EA ever' in Batch_0047
+2025-04-18 02:59:53,982 - INFO - Found EA 'SimplePivot' in Batch_0047
+2025-04-18 02:59:53,984 - INFO - Found EA 'Six_Soldiers_EA' in Batch_0047
+2025-04-18 02:59:53,991 - INFO - Found EA 'Sprd_mt5%20EA' in Batch_0048
+2025-04-18 02:59:53,994 - INFO - Found EA 'ssb5_123' in Batch_0048
+2025-04-18 02:59:53,997 - INFO - Found EA 'Smoothing Average' in Batch_0048
+2025-04-18 02:59:54,003 - INFO - Found EA 'Spasm' in Batch_0048
+2025-04-18 02:59:54,006 - INFO - Found EA 'Starter' in Batch_0048
+2025-04-18 02:59:54,012 - INFO - Found EA 'StochMA' in Batch_0049
+2025-04-18 02:59:54,014 - INFO - Found EA 'stochastic_three_periods' in Batch_0049
+2025-04-18 02:59:54,017 - INFO - Found EA 'Stochastic_K_Divergence.lua' in Batch_0049
+2025-04-18 02:59:54,019 - INFO - Found EA 'stochasticdiffsign' in Batch_0049
+2025-04-18 02:59:54,025 - INFO - Found EA 'StochasticDiffSign_EA' in Batch_0049
+2025-04-18 02:59:54,029 - INFO - Found EA 'Steve Cartwright Trader Camel CCI MACD' in Batch_0049
+2025-04-18 02:59:54,030 - INFO - Found EA 'StochMA_EA_v1.00' in Batch_0049
+2025-04-18 02:59:54,031 - INFO - Found EA 'Stoch' in Batch_0049
+2025-04-18 02:59:54,034 - INFO - Found EA 'Stoch_EA_1192' in Batch_0049
+2025-04-18 02:59:54,035 - INFO - Found EA 'Stochastic%20Alert' in Batch_0049
+2025-04-18 02:59:54,046 - INFO - Found EA 'StraddleqTrail' in Batch_0050
+2025-04-18 02:59:54,047 - INFO - Found EA 'The MasterMind' in Batch_0050
+2025-04-18 02:59:54,049 - INFO - Found EA 'Surefirething_' in Batch_0050
+2025-04-18 02:59:54,051 - INFO - Found EA 'The MasterMind 2' in Batch_0050
+2025-04-18 02:59:54,055 - INFO - Found EA 'TDSGlobal' in Batch_0050
+2025-04-18 02:59:54,059 - INFO - Found EA 'Three neural networks' in Batch_0051
+2025-04-18 02:59:54,063 - INFO - Found EA 'The Puncher' in Batch_0051
+2025-04-18 02:59:54,064 - INFO - Found EA 'TheClassicTurtleTrader_no_dots' in Batch_0051
+2025-04-18 02:59:54,065 - INFO - Found EA 'Three indicators' in Batch_0051
+2025-04-18 02:59:54,069 - INFO - Found EA 'Three timeframes' in Batch_0051
+2025-04-18 02:59:54,070 - INFO - Found EA 'The MasterMind 3' in Batch_0051
+2025-04-18 02:59:54,072 - INFO - Found EA 'TheClassicTurtleTrader_no_dots_EA_v1.00' in Batch_0051
+2025-04-18 02:59:54,080 - INFO - Found EA 'Three Typical Candles' in Batch_0051
+2025-04-18 02:59:54,082 - INFO - Found EA 'TMA_CG_mladen' in Batch_0052
+2025-04-18 02:59:54,085 - INFO - Found EA 'TMA_CG_EA' in Batch_0052
+2025-04-18 02:59:54,086 - INFO - Found EA 'TmaTrue_2.0_with_Distances_6xx' in Batch_0052
+2025-04-18 02:59:54,087 - INFO - Found EA 'TMA_ATR_EA_v1.00' in Batch_0052
+2025-04-18 02:59:54,090 - INFO - Found EA 'TMA_CG_Martingale%20EA' in Batch_0052
+2025-04-18 02:59:54,096 - INFO - Found EA 'TMA_ATR_Channel' in Batch_0052
+2025-04-18 02:59:54,098 - INFO - Found EA 'timer_trade' in Batch_0052
+2025-04-18 02:59:54,099 - INFO - Found EA 'TmaTrue_3.0_with_Distances_6xx' in Batch_0052
+2025-04-18 02:59:54,105 - INFO - Found EA 'Trend_Trader_Strategy_EA_v1.00' in Batch_0053
+2025-04-18 02:59:54,110 - INFO - Found EA 'Trading Breakout_ MrThanhTan' in Batch_0053
+2025-04-18 02:59:54,112 - INFO - Found EA 'Trade on qualified RSI' in Batch_0053
+2025-04-18 02:59:54,114 - INFO - Found EA 'TMA_CG_special' in Batch_0053
+2025-04-18 02:59:54,119 - INFO - Found EA 'Trend_Trader_Strategy' in Batch_0053
+2025-04-18 02:59:54,120 - INFO - Found EA 'TP_with_money' in Batch_0053
+2025-04-18 02:59:54,122 - INFO - Found EA 'Trade in Channel' in Batch_0053
+2025-04-18 02:59:54,123 - INFO - Found EA 'TMA_slope_bands' in Batch_0053
+2025-04-18 02:59:54,125 - INFO - Found EA 'True Scalper Profit Lock' in Batch_0053
+2025-04-18 02:59:54,129 - INFO - Found EA 'Tru_EA' in Batch_0054
+2025-04-18 02:59:54,131 - INFO - Found EA 'Two%20MA%20RSI%20ADX%20EA' in Batch_0054
+2025-04-18 02:59:54,136 - INFO - Found EA 'Tunnel Method' in Batch_0054
+2025-04-18 02:59:54,136 - INFO - Found EA 'TrueSort_1100' in Batch_0054
+2025-04-18 02:59:54,138 - INFO - Found EA 'Two pending orders 2' in Batch_0054
+2025-04-18 02:59:54,139 - INFO - Found EA 'Two PerBar ' in Batch_0054
+2025-04-18 02:59:54,144 - INFO - Found EA 'Tunnel gen4' in Batch_0054
+2025-04-18 02:59:54,146 - INFO - Found EA 'TurnGrid' in Batch_0054
+2025-04-18 02:59:54,147 - INFO - Found EA 'Two%20Orders%20Panel' in Batch_0054
+2025-04-18 02:59:54,153 - INFO - Found EA 'Urdala_Trol' in Batch_0055
+2025-04-18 02:59:54,157 - INFO - Found EA 'UnNomGuai%20EA' in Batch_0055
+2025-04-18 02:59:54,160 - INFO - Found EA 'up3x1' in Batch_0055
+2025-04-18 02:59:54,161 - INFO - Found EA 'Universum 3.0' in Batch_0055
+2025-04-18 02:59:54,162 - INFO - Found EA 'up3x1_premium_v2M' in Batch_0055
+2025-04-18 02:59:54,166 - INFO - Found EA 'up3x1 Investor' in Batch_0055
+2025-04-18 02:59:54,167 - INFO - Found EA 'UniversalMACrossEA' in Batch_0055
+2025-04-18 02:59:54,173 - INFO - Found EA 'Volume trader' in Batch_0056
+2025-04-18 02:59:54,177 - INFO - Found EA 'VR---Overturn' in Batch_0056
+2025-04-18 02:59:54,178 - INFO - Found EA 'Very Blonde System' in Batch_0056
+2025-04-18 02:59:54,182 - INFO - Found EA 'VR---ZVER' in Batch_0056
+2025-04-18 02:59:54,183 - INFO - Found EA 'VLT_TRADER' in Batch_0056
+2025-04-18 02:59:54,186 - INFO - Found EA 'Virtual Trailing Stop' in Batch_0056
+2025-04-18 02:59:54,186 - INFO - Found EA 'Vortex Indicator System' in Batch_0056
+2025-04-18 02:59:54,188 - INFO - Found EA 'Waddah_Attar_Win' in Batch_0056
+2025-04-18 02:59:54,190 - INFO - Found EA 'VR---ZVER v.2' in Batch_0056
+2025-04-18 02:59:54,193 - INFO - Found EA 'Yesterday Today' in Batch_0057
+2025-04-18 02:59:54,202 - INFO - Found EA 'Two PerBar ' in Batch_0057
+2025-04-18 02:59:54,204 - INFO - Found EA 'WE TRUST' in Batch_0057
+2025-04-18 02:59:54,205 - INFO - Found EA 'X-RSIOMA' in Batch_0057
+2025-04-18 02:59:54,271 - INFO - Mapping saved to ea_batch_mapping.json
+2025-04-18 02:59:54,272 - INFO - 1H EUR_USD: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,272 - INFO - 10 pips: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,273 - INFO - 2MA_4Level: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,273 - INFO - 10 pips EURUSD: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,273 - INFO - 3-bars-high-low-indicator: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,274 - INFO - 20011201_GBPUSD_M1_v2: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,274 - INFO - 21hour: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,274 - INFO - 2HR_HL_EA_v1.00: Found in 1 batches - Batch_0001
+2025-04-18 02:59:54,274 - INFO - 3BarsHighLowEA: Found in 1 batches - Batch_0002
+2025-04-18 02:59:54,274 - INFO - 3sma_v2: Found in 1 batches - Batch_0002
+2025-04-18 02:59:54,274 - INFO - Absorption: Found in 1 batches - Batch_0002
+2025-04-18 02:59:54,275 - INFO - 3sma: Found in 1 batches - Batch_0002
+2025-04-18 02:59:54,275 - INFO - AK-47 Scalper EA - MT5: Found in 1 batches - Batch_0003
+2025-04-18 02:59:54,275 - INFO - ADX & MA: Found in 1 batches - Batch_0003
+2025-04-18 02:59:54,276 - INFO - ADX System: Found in 1 batches - Batch_0003
+2025-04-18 02:59:54,276 - INFO - AIS1: Found in 1 batches - Batch_0003
+2025-04-18 02:59:54,276 - INFO - ADX MACD Deev: Found in 1 batches - Batch_0003
+2025-04-18 02:59:54,277 - INFO - Altarius_RSI_Stohastic: Found in 1 batches - Batch_0004
+2025-04-18 02:59:54,277 - INFO - Alligator Simple v1.0: Found in 1 batches - Batch_0004
+2025-04-18 02:59:54,277 - INFO - Alexav D1 Profit GBPUSD: Found in 1 batches - Batch_0004
+2025-04-18 02:59:54,278 - INFO - AMA Trader: Found in 1 batches - Batch_0004
+2025-04-18 02:59:54,278 - INFO - Alligator: Found in 1 batches - Batch_0004
+2025-04-18 02:59:54,278 - INFO - AK-47 Scalper EA @yoforexPremium- MT5: Found in 1 batches - Batch_0004
+2025-04-18 02:59:54,278 - INFO - AO_Lightning: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - At random: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - AMA Trader 2: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - At random Full: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - AOCCI: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - ArbSint: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - Arbitrage: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,279 - INFO - Artificial Intelligence: Found in 1 batches - Batch_0005
+2025-04-18 02:59:54,280 - INFO - Autotrader Momentum: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,280 - INFO - AutoLock_EA_v2: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,280 - INFO - BADX: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,280 - INFO - Bago EA: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,280 - INFO - Auto-Pivot_Plotter_%28Mid-Levels%29_V1-41: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,280 - INFO - Avalanche AV: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,281 - INFO - Backbone: Found in 1 batches - Batch_0006
+2025-04-18 02:59:54,281 - INFO - BB_stops_MT5: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,281 - INFO - Basic CCI RSI: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,281 - INFO - BBPercentile_EA: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,281 - INFO - Bands 2: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,281 - INFO - BDCrossOver%20EA: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,281 - INFO - Basic Martingale EA 3: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,282 - INFO - BBPercentile: Found in 1 batches - Batch_0007
+2025-04-18 02:59:54,282 - INFO - Bollinger Bands RSI: Found in 1 batches - Batch_0008
+2025-04-18 02:59:54,282 - INFO - bollinger: Found in 1 batches - Batch_0008
+2025-04-18 02:59:54,282 - INFO - BIG DOG: Found in 1 batches - Batch_0008
+2025-04-18 02:59:54,282 - INFO - Bill Williams: Found in 1 batches - Batch_0008
+2025-04-18 02:59:54,283 - INFO - Bollinger Band Two MA and Zig-Zag: Found in 1 batches - Batch_0008
+2025-04-18 02:59:54,283 - INFO - Bollinger Bands N positions: Found in 1 batches - Batch_0008
+2025-04-18 02:59:54,283 - INFO - Bruno: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,283 - INFO - breakdown: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,283 - INFO - Brandy: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,284 - INFO - Breakout_Str: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,284 - INFO - Brakeout_Trader_v1: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,284 - INFO - Breadandbutter2: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,284 - INFO - Breakdown catcher: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,284 - INFO - BSS 1_0: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,285 - INFO - Bronze Warrioir: Found in 1 batches - Batch_0009
+2025-04-18 02:59:54,285 - INFO - Calculate lotsize and Trailling stop: Found in 1 batches - Batch_0010
+2025-04-18 02:59:54,285 - INFO - BykovTrend_EA: Found in 1 batches - Batch_0010
+2025-04-18 02:59:54,285 - INFO - BykovTrend_EA_v3: Found in 1 batches - Batch_0010
+2025-04-18 02:59:54,285 - INFO - Bullish and Bearish Engulfing: Found in 1 batches - Batch_0010
+2025-04-18 02:59:54,285 - INFO - Burg Extrapolator: Found in 1 batches - Batch_0010
+2025-04-18 02:59:54,286 - INFO - Candle: Found in 1 batches - Batch_0010
+2025-04-18 02:59:54,286 - INFO - CashMachine_5min: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,286 - INFO - cloud's trade 2: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,286 - INFO - CloseProfit v2: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,286 - INFO - Contrarian trade MA: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,286 - INFO - Constituents EA: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,287 - INFO - CloseAgent: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,287 - INFO - CCI MACD Scalper: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,287 - INFO - CLOUD: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,287 - INFO - Carbophos: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,287 - INFO - Cidomo: Found in 1 batches - Batch_0011
+2025-04-18 02:59:54,288 - INFO - Daily_Open_EA: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,288 - INFO - Currencyprofits_01.1: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,288 - INFO - Crossing Moving Average: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,288 - INFO - Daily range: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,288 - INFO - Daily%20reversal%20%20EA: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,288 - INFO - CrossMA: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,289 - INFO - Daily BreakPoint: Found in 1 batches - Batch_0012
+2025-04-18 02:59:54,289 - INFO - DeMarker Pending 2_5: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,289 - INFO - Dealers Trade v 7.74 MACD: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,289 - INFO - DeMarker gaining position volume: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,290 - INFO - DeMarker gaining position volume 2: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,290 - INFO - Day Trading PAMXA: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,290 - INFO - Daydream: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,290 - INFO - DeMarker Pending: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,291 - INFO - DeMarker Pending 2: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,291 - INFO - DayTrading: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,291 - INFO - Deep Drawdown MA: Found in 1 batches - Batch_0013
+2025-04-18 02:59:54,291 - INFO - DojiTrader: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,291 - INFO - DoubleHullMA: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,292 - INFO - Divergence%20for%20many%20indicator: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,292 - INFO - Dematus: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,292 - INFO - DoubleHullMA_EA: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,292 - INFO - Donchian_Chanel_EA: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,292 - INFO - Doji Arrows: Found in 1 batches - Batch_0014
+2025-04-18 02:59:54,293 - INFO - DoubleMA Crossover EA: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,293 - INFO - E-Skoch-Open: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,293 - INFO - e-TurboFx: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,293 - INFO - Dynamic averaging: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,293 - INFO - Doubler: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,294 - INFO - E-Friday: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,294 - INFO - e-Skoch pending orders: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,294 - INFO - dummy: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,294 - INFO - Driver_EA_MT5: Found in 1 batches - Batch_0015
+2025-04-18 02:59:54,294 - INFO - EMA_CROSS: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,294 - INFO - Elite eFibo Trader: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - EA_MA_Stoch_RSI: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - EA Close: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - EMA LWMA RSI: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - EMA: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - EMA 6.12: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - EA Moving Average: Found in 1 batches - Batch_0016
+2025-04-18 02:59:54,295 - INFO - Executor AO: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,296 - INFO - EMA_WMA: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,296 - INFO - EURUSD breakout: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,296 - INFO - eur usd m5: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,296 - INFO - EMA_WMA v2: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,296 - INFO - Eugene: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,296 - INFO - EMA_RSI_EA_v1.00: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,297 - INFO - Executer AC: Found in 1 batches - Batch_0017
+2025-04-18 02:59:54,297 - INFO - Expert_RSI_Stochastic_MA: Found in 1 batches - Batch_0018
+2025-04-18 02:59:54,297 - INFO - Expert_NEWS: Found in 1 batches - Batch_0018
+2025-04-18 02:59:54,297 - INFO - exp_Amstell: Found in 1 batches - Batch_0018
+2025-04-18 02:59:54,297 - INFO - ExtremePrice_EA_v1.00: Found in 1 batches - Batch_0018
+2025-04-18 02:59:54,297 - INFO - FiboRetracement%20EA: Found in 1 batches - Batch_0018
+2025-04-18 02:59:54,298 - INFO - Firestorm_EA: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,298 - INFO - fratal_mt5_EA: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,298 - INFO - Fraktrak xonax: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,298 - INFO - Firestorm_indicator: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - Forex Profit: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - Firebird v0.60: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - Frank Ud: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - Fluctuate: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - Forex Fraus M1: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - Fractals minimum distance: Found in 1 batches - Batch_0019
+2025-04-18 02:59:54,299 - INFO - GalacticExplosion: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - Fuzzy logic: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - Gaps: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - GAP_EA_v1.00: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - GBP9AM: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - Gandalf_PRO: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - Gap DM: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,300 - INFO - FT_CCI: Found in 1 batches - Batch_0020
+2025-04-18 02:59:54,301 - INFO - GbpChf: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,301 - INFO - HarVesteR: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,301 - INFO - Grid_Martingale: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,301 - INFO - GO: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,301 - INFO - Gold Dust: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,301 - INFO - GridEA: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,301 - INFO - GreenTrade: Found in 1 batches - Batch_0021
+2025-04-18 02:59:54,302 - INFO - hedger: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,302 - INFO - Heiken_Ashi_Smoothed_EA: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,302 - INFO - heiken-ashi-smoothed: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,302 - INFO - Hedging_EA: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,302 - INFO - heiken-ashi-smoothedLine: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,302 - INFO - HeikenAshi_Lines: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,302 - INFO - HeikenAshi_Lines_EA: Found in 1 batches - Batch_0022
+2025-04-18 02:59:54,303 - INFO - HelloSmart: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,303 - INFO - iCCI iMA: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,303 - INFO - Ichimoku: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,303 - INFO - High_Low_EA: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,303 - INFO - High_Low_Indicator: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,303 - INFO - Hoop master 2: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,304 - INFO - Heinken_Ashi_Color_Candles: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,304 - INFO - ichimok2005: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,304 - INFO - Heiken_Ashi_Smoothed_EA_with_MA: Found in 1 batches - Batch_0023
+2025-04-18 02:59:54,304 - INFO - Ichimoku_Scanner_MT5: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,304 - INFO - IchimokuMTF_EA_v1.00: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,304 - INFO - ICH_With_Alert_Derekers: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,304 - INFO - Ichimoku_Dashboard_MT5: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,305 - INFO - Ilan iMA: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,305 - INFO - Ichimoku_Scanner: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,305 - INFO - Ichimoku%20Tenkan%20Alert: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,305 - INFO - Ichimoku%20Kijun%20Alert: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,305 - INFO - ICH_With_Alert_Derekers_EA: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,306 - INFO - Ichimoku_Signals_and_Alert: Found in 1 batches - Batch_0024
+2025-04-18 02:59:54,306 - INFO - Ilan1.4: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,306 - INFO - iMA iStdDev: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,306 - INFO - Intersection 2 iMA: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,306 - INFO - Jackpot_Strategy_EA: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,306 - INFO - Inka%20Edho%20EA: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,306 - INFO - iVIDyA Simple: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,307 - INFO - IStochastic_Trading: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,307 - INFO - Indices Tester: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,307 - INFO - JackPot_Strategy_Elite: Found in 1 batches - Batch_0025
+2025-04-18 02:59:54,307 - INFO - KueFx%20Baseline: Found in 1 batches - Batch_0026
+2025-04-18 02:59:54,307 - INFO - KueFx%20Arrows: Found in 1 batches - Batch_0026
+2025-04-18 02:59:54,307 - INFO - JK BullP AutoTrader: Found in 1 batches - Batch_0026
+2025-04-18 02:59:54,308 - INFO - JS MA SAR Trades: Found in 1 batches - Batch_0026
+2025-04-18 02:59:54,308 - INFO - JS-Chaos: Found in 1 batches - Batch_0026
+2025-04-18 02:59:54,308 - INFO - KA-Gold Bot: Found in 1 batches - Batch_0026
+2025-04-18 02:59:54,308 - INFO - KueFxTrend_EA: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,308 - INFO - KueFx_Baseline_v1.10: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,309 - INFO - KueFx_Baseline_EA_v1.00: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,309 - INFO - KueFx_Arrows%20EA: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,309 - INFO - KueFx_Arrows: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,309 - INFO - KueFxTrend%20EA: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,309 - INFO - KueFx_Arrows_EA_v1.10: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,309 - INFO - KueFx_Arrows_EA_v1.00: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,310 - INFO - KueFx_Baseline_EA_v1.10: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,310 - INFO - KueFx_Clean_2025_EA: Found in 1 batches - Batch_0027
+2025-04-18 02:59:54,310 - INFO - KueFX_Money_Management: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,310 - INFO - KueFx_Motor_EA_v1.00: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,310 - INFO - KueFx_Harare_EA: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,310 - INFO - Lavika100: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,311 - INFO - KueFx_Motor_v1.00: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,311 - INFO - Last ZZ50: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,311 - INFO - KueFx_Extreme_EA: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,311 - INFO - LarryConnersRSI2: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,311 - INFO - Kue_Electric_EA: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,311 - INFO - KueFx_Trend: Found in 1 batches - Batch_0028
+2025-04-18 02:59:54,312 - INFO - Lesson 3_ Price Action: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,312 - INFO - Lesson 6 Trailling ATR: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,312 - INFO - LBS: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,312 - INFO - Lock: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,312 - INFO - Lesson 4_ Price Action & MA Filter: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,313 - INFO - LazyBot MT5_V1: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,313 - INFO - Locker: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,313 - INFO - Lego EA: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,313 - INFO - Lesson 7 Price action Ket hop Volume VSA: Found in 1 batches - Batch_0029
+2025-04-18 02:59:54,313 - INFO - MA Cross: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,313 - INFO - Lucky: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,313 - INFO - MA%20Alert: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,314 - INFO - MA Trend: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,314 - INFO - MA MACD Position averaging: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,314 - INFO - MA%20AO%20Arrow: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,314 - INFO - MA Envelopes: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,314 - INFO - MA MACD Position averaging v2: Found in 1 batches - Batch_0030
+2025-04-18 02:59:54,314 - INFO - MACD Stochastic 2: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MA2CCI: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MACD No Sample: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MACD and SAR: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MACD signal: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MACD Stochastic: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MACD Cleaner: Found in 1 batches - Batch_0031
+2025-04-18 02:59:54,315 - INFO - MACDCCI: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - MacdPatternTraderAll: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - MacdPatternTraderAll0.01: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - MACD_EA_H4: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - Mariner_MT5: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - MAGrid: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - MAMACD: Found in 1 batches - Batch_0032
+2025-04-18 02:59:54,316 - INFO - MartingailExpert: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,317 - INFO - Marubozu: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,317 - INFO - Martin for small deposits: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,317 - INFO - Martin: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,317 - INFO - MA_AO_EA_v1.00: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,317 - INFO - MartinGaleBreakout: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,318 - INFO - Marubozu_EA_v1.00: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,318 - INFO - Marubozu_EA_v1.10: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,318 - INFO - Martin 1: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,318 - INFO - Market Capture: Found in 1 batches - Batch_0033
+2025-04-18 02:59:54,318 - INFO - MelBar™Take325%™ 5.5Y NZD-USD: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,318 - INFO - ma_channels: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,319 - INFO - Mobo_Bands: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,319 - INFO - Ma_Crosses_MT5: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,319 - INFO - MA_Crossover_mt5%20EA: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,319 - INFO - MelBar EuSwiss 1.85: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,319 - INFO - Mobo_Bands_EA: Found in 1 batches - Batch_0034
+2025-04-18 02:59:54,319 - INFO - MoneyRain: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - Momentum-M15: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - Money Fixed Margin: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - Money Fixed Risk: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - Morning-evening_star_EA_v1.00: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - Modified Moving Averages: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - MostasHaR15 Pivot: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,320 - INFO - Moving Averages: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,321 - INFO - Moving Average Trade System: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,321 - INFO - Momo_trades: Found in 1 batches - Batch_0035
+2025-04-18 02:59:54,321 - INFO - MQL5_Wizard_MA_RSI: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,321 - INFO - MT5-RingSystemEA_v3.7.3: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,321 - INFO - MovingAverage: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,321 - INFO - MT5-CoupleHedgeEA_v2.6.3: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,321 - INFO - Mt5 williams % directional index EA: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,322 - INFO - MQL5_Wizard_MACD_Parabolic_SAR: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,322 - INFO - MTC Сombo v2: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,322 - INFO - Moving%20average%20and%20ichimoku%20EA: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,322 - INFO - MovingAverageMartinGale: Found in 1 batches - Batch_0036
+2025-04-18 02:59:54,322 - INFO - N Candles v2: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,322 - INFO - MySystem: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,323 - INFO - N Candles v5: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,323 - INFO - MultiMartin: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,323 - INFO - N Candles v4: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,323 - INFO - N-_Candles_v7: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,323 - INFO - Multi Stochastic: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,323 - INFO - N Candles: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,324 - INFO - N Candles v3: Found in 1 batches - Batch_0037
+2025-04-18 02:59:54,324 - INFO - NRTR_Revers: Found in 1 batches - Batch_0038
+2025-04-18 02:59:54,324 - INFO - Nevalyashka3_1: Found in 1 batches - Batch_0038
+2025-04-18 02:59:54,324 - INFO - New Martin: Found in 1 batches - Batch_0038
+2025-04-18 02:59:54,324 - INFO - Nevalyashka_BreakdownLevel: Found in 1 batches - Batch_0038
+2025-04-18 02:59:54,325 - INFO - Nextbar: Found in 1 batches - Batch_0038
+2025-04-18 02:59:54,325 - INFO - NightScalper: Found in 1 batches - Batch_0038
+2025-04-18 02:59:54,325 - INFO - NUp1Down: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,325 - INFO - Opening_and_ilosing_on_time: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,325 - INFO - OpenTicks: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,325 - INFO - Open_Candle_EA: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,326 - INFO - OpenPendingorderAfterPositionGetStopLoss: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,326 - INFO - Opening and Сlosing on time v2: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,326 - INFO - ORB_EA_BOX: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,326 - INFO - Open Close: Found in 1 batches - Batch_0039
+2025-04-18 02:59:54,326 - INFO - OzFx: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,326 - INFO - OverHedgeV2: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,327 - INFO - OsMaSter v0: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,327 - INFO - PARSI_v2_EA_v1.00: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,327 - INFO - Parabolic SAR: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,327 - INFO - OTT%20AND%20PRICE%20CROSS%20EA: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,327 - INFO - Pending orders by time: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,327 - INFO - Peceptron_Mult: Found in 1 batches - Batch_0040
+2025-04-18 02:59:54,328 - INFO - Pendulum: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,328 - INFO - Poker_SHOW: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,328 - INFO - Plateau: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,328 - INFO - Pinball machine: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,328 - INFO - PinBar_Magic_Indicator: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,329 - INFO - Pipsover: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,329 - INFO - Plan X: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,329 - INFO - Pinbar_Magic_EA: Found in 1 batches - Batch_0041
+2025-04-18 02:59:54,329 - INFO - Range Breakout: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,329 - INFO - Rabbit3: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,329 - INFO - Proffessor v3: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,330 - INFO - Probe: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,330 - INFO - Puria method: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,330 - INFO - Precipice: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,330 - INFO - PROphet: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,330 - INFO - PropFirmHelper: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,330 - INFO - Precipice MartIn: Found in 1 batches - Batch_0042
+2025-04-18 02:59:54,331 - INFO - REFLEX_INDICATOR: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,331 - INFO - Reflex: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,331 - INFO - RobotPowerM5 meta4V12: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,331 - INFO - Reflex_EA: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,331 - INFO - Reversing Martingale: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,331 - INFO - RideAlligator: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,332 - INFO - Raymond Cloudy Day for EA: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,332 - INFO - Rapid Doji EA: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,332 - INFO - RNN: Found in 1 batches - Batch_0043
+2025-04-18 02:59:54,332 - INFO - Robot_MACD: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,332 - INFO - RSI EA v2: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,332 - INFO - Rollback system: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,333 - INFO - RSI trader v0.15: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,333 - INFO - RSI and Bollinger Bands: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,333 - INFO - RSI_Arrow: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,333 - INFO - RSI Eraser: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,333 - INFO - RSI Levels: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,333 - INFO - RSI EA: Found in 1 batches - Batch_0044
+2025-04-18 02:59:54,334 - INFO - RSI_Trend_v3_EA_v1.00: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,334 - INFO - RSI_with_channels: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,334 - INFO - SampleTrailingstop-MT5: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,334 - INFO - RSI_Arrow_EA_v1.00: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,334 - INFO - SampleCheckPendingOrder: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,334 - INFO - RSI_Expert_v2.0: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,335 - INFO - RSI_Trend_v3: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,335 - INFO - Russian20-hp1: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,335 - INFO - RSI_with_channels_EA_v1.00: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,335 - INFO - RSI_Expert: Found in 1 batches - Batch_0045
+2025-04-18 02:59:54,335 - INFO - Separate trade: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,335 - INFO - SAR trading v2.0: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - Sensitive: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - Secwenta: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - SilverTrend v3: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - Sell_Stop: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - Simple FX: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - Simple%20Volume%20EA: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,336 - INFO - Simple EA MA plus MACD: Found in 1 batches - Batch_0046
+2025-04-18 02:59:54,337 - INFO - Smart_Machine%20EA: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,337 - INFO - SimpleTrade : Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,337 - INFO - Simple_MACD: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,337 - INFO - Simple_Volume_EA_v2: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,337 - INFO - Six_Soldiers: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,338 - INFO - Six_Soldiers_EA_Grid: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,338 - INFO - Simplest Hedging EA ever: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,338 - INFO - SimplePivot: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,338 - INFO - Six_Soldiers_EA: Found in 1 batches - Batch_0047
+2025-04-18 02:59:54,338 - INFO - Sprd_mt5%20EA: Found in 1 batches - Batch_0048
+2025-04-18 02:59:54,339 - INFO - ssb5_123: Found in 1 batches - Batch_0048
+2025-04-18 02:59:54,339 - INFO - Smoothing Average: Found in 1 batches - Batch_0048
+2025-04-18 02:59:54,339 - INFO - Spasm: Found in 1 batches - Batch_0048
+2025-04-18 02:59:54,339 - INFO - Starter: Found in 1 batches - Batch_0048
+2025-04-18 02:59:54,339 - INFO - StochMA: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,340 - INFO - stochastic_three_periods: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,340 - INFO - Stochastic_K_Divergence.lua: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,340 - INFO - stochasticdiffsign: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,340 - INFO - StochasticDiffSign_EA: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,340 - INFO - Steve Cartwright Trader Camel CCI MACD: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,341 - INFO - StochMA_EA_v1.00: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,341 - INFO - Stoch: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,341 - INFO - Stoch_EA_1192: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,341 - INFO - Stochastic%20Alert: Found in 1 batches - Batch_0049
+2025-04-18 02:59:54,341 - INFO - StraddleqTrail: Found in 1 batches - Batch_0050
+2025-04-18 02:59:54,342 - INFO - The MasterMind: Found in 1 batches - Batch_0050
+2025-04-18 02:59:54,342 - INFO - Surefirething_: Found in 1 batches - Batch_0050
+2025-04-18 02:59:54,342 - INFO - The MasterMind 2: Found in 1 batches - Batch_0050
+2025-04-18 02:59:54,342 - INFO - TDSGlobal: Found in 1 batches - Batch_0050
+2025-04-18 02:59:54,342 - INFO - Three neural networks: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,343 - INFO - The Puncher: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,343 - INFO - TheClassicTurtleTrader_no_dots: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,343 - INFO - Three indicators: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,343 - INFO - Three timeframes: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,343 - INFO - The MasterMind 3: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,344 - INFO - TheClassicTurtleTrader_no_dots_EA_v1.00: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,344 - INFO - Three Typical Candles: Found in 1 batches - Batch_0051
+2025-04-18 02:59:54,344 - INFO - TMA_CG_mladen: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,344 - INFO - TMA_CG_EA: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,344 - INFO - TmaTrue_2.0_with_Distances_6xx: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,344 - INFO - TMA_ATR_EA_v1.00: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,345 - INFO - TMA_CG_Martingale%20EA: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,345 - INFO - TMA_ATR_Channel: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,345 - INFO - timer_trade: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,345 - INFO - TmaTrue_3.0_with_Distances_6xx: Found in 1 batches - Batch_0052
+2025-04-18 02:59:54,345 - INFO - Trend_Trader_Strategy_EA_v1.00: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,346 - INFO - Trading Breakout_ MrThanhTan: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,346 - INFO - Trade on qualified RSI: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,346 - INFO - TMA_CG_special: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,346 - INFO - Trend_Trader_Strategy: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,346 - INFO - TP_with_money: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,347 - INFO - Trade in Channel: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,347 - INFO - TMA_slope_bands: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,347 - INFO - True Scalper Profit Lock: Found in 1 batches - Batch_0053
+2025-04-18 02:59:54,347 - INFO - Tru_EA: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,347 - INFO - Two%20MA%20RSI%20ADX%20EA: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,348 - INFO - Tunnel Method: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,348 - INFO - TrueSort_1100: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,348 - INFO - Two pending orders 2: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,348 - INFO - Two PerBar : Found in 2 batches - Batch_0054, Batch_0057
+2025-04-18 02:59:54,348 - INFO - Tunnel gen4: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,349 - INFO - TurnGrid: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,349 - INFO - Two%20Orders%20Panel: Found in 1 batches - Batch_0054
+2025-04-18 02:59:54,349 - INFO - Urdala_Trol: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,349 - INFO - UnNomGuai%20EA: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,349 - INFO - up3x1: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,350 - INFO - Universum 3.0: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,350 - INFO - up3x1_premium_v2M: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,350 - INFO - up3x1 Investor: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,350 - INFO - UniversalMACrossEA: Found in 1 batches - Batch_0055
+2025-04-18 02:59:54,350 - INFO - Volume trader: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,351 - INFO - VR---Overturn: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,351 - INFO - Very Blonde System: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,351 - INFO - VR---ZVER: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,351 - INFO - VLT_TRADER: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,351 - INFO - Virtual Trailing Stop: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,351 - INFO - Vortex Indicator System: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,352 - INFO - Waddah_Attar_Win: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,352 - INFO - VR---ZVER v.2: Found in 1 batches - Batch_0056
+2025-04-18 02:59:54,352 - INFO - Yesterday Today: Found in 1 batches - Batch_0057
+2025-04-18 02:59:54,352 - INFO - WE TRUST: Found in 1 batches - Batch_0057
+2025-04-18 02:59:54,352 - INFO - X-RSIOMA: Found in 1 batches - Batch_0057

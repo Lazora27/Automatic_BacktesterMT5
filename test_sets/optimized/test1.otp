@@ -1,0 +1,12 @@
+lots=0.1||0.01||1.0||Y
+stoploss=50||1||150||Y
+takeprofit=100||3||50||Y
+risk_percent=2.5||0.1||10.0||Y
+ma_period=14||1||50||Y
+rsi_period=14||1||50||Y
+atr_period=14||1||50||Y
+trailing_start=20||1||100||Y
+trailing_stop=40||1||100||Y
+trailing_step=5||1||100||Y
+magic=12345
+comment=Test EA

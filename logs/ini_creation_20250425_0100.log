@@ -1,0 +1,27 @@
+2025-04-25 01:00:07,229 - INFO - Starting processing of Batch 57-58...
+2025-04-25 01:00:07,230 - INFO - Processing Batch_0057 at path: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057
+2025-04-25 01:00:07,232 - INFO - Found 9 EA folders in Batch_0057: ['NSK Swing', 'Simple Trade', 'Two Perbar', 'wagonKing1 EA', 'WE TRUST', 'X-RSIOMA', 'XKPRMST EA MT5@YoForexPremium', 'XT EURUSD EA MT5@YoForexPremium', 'Yesterday Today']
+2025-04-25 01:00:07,233 - INFO - Processing EA: NSK Swing in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\NSK Swing
+2025-04-25 01:00:07,249 - ERROR - No .set files found for EA: NSK Swing after trying patterns: ['NSK Swing_01*.set', 'NSK_Swing_01*.set', 'NSK Swing_*.set', 'NSK_Swing*.set']
+2025-04-25 01:00:07,252 - INFO - Processing EA: Simple Trade in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\Simple Trade
+2025-04-25 01:00:07,264 - ERROR - No .set files found for EA: Simple Trade after trying patterns: ['Simple Trade_01*.set', 'Simple_Trade_01*.set', 'Simple Trade_*.set', 'Simple_Trade*.set']
+2025-04-25 01:00:07,265 - INFO - Processing EA: Two Perbar in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\Two Perbar
+2025-04-25 01:00:07,280 - ERROR - No .set files found for EA: Two Perbar after trying patterns: ['Two Perbar_01*.set', 'Two_Perbar_01*.set', 'Two Perbar_*.set', 'Two_Perbar*.set']
+2025-04-25 01:00:07,281 - INFO - Processing EA: wagonKing1 EA in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\wagonKing1 EA
+2025-04-25 01:00:07,300 - ERROR - No .set files found for EA: wagonKing1 EA after trying patterns: ['wagonKing1 EA_01*.set', 'wagonKing1_EA_01*.set', 'wagonKing1 EA_*.set', 'wagonKing1_EA*.set']
+2025-04-25 01:00:07,301 - INFO - Processing EA: WE TRUST in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\WE TRUST
+2025-04-25 01:00:07,305 - INFO - Found set file: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\optimized\WE TRUST_01_opt.set using pattern: WE TRUST_01*.set
+2025-04-25 01:00:07,549 - INFO - Created/Updated 252 ini files for WE TRUST
+2025-04-25 01:00:07,550 - INFO - Processing EA: X-RSIOMA in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\X-RSIOMA
+2025-04-25 01:00:07,552 - INFO - Found set file: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\optimized\X-RSIOMA_01_opt.set using pattern: X-RSIOMA_01*.set
+2025-04-25 01:00:07,861 - INFO - Created/Updated 252 ini files for X-RSIOMA
+2025-04-25 01:00:07,862 - INFO - Processing EA: XKPRMST EA MT5@YoForexPremium in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\XKPRMST EA MT5@YoForexPremium
+2025-04-25 01:00:07,872 - ERROR - No .set files found for EA: XKPRMST EA MT5@YoForexPremium after trying patterns: ['XKPRMST EA MT5@YoForexPremium_01*.set', 'XKPRMST_EA_MT5@YoForexPremium_01*.set', 'XKPRMST EA MT5@YoForexPremium_*.set', 'XKPRMST_EA_MT5@YoForexPremium*.set']
+2025-04-25 01:00:07,873 - INFO - Processing EA: XT EURUSD EA MT5@YoForexPremium in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\XT EURUSD EA MT5@YoForexPremium
+2025-04-25 01:00:07,884 - ERROR - No .set files found for EA: XT EURUSD EA MT5@YoForexPremium after trying patterns: ['XT EURUSD EA MT5@YoForexPremium_01*.set', 'XT_EURUSD_EA_MT5@YoForexPremium_01*.set', 'XT EURUSD EA MT5@YoForexPremium_*.set', 'XT_EURUSD_EA_MT5@YoForexPremium*.set']
+2025-04-25 01:00:07,885 - INFO - Processing EA: Yesterday Today in C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0057\Yesterday Today
+2025-04-25 01:00:07,888 - INFO - Found set file: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\optimized\Yesterday Today_01_opt.set using pattern: Yesterday Today_01*.set
+2025-04-25 01:00:08,129 - INFO - Created/Updated 252 ini files for Yesterday Today
+2025-04-25 01:00:08,130 - INFO - Processing Batch_0058 at path: C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Experts\Batch_0058
+2025-04-25 01:00:08,131 - INFO - Found 0 EA folders in Batch_0058: []
+2025-04-25 01:00:08,131 - INFO - Completed processing Batch 57-58

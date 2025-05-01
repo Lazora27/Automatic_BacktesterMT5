@@ -1,0 +1,60 @@
+2025-04-24 23:28:39,925 - INFO - Starting processing of remaining batch folders (55-60)...
+2025-04-24 23:28:39,926 - INFO - Processing Batch_0055
+2025-04-24 23:28:39,927 - INFO - Using set file: UnityPro_01_opt.set for EA: UnityPro
+2025-04-24 23:28:40,064 - INFO - Created/Updated 252 ini files for UnityPro
+2025-04-24 23:28:40,066 - INFO - Using set file: UniversalMACrossEA_01_opt.set for EA: UniversalMACrossEA
+2025-04-24 23:28:40,214 - INFO - Created/Updated 252 ini files for UniversalMACrossEA
+2025-04-24 23:28:40,216 - INFO - Using set file: UniversalSignalDemo_01_opt.set for EA: UniversalSignalDemo
+2025-04-24 23:28:40,358 - INFO - Created/Updated 252 ini files for UniversalSignalDemo
+2025-04-24 23:28:40,360 - INFO - Using set file: Universum 3.0_01_opt.set for EA: Universum 3.0
+2025-04-24 23:28:40,502 - INFO - Created/Updated 252 ini files for Universum 3.0
+2025-04-24 23:28:40,504 - INFO - Using set file: UnNomGuai%20EA_01_opt.set for EA: UnNomGuai%20EA
+2025-04-24 23:28:40,669 - INFO - Created/Updated 252 ini files for UnNomGuai%20EA
+2025-04-24 23:28:40,670 - INFO - Using set file: up3x1_01_opt.set for EA: up3x1
+2025-04-24 23:28:40,809 - INFO - Created/Updated 252 ini files for up3x1
+2025-04-24 23:28:40,811 - INFO - Using set file: up3x1 Investor_01_opt.set for EA: up3x1 Investor
+2025-04-24 23:28:40,966 - INFO - Created/Updated 252 ini files for up3x1 Investor
+2025-04-24 23:28:40,968 - INFO - Using set file: up3x1_premium_v2M_01_opt.set for EA: up3x1_premium_v2M
+2025-04-24 23:28:41,100 - INFO - Created/Updated 252 ini files for up3x1_premium_v2M
+2025-04-24 23:28:41,102 - WARNING - No .set files found for EA: Upgraded EA CRASH 1000 V1.3 MT5@YoforexPremium
+2025-04-24 23:28:41,105 - INFO - Using set file: Urdala_Trol_01_opt.set for EA: Urdala_Trol
+2025-04-24 23:28:41,237 - INFO - Created/Updated 252 ini files for Urdala_Trol
+2025-04-24 23:28:41,238 - INFO - Processing Batch_0056
+2025-04-24 23:28:41,240 - INFO - Using set file: Very Blonde System_01_opt.set for EA: Very Blonde System
+2025-04-24 23:28:41,366 - INFO - Created/Updated 252 ini files for Very Blonde System
+2025-04-24 23:28:41,367 - INFO - Using set file: Virtual Trailing Stop_01_opt.set for EA: Virtual Trailing Stop
+2025-04-24 23:28:41,505 - INFO - Created/Updated 252 ini files for Virtual Trailing Stop
+2025-04-24 23:28:41,507 - INFO - Using set file: VLT_TRADER_01_opt.set for EA: VLT_TRADER
+2025-04-24 23:28:41,659 - INFO - Created/Updated 252 ini files for VLT_TRADER
+2025-04-24 23:28:41,660 - INFO - Using set file: Volume trader_01_opt.set for EA: Volume trader
+2025-04-24 23:28:41,784 - INFO - Created/Updated 252 ini files for Volume trader
+2025-04-24 23:28:41,786 - INFO - Using set file: Vortex Indicator System_01_opt.set for EA: Vortex Indicator System
+2025-04-24 23:28:41,912 - INFO - Created/Updated 252 ini files for Vortex Indicator System
+2025-04-24 23:28:41,914 - INFO - Using set file: VR---Overturn_01_opt.set for EA: VR---Overturn
+2025-04-24 23:28:42,047 - INFO - Created/Updated 252 ini files for VR---Overturn
+2025-04-24 23:28:42,049 - INFO - Using set file: VR---ZVER_01_opt.set for EA: VR---ZVER
+2025-04-24 23:28:42,194 - INFO - Created/Updated 252 ini files for VR---ZVER
+2025-04-24 23:28:42,196 - INFO - Using set file: VR---ZVER v.2_01_opt.set for EA: VR---ZVER v.2
+2025-04-24 23:28:42,344 - INFO - Created/Updated 252 ini files for VR---ZVER v.2
+2025-04-24 23:28:42,346 - INFO - Using set file: VZO_01_opt.set for EA: VZO
+2025-04-24 23:28:42,473 - INFO - Created/Updated 252 ini files for VZO
+2025-04-24 23:28:42,475 - INFO - Using set file: Waddah_Attar_Win_01_opt.set for EA: Waddah_Attar_Win
+2025-04-24 23:28:42,601 - INFO - Created/Updated 252 ini files for Waddah_Attar_Win
+2025-04-24 23:28:42,602 - INFO - Processing Batch_0057
+2025-04-24 23:28:42,604 - WARNING - No .set files found for EA: NSK Swing
+2025-04-24 23:28:42,607 - WARNING - No .set files found for EA: Simple Trade
+2025-04-24 23:28:42,609 - WARNING - No .set files found for EA: Two Perbar
+2025-04-24 23:28:42,611 - WARNING - No .set files found for EA: wagonKing1 EA
+2025-04-24 23:28:42,612 - INFO - Using set file: WE TRUST_01_opt.set for EA: WE TRUST
+2025-04-24 23:28:42,757 - INFO - Created/Updated 252 ini files for WE TRUST
+2025-04-24 23:28:42,759 - INFO - Using set file: X-RSIOMA_01_opt.set for EA: X-RSIOMA
+2025-04-24 23:28:42,920 - INFO - Created/Updated 252 ini files for X-RSIOMA
+2025-04-24 23:28:42,923 - WARNING - No .set files found for EA: XKPRMST EA MT5@YoForexPremium
+2025-04-24 23:28:42,925 - WARNING - No .set files found for EA: XT EURUSD EA MT5@YoForexPremium
+2025-04-24 23:28:42,927 - INFO - Using set file: Yesterday Today_01_opt.set for EA: Yesterday Today
+2025-04-24 23:28:43,072 - INFO - Created/Updated 252 ini files for Yesterday Today
+2025-04-24 23:28:43,074 - WARNING - No .set files found for EA: Yumnaa Classic EA MT5+Setfiles@YoForexPremium
+2025-04-24 23:28:43,075 - INFO - Processing Batch_0058
+2025-04-24 23:28:43,075 - INFO - Processing Batch_0059
+2025-04-24 23:28:43,076 - INFO - Processing Batch_0060
+2025-04-24 23:28:43,076 - INFO - Completed processing remaining batch folders

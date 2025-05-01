@@ -1,0 +1,1342 @@
+2025-04-25 02:00:47,715 - INFO - Found 424 .set files to process
+2025-04-25 02:00:47,716 - INFO - Processing 10-pips-EURUSD_01_standard.set
+2025-04-25 02:00:47,716 - INFO - Processing 10-pips-EURUSD_01_standard.set
+2025-04-25 02:00:47,717 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\10-pips-EURUSD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,718 - INFO - Processing 10-pips_01_standard.set
+2025-04-25 02:00:47,718 - INFO - Processing 10-pips_01_standard.set
+2025-04-25 02:00:47,730 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\10-pips_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,730 - INFO - Processing 1H-EUR-USD_01_standard.set
+2025-04-25 02:00:47,731 - INFO - Processing 1H-EUR-USD_01_standard.set
+2025-04-25 02:00:47,732 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\1H-EUR-USD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,732 - INFO - Processing 20011201-GBPUSD-M1_01_standard.set
+2025-04-25 02:00:47,733 - INFO - Processing 20011201-GBPUSD-M1_01_standard.set
+2025-04-25 02:00:47,733 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\20011201-GBPUSD-M1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,734 - INFO - Processing 21hour_01_standard.set
+2025-04-25 02:00:47,734 - INFO - Processing 21hour_01_standard.set
+2025-04-25 02:00:47,735 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\21hour_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,735 - INFO - Processing 2HR-HL_01_standard.set
+2025-04-25 02:00:47,736 - INFO - Processing 2HR-HL_01_standard.set
+2025-04-25 02:00:47,737 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2HR-HL_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,738 - INFO - Processing 2MA-4Level_01_standard.set
+2025-04-25 02:00:47,738 - INFO - Processing 2MA-4Level_01_standard.set
+2025-04-25 02:00:47,739 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2MA-4Level_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,739 - INFO - Processing 2MA-Bunny-Cross_01_standard.set
+2025-04-25 02:00:47,740 - INFO - Processing 2MA-Bunny-Cross_01_standard.set
+2025-04-25 02:00:47,740 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,741 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2MA-Bunny-Cross_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:47,741 - INFO - Processing 3-bars-high-low-indicator_01_standard.set
+2025-04-25 02:00:47,742 - INFO - Processing 3-bars-high-low-indicator_01_standard.set
+2025-04-25 02:00:47,742 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,743 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3-bars-high-low-indicator_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:47,743 - INFO - Processing 35-Pip-Scalper_01_standard.set
+2025-04-25 02:00:47,743 - INFO - Processing 35-Pip-Scalper_01_standard.set
+2025-04-25 02:00:47,744 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\35-Pip-Scalper_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,745 - INFO - Processing 3BarsHighLowEA_01_standard.set
+2025-04-25 02:00:47,746 - INFO - Processing 3BarsHighLowEA_01_standard.set
+2025-04-25 02:00:47,746 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3BarsHighLowEA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,747 - INFO - Processing 3sma_01_standard.set
+2025-04-25 02:00:47,747 - INFO - Processing 3sma_01_standard.set
+2025-04-25 02:00:47,748 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3sma_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,749 - INFO - Processing 500_01_standard.set
+2025-04-25 02:00:47,749 - INFO - Processing 500_01_standard.set
+2025-04-25 02:00:47,750 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,751 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\500_01_standard.set: dictionary update sequence element #0 has length 14; 2 is required
+2025-04-25 02:00:47,751 - INFO - Processing 55-MA_01_standard.set
+2025-04-25 02:00:47,752 - INFO - Processing 55-MA_01_standard.set
+2025-04-25 02:00:47,753 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\55-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,753 - INFO - Processing Above-Below-MA_01_standard.set
+2025-04-25 02:00:47,754 - INFO - Processing Above-Below-MA_01_standard.set
+2025-04-25 02:00:47,754 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Above-Below-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,755 - INFO - Processing Absorption_01_standard.set
+2025-04-25 02:00:47,755 - INFO - Processing Absorption_01_standard.set
+2025-04-25 02:00:47,756 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Absorption_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,757 - INFO - Processing ADX-MACD-Deev_01_standard.set
+2025-04-25 02:00:47,757 - INFO - Processing ADX-MACD-Deev_01_standard.set
+2025-04-25 02:00:47,758 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-MACD-Deev_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,758 - INFO - Processing ADX-MA_01_standard.set
+2025-04-25 02:00:47,759 - INFO - Processing ADX-MA_01_standard.set
+2025-04-25 02:00:47,760 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,760 - INFO - Processing ADX-System_01_standard.set
+2025-04-25 02:00:47,760 - INFO - Processing ADX-System_01_standard.set
+2025-04-25 02:00:47,761 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-System_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,761 - INFO - Processing AIS1_01_standard.set
+2025-04-25 02:00:47,762 - INFO - Processing AIS1_01_standard.set
+2025-04-25 02:00:47,762 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AIS1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,763 - INFO - Processing AK-47-Scalper-EA-MT5_01_standard.set
+2025-04-25 02:00:47,763 - INFO - Processing AK-47-Scalper-EA-MT5_01_standard.set
+2025-04-25 02:00:47,764 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AK-47-Scalper-EA-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,764 - INFO - Processing AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set
+2025-04-25 02:00:47,765 - INFO - Processing AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set
+2025-04-25 02:00:47,766 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,766 - INFO - Processing Alexav-D1-Profit-GBPUSD_01_standard.set
+2025-04-25 02:00:47,767 - INFO - Processing Alexav-D1-Profit-GBPUSD_01_standard.set
+2025-04-25 02:00:47,767 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alexav-D1-Profit-GBPUSD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,768 - INFO - Processing All-Average-Ea_01_standard.set
+2025-04-25 02:00:47,768 - INFO - Processing All-Average-Ea_01_standard.set
+2025-04-25 02:00:47,769 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\All-Average-Ea_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,769 - INFO - Processing Alligator-Simple_01_standard.set
+2025-04-25 02:00:47,770 - INFO - Processing Alligator-Simple_01_standard.set
+2025-04-25 02:00:47,770 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alligator-Simple_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,771 - INFO - Processing Alligator_01_standard.set
+2025-04-25 02:00:47,771 - INFO - Processing Alligator_01_standard.set
+2025-04-25 02:00:47,772 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alligator_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,773 - INFO - Processing Altarius-RSI-Stohastic_01_standard.set
+2025-04-25 02:00:47,773 - INFO - Processing Altarius-RSI-Stohastic_01_standard.set
+2025-04-25 02:00:47,774 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,774 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Altarius-RSI-Stohastic_01_standard.set: dictionary update sequence element #0 has length 5; 2 is required
+2025-04-25 02:00:47,774 - INFO - Processing AMA-Trader-2_01_standard.set
+2025-04-25 02:00:47,775 - INFO - Processing AMA-Trader-2_01_standard.set
+2025-04-25 02:00:47,776 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AMA-Trader-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,776 - INFO - Processing AMA-Trader_01_standard.set
+2025-04-25 02:00:47,776 - INFO - Processing AMA-Trader_01_standard.set
+2025-04-25 02:00:47,777 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AMA-Trader_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,777 - INFO - Processing AO-Lightning_01_standard.set
+2025-04-25 02:00:47,778 - INFO - Processing AO-Lightning_01_standard.set
+2025-04-25 02:00:47,778 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AO-Lightning_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,779 - INFO - Processing AOCCI_01_standard.set
+2025-04-25 02:00:47,779 - INFO - Processing AOCCI_01_standard.set
+2025-04-25 02:00:47,780 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AOCCI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,780 - INFO - Processing Arbitrage_01_standard.set
+2025-04-25 02:00:47,781 - INFO - Processing Arbitrage_01_standard.set
+2025-04-25 02:00:47,782 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,782 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Arbitrage_01_standard.set: dictionary update sequence element #0 has length 22; 2 is required
+2025-04-25 02:00:47,782 - INFO - Processing ArbSint_01_standard.set
+2025-04-25 02:00:47,783 - INFO - Processing ArbSint_01_standard.set
+2025-04-25 02:00:47,783 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,784 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ArbSint_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:47,784 - INFO - Processing Area-MACD_01_standard.set
+2025-04-25 02:00:47,784 - INFO - Processing Area-MACD_01_standard.set
+2025-04-25 02:00:47,785 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Area-MACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,785 - INFO - Processing Artificial-Intelligence_01_standard.set
+2025-04-25 02:00:47,786 - INFO - Processing Artificial-Intelligence_01_standard.set
+2025-04-25 02:00:47,786 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Artificial-Intelligence_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,787 - INFO - Processing At-random-Full_01_standard.set
+2025-04-25 02:00:47,788 - INFO - Processing At-random-Full_01_standard.set
+2025-04-25 02:00:47,788 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\At-random-Full_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,789 - INFO - Processing At-random_01_standard.set
+2025-04-25 02:00:47,789 - INFO - Processing At-random_01_standard.set
+2025-04-25 02:00:47,790 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,791 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\At-random_01_standard.set: dictionary update sequence element #0 has length 17; 2 is required
+2025-04-25 02:00:47,791 - INFO - Processing Auto-ADX_01_standard.set
+2025-04-25 02:00:47,791 - INFO - Processing Auto-ADX_01_standard.set
+2025-04-25 02:00:47,792 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Auto-ADX_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,792 - INFO - Processing Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set
+2025-04-25 02:00:47,793 - INFO - Processing Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set
+2025-04-25 02:00:47,793 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,794 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set: dictionary update sequence element #0 has length 10; 2 is required
+2025-04-25 02:00:47,795 - INFO - Processing AutoLock-EA_01_standard.set
+2025-04-25 02:00:47,795 - INFO - Processing AutoLock-EA_01_standard.set
+2025-04-25 02:00:47,796 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AutoLock-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,797 - INFO - Processing Autotrader-Momentum_01_standard.set
+2025-04-25 02:00:47,797 - INFO - Processing Autotrader-Momentum_01_standard.set
+2025-04-25 02:00:47,798 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Autotrader-Momentum_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,799 - INFO - Processing Avalanche-AV_01_standard.set
+2025-04-25 02:00:47,799 - INFO - Processing Avalanche-AV_01_standard.set
+2025-04-25 02:00:47,800 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Avalanche-AV_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,801 - INFO - Processing Backbone_01_standard.set
+2025-04-25 02:00:47,801 - INFO - Processing Backbone_01_standard.set
+2025-04-25 02:00:47,802 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Backbone_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,802 - INFO - Processing BADX_01_standard.set
+2025-04-25 02:00:47,803 - INFO - Processing BADX_01_standard.set
+2025-04-25 02:00:47,803 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BADX_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,804 - INFO - Processing Bago-EA_01_standard.set
+2025-04-25 02:00:47,804 - INFO - Processing Bago-EA_01_standard.set
+2025-04-25 02:00:47,805 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bago-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,806 - INFO - Processing BalancedScalper-20EA_01_standard.set
+2025-04-25 02:00:47,806 - INFO - Processing BalancedScalper-20EA_01_standard.set
+2025-04-25 02:00:47,807 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BalancedScalper-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,807 - INFO - Processing Bands-2_01_standard.set
+2025-04-25 02:00:47,808 - INFO - Processing Bands-2_01_standard.set
+2025-04-25 02:00:47,808 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bands-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,809 - INFO - Processing BARS-Alligator_01_standard.set
+2025-04-25 02:00:47,809 - INFO - Processing BARS-Alligator_01_standard.set
+2025-04-25 02:00:47,810 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BARS-Alligator_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,810 - INFO - Processing Basic-CCI-RSI_01_standard.set
+2025-04-25 02:00:47,811 - INFO - Processing Basic-CCI-RSI_01_standard.set
+2025-04-25 02:00:47,811 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Basic-CCI-RSI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,812 - INFO - Processing Basic-Martingale-EA-3_01_standard.set
+2025-04-25 02:00:47,812 - INFO - Processing Basic-Martingale-EA-3_01_standard.set
+2025-04-25 02:00:47,813 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Basic-Martingale-EA-3_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,813 - INFO - Processing BB-stops-MT5_01_standard.set
+2025-04-25 02:00:47,814 - INFO - Processing BB-stops-MT5_01_standard.set
+2025-04-25 02:00:47,814 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BB-stops-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,815 - INFO - Processing BBPercentile-EA_01_standard.set
+2025-04-25 02:00:47,816 - INFO - Processing BBPercentile-EA_01_standard.set
+2025-04-25 02:00:47,816 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BBPercentile-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,817 - INFO - Processing BBPercentile_01_standard.set
+2025-04-25 02:00:47,817 - INFO - Processing BBPercentile_01_standard.set
+2025-04-25 02:00:47,818 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,819 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BBPercentile_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:47,819 - INFO - Processing BDCrossOver-20EA_01_standard.set
+2025-04-25 02:00:47,819 - INFO - Processing BDCrossOver-20EA_01_standard.set
+2025-04-25 02:00:47,820 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BDCrossOver-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,820 - INFO - Processing BIG-DOG_01_standard.set
+2025-04-25 02:00:47,821 - INFO - Processing BIG-DOG_01_standard.set
+2025-04-25 02:00:47,822 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BIG-DOG_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,822 - INFO - Processing Bill-Williams_01_standard.set
+2025-04-25 02:00:47,822 - INFO - Processing Bill-Williams_01_standard.set
+2025-04-25 02:00:47,823 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bill-Williams_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,824 - INFO - Processing Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set
+2025-04-25 02:00:47,824 - INFO - Processing Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set
+2025-04-25 02:00:47,825 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,825 - INFO - Processing Bollinger-Bands-N-positions_01_standard.set
+2025-04-25 02:00:47,826 - INFO - Processing Bollinger-Bands-N-positions_01_standard.set
+2025-04-25 02:00:47,826 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Bands-N-positions_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,827 - INFO - Processing Bollinger-Bands-RSI_01_standard.set
+2025-04-25 02:00:47,827 - INFO - Processing Bollinger-Bands-RSI_01_standard.set
+2025-04-25 02:00:47,828 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Bands-RSI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,828 - INFO - Processing bollinger_01_standard.set
+2025-04-25 02:00:47,829 - INFO - Processing bollinger_01_standard.set
+2025-04-25 02:00:47,830 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\bollinger_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,830 - INFO - Processing Brakeout-Trader_01_standard.set
+2025-04-25 02:00:47,831 - INFO - Processing Brakeout-Trader_01_standard.set
+2025-04-25 02:00:47,831 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Brakeout-Trader_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,832 - INFO - Processing Brandy_01_standard.set
+2025-04-25 02:00:47,832 - INFO - Processing Brandy_01_standard.set
+2025-04-25 02:00:47,833 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Brandy_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,833 - INFO - Processing Breadandbutter2_01_standard.set
+2025-04-25 02:00:47,834 - INFO - Processing Breadandbutter2_01_standard.set
+2025-04-25 02:00:47,834 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breadandbutter2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,834 - INFO - Processing Breakdown-catcher_01_standard.set
+2025-04-25 02:00:47,835 - INFO - Processing Breakdown-catcher_01_standard.set
+2025-04-25 02:00:47,836 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breakdown-catcher_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,836 - INFO - Processing breakdown_01_standard.set
+2025-04-25 02:00:47,837 - INFO - Processing breakdown_01_standard.set
+2025-04-25 02:00:47,837 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\breakdown_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,838 - INFO - Processing Breakout-Str_01_standard.set
+2025-04-25 02:00:47,839 - INFO - Processing Breakout-Str_01_standard.set
+2025-04-25 02:00:47,840 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breakout-Str_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,840 - INFO - Processing Bronze-Warrioir_01_standard.set
+2025-04-25 02:00:47,841 - INFO - Processing Bronze-Warrioir_01_standard.set
+2025-04-25 02:00:47,841 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bronze-Warrioir_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,842 - INFO - Processing Bruno_01_standard.set
+2025-04-25 02:00:47,843 - INFO - Processing Bruno_01_standard.set
+2025-04-25 02:00:47,844 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bruno_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,844 - INFO - Processing BSS-1-0_01_standard.set
+2025-04-25 02:00:47,845 - INFO - Processing BSS-1-0_01_standard.set
+2025-04-25 02:00:47,845 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BSS-1-0_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,846 - INFO - Processing Bullish-and-Bearish-Engulfing_01_standard.set
+2025-04-25 02:00:47,846 - INFO - Processing Bullish-and-Bearish-Engulfing_01_standard.set
+2025-04-25 02:00:47,847 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,848 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bullish-and-Bearish-Engulfing_01_standard.set: dictionary update sequence element #0 has length 20; 2 is required
+2025-04-25 02:00:47,848 - INFO - Processing Burg-Extrapolator_01_standard.set
+2025-04-25 02:00:47,849 - INFO - Processing Burg-Extrapolator_01_standard.set
+2025-04-25 02:00:47,850 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Burg-Extrapolator_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,850 - INFO - Processing BykovTrend-EA_01_standard.set
+2025-04-25 02:00:47,851 - INFO - Processing BykovTrend-EA_01_standard.set
+2025-04-25 02:00:47,852 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BykovTrend-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,853 - INFO - Processing BykovTrend_EA_v3_01_standard.set
+2025-04-25 02:00:47,853 - INFO - Processing BykovTrend_EA_v3_01_standard.set
+2025-04-25 02:00:47,854 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BykovTrend_EA_v3_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,854 - INFO - Processing Calculate-lotsize-and-Trailling-stop_01_standard.set
+2025-04-25 02:00:47,855 - INFO - Processing Calculate-lotsize-and-Trailling-stop_01_standard.set
+2025-04-25 02:00:47,855 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Calculate-lotsize-and-Trailling-stop_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,856 - INFO - Processing candlepatternsexample_01_standard.set
+2025-04-25 02:00:47,857 - INFO - Processing candlepatternsexample_01_standard.set
+2025-04-25 02:00:47,858 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\candlepatternsexample_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,859 - INFO - Processing Candle_01_standard.set
+2025-04-25 02:00:47,860 - INFO - Processing Candle_01_standard.set
+2025-04-25 02:00:47,860 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Candle_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,861 - INFO - Processing Carbophos_01_standard.set
+2025-04-25 02:00:47,862 - INFO - Processing Carbophos_01_standard.set
+2025-04-25 02:00:47,862 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Carbophos_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,863 - INFO - Processing CashMachine-5min_01_standard.set
+2025-04-25 02:00:47,863 - INFO - Processing CashMachine-5min_01_standard.set
+2025-04-25 02:00:47,864 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CashMachine-5min_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,865 - INFO - Processing CCI-MACD-Scalper_01_standard.set
+2025-04-25 02:00:47,866 - INFO - Processing CCI-MACD-Scalper_01_standard.set
+2025-04-25 02:00:47,867 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CCI-MACD-Scalper_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,867 - INFO - Processing Cidomo_01_standard.set
+2025-04-25 02:00:47,868 - INFO - Processing Cidomo_01_standard.set
+2025-04-25 02:00:47,869 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Cidomo_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,869 - INFO - Processing CloseAgent_01_standard.set
+2025-04-25 02:00:47,870 - INFO - Processing CloseAgent_01_standard.set
+2025-04-25 02:00:47,871 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,871 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CloseAgent_01_standard.set: dictionary update sequence element #0 has length 10; 2 is required
+2025-04-25 02:00:47,872 - INFO - Processing CloseProfit_01_standard.set
+2025-04-25 02:00:47,873 - INFO - Processing CloseProfit_01_standard.set
+2025-04-25 02:00:47,873 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CloseProfit_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,874 - INFO - Processing cloud's-trade-2_01_standard.set
+2025-04-25 02:00:47,875 - INFO - Processing cloud's-trade-2_01_standard.set
+2025-04-25 02:00:47,876 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\cloud's-trade-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,877 - INFO - Processing CLOUD_01_standard.set
+2025-04-25 02:00:47,877 - INFO - Processing CLOUD_01_standard.set
+2025-04-25 02:00:47,879 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CLOUD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,879 - INFO - Processing Constituents-EA_01_standard.set
+2025-04-25 02:00:47,880 - INFO - Processing Constituents-EA_01_standard.set
+2025-04-25 02:00:47,881 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Constituents-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,881 - INFO - Processing Contrarian-trade-MA_01_standard.set
+2025-04-25 02:00:47,882 - INFO - Processing Contrarian-trade-MA_01_standard.set
+2025-04-25 02:00:47,883 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Contrarian-trade-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,884 - INFO - Processing Crossing-Moving-Average_01_standard.set
+2025-04-25 02:00:47,885 - INFO - Processing Crossing-Moving-Average_01_standard.set
+2025-04-25 02:00:47,886 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Crossing-Moving-Average_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,886 - INFO - Processing CrossMA_01_standard.set
+2025-04-25 02:00:47,887 - INFO - Processing CrossMA_01_standard.set
+2025-04-25 02:00:47,888 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,895 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CrossMA_01_standard.set: dictionary update sequence element #0 has length 6; 2 is required
+2025-04-25 02:00:47,896 - INFO - Processing Currencyprofits-01.1_01_standard.set
+2025-04-25 02:00:47,909 - INFO - Processing Currencyprofits-01.1_01_standard.set
+2025-04-25 02:00:47,915 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Currencyprofits-01.1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,919 - INFO - Processing Daily-20reversal-20-20EA_01_standard.set
+2025-04-25 02:00:47,920 - INFO - Processing Daily-20reversal-20-20EA_01_standard.set
+2025-04-25 02:00:47,922 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-20reversal-20-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,925 - INFO - Processing Daily-BreakPoint_01_standard.set
+2025-04-25 02:00:47,927 - INFO - Processing Daily-BreakPoint_01_standard.set
+2025-04-25 02:00:47,929 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-BreakPoint_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,930 - INFO - Processing Daily-Open-EA_01_standard.set
+2025-04-25 02:00:47,930 - INFO - Processing Daily-Open-EA_01_standard.set
+2025-04-25 02:00:47,933 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-Open-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,934 - INFO - Processing Daily-range_01_standard.set
+2025-04-25 02:00:47,935 - INFO - Processing Daily-range_01_standard.set
+2025-04-25 02:00:47,937 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-range_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,938 - INFO - Processing Day-Trading-PAMXA_01_standard.set
+2025-04-25 02:00:47,938 - INFO - Processing Day-Trading-PAMXA_01_standard.set
+2025-04-25 02:00:47,941 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Day-Trading-PAMXA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,942 - INFO - Processing Daydream_01_standard.set
+2025-04-25 02:00:47,942 - INFO - Processing Daydream_01_standard.set
+2025-04-25 02:00:47,943 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daydream_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,944 - INFO - Processing DayTrading_01_standard.set
+2025-04-25 02:00:47,945 - INFO - Processing DayTrading_01_standard.set
+2025-04-25 02:00:47,947 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DayTrading_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,948 - INFO - Processing Dealers-Trade-v-7.74-MACD_01_standard.set
+2025-04-25 02:00:47,951 - INFO - Processing Dealers-Trade-v-7.74-MACD_01_standard.set
+2025-04-25 02:00:47,960 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dealers-Trade-v-7.74-MACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,963 - INFO - Processing Deep-Drawdown-MA_01_standard.set
+2025-04-25 02:00:47,964 - INFO - Processing Deep-Drawdown-MA_01_standard.set
+2025-04-25 02:00:47,967 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Deep-Drawdown-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,969 - INFO - Processing DeMarker-gaining-position-volume-2_01_standard.set
+2025-04-25 02:00:47,970 - INFO - Processing DeMarker-gaining-position-volume-2_01_standard.set
+2025-04-25 02:00:47,971 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-gaining-position-volume-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,972 - INFO - Processing DeMarker-gaining-position-volume_01_standard.set
+2025-04-25 02:00:47,973 - INFO - Processing DeMarker-gaining-position-volume_01_standard.set
+2025-04-25 02:00:47,974 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-gaining-position-volume_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,974 - INFO - Processing DeMarker-Pending-2-5_01_standard.set
+2025-04-25 02:00:47,975 - INFO - Processing DeMarker-Pending-2-5_01_standard.set
+2025-04-25 02:00:47,976 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending-2-5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,977 - INFO - Processing DeMarker-Pending-2_01_standard.set
+2025-04-25 02:00:47,977 - INFO - Processing DeMarker-Pending-2_01_standard.set
+2025-04-25 02:00:47,978 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,978 - INFO - Processing DeMarker-Pending_01_standard.set
+2025-04-25 02:00:47,979 - INFO - Processing DeMarker-Pending_01_standard.set
+2025-04-25 02:00:47,980 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,980 - INFO - Processing Dematus_01_standard.set
+2025-04-25 02:00:47,981 - INFO - Processing Dematus_01_standard.set
+2025-04-25 02:00:47,982 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dematus_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,983 - INFO - Processing Divergence-20for-20many-20indicator_01_standard.set
+2025-04-25 02:00:47,983 - INFO - Processing Divergence-20for-20many-20indicator_01_standard.set
+2025-04-25 02:00:47,984 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:47,984 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Divergence-20for-20many-20indicator_01_standard.set: dictionary update sequence element #0 has length 3; 2 is required
+2025-04-25 02:00:47,985 - INFO - Processing Divergence-EA_01_standard.set
+2025-04-25 02:00:47,985 - INFO - Processing Divergence-EA_01_standard.set
+2025-04-25 02:00:47,986 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Divergence-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,986 - INFO - Processing Doji-Arrows_01_standard.set
+2025-04-25 02:00:47,987 - INFO - Processing Doji-Arrows_01_standard.set
+2025-04-25 02:00:47,988 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Doji-Arrows_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,989 - INFO - Processing DojiTrader_01_standard.set
+2025-04-25 02:00:47,990 - INFO - Processing DojiTrader_01_standard.set
+2025-04-25 02:00:47,991 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DojiTrader_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,992 - INFO - Processing Donchian-Chanel-EA_01_standard.set
+2025-04-25 02:00:47,992 - INFO - Processing Donchian-Chanel-EA_01_standard.set
+2025-04-25 02:00:47,993 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Donchian-Chanel-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,994 - INFO - Processing DoubleHullMA-EA_01_standard.set
+2025-04-25 02:00:47,994 - INFO - Processing DoubleHullMA-EA_01_standard.set
+2025-04-25 02:00:47,996 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleHullMA-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,996 - INFO - Processing DoubleHullMA_01_standard.set
+2025-04-25 02:00:47,997 - INFO - Processing DoubleHullMA_01_standard.set
+2025-04-25 02:00:47,998 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleHullMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:47,999 - INFO - Processing DoubleMA-Crossover-EA_01_standard.set
+2025-04-25 02:00:47,999 - INFO - Processing DoubleMA-Crossover-EA_01_standard.set
+2025-04-25 02:00:48,000 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleMA-Crossover-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,001 - INFO - Processing Doubler_01_standard.set
+2025-04-25 02:00:48,002 - INFO - Processing Doubler_01_standard.set
+2025-04-25 02:00:48,003 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Doubler_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,004 - INFO - Processing Driver-EA-MT5_01_standard.set
+2025-04-25 02:00:48,005 - INFO - Processing Driver-EA-MT5_01_standard.set
+2025-04-25 02:00:48,006 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Driver-EA-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,007 - INFO - Processing dummy_01_standard.set
+2025-04-25 02:00:48,010 - INFO - Processing dummy_01_standard.set
+2025-04-25 02:00:48,011 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\dummy_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,012 - INFO - Processing Dynamic-averaging_01_standard.set
+2025-04-25 02:00:48,013 - INFO - Processing Dynamic-averaging_01_standard.set
+2025-04-25 02:00:48,014 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dynamic-averaging_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,015 - INFO - Processing e-Breakeven_01_standard.set
+2025-04-25 02:00:48,016 - INFO - Processing e-Breakeven_01_standard.set
+2025-04-25 02:00:48,017 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Breakeven_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,018 - INFO - Processing E-Friday_01_standard.set
+2025-04-25 02:00:48,019 - INFO - Processing E-Friday_01_standard.set
+2025-04-25 02:00:48,020 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\E-Friday_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,020 - INFO - Processing E-Skoch-Open_01_standard.set
+2025-04-25 02:00:48,021 - INFO - Processing E-Skoch-Open_01_standard.set
+2025-04-25 02:00:48,022 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\E-Skoch-Open_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,022 - INFO - Processing e-Skoch-pending-orders_01_standard.set
+2025-04-25 02:00:48,023 - INFO - Processing e-Skoch-pending-orders_01_standard.set
+2025-04-25 02:00:48,024 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Skoch-pending-orders_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,024 - INFO - Processing e-Smart-Trailing_01_standard.set
+2025-04-25 02:00:48,025 - INFO - Processing e-Smart-Trailing_01_standard.set
+2025-04-25 02:00:48,025 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Smart-Trailing_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,026 - INFO - Processing e-TurboFx_01_standard.set
+2025-04-25 02:00:48,026 - INFO - Processing e-TurboFx_01_standard.set
+2025-04-25 02:00:48,027 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-TurboFx_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,028 - INFO - Processing EA-Close_01_standard.set
+2025-04-25 02:00:48,029 - INFO - Processing EA-Close_01_standard.set
+2025-04-25 02:00:48,030 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-Close_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,031 - INFO - Processing EA-MA-Stoch-RSI_01_standard.set
+2025-04-25 02:00:48,031 - INFO - Processing EA-MA-Stoch-RSI_01_standard.set
+2025-04-25 02:00:48,032 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-MA-Stoch-RSI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,032 - INFO - Processing EA-Moving-Average_01_standard.set
+2025-04-25 02:00:48,033 - INFO - Processing EA-Moving-Average_01_standard.set
+2025-04-25 02:00:48,034 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-Moving-Average_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,034 - INFO - Processing Elite-eFibo-Trader_01_standard.set
+2025-04-25 02:00:48,035 - INFO - Processing Elite-eFibo-Trader_01_standard.set
+2025-04-25 02:00:48,036 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Elite-eFibo-Trader_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,037 - INFO - Processing EMA-6.12_01_standard.set
+2025-04-25 02:00:48,038 - INFO - Processing EMA-6.12_01_standard.set
+2025-04-25 02:00:48,039 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-6.12_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,039 - INFO - Processing EMA-CROSS_01_standard.set
+2025-04-25 02:00:48,040 - INFO - Processing EMA-CROSS_01_standard.set
+2025-04-25 02:00:48,041 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-CROSS_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,041 - INFO - Processing EMA-LWMA-RSI_01_standard.set
+2025-04-25 02:00:48,042 - INFO - Processing EMA-LWMA-RSI_01_standard.set
+2025-04-25 02:00:48,043 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-LWMA-RSI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,043 - INFO - Processing EMA-RSI-EA_01_standard.set
+2025-04-25 02:00:48,044 - INFO - Processing EMA-RSI-EA_01_standard.set
+2025-04-25 02:00:48,045 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-RSI-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,045 - INFO - Processing EMA-WMA_01_standard.set
+2025-04-25 02:00:48,046 - INFO - Processing EMA-WMA_01_standard.set
+2025-04-25 02:00:48,047 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-WMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,047 - INFO - Processing EMA_01_standard.set
+2025-04-25 02:00:48,048 - INFO - Processing EMA_01_standard.set
+2025-04-25 02:00:48,048 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,049 - INFO - Processing EMA_WMA v2_01_standard.set
+2025-04-25 02:00:48,049 - INFO - Processing EMA_WMA v2_01_standard.set
+2025-04-25 02:00:48,050 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA_WMA v2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,051 - INFO - Processing Eugene_01_standard.set
+2025-04-25 02:00:48,051 - INFO - Processing Eugene_01_standard.set
+2025-04-25 02:00:48,052 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,052 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Eugene_01_standard.set: dictionary update sequence element #0 has length 5; 2 is required
+2025-04-25 02:00:48,053 - INFO - Processing eur-usd-m5_01_standard.set
+2025-04-25 02:00:48,053 - INFO - Processing eur-usd-m5_01_standard.set
+2025-04-25 02:00:48,054 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\eur-usd-m5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,055 - INFO - Processing EURUSD-breakout_01_standard.set
+2025-04-25 02:00:48,055 - INFO - Processing EURUSD-breakout_01_standard.set
+2025-04-25 02:00:48,056 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EURUSD-breakout_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,057 - INFO - Processing Executer-AC_01_standard.set
+2025-04-25 02:00:48,057 - INFO - Processing Executer-AC_01_standard.set
+2025-04-25 02:00:48,058 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executer-AC_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,059 - INFO - Processing Executor-AO_01_standard.set
+2025-04-25 02:00:48,059 - INFO - Processing Executor-AO_01_standard.set
+2025-04-25 02:00:48,060 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executor-AO_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,061 - INFO - Processing Executor-Candles_01_standard.set
+2025-04-25 02:00:48,062 - INFO - Processing Executor-Candles_01_standard.set
+2025-04-25 02:00:48,062 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executor-Candles_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,063 - INFO - Processing exp-Amstell_01_standard.set
+2025-04-25 02:00:48,063 - INFO - Processing exp-Amstell_01_standard.set
+2025-04-25 02:00:48,065 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\exp-Amstell_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,066 - INFO - Processing Expert-NEWS_01_standard.set
+2025-04-25 02:00:48,066 - INFO - Processing Expert-NEWS_01_standard.set
+2025-04-25 02:00:48,067 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Expert-NEWS_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,068 - INFO - Processing Expert-RSI-Stochastic-MA_01_standard.set
+2025-04-25 02:00:48,068 - INFO - Processing Expert-RSI-Stochastic-MA_01_standard.set
+2025-04-25 02:00:48,069 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Expert-RSI-Stochastic-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,070 - INFO - Processing ExtremePrice-EA_01_standard.set
+2025-04-25 02:00:48,070 - INFO - Processing ExtremePrice-EA_01_standard.set
+2025-04-25 02:00:48,071 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ExtremePrice-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,072 - INFO - Processing FiboRetracement-20EA_01_standard.set
+2025-04-25 02:00:48,073 - INFO - Processing FiboRetracement-20EA_01_standard.set
+2025-04-25 02:00:48,074 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\FiboRetracement-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,074 - INFO - Processing Firebird_01_standard.set
+2025-04-25 02:00:48,075 - INFO - Processing Firebird_01_standard.set
+2025-04-25 02:00:48,076 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firebird_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,076 - INFO - Processing Firestorm-EA_01_standard.set
+2025-04-25 02:00:48,076 - INFO - Processing Firestorm-EA_01_standard.set
+2025-04-25 02:00:48,077 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firestorm-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,078 - INFO - Processing Firestorm-indicator_01_standard.set
+2025-04-25 02:00:48,079 - INFO - Processing Firestorm-indicator_01_standard.set
+2025-04-25 02:00:48,080 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,080 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firestorm-indicator_01_standard.set: dictionary update sequence element #0 has length 5; 2 is required
+2025-04-25 02:00:48,081 - INFO - Processing Fluctuate_01_standard.set
+2025-04-25 02:00:48,081 - INFO - Processing Fluctuate_01_standard.set
+2025-04-25 02:00:48,082 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fluctuate_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,082 - INFO - Processing Forex-Fraus-M1_01_standard.set
+2025-04-25 02:00:48,083 - INFO - Processing Forex-Fraus-M1_01_standard.set
+2025-04-25 02:00:48,083 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Forex-Fraus-M1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,084 - INFO - Processing Forex-Profit_01_standard.set
+2025-04-25 02:00:48,085 - INFO - Processing Forex-Profit_01_standard.set
+2025-04-25 02:00:48,086 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Forex-Profit_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,087 - INFO - Processing Fractals-minimum-distance_01_standard.set
+2025-04-25 02:00:48,087 - INFO - Processing Fractals-minimum-distance_01_standard.set
+2025-04-25 02:00:48,088 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,089 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fractals-minimum-distance_01_standard.set: dictionary update sequence element #0 has length 12; 2 is required
+2025-04-25 02:00:48,089 - INFO - Processing Fraktrak-xonax_01_standard.set
+2025-04-25 02:00:48,089 - INFO - Processing Fraktrak-xonax_01_standard.set
+2025-04-25 02:00:48,090 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fraktrak-xonax_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,090 - INFO - Processing Frank-Ud_01_standard.set
+2025-04-25 02:00:48,091 - INFO - Processing Frank-Ud_01_standard.set
+2025-04-25 02:00:48,092 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Frank-Ud_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,093 - INFO - Processing fratal-mt5-EA_01_standard.set
+2025-04-25 02:00:48,093 - INFO - Processing fratal-mt5-EA_01_standard.set
+2025-04-25 02:00:48,094 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\fratal-mt5-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,095 - INFO - Processing FT-CCI_01_standard.set
+2025-04-25 02:00:48,095 - INFO - Processing FT-CCI_01_standard.set
+2025-04-25 02:00:48,096 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\FT-CCI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,097 - INFO - Processing Fuzzy-logic_01_standard.set
+2025-04-25 02:00:48,097 - INFO - Processing Fuzzy-logic_01_standard.set
+2025-04-25 02:00:48,098 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fuzzy-logic_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,098 - INFO - Processing GalacticExplosion_01_standard.set
+2025-04-25 02:00:48,099 - INFO - Processing GalacticExplosion_01_standard.set
+2025-04-25 02:00:48,100 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GalacticExplosion_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,101 - INFO - Processing Gandalf-PRO_01_standard.set
+2025-04-25 02:00:48,101 - INFO - Processing Gandalf-PRO_01_standard.set
+2025-04-25 02:00:48,102 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gandalf-PRO_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,103 - INFO - Processing Gap-DM_01_standard.set
+2025-04-25 02:00:48,103 - INFO - Processing Gap-DM_01_standard.set
+2025-04-25 02:00:48,104 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gap-DM_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,104 - INFO - Processing GAP-EA_01_standard.set
+2025-04-25 02:00:48,105 - INFO - Processing GAP-EA_01_standard.set
+2025-04-25 02:00:48,106 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GAP-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,107 - INFO - Processing Gaps_01_standard.set
+2025-04-25 02:00:48,107 - INFO - Processing Gaps_01_standard.set
+2025-04-25 02:00:48,108 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gaps_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,109 - INFO - Processing GBP9AM_01_standard.set
+2025-04-25 02:00:48,109 - INFO - Processing GBP9AM_01_standard.set
+2025-04-25 02:00:48,110 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GBP9AM_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,110 - INFO - Processing GbpChf_01_standard.set
+2025-04-25 02:00:48,110 - INFO - Processing GbpChf_01_standard.set
+2025-04-25 02:00:48,111 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GbpChf_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,111 - INFO - Processing Gold-Dust_01_standard.set
+2025-04-25 02:00:48,112 - INFO - Processing Gold-Dust_01_standard.set
+2025-04-25 02:00:48,112 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gold-Dust_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,113 - INFO - Processing GO_01_standard.set
+2025-04-25 02:00:48,114 - INFO - Processing GO_01_standard.set
+2025-04-25 02:00:48,115 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,115 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GO_01_standard.set: dictionary update sequence element #0 has length 5; 2 is required
+2025-04-25 02:00:48,116 - INFO - Processing GreenTrade_01_standard.set
+2025-04-25 02:00:48,116 - INFO - Processing GreenTrade_01_standard.set
+2025-04-25 02:00:48,117 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GreenTrade_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,117 - INFO - Processing Grid-Martingale_01_standard.set
+2025-04-25 02:00:48,118 - INFO - Processing Grid-Martingale_01_standard.set
+2025-04-25 02:00:48,118 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Grid-Martingale_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,119 - INFO - Processing GridEA_01_standard.set
+2025-04-25 02:00:48,119 - INFO - Processing GridEA_01_standard.set
+2025-04-25 02:00:48,121 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GridEA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,121 - INFO - Processing Grid_01_standard.set
+2025-04-25 02:00:48,122 - INFO - Processing Grid_01_standard.set
+2025-04-25 02:00:48,122 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,123 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Grid_01_standard.set: dictionary update sequence element #0 has length 21; 2 is required
+2025-04-25 02:00:48,123 - INFO - Processing HarVesteR_01_standard.set
+2025-04-25 02:00:48,124 - INFO - Processing HarVesteR_01_standard.set
+2025-04-25 02:00:48,124 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HarVesteR_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,125 - INFO - Processing HedgeEA_01_standard.set
+2025-04-25 02:00:48,125 - INFO - Processing HedgeEA_01_standard.set
+2025-04-25 02:00:48,126 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,126 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HedgeEA_01_standard.set: dictionary update sequence element #0 has length 5; 2 is required
+2025-04-25 02:00:48,127 - INFO - Processing hedger_01_standard.set
+2025-04-25 02:00:48,128 - INFO - Processing hedger_01_standard.set
+2025-04-25 02:00:48,129 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,129 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\hedger_01_standard.set: dictionary update sequence element #0 has length 16; 2 is required
+2025-04-25 02:00:48,130 - INFO - Processing Hedging-EA_01_standard.set
+2025-04-25 02:00:48,130 - INFO - Processing Hedging-EA_01_standard.set
+2025-04-25 02:00:48,131 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Hedging-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,131 - INFO - Processing Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set
+2025-04-25 02:00:48,132 - INFO - Processing Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set
+2025-04-25 02:00:48,132 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,133 - INFO - Processing Heiken-Ashi-Smoothed-EA_01_standard.set
+2025-04-25 02:00:48,133 - INFO - Processing Heiken-Ashi-Smoothed-EA_01_standard.set
+2025-04-25 02:00:48,134 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heiken-Ashi-Smoothed-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,135 - INFO - Processing heiken-ashi-smoothedLine_01_standard.set
+2025-04-25 02:00:48,136 - INFO - Processing heiken-ashi-smoothedLine_01_standard.set
+2025-04-25 02:00:48,136 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,137 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\heiken-ashi-smoothedLine_01_standard.set: dictionary update sequence element #0 has length 12; 2 is required
+2025-04-25 02:00:48,137 - INFO - Processing heiken-ashi-smoothed_01_standard.set
+2025-04-25 02:00:48,138 - INFO - Processing heiken-ashi-smoothed_01_standard.set
+2025-04-25 02:00:48,138 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,139 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\heiken-ashi-smoothed_01_standard.set: dictionary update sequence element #0 has length 12; 2 is required
+2025-04-25 02:00:48,139 - INFO - Processing HeikenAshi-Lines-EA_01_standard.set
+2025-04-25 02:00:48,139 - INFO - Processing HeikenAshi-Lines-EA_01_standard.set
+2025-04-25 02:00:48,140 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HeikenAshi-Lines-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,141 - INFO - Processing HeikenAshi-Lines_01_standard.set
+2025-04-25 02:00:48,142 - INFO - Processing HeikenAshi-Lines_01_standard.set
+2025-04-25 02:00:48,143 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,143 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HeikenAshi-Lines_01_standard.set: dictionary update sequence element #0 has length 9; 2 is required
+2025-04-25 02:00:48,144 - INFO - Processing Heinken-Ashi-Color-Candles_01_standard.set
+2025-04-25 02:00:48,144 - INFO - Processing Heinken-Ashi-Color-Candles_01_standard.set
+2025-04-25 02:00:48,145 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,145 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heinken-Ashi-Color-Candles_01_standard.set: dictionary update sequence element #0 has length 12; 2 is required
+2025-04-25 02:00:48,146 - INFO - Processing HelloSmart_01_standard.set
+2025-04-25 02:00:48,146 - INFO - Processing HelloSmart_01_standard.set
+2025-04-25 02:00:48,147 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HelloSmart_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,148 - INFO - Processing High-Low-EA_01_standard.set
+2025-04-25 02:00:48,149 - INFO - Processing High-Low-EA_01_standard.set
+2025-04-25 02:00:48,150 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\High-Low-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,150 - INFO - Processing High-Low-Indicator_01_standard.set
+2025-04-25 02:00:48,151 - INFO - Processing High-Low-Indicator_01_standard.set
+2025-04-25 02:00:48,152 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,152 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\High-Low-Indicator_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:48,153 - INFO - Processing Hoop-master-2_01_standard.set
+2025-04-25 02:00:48,153 - INFO - Processing Hoop-master-2_01_standard.set
+2025-04-25 02:00:48,154 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Hoop-master-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,154 - INFO - Processing iCCI-iMA_01_standard.set
+2025-04-25 02:00:48,155 - INFO - Processing iCCI-iMA_01_standard.set
+2025-04-25 02:00:48,156 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iCCI-iMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,156 - INFO - Processing ICH-With-Alert-Derekers-EA_01_standard.set
+2025-04-25 02:00:48,157 - INFO - Processing ICH-With-Alert-Derekers-EA_01_standard.set
+2025-04-25 02:00:48,157 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ICH-With-Alert-Derekers-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,158 - INFO - Processing ICH-With-Alert-Derekers_01_standard.set
+2025-04-25 02:00:48,158 - INFO - Processing ICH-With-Alert-Derekers_01_standard.set
+2025-04-25 02:00:48,159 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,160 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ICH-With-Alert-Derekers_01_standard.set: dictionary update sequence element #0 has length 18; 2 is required
+2025-04-25 02:00:48,160 - INFO - Processing ichimok2005_01_standard.set
+2025-04-25 02:00:48,161 - INFO - Processing ichimok2005_01_standard.set
+2025-04-25 02:00:48,162 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ichimok2005_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,163 - INFO - Processing Ichimoku-20Kijun-20Alert_01_standard.set
+2025-04-25 02:00:48,164 - INFO - Processing Ichimoku-20Kijun-20Alert_01_standard.set
+2025-04-25 02:00:48,165 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,165 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-20Kijun-20Alert_01_standard.set: dictionary update sequence element #0 has length 3; 2 is required
+2025-04-25 02:00:48,165 - INFO - Processing Ichimoku-20Tenkan-20Alert_01_standard.set
+2025-04-25 02:00:48,166 - INFO - Processing Ichimoku-20Tenkan-20Alert_01_standard.set
+2025-04-25 02:00:48,167 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,167 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-20Tenkan-20Alert_01_standard.set: dictionary update sequence element #0 has length 3; 2 is required
+2025-04-25 02:00:48,168 - INFO - Processing Ichimoku-Dashboard-MT5_01_standard.set
+2025-04-25 02:00:48,169 - INFO - Processing Ichimoku-Dashboard-MT5_01_standard.set
+2025-04-25 02:00:48,170 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,171 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Dashboard-MT5_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,171 - INFO - Processing Ichimoku-Scanner-MT5_01_standard.set
+2025-04-25 02:00:48,172 - INFO - Processing Ichimoku-Scanner-MT5_01_standard.set
+2025-04-25 02:00:48,173 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,173 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Scanner-MT5_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,174 - INFO - Processing Ichimoku-Scanner_01_standard.set
+2025-04-25 02:00:48,174 - INFO - Processing Ichimoku-Scanner_01_standard.set
+2025-04-25 02:00:48,175 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,176 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Scanner_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,177 - INFO - Processing Ichimoku-Signals-and-Alert_01_standard.set
+2025-04-25 02:00:48,177 - INFO - Processing Ichimoku-Signals-and-Alert_01_standard.set
+2025-04-25 02:00:48,178 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Signals-and-Alert_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,178 - INFO - Processing IchimokuMTF-EA_01_standard.set
+2025-04-25 02:00:48,179 - INFO - Processing IchimokuMTF-EA_01_standard.set
+2025-04-25 02:00:48,179 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\IchimokuMTF-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,180 - INFO - Processing Ichimoku_01_standard.set
+2025-04-25 02:00:48,180 - INFO - Processing Ichimoku_01_standard.set
+2025-04-25 02:00:48,181 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,181 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku_01_standard.set: dictionary update sequence element #0 has length 10; 2 is required
+2025-04-25 02:00:48,182 - INFO - Processing Ilan-iMA_01_standard.set
+2025-04-25 02:00:48,183 - INFO - Processing Ilan-iMA_01_standard.set
+2025-04-25 02:00:48,184 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ilan-iMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,184 - INFO - Processing Ilan1.4_01_standard.set
+2025-04-25 02:00:48,185 - INFO - Processing Ilan1.4_01_standard.set
+2025-04-25 02:00:48,185 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ilan1.4_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,186 - INFO - Processing iMA-iStdDev_01_standard.set
+2025-04-25 02:00:48,186 - INFO - Processing iMA-iStdDev_01_standard.set
+2025-04-25 02:00:48,187 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iMA-iStdDev_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,187 - INFO - Processing Indices-Tester_01_standard.set
+2025-04-25 02:00:48,188 - INFO - Processing Indices-Tester_01_standard.set
+2025-04-25 02:00:48,188 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,189 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Indices-Tester_01_standard.set: dictionary update sequence element #0 has length 9; 2 is required
+2025-04-25 02:00:48,189 - INFO - Processing Inka-20Edho-20EA_01_standard.set
+2025-04-25 02:00:48,190 - INFO - Processing Inka-20Edho-20EA_01_standard.set
+2025-04-25 02:00:48,191 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Inka-20Edho-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,191 - INFO - Processing Intersection-2-iMA_01_standard.set
+2025-04-25 02:00:48,192 - INFO - Processing Intersection-2-iMA_01_standard.set
+2025-04-25 02:00:48,193 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Intersection-2-iMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,193 - INFO - Processing IStochastic-Trading_01_standard.set
+2025-04-25 02:00:48,194 - INFO - Processing IStochastic-Trading_01_standard.set
+2025-04-25 02:00:48,194 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\IStochastic-Trading_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,195 - INFO - Processing Ivan_01_standard.set
+2025-04-25 02:00:48,195 - INFO - Processing Ivan_01_standard.set
+2025-04-25 02:00:48,197 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ivan_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,198 - INFO - Processing iVIDyA-Simple_01_standard.set
+2025-04-25 02:00:48,198 - INFO - Processing iVIDyA-Simple_01_standard.set
+2025-04-25 02:00:48,199 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iVIDyA-Simple_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,200 - INFO - Processing Jackpot-Strategy-EA_01_standard.set
+2025-04-25 02:00:48,200 - INFO - Processing Jackpot-Strategy-EA_01_standard.set
+2025-04-25 02:00:48,201 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Jackpot-Strategy-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,201 - INFO - Processing JackPot-Strategy-Elite_01_standard.set
+2025-04-25 02:00:48,202 - INFO - Processing JackPot-Strategy-Elite_01_standard.set
+2025-04-25 02:00:48,202 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,203 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JackPot-Strategy-Elite_01_standard.set: dictionary update sequence element #0 has length 3; 2 is required
+2025-04-25 02:00:48,204 - INFO - Processing JK-BullP-AutoTrader_01_standard.set
+2025-04-25 02:00:48,204 - INFO - Processing JK-BullP-AutoTrader_01_standard.set
+2025-04-25 02:00:48,205 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JK-BullP-AutoTrader_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,206 - INFO - Processing JS-Chaos_01_standard.set
+2025-04-25 02:00:48,206 - INFO - Processing JS-Chaos_01_standard.set
+2025-04-25 02:00:48,207 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,207 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-Chaos_01_standard.set: dictionary update sequence element #0 has length 14; 2 is required
+2025-04-25 02:00:48,208 - INFO - Processing JS-MA-Day_01_standard.set
+2025-04-25 02:00:48,208 - INFO - Processing JS-MA-Day_01_standard.set
+2025-04-25 02:00:48,209 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-MA-Day_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,210 - INFO - Processing JS-MA-SAR-Trades_01_standard.set
+2025-04-25 02:00:48,211 - INFO - Processing JS-MA-SAR-Trades_01_standard.set
+2025-04-25 02:00:48,212 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-MA-SAR-Trades_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,212 - INFO - Processing KA-Gold-Bot_01_standard.set
+2025-04-25 02:00:48,213 - INFO - Processing KA-Gold-Bot_01_standard.set
+2025-04-25 02:00:48,213 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KA-Gold-Bot_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,214 - INFO - Processing Kue-Electric-EA_01_standard.set
+2025-04-25 02:00:48,214 - INFO - Processing Kue-Electric-EA_01_standard.set
+2025-04-25 02:00:48,215 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Kue-Electric-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,215 - INFO - Processing KueFx-20Arrows_01_standard.set
+2025-04-25 02:00:48,216 - INFO - Processing KueFx-20Arrows_01_standard.set
+2025-04-25 02:00:48,216 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-20Arrows_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,217 - INFO - Processing KueFx-20Baseline_01_standard.set
+2025-04-25 02:00:48,218 - INFO - Processing KueFx-20Baseline_01_standard.set
+2025-04-25 02:00:48,219 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-20Baseline_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,219 - INFO - Processing KueFx-Arrows-20EA_01_standard.set
+2025-04-25 02:00:48,220 - INFO - Processing KueFx-Arrows-20EA_01_standard.set
+2025-04-25 02:00:48,221 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,221 - INFO - Processing KueFx-Arrows-EA_01_standard.set
+2025-04-25 02:00:48,221 - INFO - Processing KueFx-Arrows-EA_01_standard.set
+2025-04-25 02:00:48,222 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,223 - INFO - Processing KueFx-Arrows_01_standard.set
+2025-04-25 02:00:48,223 - INFO - Processing KueFx-Arrows_01_standard.set
+2025-04-25 02:00:48,224 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,225 - INFO - Processing KueFx-Baseline-EA_01_standard.set
+2025-04-25 02:00:48,225 - INFO - Processing KueFx-Baseline-EA_01_standard.set
+2025-04-25 02:00:48,226 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Baseline-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,227 - INFO - Processing KueFx-Baseline_01_standard.set
+2025-04-25 02:00:48,227 - INFO - Processing KueFx-Baseline_01_standard.set
+2025-04-25 02:00:48,228 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Baseline_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,228 - INFO - Processing KueFx-Clean-2025-EA_01_standard.set
+2025-04-25 02:00:48,229 - INFO - Processing KueFx-Clean-2025-EA_01_standard.set
+2025-04-25 02:00:48,230 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Clean-2025-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,230 - INFO - Processing KueFx-Extreme-EA_01_standard.set
+2025-04-25 02:00:48,231 - INFO - Processing KueFx-Extreme-EA_01_standard.set
+2025-04-25 02:00:48,232 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Extreme-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,232 - INFO - Processing KueFx-Harare-EA_01_standard.set
+2025-04-25 02:00:48,233 - INFO - Processing KueFx-Harare-EA_01_standard.set
+2025-04-25 02:00:48,234 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Harare-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,234 - INFO - Processing KueFX-Money-Management_01_standard.set
+2025-04-25 02:00:48,234 - INFO - Processing KueFX-Money-Management_01_standard.set
+2025-04-25 02:00:48,235 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFX-Money-Management_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,236 - INFO - Processing KueFx-Motor-EA_01_standard.set
+2025-04-25 02:00:48,236 - INFO - Processing KueFx-Motor-EA_01_standard.set
+2025-04-25 02:00:48,237 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Motor-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,237 - INFO - Processing KueFx-Motor_01_standard.set
+2025-04-25 02:00:48,238 - INFO - Processing KueFx-Motor_01_standard.set
+2025-04-25 02:00:48,239 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,239 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Motor_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:48,240 - INFO - Processing KueFx-Trend_01_standard.set
+2025-04-25 02:00:48,240 - INFO - Processing KueFx-Trend_01_standard.set
+2025-04-25 02:00:48,241 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Trend_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,241 - INFO - Processing KueFxTrend-20EA_01_standard.set
+2025-04-25 02:00:48,242 - INFO - Processing KueFxTrend-20EA_01_standard.set
+2025-04-25 02:00:48,243 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFxTrend-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,243 - INFO - Processing KueFxTrend-EA_01_standard.set
+2025-04-25 02:00:48,243 - INFO - Processing KueFxTrend-EA_01_standard.set
+2025-04-25 02:00:48,244 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFxTrend-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,245 - INFO - Processing KueFx_Arrows_EA_v1.10_01_standard.set
+2025-04-25 02:00:48,245 - INFO - Processing KueFx_Arrows_EA_v1.10_01_standard.set
+2025-04-25 02:00:48,246 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx_Arrows_EA_v1.10_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,247 - INFO - Processing KueFx_Baseline_EA_v1.10_01_standard.set
+2025-04-25 02:00:48,247 - INFO - Processing KueFx_Baseline_EA_v1.10_01_standard.set
+2025-04-25 02:00:48,248 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx_Baseline_EA_v1.10_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,248 - INFO - Processing LarryConnersRSI2_01_standard.set
+2025-04-25 02:00:48,249 - INFO - Processing LarryConnersRSI2_01_standard.set
+2025-04-25 02:00:48,249 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LarryConnersRSI2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,250 - INFO - Processing Last-ZZ50_01_standard.set
+2025-04-25 02:00:48,250 - INFO - Processing Last-ZZ50_01_standard.set
+2025-04-25 02:00:48,251 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Last-ZZ50_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,252 - INFO - Processing Lavika100_01_standard.set
+2025-04-25 02:00:48,252 - INFO - Processing Lavika100_01_standard.set
+2025-04-25 02:00:48,253 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lavika100_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,254 - INFO - Processing LazyBot-MT5_01_standard.set
+2025-04-25 02:00:48,254 - INFO - Processing LazyBot-MT5_01_standard.set
+2025-04-25 02:00:48,255 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LazyBot-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,255 - INFO - Processing LBS_01_standard.set
+2025-04-25 02:00:48,256 - INFO - Processing LBS_01_standard.set
+2025-04-25 02:00:48,256 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LBS_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,257 - INFO - Processing Lego-EA_01_standard.set
+2025-04-25 02:00:48,257 - INFO - Processing Lego-EA_01_standard.set
+2025-04-25 02:00:48,258 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lego-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,258 - INFO - Processing Lesson-3-Price-Action_01_standard.set
+2025-04-25 02:00:48,259 - INFO - Processing Lesson-3-Price-Action_01_standard.set
+2025-04-25 02:00:48,260 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-3-Price-Action_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,260 - INFO - Processing Lesson-4-Price-Action-MA-Filter_01_standard.set
+2025-04-25 02:00:48,260 - INFO - Processing Lesson-4-Price-Action-MA-Filter_01_standard.set
+2025-04-25 02:00:48,261 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-4-Price-Action-MA-Filter_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,262 - INFO - Processing Lesson-6-Trailling-ATR_01_standard.set
+2025-04-25 02:00:48,262 - INFO - Processing Lesson-6-Trailling-ATR_01_standard.set
+2025-04-25 02:00:48,263 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-6-Trailling-ATR_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,263 - INFO - Processing Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set
+2025-04-25 02:00:48,263 - INFO - Processing Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set
+2025-04-25 02:00:48,264 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,264 - INFO - Processing Little-EA_01_standard.set
+2025-04-25 02:00:48,265 - INFO - Processing Little-EA_01_standard.set
+2025-04-25 02:00:48,265 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Little-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,266 - INFO - Processing Locker_01_standard.set
+2025-04-25 02:00:48,267 - INFO - Processing Locker_01_standard.set
+2025-04-25 02:00:48,268 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Locker_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,268 - INFO - Processing Lock_01_standard.set
+2025-04-25 02:00:48,269 - INFO - Processing Lock_01_standard.set
+2025-04-25 02:00:48,269 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lock_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,270 - INFO - Processing Lucky_01_standard.set
+2025-04-25 02:00:48,270 - INFO - Processing Lucky_01_standard.set
+2025-04-25 02:00:48,271 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,271 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lucky_01_standard.set: dictionary update sequence element #0 has length 9; 2 is required
+2025-04-25 02:00:48,271 - INFO - Processing MA MACD Position averaging v2_01_standard.set
+2025-04-25 02:00:48,272 - INFO - Processing MA MACD Position averaging v2_01_standard.set
+2025-04-25 02:00:48,273 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA MACD Position averaging v2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,273 - INFO - Processing MA-20Alert_01_standard.set
+2025-04-25 02:00:48,274 - INFO - Processing MA-20Alert_01_standard.set
+2025-04-25 02:00:48,275 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,275 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-20Alert_01_standard.set: dictionary update sequence element #0 has length 10; 2 is required
+2025-04-25 02:00:48,276 - INFO - Processing MA-20AO-20Arrow_01_standard.set
+2025-04-25 02:00:48,276 - INFO - Processing MA-20AO-20Arrow_01_standard.set
+2025-04-25 02:00:48,277 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-20AO-20Arrow_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,277 - INFO - Processing MA-AO-EA_01_standard.set
+2025-04-25 02:00:48,278 - INFO - Processing MA-AO-EA_01_standard.set
+2025-04-25 02:00:48,278 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-AO-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,279 - INFO - Processing ma-channels_01_standard.set
+2025-04-25 02:00:48,279 - INFO - Processing ma-channels_01_standard.set
+2025-04-25 02:00:48,280 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,281 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ma-channels_01_standard.set: dictionary update sequence element #0 has length 10; 2 is required
+2025-04-25 02:00:48,281 - INFO - Processing Ma-Crosses-MT5_01_standard.set
+2025-04-25 02:00:48,282 - INFO - Processing Ma-Crosses-MT5_01_standard.set
+2025-04-25 02:00:48,282 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ma-Crosses-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,283 - INFO - Processing MA-Crossover-mt5-20EA_01_standard.set
+2025-04-25 02:00:48,283 - INFO - Processing MA-Crossover-mt5-20EA_01_standard.set
+2025-04-25 02:00:48,284 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Crossover-mt5-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,284 - INFO - Processing MA-Cross_01_standard.set
+2025-04-25 02:00:48,285 - INFO - Processing MA-Cross_01_standard.set
+2025-04-25 02:00:48,286 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Cross_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,286 - INFO - Processing MA-Envelopes_01_standard.set
+2025-04-25 02:00:48,287 - INFO - Processing MA-Envelopes_01_standard.set
+2025-04-25 02:00:48,288 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Envelopes_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,289 - INFO - Processing MA-MACD-Position-averaging_01_standard.set
+2025-04-25 02:00:48,289 - INFO - Processing MA-MACD-Position-averaging_01_standard.set
+2025-04-25 02:00:48,290 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-MACD-Position-averaging_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,290 - INFO - Processing MA-Trend_01_standard.set
+2025-04-25 02:00:48,291 - INFO - Processing MA-Trend_01_standard.set
+2025-04-25 02:00:48,291 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Trend_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,292 - INFO - Processing MA2CCI_01_standard.set
+2025-04-25 02:00:48,292 - INFO - Processing MA2CCI_01_standard.set
+2025-04-25 02:00:48,293 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA2CCI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,294 - INFO - Processing MACD-and-SAR_01_standard.set
+2025-04-25 02:00:48,294 - INFO - Processing MACD-and-SAR_01_standard.set
+2025-04-25 02:00:48,295 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-and-SAR_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,296 - INFO - Processing MACD-Cleaner_01_standard.set
+2025-04-25 02:00:48,296 - INFO - Processing MACD-Cleaner_01_standard.set
+2025-04-25 02:00:48,297 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Cleaner_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,297 - INFO - Processing MACD-EA-H4_01_standard.set
+2025-04-25 02:00:48,297 - INFO - Processing MACD-EA-H4_01_standard.set
+2025-04-25 02:00:48,298 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-EA-H4_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,299 - INFO - Processing MACD-No-Sample_01_standard.set
+2025-04-25 02:00:48,299 - INFO - Processing MACD-No-Sample_01_standard.set
+2025-04-25 02:00:48,299 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-No-Sample_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,300 - INFO - Processing MACD-signal_01_standard.set
+2025-04-25 02:00:48,301 - INFO - Processing MACD-signal_01_standard.set
+2025-04-25 02:00:48,301 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-signal_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,302 - INFO - Processing MACD-Stochastic-2_01_standard.set
+2025-04-25 02:00:48,302 - INFO - Processing MACD-Stochastic-2_01_standard.set
+2025-04-25 02:00:48,303 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Stochastic-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,304 - INFO - Processing MACD-Stochastic_01_standard.set
+2025-04-25 02:00:48,304 - INFO - Processing MACD-Stochastic_01_standard.set
+2025-04-25 02:00:48,304 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Stochastic_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,305 - INFO - Processing MACDCCI_01_standard.set
+2025-04-25 02:00:48,305 - INFO - Processing MACDCCI_01_standard.set
+2025-04-25 02:00:48,306 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACDCCI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,306 - INFO - Processing MacdPatternTraderAll0.01_01_standard.set
+2025-04-25 02:00:48,307 - INFO - Processing MacdPatternTraderAll0.01_01_standard.set
+2025-04-25 02:00:48,308 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MacdPatternTraderAll0.01_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,308 - INFO - Processing MacdPatternTraderAll_01_standard.set
+2025-04-25 02:00:48,309 - INFO - Processing MacdPatternTraderAll_01_standard.set
+2025-04-25 02:00:48,310 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MacdPatternTraderAll_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,310 - INFO - Processing MACD_01_standard.set
+2025-04-25 02:00:48,311 - INFO - Processing MACD_01_standard.set
+2025-04-25 02:00:48,311 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,311 - INFO - Processing MAGrid_01_standard.set
+2025-04-25 02:00:48,312 - INFO - Processing MAGrid_01_standard.set
+2025-04-25 02:00:48,312 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,313 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MAGrid_01_standard.set: dictionary update sequence element #0 has length 6; 2 is required
+2025-04-25 02:00:48,313 - INFO - Processing MAMACD_01_standard.set
+2025-04-25 02:00:48,313 - INFO - Processing MAMACD_01_standard.set
+2025-04-25 02:00:48,314 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MAMACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,315 - INFO - Processing Mariner-MT5_01_standard.set
+2025-04-25 02:00:48,315 - INFO - Processing Mariner-MT5_01_standard.set
+2025-04-25 02:00:48,316 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mariner-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,317 - INFO - Processing Market-Capture_01_standard.set
+2025-04-25 02:00:48,317 - INFO - Processing Market-Capture_01_standard.set
+2025-04-25 02:00:48,318 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Market-Capture_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,318 - INFO - Processing Martin-1_01_standard.set
+2025-04-25 02:00:48,319 - INFO - Processing Martin-1_01_standard.set
+2025-04-25 02:00:48,319 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin-1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,320 - INFO - Processing Martin-for-small-deposits_01_standard.set
+2025-04-25 02:00:48,320 - INFO - Processing Martin-for-small-deposits_01_standard.set
+2025-04-25 02:00:48,321 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin-for-small-deposits_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,322 - INFO - Processing MartingailExpert_01_standard.set
+2025-04-25 02:00:48,322 - INFO - Processing MartingailExpert_01_standard.set
+2025-04-25 02:00:48,323 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MartingailExpert_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,323 - INFO - Processing MartinGaleBreakout_01_standard.set
+2025-04-25 02:00:48,324 - INFO - Processing MartinGaleBreakout_01_standard.set
+2025-04-25 02:00:48,324 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MartinGaleBreakout_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,325 - INFO - Processing Martin_01_standard.set
+2025-04-25 02:00:48,325 - INFO - Processing Martin_01_standard.set
+2025-04-25 02:00:48,326 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,326 - INFO - Processing Marubozu-EA_01_standard.set
+2025-04-25 02:00:48,327 - INFO - Processing Marubozu-EA_01_standard.set
+2025-04-25 02:00:48,327 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,328 - INFO - Processing Marubozu_01_standard.set
+2025-04-25 02:00:48,328 - INFO - Processing Marubozu_01_standard.set
+2025-04-25 02:00:48,329 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,330 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu_01_standard.set: dictionary update sequence element #0 has length 10; 2 is required
+2025-04-25 02:00:48,330 - INFO - Processing Marubozu_EA_v1.10_01_standard.set
+2025-04-25 02:00:48,331 - INFO - Processing Marubozu_EA_v1.10_01_standard.set
+2025-04-25 02:00:48,331 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu_EA_v1.10_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,332 - INFO - Processing MelBar-EuSwiss-1.85_01_standard.set
+2025-04-25 02:00:48,332 - INFO - Processing MelBar-EuSwiss-1.85_01_standard.set
+2025-04-25 02:00:48,333 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MelBar-EuSwiss-1.85_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,333 - INFO - Processing MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set
+2025-04-25 02:00:48,334 - INFO - Processing MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set
+2025-04-25 02:00:48,334 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,335 - INFO - Processing Mobo-Bands-EA_01_standard.set
+2025-04-25 02:00:48,335 - INFO - Processing Mobo-Bands-EA_01_standard.set
+2025-04-25 02:00:48,336 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mobo-Bands-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,337 - INFO - Processing Mobo-Bands_01_standard.set
+2025-04-25 02:00:48,337 - INFO - Processing Mobo-Bands_01_standard.set
+2025-04-25 02:00:48,338 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,338 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mobo-Bands_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,339 - INFO - Processing Modified-Moving-Averages_01_standard.set
+2025-04-25 02:00:48,339 - INFO - Processing Modified-Moving-Averages_01_standard.set
+2025-04-25 02:00:48,340 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Modified-Moving-Averages_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,340 - INFO - Processing Momentum-M15_01_standard.set
+2025-04-25 02:00:48,341 - INFO - Processing Momentum-M15_01_standard.set
+2025-04-25 02:00:48,341 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Momentum-M15_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,342 - INFO - Processing Momo-trades_01_standard.set
+2025-04-25 02:00:48,342 - INFO - Processing Momo-trades_01_standard.set
+2025-04-25 02:00:48,343 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Momo-trades_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,344 - INFO - Processing Money-Fixed-Margin_01_standard.set
+2025-04-25 02:00:48,344 - INFO - Processing Money-Fixed-Margin_01_standard.set
+2025-04-25 02:00:48,345 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Money-Fixed-Margin_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,345 - INFO - Processing Money-Fixed-Risk_01_standard.set
+2025-04-25 02:00:48,346 - INFO - Processing Money-Fixed-Risk_01_standard.set
+2025-04-25 02:00:48,346 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Money-Fixed-Risk_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,347 - INFO - Processing MoneyRain_01_standard.set
+2025-04-25 02:00:48,347 - INFO - Processing MoneyRain_01_standard.set
+2025-04-25 02:00:48,348 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MoneyRain_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,348 - INFO - Processing Morning-evening-star-EA_01_standard.set
+2025-04-25 02:00:48,348 - INFO - Processing Morning-evening-star-EA_01_standard.set
+2025-04-25 02:00:48,349 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Morning-evening-star-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,350 - INFO - Processing MostasHaR15-Pivot_01_standard.set
+2025-04-25 02:00:48,350 - INFO - Processing MostasHaR15-Pivot_01_standard.set
+2025-04-25 02:00:48,351 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MostasHaR15-Pivot_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,351 - INFO - Processing Moving-20average-20and-20ichimoku-20EA_01_standard.set
+2025-04-25 02:00:48,352 - INFO - Processing Moving-20average-20and-20ichimoku-20EA_01_standard.set
+2025-04-25 02:00:48,353 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-20average-20and-20ichimoku-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,353 - INFO - Processing Moving-Average-Trade-System_01_standard.set
+2025-04-25 02:00:48,353 - INFO - Processing Moving-Average-Trade-System_01_standard.set
+2025-04-25 02:00:48,354 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-Average-Trade-System_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,354 - INFO - Processing Moving-Averages_01_standard.set
+2025-04-25 02:00:48,355 - INFO - Processing Moving-Averages_01_standard.set
+2025-04-25 02:00:48,355 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,356 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-Averages_01_standard.set: dictionary update sequence element #0 has length 20; 2 is required
+2025-04-25 02:00:48,356 - INFO - Processing MovingAverageMartinGale_01_standard.set
+2025-04-25 02:00:48,357 - INFO - Processing MovingAverageMartinGale_01_standard.set
+2025-04-25 02:00:48,357 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MovingAverageMartinGale_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,358 - INFO - Processing MovingAverage_01_standard.set
+2025-04-25 02:00:48,358 - INFO - Processing MovingAverage_01_standard.set
+2025-04-25 02:00:48,359 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MovingAverage_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,359 - INFO - Processing MQL5-Wizard-MA-RSI_01_standard.set
+2025-04-25 02:00:48,360 - INFO - Processing MQL5-Wizard-MA-RSI_01_standard.set
+2025-04-25 02:00:48,360 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MQL5-Wizard-MA-RSI_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,361 - INFO - Processing MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set
+2025-04-25 02:00:48,361 - INFO - Processing MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set
+2025-04-25 02:00:48,362 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,362 - INFO - Processing MT45_01_standard.set
+2025-04-25 02:00:48,363 - INFO - Processing MT45_01_standard.set
+2025-04-25 02:00:48,364 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT45_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,364 - INFO - Processing MT5-CoupleHedgeEA_01_standard.set
+2025-04-25 02:00:48,365 - INFO - Processing MT5-CoupleHedgeEA_01_standard.set
+2025-04-25 02:00:48,366 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT5-CoupleHedgeEA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,366 - INFO - Processing MT5-RingSystemEA_01_standard.set
+2025-04-25 02:00:48,367 - INFO - Processing MT5-RingSystemEA_01_standard.set
+2025-04-25 02:00:48,368 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT5-RingSystemEA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,368 - INFO - Processing Mt5-williams-directional-index-EA_01_standard.set
+2025-04-25 02:00:48,368 - INFO - Processing Mt5-williams-directional-index-EA_01_standard.set
+2025-04-25 02:00:48,369 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mt5-williams-directional-index-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,370 - INFO - Processing MTC-Сombo_01_standard.set
+2025-04-25 02:00:48,370 - INFO - Processing MTC-Сombo_01_standard.set
+2025-04-25 02:00:48,371 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MTC-Сombo_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,371 - INFO - Processing Multi-Stochastic_01_standard.set
+2025-04-25 02:00:48,372 - INFO - Processing Multi-Stochastic_01_standard.set
+2025-04-25 02:00:48,372 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Multi-Stochastic_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,373 - INFO - Processing MultiMartin_01_standard.set
+2025-04-25 02:00:48,373 - INFO - Processing MultiMartin_01_standard.set
+2025-04-25 02:00:48,374 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MultiMartin_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,374 - INFO - Processing MySystem_01_standard.set
+2025-04-25 02:00:48,375 - INFO - Processing MySystem_01_standard.set
+2025-04-25 02:00:48,375 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MySystem_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,376 - INFO - Processing N Candles v2_01_standard.set
+2025-04-25 02:00:48,376 - INFO - Processing N Candles v2_01_standard.set
+2025-04-25 02:00:48,377 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,378 - INFO - Processing N Candles v3_01_standard.set
+2025-04-25 02:00:48,378 - INFO - Processing N Candles v3_01_standard.set
+2025-04-25 02:00:48,379 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v3_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,379 - INFO - Processing N Candles v4_01_standard.set
+2025-04-25 02:00:48,380 - INFO - Processing N Candles v4_01_standard.set
+2025-04-25 02:00:48,380 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v4_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,381 - INFO - Processing N Candles v5_01_standard.set
+2025-04-25 02:00:48,382 - INFO - Processing N Candles v5_01_standard.set
+2025-04-25 02:00:48,382 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,383 - INFO - Processing N-Candles_01_standard.set
+2025-04-25 02:00:48,383 - INFO - Processing N-Candles_01_standard.set
+2025-04-25 02:00:48,384 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N-Candles_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,385 - INFO - Processing N-_Candles_v7_01_standard.set
+2025-04-25 02:00:48,385 - INFO - Processing N-_Candles_v7_01_standard.set
+2025-04-25 02:00:48,386 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N-_Candles_v7_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,386 - INFO - Processing Nevalyashka-BreakdownLevel_01_standard.set
+2025-04-25 02:00:48,386 - INFO - Processing Nevalyashka-BreakdownLevel_01_standard.set
+2025-04-25 02:00:48,387 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,388 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka-BreakdownLevel_01_standard.set: dictionary update sequence element #0 has length 13; 2 is required
+2025-04-25 02:00:48,388 - INFO - Processing Nevalyashka3-1_01_standard.set
+2025-04-25 02:00:48,388 - INFO - Processing Nevalyashka3-1_01_standard.set
+2025-04-25 02:00:48,389 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka3-1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,389 - INFO - Processing Nevalyashka_01_standard.set
+2025-04-25 02:00:48,390 - INFO - Processing Nevalyashka_01_standard.set
+2025-04-25 02:00:48,391 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,391 - INFO - Processing New-Martin_01_standard.set
+2025-04-25 02:00:48,392 - INFO - Processing New-Martin_01_standard.set
+2025-04-25 02:00:48,392 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\New-Martin_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,393 - INFO - Processing New-Random_01_standard.set
+2025-04-25 02:00:48,393 - INFO - Processing New-Random_01_standard.set
+2025-04-25 02:00:48,394 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\New-Random_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,395 - INFO - Processing Nextbar_01_standard.set
+2025-04-25 02:00:48,397 - INFO - Processing Nextbar_01_standard.set
+2025-04-25 02:00:48,398 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nextbar_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,399 - INFO - Processing Night-Flat-Trade_01_standard.set
+2025-04-25 02:00:48,399 - INFO - Processing Night-Flat-Trade_01_standard.set
+2025-04-25 02:00:48,400 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Night-Flat-Trade_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,401 - INFO - Processing NightScalper_01_standard.set
+2025-04-25 02:00:48,401 - INFO - Processing NightScalper_01_standard.set
+2025-04-25 02:00:48,402 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NightScalper_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,402 - INFO - Processing NRTR-Revers_01_standard.set
+2025-04-25 02:00:48,403 - INFO - Processing NRTR-Revers_01_standard.set
+2025-04-25 02:00:48,403 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NRTR-Revers_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,403 - INFO - Processing NUp1Down_01_standard.set
+2025-04-25 02:00:48,404 - INFO - Processing NUp1Down_01_standard.set
+2025-04-25 02:00:48,405 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NUp1Down_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,406 - INFO - Processing Open-Candle-EA_01_standard.set
+2025-04-25 02:00:48,406 - INFO - Processing Open-Candle-EA_01_standard.set
+2025-04-25 02:00:48,407 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Open-Candle-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,407 - INFO - Processing Open-Close_01_standard.set
+2025-04-25 02:00:48,408 - INFO - Processing Open-Close_01_standard.set
+2025-04-25 02:00:48,408 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,408 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Open-Close_01_standard.set: dictionary update sequence element #0 has length 15; 2 is required
+2025-04-25 02:00:48,409 - INFO - Processing Opening-and-ilosing-on-time_01_standard.set
+2025-04-25 02:00:48,409 - INFO - Processing Opening-and-ilosing-on-time_01_standard.set
+2025-04-25 02:00:48,410 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,410 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Opening-and-ilosing-on-time_01_standard.set: dictionary update sequence element #0 has length 12; 2 is required
+2025-04-25 02:00:48,411 - INFO - Processing Opening-and-Сlosing-on-time_01_standard.set
+2025-04-25 02:00:48,412 - INFO - Processing Opening-and-Сlosing-on-time_01_standard.set
+2025-04-25 02:00:48,413 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Opening-and-Сlosing-on-time_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,413 - INFO - Processing OpenPendingorderAfterPositionGetStopLoss_01_standard.set
+2025-04-25 02:00:48,414 - INFO - Processing OpenPendingorderAfterPositionGetStopLoss_01_standard.set
+2025-04-25 02:00:48,415 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OpenPendingorderAfterPositionGetStopLoss_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,415 - INFO - Processing OpenTicks_01_standard.set
+2025-04-25 02:00:48,415 - INFO - Processing OpenTicks_01_standard.set
+2025-04-25 02:00:48,416 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OpenTicks_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,416 - INFO - Processing ORB-EA-BOX_01_standard.set
+2025-04-25 02:00:48,417 - INFO - Processing ORB-EA-BOX_01_standard.set
+2025-04-25 02:00:48,418 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ORB-EA-BOX_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,419 - INFO - Processing OsMaSter_01_standard.set
+2025-04-25 02:00:48,420 - INFO - Processing OsMaSter_01_standard.set
+2025-04-25 02:00:48,421 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OsMaSter_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,422 - INFO - Processing OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set
+2025-04-25 02:00:48,422 - INFO - Processing OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set
+2025-04-25 02:00:48,423 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,423 - INFO - Processing OverHedge_01_standard.set
+2025-04-25 02:00:48,424 - INFO - Processing OverHedge_01_standard.set
+2025-04-25 02:00:48,424 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OverHedge_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,425 - INFO - Processing OzFx_01_standard.set
+2025-04-25 02:00:48,426 - INFO - Processing OzFx_01_standard.set
+2025-04-25 02:00:48,427 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OzFx_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,428 - INFO - Processing Parabolic-SAR_01_standard.set
+2025-04-25 02:00:48,428 - INFO - Processing Parabolic-SAR_01_standard.set
+2025-04-25 02:00:48,429 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,430 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Parabolic-SAR_01_standard.set: dictionary update sequence element #0 has length 20; 2 is required
+2025-04-25 02:00:48,430 - INFO - Processing PARSI-EA_01_standard.set
+2025-04-25 02:00:48,431 - INFO - Processing PARSI-EA_01_standard.set
+2025-04-25 02:00:48,431 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PARSI-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,432 - INFO - Processing Peceptron-Mult_01_standard.set
+2025-04-25 02:00:48,433 - INFO - Processing Peceptron-Mult_01_standard.set
+2025-04-25 02:00:48,434 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Peceptron-Mult_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,434 - INFO - Processing Pending-orders-by-time-2_01_standard.set
+2025-04-25 02:00:48,435 - INFO - Processing Pending-orders-by-time-2_01_standard.set
+2025-04-25 02:00:48,436 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pending-orders-by-time-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,436 - INFO - Processing Pending-orders-by-time_01_standard.set
+2025-04-25 02:00:48,436 - INFO - Processing Pending-orders-by-time_01_standard.set
+2025-04-25 02:00:48,437 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pending-orders-by-time_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,438 - INFO - Processing Pendulum_01_standard.set
+2025-04-25 02:00:48,438 - INFO - Processing Pendulum_01_standard.set
+2025-04-25 02:00:48,439 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,440 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pendulum_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,441 - INFO - Processing Pinball-machine_01_standard.set
+2025-04-25 02:00:48,441 - INFO - Processing Pinball-machine_01_standard.set
+2025-04-25 02:00:48,442 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,442 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pinball-machine_01_standard.set: dictionary update sequence element #0 has length 15; 2 is required
+2025-04-25 02:00:48,443 - INFO - Processing Pinbar-Magic-EA_01_standard.set
+2025-04-25 02:00:48,443 - INFO - Processing Pinbar-Magic-EA_01_standard.set
+2025-04-25 02:00:48,444 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pinbar-Magic-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,445 - INFO - Processing PinBar-Magic-Indicator_01_standard.set
+2025-04-25 02:00:48,445 - INFO - Processing PinBar-Magic-Indicator_01_standard.set
+2025-04-25 02:00:48,446 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PinBar-Magic-Indicator_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,447 - INFO - Processing Pipsover_01_standard.set
+2025-04-25 02:00:48,447 - INFO - Processing Pipsover_01_standard.set
+2025-04-25 02:00:48,448 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pipsover_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,449 - INFO - Processing Plan-X_01_standard.set
+2025-04-25 02:00:48,449 - INFO - Processing Plan-X_01_standard.set
+2025-04-25 02:00:48,450 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Plan-X_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,450 - INFO - Processing Plateau_01_standard.set
+2025-04-25 02:00:48,451 - INFO - Processing Plateau_01_standard.set
+2025-04-25 02:00:48,452 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Plateau_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,452 - INFO - Processing Poker-SHOW_01_standard.set
+2025-04-25 02:00:48,453 - INFO - Processing Poker-SHOW_01_standard.set
+2025-04-25 02:00:48,454 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Poker-SHOW_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,455 - INFO - Processing Precipice-MartIn_01_standard.set
+2025-04-25 02:00:48,455 - INFO - Processing Precipice-MartIn_01_standard.set
+2025-04-25 02:00:48,456 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,457 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Precipice-MartIn_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:48,457 - INFO - Processing Precipice_01_standard.set
+2025-04-25 02:00:48,458 - INFO - Processing Precipice_01_standard.set
+2025-04-25 02:00:48,458 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Precipice_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,459 - INFO - Processing Probe_01_standard.set
+2025-04-25 02:00:48,459 - INFO - Processing Probe_01_standard.set
+2025-04-25 02:00:48,461 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Probe_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,461 - INFO - Processing Proffessor_01_standard.set
+2025-04-25 02:00:48,462 - INFO - Processing Proffessor_01_standard.set
+2025-04-25 02:00:48,463 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Proffessor_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,463 - INFO - Processing PropFirmHelper_01_standard.set
+2025-04-25 02:00:48,464 - INFO - Processing PropFirmHelper_01_standard.set
+2025-04-25 02:00:48,464 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,465 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PropFirmHelper_01_standard.set: dictionary update sequence element #0 has length 3; 2 is required
+2025-04-25 02:00:48,465 - INFO - Processing PROphet_01_standard.set
+2025-04-25 02:00:48,466 - INFO - Processing PROphet_01_standard.set
+2025-04-25 02:00:48,466 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PROphet_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,467 - INFO - Processing Puria-method_01_standard.set
+2025-04-25 02:00:48,467 - INFO - Processing Puria-method_01_standard.set
+2025-04-25 02:00:48,468 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Puria-method_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,469 - INFO - Processing Rabbit3_01_standard.set
+2025-04-25 02:00:48,469 - INFO - Processing Rabbit3_01_standard.set
+2025-04-25 02:00:48,470 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rabbit3_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,470 - INFO - Processing Range-Breakout_01_standard.set
+2025-04-25 02:00:48,471 - INFO - Processing Range-Breakout_01_standard.set
+2025-04-25 02:00:48,471 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,472 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Range-Breakout_01_standard.set: dictionary update sequence element #0 has length 20; 2 is required
+2025-04-25 02:00:48,472 - INFO - Processing Rapid-Doji-EA_01_standard.set
+2025-04-25 02:00:48,473 - INFO - Processing Rapid-Doji-EA_01_standard.set
+2025-04-25 02:00:48,473 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rapid-Doji-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,475 - INFO - Processing Raymond-Cloudy-Day-for-EA_01_standard.set
+2025-04-25 02:00:48,475 - INFO - Processing Raymond-Cloudy-Day-for-EA_01_standard.set
+2025-04-25 02:00:48,476 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,477 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Raymond-Cloudy-Day-for-EA_01_standard.set: dictionary update sequence element #0 has length 6; 2 is required
+2025-04-25 02:00:48,477 - INFO - Processing Reflex-EA_01_standard.set
+2025-04-25 02:00:48,478 - INFO - Processing Reflex-EA_01_standard.set
+2025-04-25 02:00:48,478 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reflex-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,479 - INFO - Processing REFLEX-INDICATOR_01_standard.set
+2025-04-25 02:00:48,479 - INFO - Processing REFLEX-INDICATOR_01_standard.set
+2025-04-25 02:00:48,480 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,480 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\REFLEX-INDICATOR_01_standard.set: dictionary update sequence element #0 has length 7; 2 is required
+2025-04-25 02:00:48,481 - INFO - Processing Reflex_01_standard.set
+2025-04-25 02:00:48,482 - INFO - Processing Reflex_01_standard.set
+2025-04-25 02:00:48,482 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,483 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reflex_01_standard.set: dictionary update sequence element #0 has length 16; 2 is required
+2025-04-25 02:00:48,483 - INFO - Processing Reversing-Martingale_01_standard.set
+2025-04-25 02:00:48,484 - INFO - Processing Reversing-Martingale_01_standard.set
+2025-04-25 02:00:48,484 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,485 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reversing-Martingale_01_standard.set: dictionary update sequence element #0 has length 21; 2 is required
+2025-04-25 02:00:48,485 - INFO - Processing RideAlligator_01_standard.set
+2025-04-25 02:00:48,485 - INFO - Processing RideAlligator_01_standard.set
+2025-04-25 02:00:48,486 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,486 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RideAlligator_01_standard.set: dictionary update sequence element #0 has length 16; 2 is required
+2025-04-25 02:00:48,487 - INFO - Processing RNN_01_standard.set
+2025-04-25 02:00:48,487 - INFO - Processing RNN_01_standard.set
+2025-04-25 02:00:48,488 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RNN_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,488 - INFO - Processing Robot-MACD_01_standard.set
+2025-04-25 02:00:48,489 - INFO - Processing Robot-MACD_01_standard.set
+2025-04-25 02:00:48,490 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Robot-MACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,490 - INFO - Processing RobotPowerM5-meta4_01_standard.set
+2025-04-25 02:00:48,490 - INFO - Processing RobotPowerM5-meta4_01_standard.set
+2025-04-25 02:00:48,491 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RobotPowerM5-meta4_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,491 - INFO - Processing Rollback-system_01_standard.set
+2025-04-25 02:00:48,492 - INFO - Processing Rollback-system_01_standard.set
+2025-04-25 02:00:48,492 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rollback-system_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,493 - INFO - Processing RSI EA v2_01_standard.set
+2025-04-25 02:00:48,493 - INFO - Processing RSI EA v2_01_standard.set
+2025-04-25 02:00:48,494 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI EA v2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,494 - INFO - Processing RSI-and-Bollinger-Bands_01_standard.set
+2025-04-25 02:00:48,495 - INFO - Processing RSI-and-Bollinger-Bands_01_standard.set
+2025-04-25 02:00:48,496 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-and-Bollinger-Bands_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,496 - INFO - Processing RSI-Arrow-EA_01_standard.set
+2025-04-25 02:00:48,497 - INFO - Processing RSI-Arrow-EA_01_standard.set
+2025-04-25 02:00:48,498 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Arrow-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,498 - INFO - Processing RSI-Arrow_01_standard.set
+2025-04-25 02:00:48,498 - INFO - Processing RSI-Arrow_01_standard.set
+2025-04-25 02:00:48,499 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Arrow_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,499 - INFO - Processing RSI-EA_01_standard.set
+2025-04-25 02:00:48,500 - INFO - Processing RSI-EA_01_standard.set
+2025-04-25 02:00:48,500 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,501 - INFO - Processing RSI-Eraser_01_standard.set
+2025-04-25 02:00:48,501 - INFO - Processing RSI-Eraser_01_standard.set
+2025-04-25 02:00:48,502 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Eraser_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,503 - INFO - Processing RSI-Expert_01_standard.set
+2025-04-25 02:00:48,503 - INFO - Processing RSI-Expert_01_standard.set
+2025-04-25 02:00:48,504 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Expert_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,504 - INFO - Processing RSI-Levels_01_standard.set
+2025-04-25 02:00:48,505 - INFO - Processing RSI-Levels_01_standard.set
+2025-04-25 02:00:48,506 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,506 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Levels_01_standard.set: dictionary update sequence element #0 has length 20; 2 is required
+2025-04-25 02:00:48,506 - INFO - Processing RSI-trader_01_standard.set
+2025-04-25 02:00:48,507 - INFO - Processing RSI-trader_01_standard.set
+2025-04-25 02:00:48,507 - WARNING - Error processing group role_technical: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,508 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-trader_01_standard.set: dictionary update sequence element #0 has length 14; 2 is required
+2025-04-25 02:00:48,508 - INFO - Processing RSI-Trend-EA_01_standard.set
+2025-04-25 02:00:48,509 - INFO - Processing RSI-Trend-EA_01_standard.set
+2025-04-25 02:00:48,510 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Trend-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,511 - INFO - Processing RSI-Trend_01_standard.set
+2025-04-25 02:00:48,511 - INFO - Processing RSI-Trend_01_standard.set
+2025-04-25 02:00:48,512 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Trend_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,512 - INFO - Processing RSI-with-channels-EA_01_standard.set
+2025-04-25 02:00:48,513 - INFO - Processing RSI-with-channels-EA_01_standard.set
+2025-04-25 02:00:48,513 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-with-channels-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,514 - INFO - Processing RSI-with-channels_01_standard.set
+2025-04-25 02:00:48,514 - INFO - Processing RSI-with-channels_01_standard.set
+2025-04-25 02:00:48,515 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-with-channels_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,516 - INFO - Processing RSI_Expert_v2.0_01_standard.set
+2025-04-25 02:00:48,516 - INFO - Processing RSI_Expert_v2.0_01_standard.set
+2025-04-25 02:00:48,517 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI_Expert_v2.0_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,517 - INFO - Processing Russian20-hp1_01_standard.set
+2025-04-25 02:00:48,518 - INFO - Processing Russian20-hp1_01_standard.set
+2025-04-25 02:00:48,518 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Russian20-hp1_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,519 - INFO - Processing SampleCheckPendingOrder_01_standard.set
+2025-04-25 02:00:48,519 - INFO - Processing SampleCheckPendingOrder_01_standard.set
+2025-04-25 02:00:48,520 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SampleCheckPendingOrder_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,520 - INFO - Processing SampleTrailingstop-MT5_01_standard.set
+2025-04-25 02:00:48,521 - INFO - Processing SampleTrailingstop-MT5_01_standard.set
+2025-04-25 02:00:48,521 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SampleTrailingstop-MT5_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,522 - INFO - Processing SAR-trading_01_standard.set
+2025-04-25 02:00:48,522 - INFO - Processing SAR-trading_01_standard.set
+2025-04-25 02:00:48,523 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SAR-trading_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,524 - INFO - Processing Secwenta_01_standard.set
+2025-04-25 02:00:48,524 - INFO - Processing Secwenta_01_standard.set
+2025-04-25 02:00:48,525 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,525 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Secwenta_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,526 - INFO - Processing Sell-Stop_01_standard.set
+2025-04-25 02:00:48,526 - INFO - Processing Sell-Stop_01_standard.set
+2025-04-25 02:00:48,527 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sell-Stop_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,527 - INFO - Processing Sensitive_01_standard.set
+2025-04-25 02:00:48,527 - INFO - Processing Sensitive_01_standard.set
+2025-04-25 02:00:48,528 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sensitive_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,528 - INFO - Processing Separate-trade_01_standard.set
+2025-04-25 02:00:48,529 - INFO - Processing Separate-trade_01_standard.set
+2025-04-25 02:00:48,530 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Separate-trade_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,530 - INFO - Processing SilverTrend_01_standard.set
+2025-04-25 02:00:48,531 - INFO - Processing SilverTrend_01_standard.set
+2025-04-25 02:00:48,531 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SilverTrend_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,532 - INFO - Processing Simple-20Price-20Alert-20-20EA_01_standard.set
+2025-04-25 02:00:48,532 - INFO - Processing Simple-20Price-20Alert-20-20EA_01_standard.set
+2025-04-25 02:00:48,533 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-20Price-20Alert-20-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,533 - INFO - Processing Simple-20Volume-20EA_01_standard.set
+2025-04-25 02:00:48,533 - INFO - Processing Simple-20Volume-20EA_01_standard.set
+2025-04-25 02:00:48,534 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-20Volume-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,534 - INFO - Processing Simple-EA-MA-plus-MACD_01_standard.set
+2025-04-25 02:00:48,535 - INFO - Processing Simple-EA-MA-plus-MACD_01_standard.set
+2025-04-25 02:00:48,535 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-EA-MA-plus-MACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,536 - INFO - Processing Simple-FX_01_standard.set
+2025-04-25 02:00:48,536 - INFO - Processing Simple-FX_01_standard.set
+2025-04-25 02:00:48,537 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-FX_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,538 - INFO - Processing Simple-MACD_01_standard.set
+2025-04-25 02:00:48,538 - INFO - Processing Simple-MACD_01_standard.set
+2025-04-25 02:00:48,539 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,539 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-MACD_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,540 - INFO - Processing Simple-Volume-EA_01_standard.set
+2025-04-25 02:00:48,540 - INFO - Processing Simple-Volume-EA_01_standard.set
+2025-04-25 02:00:48,541 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-Volume-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,541 - INFO - Processing SimplePivot_01_standard.set
+2025-04-25 02:00:48,542 - INFO - Processing SimplePivot_01_standard.set
+2025-04-25 02:00:48,542 - WARNING - Error processing group role_risk: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,542 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SimplePivot_01_standard.set: dictionary update sequence element #0 has length 8; 2 is required
+2025-04-25 02:00:48,543 - INFO - Processing Simplest-Hedging-EA-ever_01_standard.set
+2025-04-25 02:00:48,544 - INFO - Processing Simplest-Hedging-EA-ever_01_standard.set
+2025-04-25 02:00:48,545 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simplest-Hedging-EA-ever_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,545 - INFO - Processing Six-Soldiers-EA-Grid_01_standard.set
+2025-04-25 02:00:48,546 - INFO - Processing Six-Soldiers-EA-Grid_01_standard.set
+2025-04-25 02:00:48,546 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers-EA-Grid_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,547 - INFO - Processing Six-Soldiers-EA_01_standard.set
+2025-04-25 02:00:48,547 - INFO - Processing Six-Soldiers-EA_01_standard.set
+2025-04-25 02:00:48,548 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,548 - INFO - Processing Six-Soldiers_01_standard.set
+2025-04-25 02:00:48,549 - INFO - Processing Six-Soldiers_01_standard.set
+2025-04-25 02:00:48,549 - WARNING - Error processing group role_system: 'list' object has no attribute 'items'
+2025-04-25 02:00:48,550 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers_01_standard.set: dictionary update sequence element #0 has length 20; 2 is required
+2025-04-25 02:00:48,550 - INFO - Processing Small-Inside-Bar-Strategy_01_standard.set
+2025-04-25 02:00:48,551 - INFO - Processing Small-Inside-Bar-Strategy_01_standard.set
+2025-04-25 02:00:48,552 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Small-Inside-Bar-Strategy_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,552 - INFO - Processing Smart-Machine-20EA_01_standard.set
+2025-04-25 02:00:48,553 - INFO - Processing Smart-Machine-20EA_01_standard.set
+2025-04-25 02:00:48,554 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Smart-Machine-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,554 - INFO - Processing Smoothing-Average_01_standard.set
+2025-04-25 02:00:48,555 - INFO - Processing Smoothing-Average_01_standard.set
+2025-04-25 02:00:48,555 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Smoothing-Average_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,556 - INFO - Processing Spasm_01_standard.set
+2025-04-25 02:00:48,556 - INFO - Processing Spasm_01_standard.set
+2025-04-25 02:00:48,557 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Spasm_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,558 - INFO - Processing Sprd-mt5-20EA_01_standard.set
+2025-04-25 02:00:48,559 - INFO - Processing Sprd-mt5-20EA_01_standard.set
+2025-04-25 02:00:48,559 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sprd-mt5-20EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,560 - INFO - Processing ssb5-123_01_standard.set
+2025-04-25 02:00:48,560 - INFO - Processing ssb5-123_01_standard.set
+2025-04-25 02:00:48,561 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ssb5-123_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,561 - INFO - Processing Starter_01_standard.set
+2025-04-25 02:00:48,562 - INFO - Processing Starter_01_standard.set
+2025-04-25 02:00:48,562 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Starter_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,563 - INFO - Processing Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set
+2025-04-25 02:00:48,563 - INFO - Processing Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set
+2025-04-25 02:00:48,564 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,565 - INFO - Processing Stoch-EA-1192_01_standard.set
+2025-04-25 02:00:48,565 - INFO - Processing Stoch-EA-1192_01_standard.set
+2025-04-25 02:00:48,566 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stoch-EA-1192_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,567 - INFO - Processing Stochastic-20Alert_01_standard.set
+2025-04-25 02:00:48,567 - INFO - Processing Stochastic-20Alert_01_standard.set
+2025-04-25 02:00:48,568 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stochastic-20Alert_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,568 - INFO - Processing Stochastic-K-Divergence.lua_01_standard.set
+2025-04-25 02:00:48,569 - INFO - Processing Stochastic-K-Divergence.lua_01_standard.set
+2025-04-25 02:00:48,569 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stochastic-K-Divergence.lua_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,570 - INFO - Processing stochastic-three-periods_01_standard.set
+2025-04-25 02:00:48,570 - INFO - Processing stochastic-three-periods_01_standard.set
+2025-04-25 02:00:48,571 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\stochastic-three-periods_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,572 - INFO - Processing StochasticDiffSign-EA_01_standard.set
+2025-04-25 02:00:48,573 - INFO - Processing StochasticDiffSign-EA_01_standard.set
+2025-04-25 02:00:48,574 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochasticDiffSign-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,574 - INFO - Processing stochasticdiffsign_01_standard.set
+2025-04-25 02:00:48,575 - INFO - Processing stochasticdiffsign_01_standard.set
+2025-04-25 02:00:48,575 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\stochasticdiffsign_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,576 - INFO - Processing StochMA-EA_01_standard.set
+2025-04-25 02:00:48,576 - INFO - Processing StochMA-EA_01_standard.set
+2025-04-25 02:00:48,577 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochMA-EA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,577 - INFO - Processing StochMA_01_standard.set
+2025-04-25 02:00:48,578 - INFO - Processing StochMA_01_standard.set
+2025-04-25 02:00:48,579 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochMA_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,580 - INFO - Processing Stoch_01_standard.set
+2025-04-25 02:00:48,580 - INFO - Processing Stoch_01_standard.set
+2025-04-25 02:00:48,581 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stoch_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,581 - INFO - Processing Stop-Loss-Take-Profit_01_standard.set
+2025-04-25 02:00:48,582 - INFO - Processing Stop-Loss-Take-Profit_01_standard.set
+2025-04-25 02:00:48,582 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stop-Loss-Take-Profit_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,583 - INFO - Processing StraddleqTrail_01_standard.set
+2025-04-25 02:00:48,583 - INFO - Processing StraddleqTrail_01_standard.set
+2025-04-25 02:00:48,584 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StraddleqTrail_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,584 - INFO - Processing Surefirething_01_standard.set
+2025-04-25 02:00:48,585 - INFO - Processing Surefirething_01_standard.set
+2025-04-25 02:00:48,586 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Surefirething_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,586 - INFO - Processing TDSGlobal_01_standard.set
+2025-04-25 02:00:48,587 - INFO - Processing TDSGlobal_01_standard.set
+2025-04-25 02:00:48,587 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TDSGlobal_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,588 - INFO - Processing The-MasterMind-2_01_standard.set
+2025-04-25 02:00:48,588 - INFO - Processing The-MasterMind-2_01_standard.set
+2025-04-25 02:00:48,589 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind-2_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,589 - INFO - Processing The-MasterMind_01_standard.set
+2025-04-25 02:00:48,590 - INFO - Processing The-MasterMind_01_standard.set
+2025-04-25 02:00:48,590 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind_01_standard.set: type object 'ParameterRole' has no attribute 'POSITIONING'
+2025-04-25 02:00:48,591 - INFO - 
+Processing Summary:
+2025-04-25 02:00:48,591 - INFO - Total files: 424
+2025-04-25 02:00:48,592 - INFO - Successfully processed: 0
+2025-04-25 02:00:48,592 - INFO - Failed: 424
+2025-04-25 02:00:48,593 - INFO - Skipped: 0

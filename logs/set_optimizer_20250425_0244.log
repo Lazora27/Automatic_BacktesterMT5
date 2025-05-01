@@ -1,0 +1,964 @@
+2025-04-25 02:44:00,318 - INFO - Processing 10-pips-EURUSD_01_standard.set
+2025-04-25 02:44:00,323 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\10-pips-EURUSD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,324 - INFO - Processing 10-pips_01_standard.set
+2025-04-25 02:44:00,326 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\10-pips_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,338 - INFO - Processing 1H-EUR-USD_01_standard.set
+2025-04-25 02:44:00,341 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\1H-EUR-USD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,342 - INFO - Processing 20011201-GBPUSD-M1_01_standard.set
+2025-04-25 02:44:00,345 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\20011201-GBPUSD-M1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,346 - INFO - Processing 21hour_01_standard.set
+2025-04-25 02:44:00,350 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\21hour_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,350 - INFO - Processing 2HR-HL_01_standard.set
+2025-04-25 02:44:00,355 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2HR-HL_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,356 - INFO - Processing 2MA-4Level_01_standard.set
+2025-04-25 02:44:00,359 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2MA-4Level_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,360 - INFO - Processing 2MA-Bunny-Cross_01_standard.set
+2025-04-25 02:44:00,363 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\2MA-Bunny-Cross_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,363 - INFO - Processing 3-bars-high-low-indicator_01_standard.set
+2025-04-25 02:44:00,366 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3-bars-high-low-indicator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,367 - INFO - Processing 35-Pip-Scalper_01_standard.set
+2025-04-25 02:44:00,371 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\35-Pip-Scalper_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,372 - INFO - Processing 3BarsHighLowEA_01_standard.set
+2025-04-25 02:44:00,377 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3BarsHighLowEA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,378 - INFO - Processing 3sma_01_standard.set
+2025-04-25 02:44:00,382 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\3sma_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,383 - INFO - Processing 500_01_standard.set
+2025-04-25 02:44:00,386 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\500_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,387 - INFO - Processing 55-MA_01_standard.set
+2025-04-25 02:44:00,391 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\55-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,392 - INFO - Processing Above-Below-MA_01_standard.set
+2025-04-25 02:44:00,394 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Above-Below-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,395 - INFO - Processing Absorption_01_standard.set
+2025-04-25 02:44:00,398 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Absorption_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,398 - INFO - Processing ADX-MACD-Deev_01_standard.set
+2025-04-25 02:44:00,401 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-MACD-Deev_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,402 - INFO - Processing ADX-MA_01_standard.set
+2025-04-25 02:44:00,404 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,405 - INFO - Processing ADX-System_01_standard.set
+2025-04-25 02:44:00,408 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ADX-System_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,409 - INFO - Processing AIS1_01_standard.set
+2025-04-25 02:44:00,411 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AIS1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,412 - INFO - Processing AK-47-Scalper-EA-MT5_01_standard.set
+2025-04-25 02:44:00,415 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AK-47-Scalper-EA-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,416 - INFO - Processing AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set
+2025-04-25 02:44:00,418 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AK-47-Scalper-EA-yoforexPremium-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,420 - INFO - Processing Alexav-D1-Profit-GBPUSD_01_standard.set
+2025-04-25 02:44:00,423 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alexav-D1-Profit-GBPUSD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,424 - INFO - Processing All-Average-Ea_01_standard.set
+2025-04-25 02:44:00,427 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\All-Average-Ea_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,428 - INFO - Processing Alligator-Simple_01_standard.set
+2025-04-25 02:44:00,432 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alligator-Simple_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,433 - INFO - Processing Alligator_01_standard.set
+2025-04-25 02:44:00,435 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Alligator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,436 - INFO - Processing Altarius-RSI-Stohastic_01_standard.set
+2025-04-25 02:44:00,439 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Altarius-RSI-Stohastic_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,440 - INFO - Processing AMA-Trader-2_01_standard.set
+2025-04-25 02:44:00,443 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AMA-Trader-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,444 - INFO - Processing AMA-Trader_01_standard.set
+2025-04-25 02:44:00,447 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AMA-Trader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,448 - INFO - Processing AO-Lightning_01_standard.set
+2025-04-25 02:44:00,450 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AO-Lightning_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,451 - INFO - Processing AOCCI_01_standard.set
+2025-04-25 02:44:00,454 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AOCCI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,455 - INFO - Processing Arbitrage_01_standard.set
+2025-04-25 02:44:00,457 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Arbitrage_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,458 - INFO - Processing ArbSint_01_standard.set
+2025-04-25 02:44:00,460 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ArbSint_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,461 - INFO - Processing Area-MACD_01_standard.set
+2025-04-25 02:44:00,464 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Area-MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,465 - INFO - Processing Artificial-Intelligence_01_standard.set
+2025-04-25 02:44:00,468 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Artificial-Intelligence_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,470 - INFO - Processing At-random-Full_01_standard.set
+2025-04-25 02:44:00,474 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\At-random-Full_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,475 - INFO - Processing At-random_01_standard.set
+2025-04-25 02:44:00,477 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\At-random_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,478 - INFO - Processing Auto-ADX_01_standard.set
+2025-04-25 02:44:00,483 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Auto-ADX_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,484 - INFO - Processing Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set
+2025-04-25 02:44:00,486 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Auto-Pivot-Plotter-28Mid-Levels-29-41_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,487 - INFO - Processing AutoLock-EA_01_standard.set
+2025-04-25 02:44:00,492 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\AutoLock-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,493 - INFO - Processing Autotrader-Momentum_01_standard.set
+2025-04-25 02:44:00,495 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Autotrader-Momentum_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,496 - INFO - Processing Avalanche-AV_01_standard.set
+2025-04-25 02:44:00,498 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Avalanche-AV_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,499 - INFO - Processing Backbone_01_standard.set
+2025-04-25 02:44:00,503 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Backbone_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,504 - INFO - Processing BADX_01_standard.set
+2025-04-25 02:44:00,507 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BADX_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,508 - INFO - Processing Bago-EA_01_standard.set
+2025-04-25 02:44:00,511 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bago-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,511 - INFO - Processing BalancedScalper-20EA_01_standard.set
+2025-04-25 02:44:00,517 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BalancedScalper-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,518 - INFO - Processing Bands-2_01_standard.set
+2025-04-25 02:44:00,522 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bands-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,523 - INFO - Processing BARS-Alligator_01_standard.set
+2025-04-25 02:44:00,526 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BARS-Alligator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,527 - INFO - Processing Basic-CCI-RSI_01_standard.set
+2025-04-25 02:44:00,532 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Basic-CCI-RSI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,533 - INFO - Processing Basic-Martingale-EA-3_01_standard.set
+2025-04-25 02:44:00,537 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Basic-Martingale-EA-3_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,539 - INFO - Processing BB-stops-MT5_01_standard.set
+2025-04-25 02:44:00,544 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BB-stops-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,545 - INFO - Processing BBPercentile-EA_01_standard.set
+2025-04-25 02:44:00,553 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BBPercentile-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,554 - INFO - Processing BBPercentile_01_standard.set
+2025-04-25 02:44:00,558 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BBPercentile_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,560 - INFO - Processing BDCrossOver-20EA_01_standard.set
+2025-04-25 02:44:00,566 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BDCrossOver-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,567 - INFO - Processing BIG-DOG_01_standard.set
+2025-04-25 02:44:00,572 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BIG-DOG_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,573 - INFO - Processing Bill-Williams_01_standard.set
+2025-04-25 02:44:00,576 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bill-Williams_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,578 - INFO - Processing Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set
+2025-04-25 02:44:00,584 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Band-Two-MA-and-Zig-Zag_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,586 - INFO - Processing Bollinger-Bands-N-positions_01_standard.set
+2025-04-25 02:44:00,588 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Bands-N-positions_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,590 - INFO - Processing Bollinger-Bands-RSI_01_standard.set
+2025-04-25 02:44:00,596 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bollinger-Bands-RSI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,598 - INFO - Processing bollinger_01_standard.set
+2025-04-25 02:44:00,601 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\bollinger_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,602 - INFO - Processing Brakeout-Trader_01_standard.set
+2025-04-25 02:44:00,617 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Brakeout-Trader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,620 - INFO - Processing Brandy_01_standard.set
+2025-04-25 02:44:00,627 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Brandy_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,628 - INFO - Processing Breadandbutter2_01_standard.set
+2025-04-25 02:44:00,634 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breadandbutter2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,635 - INFO - Processing Breakdown-catcher_01_standard.set
+2025-04-25 02:44:00,641 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breakdown-catcher_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,642 - INFO - Processing breakdown_01_standard.set
+2025-04-25 02:44:00,645 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\breakdown_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,647 - INFO - Processing Breakout-Str_01_standard.set
+2025-04-25 02:44:00,655 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Breakout-Str_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,657 - INFO - Processing Bronze-Warrioir_01_standard.set
+2025-04-25 02:44:00,660 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bronze-Warrioir_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,661 - INFO - Processing Bruno_01_standard.set
+2025-04-25 02:44:00,664 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bruno_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,665 - INFO - Processing BSS-1-0_01_standard.set
+2025-04-25 02:44:00,669 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BSS-1-0_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,670 - INFO - Processing Bullish-and-Bearish-Engulfing_01_standard.set
+2025-04-25 02:44:00,672 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Bullish-and-Bearish-Engulfing_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,674 - INFO - Processing Burg-Extrapolator_01_standard.set
+2025-04-25 02:44:00,677 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Burg-Extrapolator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,678 - INFO - Processing BykovTrend-EA_01_standard.set
+2025-04-25 02:44:00,683 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BykovTrend-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,684 - INFO - Processing BykovTrend_EA_v3_01_standard.set
+2025-04-25 02:44:00,692 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\BykovTrend_EA_v3_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,692 - INFO - Processing Calculate-lotsize-and-Trailling-stop_01_standard.set
+2025-04-25 02:44:00,696 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Calculate-lotsize-and-Trailling-stop_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,697 - INFO - Processing candlepatternsexample_01_standard.set
+2025-04-25 02:44:00,704 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\candlepatternsexample_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,705 - INFO - Processing Candle_01_standard.set
+2025-04-25 02:44:00,708 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Candle_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,709 - INFO - Processing Carbophos_01_standard.set
+2025-04-25 02:44:00,711 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Carbophos_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,712 - INFO - Processing CashMachine-5min_01_standard.set
+2025-04-25 02:44:00,714 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CashMachine-5min_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,716 - INFO - Processing CCI-MACD-Scalper_01_standard.set
+2025-04-25 02:44:00,718 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CCI-MACD-Scalper_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,719 - INFO - Processing Cidomo_01_standard.set
+2025-04-25 02:44:00,724 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Cidomo_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,725 - INFO - Processing CloseAgent_01_standard.set
+2025-04-25 02:44:00,728 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CloseAgent_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,728 - INFO - Processing CloseProfit_01_standard.set
+2025-04-25 02:44:00,732 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CloseProfit_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,733 - INFO - Processing cloud's-trade-2_01_standard.set
+2025-04-25 02:44:00,737 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\cloud's-trade-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,738 - INFO - Processing CLOUD_01_standard.set
+2025-04-25 02:44:00,741 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CLOUD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,741 - INFO - Processing Constituents-EA_01_standard.set
+2025-04-25 02:44:00,744 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Constituents-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,746 - INFO - Processing Contrarian-trade-MA_01_standard.set
+2025-04-25 02:44:00,749 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Contrarian-trade-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,750 - INFO - Processing Crossing-Moving-Average_01_standard.set
+2025-04-25 02:44:00,753 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Crossing-Moving-Average_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,754 - INFO - Processing CrossMA_01_standard.set
+2025-04-25 02:44:00,756 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\CrossMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,757 - INFO - Processing Currencyprofits-01.1_01_standard.set
+2025-04-25 02:44:00,760 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Currencyprofits-01.1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,762 - INFO - Processing Daily-20reversal-20-20EA_01_standard.set
+2025-04-25 02:44:00,765 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-20reversal-20-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,766 - INFO - Processing Daily-BreakPoint_01_standard.set
+2025-04-25 02:44:00,769 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-BreakPoint_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,770 - INFO - Processing Daily-Open-EA_01_standard.set
+2025-04-25 02:44:00,775 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-Open-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,777 - INFO - Processing Daily-range_01_standard.set
+2025-04-25 02:44:00,781 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daily-range_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,782 - INFO - Processing Day-Trading-PAMXA_01_standard.set
+2025-04-25 02:44:00,786 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Day-Trading-PAMXA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,787 - INFO - Processing Daydream_01_standard.set
+2025-04-25 02:44:00,790 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Daydream_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,792 - INFO - Processing DayTrading_01_standard.set
+2025-04-25 02:44:00,795 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DayTrading_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,796 - INFO - Processing Dealers-Trade-v-7.74-MACD_01_standard.set
+2025-04-25 02:44:00,798 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dealers-Trade-v-7.74-MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,801 - INFO - Processing Deep-Drawdown-MA_01_standard.set
+2025-04-25 02:44:00,804 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Deep-Drawdown-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,806 - INFO - Processing DeMarker-gaining-position-volume-2_01_standard.set
+2025-04-25 02:44:00,811 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-gaining-position-volume-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,815 - INFO - Processing DeMarker-gaining-position-volume_01_standard.set
+2025-04-25 02:44:00,820 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-gaining-position-volume_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,822 - INFO - Processing DeMarker-Pending-2-5_01_standard.set
+2025-04-25 02:44:00,828 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending-2-5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,830 - INFO - Processing DeMarker-Pending-2_01_standard.set
+2025-04-25 02:44:00,836 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,837 - INFO - Processing DeMarker-Pending_01_standard.set
+2025-04-25 02:44:00,843 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DeMarker-Pending_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,844 - INFO - Processing Dematus_01_standard.set
+2025-04-25 02:44:00,849 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dematus_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,850 - INFO - Processing Divergence-20for-20many-20indicator_01_standard.set
+2025-04-25 02:44:00,854 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Divergence-20for-20many-20indicator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,856 - INFO - Processing Divergence-EA_01_standard.set
+2025-04-25 02:44:00,863 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Divergence-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,864 - INFO - Processing Doji-Arrows_01_standard.set
+2025-04-25 02:44:00,867 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Doji-Arrows_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,871 - INFO - Processing DojiTrader_01_standard.set
+2025-04-25 02:44:00,876 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DojiTrader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,877 - INFO - Processing Donchian-Chanel-EA_01_standard.set
+2025-04-25 02:44:00,883 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Donchian-Chanel-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,884 - INFO - Processing DoubleHullMA-EA_01_standard.set
+2025-04-25 02:44:00,889 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleHullMA-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,891 - INFO - Processing DoubleHullMA_01_standard.set
+2025-04-25 02:44:00,894 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleHullMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,896 - INFO - Processing DoubleMA-Crossover-EA_01_standard.set
+2025-04-25 02:44:00,900 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\DoubleMA-Crossover-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,901 - INFO - Processing Doubler_01_standard.set
+2025-04-25 02:44:00,914 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Doubler_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,915 - INFO - Processing Driver-EA-MT5_01_standard.set
+2025-04-25 02:44:00,923 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Driver-EA-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,924 - INFO - Processing dummy_01_standard.set
+2025-04-25 02:44:00,927 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\dummy_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,928 - INFO - Processing Dynamic-averaging_01_standard.set
+2025-04-25 02:44:00,931 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Dynamic-averaging_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,933 - INFO - Processing e-Breakeven_01_standard.set
+2025-04-25 02:44:00,936 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Breakeven_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,937 - INFO - Processing E-Friday_01_standard.set
+2025-04-25 02:44:00,940 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\E-Friday_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,941 - INFO - Processing E-Skoch-Open_01_standard.set
+2025-04-25 02:44:00,943 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\E-Skoch-Open_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,944 - INFO - Processing e-Skoch-pending-orders_01_standard.set
+2025-04-25 02:44:00,948 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Skoch-pending-orders_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,949 - INFO - Processing e-Smart-Trailing_01_standard.set
+2025-04-25 02:44:00,952 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-Smart-Trailing_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,953 - INFO - Processing e-TurboFx_01_standard.set
+2025-04-25 02:44:00,955 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\e-TurboFx_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,956 - INFO - Processing EA-Close_01_standard.set
+2025-04-25 02:44:00,960 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-Close_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,961 - INFO - Processing EA-MA-Stoch-RSI_01_standard.set
+2025-04-25 02:44:00,967 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-MA-Stoch-RSI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,968 - INFO - Processing EA-Moving-Average_01_standard.set
+2025-04-25 02:44:00,972 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EA-Moving-Average_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,973 - INFO - Processing Elite-eFibo-Trader_01_standard.set
+2025-04-25 02:44:00,976 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Elite-eFibo-Trader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,977 - INFO - Processing EMA-6.12_01_standard.set
+2025-04-25 02:44:00,981 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-6.12_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,982 - INFO - Processing EMA-CROSS_01_standard.set
+2025-04-25 02:44:00,984 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-CROSS_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,985 - INFO - Processing EMA-LWMA-RSI_01_standard.set
+2025-04-25 02:44:00,988 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-LWMA-RSI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,989 - INFO - Processing EMA-RSI-EA_01_standard.set
+2025-04-25 02:44:00,993 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-RSI-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,994 - INFO - Processing EMA-WMA_01_standard.set
+2025-04-25 02:44:00,997 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA-WMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:00,997 - INFO - Processing EMA_01_standard.set
+2025-04-25 02:44:01,001 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,002 - INFO - Processing EMA_WMA v2_01_standard.set
+2025-04-25 02:44:01,004 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EMA_WMA v2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,005 - INFO - Processing Eugene_01_standard.set
+2025-04-25 02:44:01,009 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Eugene_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,010 - INFO - Processing eur-usd-m5_01_standard.set
+2025-04-25 02:44:01,013 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\eur-usd-m5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,015 - INFO - Processing EURUSD-breakout_01_standard.set
+2025-04-25 02:44:01,028 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\EURUSD-breakout_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,046 - INFO - Processing Executer-AC_01_standard.set
+2025-04-25 02:44:01,054 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executer-AC_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,061 - INFO - Processing Executor-AO_01_standard.set
+2025-04-25 02:44:01,081 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executor-AO_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,085 - INFO - Processing Executor-Candles_01_standard.set
+2025-04-25 02:44:01,102 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Executor-Candles_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,107 - INFO - Processing exp-Amstell_01_standard.set
+2025-04-25 02:44:01,116 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\exp-Amstell_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,129 - INFO - Processing Expert-NEWS_01_standard.set
+2025-04-25 02:44:01,137 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Expert-NEWS_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,144 - INFO - Processing Expert-RSI-Stochastic-MA_01_standard.set
+2025-04-25 02:44:01,163 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Expert-RSI-Stochastic-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,165 - INFO - Processing ExtremePrice-EA_01_standard.set
+2025-04-25 02:44:01,173 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ExtremePrice-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,175 - INFO - Processing FiboRetracement-20EA_01_standard.set
+2025-04-25 02:44:01,181 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\FiboRetracement-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,183 - INFO - Processing Firebird_01_standard.set
+2025-04-25 02:44:01,186 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firebird_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,187 - INFO - Processing Firestorm-EA_01_standard.set
+2025-04-25 02:44:01,198 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firestorm-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,208 - INFO - Processing Firestorm-indicator_01_standard.set
+2025-04-25 02:44:01,218 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Firestorm-indicator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,220 - INFO - Processing Fluctuate_01_standard.set
+2025-04-25 02:44:01,225 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fluctuate_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,227 - INFO - Processing Forex-Fraus-M1_01_standard.set
+2025-04-25 02:44:01,231 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Forex-Fraus-M1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,231 - INFO - Processing Forex-Profit_01_standard.set
+2025-04-25 02:44:01,234 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Forex-Profit_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,235 - INFO - Processing Fractals-minimum-distance_01_standard.set
+2025-04-25 02:44:01,238 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fractals-minimum-distance_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,240 - INFO - Processing Fraktrak-xonax_01_standard.set
+2025-04-25 02:44:01,244 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fraktrak-xonax_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,245 - INFO - Processing Frank-Ud_01_standard.set
+2025-04-25 02:44:01,248 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Frank-Ud_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,249 - INFO - Processing fratal-mt5-EA_01_standard.set
+2025-04-25 02:44:01,253 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\fratal-mt5-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,253 - INFO - Processing FT-CCI_01_standard.set
+2025-04-25 02:44:01,258 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\FT-CCI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,260 - INFO - Processing Fuzzy-logic_01_standard.set
+2025-04-25 02:44:01,263 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Fuzzy-logic_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,264 - INFO - Processing GalacticExplosion_01_standard.set
+2025-04-25 02:44:01,267 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GalacticExplosion_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,268 - INFO - Processing Gandalf-PRO_01_standard.set
+2025-04-25 02:44:01,272 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gandalf-PRO_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,273 - INFO - Processing Gap-DM_01_standard.set
+2025-04-25 02:44:01,277 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gap-DM_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,278 - INFO - Processing GAP-EA_01_standard.set
+2025-04-25 02:44:01,282 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GAP-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,283 - INFO - Processing Gaps_01_standard.set
+2025-04-25 02:44:01,286 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gaps_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,287 - INFO - Processing GBP9AM_01_standard.set
+2025-04-25 02:44:01,291 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GBP9AM_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,292 - INFO - Processing GbpChf_01_standard.set
+2025-04-25 02:44:01,294 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GbpChf_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,295 - INFO - Processing Gold-Dust_01_standard.set
+2025-04-25 02:44:01,298 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Gold-Dust_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,299 - INFO - Processing GO_01_standard.set
+2025-04-25 02:44:01,301 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GO_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,303 - INFO - Processing GreenTrade_01_standard.set
+2025-04-25 02:44:01,307 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GreenTrade_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,307 - INFO - Processing Grid-Martingale_01_standard.set
+2025-04-25 02:44:01,311 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Grid-Martingale_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,312 - INFO - Processing GridEA_01_standard.set
+2025-04-25 02:44:01,317 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\GridEA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,318 - INFO - Processing Grid_01_standard.set
+2025-04-25 02:44:01,322 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Grid_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,322 - INFO - Processing HarVesteR_01_standard.set
+2025-04-25 02:44:01,325 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HarVesteR_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,326 - INFO - Processing HedgeEA_01_standard.set
+2025-04-25 02:44:01,329 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HedgeEA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,330 - INFO - Processing hedger_01_standard.set
+2025-04-25 02:44:01,333 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\hedger_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,334 - INFO - Processing Hedging-EA_01_standard.set
+2025-04-25 02:44:01,340 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Hedging-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,342 - INFO - Processing Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set
+2025-04-25 02:44:01,351 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heiken-Ashi-Smoothed-EA-with-MA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,353 - INFO - Processing Heiken-Ashi-Smoothed-EA_01_standard.set
+2025-04-25 02:44:01,360 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heiken-Ashi-Smoothed-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,361 - INFO - Processing heiken-ashi-smoothedLine_01_standard.set
+2025-04-25 02:44:01,364 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\heiken-ashi-smoothedLine_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,366 - INFO - Processing heiken-ashi-smoothed_01_standard.set
+2025-04-25 02:44:01,370 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\heiken-ashi-smoothed_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,371 - INFO - Processing HeikenAshi-Lines-EA_01_standard.set
+2025-04-25 02:44:01,376 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HeikenAshi-Lines-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,377 - INFO - Processing HeikenAshi-Lines_01_standard.set
+2025-04-25 02:44:01,380 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HeikenAshi-Lines_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,381 - INFO - Processing Heinken-Ashi-Color-Candles_01_standard.set
+2025-04-25 02:44:01,385 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Heinken-Ashi-Color-Candles_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,386 - INFO - Processing HelloSmart_01_standard.set
+2025-04-25 02:44:01,389 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\HelloSmart_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,392 - INFO - Processing High-Low-EA_01_standard.set
+2025-04-25 02:44:01,399 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\High-Low-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,401 - INFO - Processing High-Low-Indicator_01_standard.set
+2025-04-25 02:44:01,404 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\High-Low-Indicator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,405 - INFO - Processing Hoop-master-2_01_standard.set
+2025-04-25 02:44:01,408 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Hoop-master-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,409 - INFO - Processing iCCI-iMA_01_standard.set
+2025-04-25 02:44:01,412 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iCCI-iMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,413 - INFO - Processing ICH-With-Alert-Derekers-EA_01_standard.set
+2025-04-25 02:44:01,418 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ICH-With-Alert-Derekers-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,419 - INFO - Processing ICH-With-Alert-Derekers_01_standard.set
+2025-04-25 02:44:01,424 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ICH-With-Alert-Derekers_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,425 - INFO - Processing ichimok2005_01_standard.set
+2025-04-25 02:44:01,428 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ichimok2005_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,429 - INFO - Processing Ichimoku-20Kijun-20Alert_01_standard.set
+2025-04-25 02:44:01,433 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-20Kijun-20Alert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,434 - INFO - Processing Ichimoku-20Tenkan-20Alert_01_standard.set
+2025-04-25 02:44:01,440 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-20Tenkan-20Alert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,441 - INFO - Processing Ichimoku-Dashboard-MT5_01_standard.set
+2025-04-25 02:44:01,446 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Dashboard-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,447 - INFO - Processing Ichimoku-Scanner-MT5_01_standard.set
+2025-04-25 02:44:01,451 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Scanner-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,452 - INFO - Processing Ichimoku-Scanner_01_standard.set
+2025-04-25 02:44:01,455 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Scanner_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,457 - INFO - Processing Ichimoku-Signals-and-Alert_01_standard.set
+2025-04-25 02:44:01,461 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku-Signals-and-Alert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,462 - INFO - Processing IchimokuMTF-EA_01_standard.set
+2025-04-25 02:44:01,467 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\IchimokuMTF-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,468 - INFO - Processing Ichimoku_01_standard.set
+2025-04-25 02:44:01,472 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ichimoku_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,474 - INFO - Processing Ilan-iMA_01_standard.set
+2025-04-25 02:44:01,477 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ilan-iMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,478 - INFO - Processing Ilan1.4_01_standard.set
+2025-04-25 02:44:01,482 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ilan1.4_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,483 - INFO - Processing iMA-iStdDev_01_standard.set
+2025-04-25 02:44:01,487 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iMA-iStdDev_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,488 - INFO - Processing Indices-Tester_01_standard.set
+2025-04-25 02:44:01,502 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Indices-Tester_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,503 - INFO - Processing Inka-20Edho-20EA_01_standard.set
+2025-04-25 02:44:01,509 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Inka-20Edho-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,510 - INFO - Processing Intersection-2-iMA_01_standard.set
+2025-04-25 02:44:01,513 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Intersection-2-iMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,513 - INFO - Processing IStochastic-Trading_01_standard.set
+2025-04-25 02:44:01,517 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\IStochastic-Trading_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,518 - INFO - Processing Ivan_01_standard.set
+2025-04-25 02:44:01,521 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ivan_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,522 - INFO - Processing iVIDyA-Simple_01_standard.set
+2025-04-25 02:44:01,525 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\iVIDyA-Simple_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,526 - INFO - Processing Jackpot-Strategy-EA_01_standard.set
+2025-04-25 02:44:01,533 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Jackpot-Strategy-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,534 - INFO - Processing JackPot-Strategy-Elite_01_standard.set
+2025-04-25 02:44:01,538 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JackPot-Strategy-Elite_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,540 - INFO - Processing JK-BullP-AutoTrader_01_standard.set
+2025-04-25 02:44:01,545 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JK-BullP-AutoTrader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,546 - INFO - Processing JS-Chaos_01_standard.set
+2025-04-25 02:44:01,550 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-Chaos_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,551 - INFO - Processing JS-MA-Day_01_standard.set
+2025-04-25 02:44:01,555 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-MA-Day_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,557 - INFO - Processing JS-MA-SAR-Trades_01_standard.set
+2025-04-25 02:44:01,561 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\JS-MA-SAR-Trades_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,562 - INFO - Processing KA-Gold-Bot_01_standard.set
+2025-04-25 02:44:01,566 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KA-Gold-Bot_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,567 - INFO - Processing Kue-Electric-EA_01_standard.set
+2025-04-25 02:44:01,574 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Kue-Electric-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,575 - INFO - Processing KueFx-20Arrows_01_standard.set
+2025-04-25 02:44:01,578 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-20Arrows_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,579 - INFO - Processing KueFx-20Baseline_01_standard.set
+2025-04-25 02:44:01,581 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-20Baseline_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,582 - INFO - Processing KueFx-Arrows-20EA_01_standard.set
+2025-04-25 02:44:01,592 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,593 - INFO - Processing KueFx-Arrows-EA_01_standard.set
+2025-04-25 02:44:01,597 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,599 - INFO - Processing KueFx-Arrows_01_standard.set
+2025-04-25 02:44:01,603 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Arrows_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,604 - INFO - Processing KueFx-Baseline-EA_01_standard.set
+2025-04-25 02:44:01,609 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Baseline-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,610 - INFO - Processing KueFx-Baseline_01_standard.set
+2025-04-25 02:44:01,614 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Baseline_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,615 - INFO - Processing KueFx-Clean-2025-EA_01_standard.set
+2025-04-25 02:44:01,624 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Clean-2025-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,626 - INFO - Processing KueFx-Extreme-EA_01_standard.set
+2025-04-25 02:44:01,635 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Extreme-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,636 - INFO - Processing KueFx-Harare-EA_01_standard.set
+2025-04-25 02:44:01,644 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Harare-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,645 - INFO - Processing KueFX-Money-Management_01_standard.set
+2025-04-25 02:44:01,654 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFX-Money-Management_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,655 - INFO - Processing KueFx-Motor-EA_01_standard.set
+2025-04-25 02:44:01,664 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Motor-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,665 - INFO - Processing KueFx-Motor_01_standard.set
+2025-04-25 02:44:01,669 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Motor_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,670 - INFO - Processing KueFx-Trend_01_standard.set
+2025-04-25 02:44:01,678 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx-Trend_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,679 - INFO - Processing KueFxTrend-20EA_01_standard.set
+2025-04-25 02:44:01,688 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFxTrend-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,689 - INFO - Processing KueFxTrend-EA_01_standard.set
+2025-04-25 02:44:01,696 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFxTrend-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,697 - INFO - Processing KueFx_Arrows_EA_v1.10_01_standard.set
+2025-04-25 02:44:01,703 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx_Arrows_EA_v1.10_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,704 - INFO - Processing KueFx_Baseline_EA_v1.10_01_standard.set
+2025-04-25 02:44:01,709 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\KueFx_Baseline_EA_v1.10_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,711 - INFO - Processing LarryConnersRSI2_01_standard.set
+2025-04-25 02:44:01,714 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LarryConnersRSI2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,716 - INFO - Processing Last-ZZ50_01_standard.set
+2025-04-25 02:44:01,718 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Last-ZZ50_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,719 - INFO - Processing Lavika100_01_standard.set
+2025-04-25 02:44:01,723 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lavika100_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,724 - INFO - Processing LazyBot-MT5_01_standard.set
+2025-04-25 02:44:01,727 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LazyBot-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,728 - INFO - Processing LBS_01_standard.set
+2025-04-25 02:44:01,731 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\LBS_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,732 - INFO - Processing Lego-EA_01_standard.set
+2025-04-25 02:44:01,736 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lego-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,738 - INFO - Processing Lesson-3-Price-Action_01_standard.set
+2025-04-25 02:44:01,741 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-3-Price-Action_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,742 - INFO - Processing Lesson-4-Price-Action-MA-Filter_01_standard.set
+2025-04-25 02:44:01,746 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-4-Price-Action-MA-Filter_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,746 - INFO - Processing Lesson-6-Trailling-ATR_01_standard.set
+2025-04-25 02:44:01,749 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-6-Trailling-ATR_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,750 - INFO - Processing Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set
+2025-04-25 02:44:01,753 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lesson-7-Price-action-Ket-hop-Volume-VSA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,755 - INFO - Processing Little-EA_01_standard.set
+2025-04-25 02:44:01,759 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Little-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,760 - INFO - Processing Locker_01_standard.set
+2025-04-25 02:44:01,762 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Locker_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,763 - INFO - Processing Lock_01_standard.set
+2025-04-25 02:44:01,766 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lock_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,766 - INFO - Processing Lucky_01_standard.set
+2025-04-25 02:44:01,770 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Lucky_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,771 - INFO - Processing MA MACD Position averaging v2_01_standard.set
+2025-04-25 02:44:01,775 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA MACD Position averaging v2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,776 - INFO - Processing MA-20Alert_01_standard.set
+2025-04-25 02:44:01,778 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-20Alert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,779 - INFO - Processing MA-20AO-20Arrow_01_standard.set
+2025-04-25 02:44:01,782 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-20AO-20Arrow_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,783 - INFO - Processing MA-AO-EA_01_standard.set
+2025-04-25 02:44:01,788 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-AO-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,788 - INFO - Processing ma-channels_01_standard.set
+2025-04-25 02:44:01,791 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ma-channels_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,792 - INFO - Processing Ma-Crosses-MT5_01_standard.set
+2025-04-25 02:44:01,796 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Ma-Crosses-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,797 - INFO - Processing MA-Crossover-mt5-20EA_01_standard.set
+2025-04-25 02:44:01,805 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Crossover-mt5-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,806 - INFO - Processing MA-Cross_01_standard.set
+2025-04-25 02:44:01,809 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Cross_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,811 - INFO - Processing MA-Envelopes_01_standard.set
+2025-04-25 02:44:01,814 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Envelopes_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,815 - INFO - Processing MA-MACD-Position-averaging_01_standard.set
+2025-04-25 02:44:01,818 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-MACD-Position-averaging_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,820 - INFO - Processing MA-Trend_01_standard.set
+2025-04-25 02:44:01,823 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA-Trend_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,824 - INFO - Processing MA2CCI_01_standard.set
+2025-04-25 02:44:01,827 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MA2CCI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,828 - INFO - Processing MACD-and-SAR_01_standard.set
+2025-04-25 02:44:01,832 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-and-SAR_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,833 - INFO - Processing MACD-Cleaner_01_standard.set
+2025-04-25 02:44:01,836 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Cleaner_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,837 - INFO - Processing MACD-EA-H4_01_standard.set
+2025-04-25 02:44:01,844 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-EA-H4_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,846 - INFO - Processing MACD-No-Sample_01_standard.set
+2025-04-25 02:44:01,850 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-No-Sample_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,852 - INFO - Processing MACD-signal_01_standard.set
+2025-04-25 02:44:01,856 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-signal_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,857 - INFO - Processing MACD-Stochastic-2_01_standard.set
+2025-04-25 02:44:01,862 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Stochastic-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,863 - INFO - Processing MACD-Stochastic_01_standard.set
+2025-04-25 02:44:01,867 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD-Stochastic_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,870 - INFO - Processing MACDCCI_01_standard.set
+2025-04-25 02:44:01,873 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACDCCI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,874 - INFO - Processing MacdPatternTraderAll0.01_01_standard.set
+2025-04-25 02:44:01,881 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MacdPatternTraderAll0.01_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,883 - INFO - Processing MacdPatternTraderAll_01_standard.set
+2025-04-25 02:44:01,891 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MacdPatternTraderAll_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,892 - INFO - Processing MACD_01_standard.set
+2025-04-25 02:44:01,897 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,898 - INFO - Processing MAGrid_01_standard.set
+2025-04-25 02:44:01,902 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MAGrid_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,903 - INFO - Processing MAMACD_01_standard.set
+2025-04-25 02:44:01,906 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MAMACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,908 - INFO - Processing Mariner-MT5_01_standard.set
+2025-04-25 02:44:01,913 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mariner-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,913 - INFO - Processing Market-Capture_01_standard.set
+2025-04-25 02:44:01,918 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Market-Capture_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,919 - INFO - Processing Martin-1_01_standard.set
+2025-04-25 02:44:01,922 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin-1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,923 - INFO - Processing Martin-for-small-deposits_01_standard.set
+2025-04-25 02:44:01,926 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin-for-small-deposits_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,927 - INFO - Processing MartingailExpert_01_standard.set
+2025-04-25 02:44:01,930 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MartingailExpert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,931 - INFO - Processing MartinGaleBreakout_01_standard.set
+2025-04-25 02:44:01,934 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MartinGaleBreakout_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,935 - INFO - Processing Martin_01_standard.set
+2025-04-25 02:44:01,937 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Martin_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,939 - INFO - Processing Marubozu-EA_01_standard.set
+2025-04-25 02:44:01,944 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,946 - INFO - Processing Marubozu_01_standard.set
+2025-04-25 02:44:01,949 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,950 - INFO - Processing Marubozu_EA_v1.10_01_standard.set
+2025-04-25 02:44:01,955 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Marubozu_EA_v1.10_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,956 - INFO - Processing MelBar-EuSwiss-1.85_01_standard.set
+2025-04-25 02:44:01,959 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MelBar-EuSwiss-1.85_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,960 - INFO - Processing MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set
+2025-04-25 02:44:01,964 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MelBar™Take325-™-5.5Y-NZD-USD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,965 - INFO - Processing Mobo-Bands-EA_01_standard.set
+2025-04-25 02:44:01,974 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mobo-Bands-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,975 - INFO - Processing Mobo-Bands_01_standard.set
+2025-04-25 02:44:01,985 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mobo-Bands_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,989 - INFO - Processing Modified-Moving-Averages_01_standard.set
+2025-04-25 02:44:01,996 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Modified-Moving-Averages_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:01,997 - INFO - Processing Momentum-M15_01_standard.set
+2025-04-25 02:44:02,002 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Momentum-M15_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,004 - INFO - Processing Momo-trades_01_standard.set
+2025-04-25 02:44:02,009 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Momo-trades_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,010 - INFO - Processing Money-Fixed-Margin_01_standard.set
+2025-04-25 02:44:02,013 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Money-Fixed-Margin_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,014 - INFO - Processing Money-Fixed-Risk_01_standard.set
+2025-04-25 02:44:02,017 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Money-Fixed-Risk_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,018 - INFO - Processing MoneyRain_01_standard.set
+2025-04-25 02:44:02,021 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MoneyRain_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,022 - INFO - Processing Morning-evening-star-EA_01_standard.set
+2025-04-25 02:44:02,028 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Morning-evening-star-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,030 - INFO - Processing MostasHaR15-Pivot_01_standard.set
+2025-04-25 02:44:02,035 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MostasHaR15-Pivot_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,036 - INFO - Processing Moving-20average-20and-20ichimoku-20EA_01_standard.set
+2025-04-25 02:44:02,043 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-20average-20and-20ichimoku-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,044 - INFO - Processing Moving-Average-Trade-System_01_standard.set
+2025-04-25 02:44:02,047 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-Average-Trade-System_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,048 - INFO - Processing Moving-Averages_01_standard.set
+2025-04-25 02:44:02,052 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Moving-Averages_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,053 - INFO - Processing MovingAverageMartinGale_01_standard.set
+2025-04-25 02:44:02,057 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MovingAverageMartinGale_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,058 - INFO - Processing MovingAverage_01_standard.set
+2025-04-25 02:44:02,062 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MovingAverage_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,065 - INFO - Processing MQL5-Wizard-MA-RSI_01_standard.set
+2025-04-25 02:44:02,069 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MQL5-Wizard-MA-RSI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,072 - INFO - Processing MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set
+2025-04-25 02:44:02,075 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MQL5-Wizard-MACD-Parabolic-SAR_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,081 - INFO - Processing MT45_01_standard.set
+2025-04-25 02:44:02,088 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT45_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,092 - INFO - Processing MT5-CoupleHedgeEA_01_standard.set
+2025-04-25 02:44:02,100 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT5-CoupleHedgeEA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,102 - INFO - Processing MT5-RingSystemEA_01_standard.set
+2025-04-25 02:44:02,111 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MT5-RingSystemEA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,112 - INFO - Processing Mt5-williams-directional-index-EA_01_standard.set
+2025-04-25 02:44:02,116 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Mt5-williams-directional-index-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,118 - INFO - Processing MTC-Сombo_01_standard.set
+2025-04-25 02:44:02,127 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MTC-Сombo_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,128 - INFO - Processing Multi-Stochastic_01_standard.set
+2025-04-25 02:44:02,134 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Multi-Stochastic_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,135 - INFO - Processing MultiMartin_01_standard.set
+2025-04-25 02:44:02,139 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MultiMartin_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,141 - INFO - Processing MySystem_01_standard.set
+2025-04-25 02:44:02,144 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\MySystem_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,145 - INFO - Processing N Candles v2_01_standard.set
+2025-04-25 02:44:02,150 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,151 - INFO - Processing N Candles v3_01_standard.set
+2025-04-25 02:44:02,156 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v3_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,157 - INFO - Processing N Candles v4_01_standard.set
+2025-04-25 02:44:02,161 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v4_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,163 - INFO - Processing N Candles v5_01_standard.set
+2025-04-25 02:44:02,167 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N Candles v5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,176 - INFO - Processing N-Candles_01_standard.set
+2025-04-25 02:44:02,181 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N-Candles_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,190 - INFO - Processing N-_Candles_v7_01_standard.set
+2025-04-25 02:44:02,198 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\N-_Candles_v7_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,204 - INFO - Processing Nevalyashka-BreakdownLevel_01_standard.set
+2025-04-25 02:44:02,213 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka-BreakdownLevel_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,218 - INFO - Processing Nevalyashka3-1_01_standard.set
+2025-04-25 02:44:02,221 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka3-1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,224 - INFO - Processing Nevalyashka_01_standard.set
+2025-04-25 02:44:02,228 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nevalyashka_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,233 - INFO - Processing New-Martin_01_standard.set
+2025-04-25 02:44:02,237 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\New-Martin_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,239 - INFO - Processing New-Random_01_standard.set
+2025-04-25 02:44:02,243 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\New-Random_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,245 - INFO - Processing Nextbar_01_standard.set
+2025-04-25 02:44:02,251 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Nextbar_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,253 - INFO - Processing Night-Flat-Trade_01_standard.set
+2025-04-25 02:44:02,258 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Night-Flat-Trade_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,260 - INFO - Processing NightScalper_01_standard.set
+2025-04-25 02:44:02,273 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NightScalper_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,274 - INFO - Processing NRTR-Revers_01_standard.set
+2025-04-25 02:44:02,278 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NRTR-Revers_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,281 - INFO - Processing NUp1Down_01_standard.set
+2025-04-25 02:44:02,284 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\NUp1Down_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,285 - INFO - Processing Open-Candle-EA_01_standard.set
+2025-04-25 02:44:02,293 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Open-Candle-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,294 - INFO - Processing Open-Close_01_standard.set
+2025-04-25 02:44:02,298 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Open-Close_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,300 - INFO - Processing Opening-and-ilosing-on-time_01_standard.set
+2025-04-25 02:44:02,303 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Opening-and-ilosing-on-time_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,304 - INFO - Processing Opening-and-Сlosing-on-time_01_standard.set
+2025-04-25 02:44:02,308 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Opening-and-Сlosing-on-time_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,309 - INFO - Processing OpenPendingorderAfterPositionGetStopLoss_01_standard.set
+2025-04-25 02:44:02,314 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OpenPendingorderAfterPositionGetStopLoss_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,315 - INFO - Processing OpenTicks_01_standard.set
+2025-04-25 02:44:02,318 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OpenTicks_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,320 - INFO - Processing ORB-EA-BOX_01_standard.set
+2025-04-25 02:44:02,326 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ORB-EA-BOX_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,328 - INFO - Processing OsMaSter_01_standard.set
+2025-04-25 02:44:02,332 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OsMaSter_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,334 - INFO - Processing OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set
+2025-04-25 02:44:02,338 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OTT-20AND-20PRICE-20CROSS-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,339 - INFO - Processing OverHedge_01_standard.set
+2025-04-25 02:44:02,344 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OverHedge_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,344 - INFO - Processing OzFx_01_standard.set
+2025-04-25 02:44:02,348 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\OzFx_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,349 - INFO - Processing Parabolic-SAR_01_standard.set
+2025-04-25 02:44:02,352 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Parabolic-SAR_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,353 - INFO - Processing PARSI-EA_01_standard.set
+2025-04-25 02:44:02,360 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PARSI-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,362 - INFO - Processing Peceptron-Mult_01_standard.set
+2025-04-25 02:44:02,365 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Peceptron-Mult_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,366 - INFO - Processing Pending-orders-by-time-2_01_standard.set
+2025-04-25 02:44:02,369 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pending-orders-by-time-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,370 - INFO - Processing Pending-orders-by-time_01_standard.set
+2025-04-25 02:44:02,373 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pending-orders-by-time_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,375 - INFO - Processing Pendulum_01_standard.set
+2025-04-25 02:44:02,377 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pendulum_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,378 - INFO - Processing Pinball-machine_01_standard.set
+2025-04-25 02:44:02,380 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pinball-machine_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,381 - INFO - Processing Pinbar-Magic-EA_01_standard.set
+2025-04-25 02:44:02,387 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pinbar-Magic-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,388 - INFO - Processing PinBar-Magic-Indicator_01_standard.set
+2025-04-25 02:44:02,392 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PinBar-Magic-Indicator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,393 - INFO - Processing Pipsover_01_standard.set
+2025-04-25 02:44:02,396 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Pipsover_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,397 - INFO - Processing Plan-X_01_standard.set
+2025-04-25 02:44:02,401 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Plan-X_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,403 - INFO - Processing Plateau_01_standard.set
+2025-04-25 02:44:02,407 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Plateau_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,409 - INFO - Processing Poker-SHOW_01_standard.set
+2025-04-25 02:44:02,413 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Poker-SHOW_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,414 - INFO - Processing Precipice-MartIn_01_standard.set
+2025-04-25 02:44:02,419 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Precipice-MartIn_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,420 - INFO - Processing Precipice_01_standard.set
+2025-04-25 02:44:02,423 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Precipice_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,424 - INFO - Processing Probe_01_standard.set
+2025-04-25 02:44:02,427 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Probe_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,428 - INFO - Processing Proffessor_01_standard.set
+2025-04-25 02:44:02,432 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Proffessor_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,434 - INFO - Processing PropFirmHelper_01_standard.set
+2025-04-25 02:44:02,438 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PropFirmHelper_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,439 - INFO - Processing PROphet_01_standard.set
+2025-04-25 02:44:02,443 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\PROphet_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,445 - INFO - Processing Puria-method_01_standard.set
+2025-04-25 02:44:02,449 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Puria-method_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,451 - INFO - Processing Rabbit3_01_standard.set
+2025-04-25 02:44:02,455 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rabbit3_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,456 - INFO - Processing Range-Breakout_01_standard.set
+2025-04-25 02:44:02,458 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Range-Breakout_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,460 - INFO - Processing Rapid-Doji-EA_01_standard.set
+2025-04-25 02:44:02,463 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rapid-Doji-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,464 - INFO - Processing Raymond-Cloudy-Day-for-EA_01_standard.set
+2025-04-25 02:44:02,468 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Raymond-Cloudy-Day-for-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,469 - INFO - Processing Reflex-EA_01_standard.set
+2025-04-25 02:44:02,475 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reflex-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,477 - INFO - Processing REFLEX-INDICATOR_01_standard.set
+2025-04-25 02:44:02,480 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\REFLEX-INDICATOR_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,481 - INFO - Processing Reflex_01_standard.set
+2025-04-25 02:44:02,483 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reflex_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,484 - INFO - Processing Reversing-Martingale_01_standard.set
+2025-04-25 02:44:02,487 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Reversing-Martingale_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,488 - INFO - Processing RideAlligator_01_standard.set
+2025-04-25 02:44:02,490 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RideAlligator_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,491 - INFO - Processing RNN_01_standard.set
+2025-04-25 02:44:02,497 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RNN_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,498 - INFO - Processing Robot-MACD_01_standard.set
+2025-04-25 02:44:02,501 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Robot-MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,502 - INFO - Processing RobotPowerM5-meta4_01_standard.set
+2025-04-25 02:44:02,505 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RobotPowerM5-meta4_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,506 - INFO - Processing Rollback-system_01_standard.set
+2025-04-25 02:44:02,511 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Rollback-system_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,512 - INFO - Processing RSI EA v2_01_standard.set
+2025-04-25 02:44:02,517 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI EA v2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,518 - INFO - Processing RSI-and-Bollinger-Bands_01_standard.set
+2025-04-25 02:44:02,521 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-and-Bollinger-Bands_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,523 - INFO - Processing RSI-Arrow-EA_01_standard.set
+2025-04-25 02:44:02,529 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Arrow-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,531 - INFO - Processing RSI-Arrow_01_standard.set
+2025-04-25 02:44:02,535 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Arrow_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,536 - INFO - Processing RSI-EA_01_standard.set
+2025-04-25 02:44:02,544 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,546 - INFO - Processing RSI-Eraser_01_standard.set
+2025-04-25 02:44:02,550 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Eraser_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,552 - INFO - Processing RSI-Expert_01_standard.set
+2025-04-25 02:44:02,557 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Expert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,559 - INFO - Processing RSI-Levels_01_standard.set
+2025-04-25 02:44:02,563 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Levels_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,565 - INFO - Processing RSI-trader_01_standard.set
+2025-04-25 02:44:02,570 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-trader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,571 - INFO - Processing RSI-Trend-EA_01_standard.set
+2025-04-25 02:44:02,577 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Trend-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,578 - INFO - Processing RSI-Trend_01_standard.set
+2025-04-25 02:44:02,581 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-Trend_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,582 - INFO - Processing RSI-with-channels-EA_01_standard.set
+2025-04-25 02:44:02,590 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-with-channels-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,592 - INFO - Processing RSI-with-channels_01_standard.set
+2025-04-25 02:44:02,595 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI-with-channels_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,596 - INFO - Processing RSI_Expert_v2.0_01_standard.set
+2025-04-25 02:44:02,602 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\RSI_Expert_v2.0_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,605 - INFO - Processing Russian20-hp1_01_standard.set
+2025-04-25 02:44:02,608 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Russian20-hp1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,610 - INFO - Processing SampleCheckPendingOrder_01_standard.set
+2025-04-25 02:44:02,613 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SampleCheckPendingOrder_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,615 - INFO - Processing SampleTrailingstop-MT5_01_standard.set
+2025-04-25 02:44:02,620 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SampleTrailingstop-MT5_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,621 - INFO - Processing SAR-trading_01_standard.set
+2025-04-25 02:44:02,626 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SAR-trading_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,627 - INFO - Processing Secwenta_01_standard.set
+2025-04-25 02:44:02,630 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Secwenta_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,632 - INFO - Processing Sell-Stop_01_standard.set
+2025-04-25 02:44:02,637 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sell-Stop_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,638 - INFO - Processing Sensitive_01_standard.set
+2025-04-25 02:44:02,643 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sensitive_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,644 - INFO - Processing Separate-trade_01_standard.set
+2025-04-25 02:44:02,649 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Separate-trade_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,651 - INFO - Processing SilverTrend_01_standard.set
+2025-04-25 02:44:02,656 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SilverTrend_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,657 - INFO - Processing Simple-20Price-20Alert-20-20EA_01_standard.set
+2025-04-25 02:44:02,662 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-20Price-20Alert-20-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,663 - INFO - Processing Simple-20Volume-20EA_01_standard.set
+2025-04-25 02:44:02,670 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-20Volume-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,671 - INFO - Processing Simple-EA-MA-plus-MACD_01_standard.set
+2025-04-25 02:44:02,675 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-EA-MA-plus-MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,676 - INFO - Processing Simple-FX_01_standard.set
+2025-04-25 02:44:02,684 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-FX_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,685 - INFO - Processing Simple-MACD_01_standard.set
+2025-04-25 02:44:02,689 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,690 - INFO - Processing Simple-Volume-EA_01_standard.set
+2025-04-25 02:44:02,696 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simple-Volume-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,698 - INFO - Processing SimplePivot_01_standard.set
+2025-04-25 02:44:02,702 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SimplePivot_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,704 - INFO - Processing Simplest-Hedging-EA-ever_01_standard.set
+2025-04-25 02:44:02,707 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Simplest-Hedging-EA-ever_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,710 - INFO - Processing SimpleTrade _01_standard.set
+2025-04-25 02:44:02,715 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\SimpleTrade _01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,718 - INFO - Processing Six-Soldiers-EA-Grid_01_standard.set
+2025-04-25 02:44:02,728 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers-EA-Grid_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,731 - INFO - Processing Six-Soldiers-EA_01_standard.set
+2025-04-25 02:44:02,740 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,742 - INFO - Processing Six-Soldiers_01_standard.set
+2025-04-25 02:44:02,746 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Six-Soldiers_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,747 - INFO - Processing Small-Inside-Bar-Strategy_01_standard.set
+2025-04-25 02:44:02,751 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Small-Inside-Bar-Strategy_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,753 - INFO - Processing Smart-Machine-20EA_01_standard.set
+2025-04-25 02:44:02,762 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Smart-Machine-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,763 - INFO - Processing Smoothing-Average_01_standard.set
+2025-04-25 02:44:02,766 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Smoothing-Average_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,767 - INFO - Processing Spasm_01_standard.set
+2025-04-25 02:44:02,774 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Spasm_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,775 - INFO - Processing Sprd-mt5-20EA_01_standard.set
+2025-04-25 02:44:02,784 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Sprd-mt5-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,786 - INFO - Processing ssb5-123_01_standard.set
+2025-04-25 02:44:02,789 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\ssb5-123_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,790 - INFO - Processing Starter_01_standard.set
+2025-04-25 02:44:02,795 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Starter_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,797 - INFO - Processing Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set
+2025-04-25 02:44:02,800 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Steve-Cartwright-Trader-Camel-CCI-MACD_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,801 - INFO - Processing Stoch-EA-1192_01_standard.set
+2025-04-25 02:44:02,806 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stoch-EA-1192_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,808 - INFO - Processing Stochastic-20Alert_01_standard.set
+2025-04-25 02:44:02,811 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stochastic-20Alert_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,813 - INFO - Processing Stochastic-K-Divergence.lua_01_standard.set
+2025-04-25 02:44:02,816 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stochastic-K-Divergence.lua_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,817 - INFO - Processing stochastic-three-periods_01_standard.set
+2025-04-25 02:44:02,822 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\stochastic-three-periods_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,823 - INFO - Processing StochasticDiffSign-EA_01_standard.set
+2025-04-25 02:44:02,832 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochasticDiffSign-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,833 - INFO - Processing stochasticdiffsign_01_standard.set
+2025-04-25 02:44:02,838 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\stochasticdiffsign_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,839 - INFO - Processing StochMA-EA_01_standard.set
+2025-04-25 02:44:02,845 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochMA-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,847 - INFO - Processing StochMA_01_standard.set
+2025-04-25 02:44:02,850 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StochMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,852 - INFO - Processing Stoch_01_standard.set
+2025-04-25 02:44:02,855 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stoch_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,857 - INFO - Processing Stop-Loss-Take-Profit_01_standard.set
+2025-04-25 02:44:02,859 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Stop-Loss-Take-Profit_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,861 - INFO - Processing StraddleqTrail_01_standard.set
+2025-04-25 02:44:02,865 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\StraddleqTrail_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,866 - INFO - Processing Surefirething_01_standard.set
+2025-04-25 02:44:02,869 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Surefirething_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,870 - INFO - Processing TDSGlobal_01_standard.set
+2025-04-25 02:44:02,874 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TDSGlobal_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,875 - INFO - Processing The-MasterMind-2_01_standard.set
+2025-04-25 02:44:02,878 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,879 - INFO - Processing The-MasterMind-3_01_standard.set
+2025-04-25 02:44:02,882 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind-3_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,884 - INFO - Processing The-MasterMind_01_standard.set
+2025-04-25 02:44:02,887 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-MasterMind_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,890 - INFO - Processing The-Puncher_01_standard.set
+2025-04-25 02:44:02,894 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\The-Puncher_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,896 - INFO - Processing TheClassicTurtleTrader-no-dots-EA_01_standard.set
+2025-04-25 02:44:02,905 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TheClassicTurtleTrader-no-dots-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,907 - INFO - Processing TheClassicTurtleTrader-no-dots_01_standard.set
+2025-04-25 02:44:02,913 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TheClassicTurtleTrader-no-dots_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,915 - INFO - Processing Three-indicators_01_standard.set
+2025-04-25 02:44:02,920 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-indicators_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,921 - INFO - Processing Three-neural-networks_01_standard.set
+2025-04-25 02:44:02,926 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-neural-networks_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,928 - INFO - Processing Three-timeframes_01_standard.set
+2025-04-25 02:44:02,936 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-timeframes_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,939 - INFO - Processing Three-Typical-Candles_01_standard.set
+2025-04-25 02:44:02,945 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Three-Typical-Candles_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,947 - INFO - Processing Time-sync-forts_01_standard.set
+2025-04-25 02:44:02,950 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Time-sync-forts_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,952 - INFO - Processing timer-trade_01_standard.set
+2025-04-25 02:44:02,955 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\timer-trade_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,957 - INFO - Processing TMA-ATR-Channel_01_standard.set
+2025-04-25 02:44:02,964 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-ATR-Channel_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,967 - INFO - Processing TMA-ATR-EA_01_standard.set
+2025-04-25 02:44:02,974 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-ATR-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,976 - INFO - Processing TMA-CG-EA_01_standard.set
+2025-04-25 02:44:02,986 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,988 - INFO - Processing TMA-CG-Martingale-20EA_01_standard.set
+2025-04-25 02:44:02,998 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-Martingale-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:02,999 - INFO - Processing TMA-CG-mladen_01_standard.set
+2025-04-25 02:44:03,003 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-mladen_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,004 - INFO - Processing TMA-CG-special_01_standard.set
+2025-04-25 02:44:03,008 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-CG-special_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,009 - INFO - Processing TMA-slope-bands_01_standard.set
+2025-04-25 02:44:03,014 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TMA-slope-bands_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,015 - INFO - Processing TmaTrue-2.0-with-Distances-6xx_01_standard.set
+2025-04-25 02:44:03,019 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TmaTrue-2.0-with-Distances-6xx_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,020 - INFO - Processing TmaTrue-3.0-with-Distances-6xx_01_standard.set
+2025-04-25 02:44:03,026 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TmaTrue-3.0-with-Distances-6xx_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,027 - INFO - Processing TP-with-money_01_standard.set
+2025-04-25 02:44:03,032 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TP-with-money_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,033 - INFO - Processing Trade-in-Channel_01_standard.set
+2025-04-25 02:44:03,037 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trade-in-Channel_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,038 - INFO - Processing Trade-on-qualified-RSI_01_standard.set
+2025-04-25 02:44:03,041 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trade-on-qualified-RSI_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,042 - INFO - Processing Trading-Breakout-MrThanhTan_01_standard.set
+2025-04-25 02:44:03,045 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trading-Breakout-MrThanhTan_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,046 - INFO - Processing Trend-Trader-Strategy-EA_01_standard.set
+2025-04-25 02:44:03,081 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trend-Trader-Strategy-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,092 - INFO - Processing Trend-Trader-Strategy_01_standard.set
+2025-04-25 02:44:03,128 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Trend-Trader-Strategy_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,134 - INFO - Processing Tru-EA_01_standard.set
+2025-04-25 02:44:03,150 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Tru-EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,163 - INFO - Processing True-Scalper-Profit-Lock_01_standard.set
+2025-04-25 02:44:03,197 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\True-Scalper-Profit-Lock_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,199 - INFO - Processing TrueSort-1100_01_standard.set
+2025-04-25 02:44:03,202 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TrueSort-1100_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,203 - INFO - Processing Tunnel-gen4_01_standard.set
+2025-04-25 02:44:03,206 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Tunnel-gen4_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,206 - INFO - Processing Tunnel-Method_01_standard.set
+2025-04-25 02:44:03,211 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Tunnel-Method_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,214 - INFO - Processing TurnGrid_01_standard.set
+2025-04-25 02:44:03,219 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\TurnGrid_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,232 - INFO - Processing Two PerBar _01_standard.set
+2025-04-25 02:44:03,243 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two PerBar _01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,248 - INFO - Processing Two-20MA-20RSI-20ADX-20EA_01_standard.set
+2025-04-25 02:44:03,255 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two-20MA-20RSI-20ADX-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,257 - INFO - Processing Two-20Orders-20Panel_01_standard.set
+2025-04-25 02:44:03,260 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two-20Orders-20Panel_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,262 - INFO - Processing Two-pending-orders-2_01_standard.set
+2025-04-25 02:44:03,266 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Two-pending-orders-2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,267 - INFO - Processing UnityPro_01_standard.set
+2025-04-25 02:44:03,271 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UnityPro_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,272 - INFO - Processing UniversalMACrossEA_01_standard.set
+2025-04-25 02:44:03,278 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UniversalMACrossEA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,279 - INFO - Processing UniversalSignalDemo_01_standard.set
+2025-04-25 02:44:03,282 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UniversalSignalDemo_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,283 - INFO - Processing Universum-3.0_01_standard.set
+2025-04-25 02:44:03,288 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Universum-3.0_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,289 - INFO - Processing UnNomGuai-20EA_01_standard.set
+2025-04-25 02:44:03,297 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\UnNomGuai-20EA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,298 - INFO - Processing up3x1-Investor_01_standard.set
+2025-04-25 02:44:03,303 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\up3x1-Investor_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,304 - INFO - Processing up3x1-premium-M_01_standard.set
+2025-04-25 02:44:03,308 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\up3x1-premium-M_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,309 - INFO - Processing up3x1_01_standard.set
+2025-04-25 02:44:03,314 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\up3x1_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,315 - INFO - Processing Urdala-Trol_01_standard.set
+2025-04-25 02:44:03,319 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Urdala-Trol_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,321 - INFO - Processing Very-Blonde-System_01_standard.set
+2025-04-25 02:44:03,324 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Very-Blonde-System_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,327 - INFO - Processing Virtual-Trailing-Stop_01_standard.set
+2025-04-25 02:44:03,330 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Virtual-Trailing-Stop_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,334 - INFO - Processing VLT-TRADER_01_standard.set
+2025-04-25 02:44:03,346 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VLT-TRADER_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,350 - INFO - Processing Volume-trader_01_standard.set
+2025-04-25 02:44:03,354 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Volume-trader_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,356 - INFO - Processing Vortex-Indicator-System_01_standard.set
+2025-04-25 02:44:03,361 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Vortex-Indicator-System_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,364 - INFO - Processing VR-Overturn_01_standard.set
+2025-04-25 02:44:03,367 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VR-Overturn_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,368 - INFO - Processing VR-ZVER-v.2_01_standard.set
+2025-04-25 02:44:03,372 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VR-ZVER-v.2_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,374 - INFO - Processing VR-ZVER_01_standard.set
+2025-04-25 02:44:03,380 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VR-ZVER_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,381 - INFO - Processing VZO_01_standard.set
+2025-04-25 02:44:03,384 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\VZO_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,385 - INFO - Processing Waddah-Attar-Win_01_standard.set
+2025-04-25 02:44:03,388 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Waddah-Attar-Win_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,391 - INFO - Processing WE-TRUST_01_standard.set
+2025-04-25 02:44:03,395 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\WE-TRUST_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,397 - INFO - Processing X-RSIOMA_01_standard.set
+2025-04-25 02:44:03,403 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\X-RSIOMA_01_standard.set: 'str' object has no attribute 'name'
+2025-04-25 02:44:03,405 - INFO - Processing Yesterday-Today_01_standard.set
+2025-04-25 02:44:03,408 - ERROR - Error processing C:\Users\nikol\AppData\Roaming\MetaQuotes\Terminal\4B1CE69F577705455263BD980C39A82C\MQL5\Profiles\Tester\Yesterday-Today_01_standard.set: 'str' object has no attribute 'name'

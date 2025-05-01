@@ -1,0 +1,1106 @@
+2025-04-27 16:22:01,963 - INFO - Scanne optimierte .set Files...
+2025-04-27 16:22:01,967 - INFO - Gefunden: 0 optimierte .set Files
+2025-04-27 16:22:01,968 - INFO - Scanne EA-Verzeichnisse...
+2025-04-27 16:22:02,017 - INFO - Gefunden: 0 EA-Verzeichnisse mit optimierten .set Files
+2025-04-27 16:22:02,018 - INFO - 
+Verarbeite Batch_0001...
+2025-04-27 16:22:02,018 - INFO - 
+Stichproben für Batch_0001:
+2025-04-27 16:22:02,021 - INFO - 10-pips: 252 .ini Dateien
+2025-04-27 16:22:02,023 - INFO - 10-pips-EURUSD: 252 .ini Dateien
+2025-04-27 16:22:02,025 - INFO - 1H-EUR-USD: 252 .ini Dateien
+2025-04-27 16:22:02,027 - INFO - 20011201-GBPUSD-M1: 252 .ini Dateien
+2025-04-27 16:22:02,029 - INFO - 21hour: 252 .ini Dateien
+2025-04-27 16:22:02,031 - INFO - 2HR-HL: 252 .ini Dateien
+2025-04-27 16:22:02,033 - INFO - 2MA-4Level: 252 .ini Dateien
+2025-04-27 16:22:02,035 - INFO - 2MA-Bunny-Cross: 252 .ini Dateien
+2025-04-27 16:22:02,037 - INFO - 3-bars-high-low-indicator: 252 .ini Dateien
+2025-04-27 16:22:02,038 - INFO - 35-Pip-Scalper: 252 .ini Dateien
+2025-04-27 16:22:02,040 - INFO - 
+Stichproben für Batch_0001:
+2025-04-27 16:22:02,042 - INFO - 10-pips: 252 .ini Dateien
+2025-04-27 16:22:02,044 - INFO - 10-pips-EURUSD: 252 .ini Dateien
+2025-04-27 16:22:02,045 - INFO - 1H-EUR-USD: 252 .ini Dateien
+2025-04-27 16:22:02,046 - INFO - 
+Verarbeite Batch_0002...
+2025-04-27 16:22:02,046 - INFO - 
+Stichproben für Batch_0002:
+2025-04-27 16:22:02,048 - INFO - 3BarsHighLowEA: 252 .ini Dateien
+2025-04-27 16:22:02,050 - INFO - 3sma: 252 .ini Dateien
+2025-04-27 16:22:02,052 - INFO - 3sma_: 252 .ini Dateien
+2025-04-27 16:22:02,054 - INFO - 500: 252 .ini Dateien
+2025-04-27 16:22:02,056 - INFO - 55-MA: 252 .ini Dateien
+2025-04-27 16:22:02,058 - INFO - A: 252 .ini Dateien
+2025-04-27 16:22:02,060 - INFO - Above-Below-MA: 252 .ini Dateien
+2025-04-27 16:22:02,062 - INFO - Absorption: 252 .ini Dateien
+2025-04-27 16:22:02,064 - INFO - AC-ACADEMY-US30: 252 .ini Dateien
+2025-04-27 16:22:02,066 - INFO - Accumulator: 252 .ini Dateien
+2025-04-27 16:22:02,068 - INFO - 
+Stichproben für Batch_0002:
+2025-04-27 16:22:02,071 - INFO - 3BarsHighLowEA: 252 .ini Dateien
+2025-04-27 16:22:02,073 - INFO - 3sma: 252 .ini Dateien
+2025-04-27 16:22:02,076 - INFO - 3sma_: 252 .ini Dateien
+2025-04-27 16:22:02,077 - INFO - 
+Verarbeite Batch_0003...
+2025-04-27 16:22:02,077 - INFO - 
+Stichproben für Batch_0003:
+2025-04-27 16:22:02,080 - INFO - ADX-MA: 252 .ini Dateien
+2025-04-27 16:22:02,082 - INFO - ADX-MACD-Deev: 252 .ini Dateien
+2025-04-27 16:22:02,084 - INFO - ADX-System: 252 .ini Dateien
+2025-04-27 16:22:02,085 - INFO - AI-GOLD: 252 .ini Dateien
+2025-04-27 16:22:02,087 - INFO - AI-Trader: 252 .ini Dateien
+2025-04-27 16:22:02,089 - INFO - AI-TUNE: 252 .ini Dateien
+2025-04-27 16:22:02,092 - INFO - AI-Tune-EAMT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,093 - INFO - AI-TUNE-FIXED-YFP: 252 .ini Dateien
+2025-04-27 16:22:02,095 - INFO - AIS1: 252 .ini Dateien
+2025-04-27 16:22:02,097 - INFO - AK-47-Scalper-EA-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,098 - INFO - 
+Stichproben für Batch_0003:
+2025-04-27 16:22:02,100 - INFO - ADX-MA: 252 .ini Dateien
+2025-04-27 16:22:02,101 - INFO - ADX-MACD-Deev: 252 .ini Dateien
+2025-04-27 16:22:02,103 - INFO - ADX-System: 252 .ini Dateien
+2025-04-27 16:22:02,104 - INFO - 
+Verarbeite Batch_0004...
+2025-04-27 16:22:02,104 - INFO - 
+Stichproben für Batch_0004:
+2025-04-27 16:22:02,106 - INFO - AK-47-Scalper-EA-yoforexPremium-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,108 - INFO - AK-47-Scalper-EAMT4-with-sourcecode-YoforexPremium-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,111 - INFO - ALCHEMIST-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,113 - INFO - Alexav-D1-Profit-GBPUSD: 252 .ini Dateien
+2025-04-27 16:22:02,115 - INFO - All-Average-Ea: 252 .ini Dateien
+2025-04-27 16:22:02,117 - INFO - Alligator: 252 .ini Dateien
+2025-04-27 16:22:02,119 - INFO - Alligator-Simple: 252 .ini Dateien
+2025-04-27 16:22:02,121 - INFO - Alpha-Zero-AI-RobotMT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,122 - INFO - Altarius-RSI-Stohastic: 252 .ini Dateien
+2025-04-27 16:22:02,125 - INFO - AMA-Trader: 252 .ini Dateien
+2025-04-27 16:22:02,126 - INFO - 
+Stichproben für Batch_0004:
+2025-04-27 16:22:02,127 - INFO - AK-47-Scalper-EA-yoforexPremium-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,129 - INFO - AK-47-Scalper-EAMT4-with-sourcecode-YoforexPremium-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,131 - INFO - ALCHEMIST-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,132 - INFO - 
+Verarbeite Batch_0005...
+2025-04-27 16:22:02,132 - INFO - 
+Stichproben für Batch_0005:
+2025-04-27 16:22:02,134 - INFO - AMA-Trader-2: 252 .ini Dateien
+2025-04-27 16:22:02,136 - INFO - AO-Lightning: 252 .ini Dateien
+2025-04-27 16:22:02,138 - INFO - AOCCI: 252 .ini Dateien
+2025-04-27 16:22:02,140 - INFO - Arbitrage: 252 .ini Dateien
+2025-04-27 16:22:02,142 - INFO - ArbSint: 252 .ini Dateien
+2025-04-27 16:22:02,144 - INFO - Area-MACD: 252 .ini Dateien
+2025-04-27 16:22:02,146 - INFO - Artificial-Intelligence: 252 .ini Dateien
+2025-04-27 16:22:02,148 - INFO - At-random: 252 .ini Dateien
+2025-04-27 16:22:02,149 - INFO - At-random-Full: 252 .ini Dateien
+2025-04-27 16:22:02,152 - INFO - ATR-SCLAPER: 252 .ini Dateien
+2025-04-27 16:22:02,153 - INFO - 
+Stichproben für Batch_0005:
+2025-04-27 16:22:02,154 - INFO - AMA-Trader-2: 252 .ini Dateien
+2025-04-27 16:22:02,156 - INFO - AO-Lightning: 252 .ini Dateien
+2025-04-27 16:22:02,157 - INFO - AOCCI: 252 .ini Dateien
+2025-04-27 16:22:02,158 - INFO - 
+Verarbeite Batch_0006...
+2025-04-27 16:22:02,159 - INFO - 
+Stichproben für Batch_0006:
+2025-04-27 16:22:02,161 - INFO - ATR-SCLAPER-EA-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,163 - INFO - Auto-ADX: 252 .ini Dateien
+2025-04-27 16:22:02,164 - INFO - Auto-Pivot-Plotter-28Mid-Levels-29-41: 252 .ini Dateien
+2025-04-27 16:22:02,167 - INFO - AutoLock-EA: 252 .ini Dateien
+2025-04-27 16:22:02,168 - INFO - Autotrader-Momentum: 252 .ini Dateien
+2025-04-27 16:22:02,170 - INFO - Avalanche-AV: 252 .ini Dateien
+2025-04-27 16:22:02,172 - INFO - Backbone: 252 .ini Dateien
+2025-04-27 16:22:02,174 - INFO - backtrader-master: 252 .ini Dateien
+2025-04-27 16:22:02,176 - INFO - BADX: 252 .ini Dateien
+2025-04-27 16:22:02,177 - INFO - Bago-EA: 252 .ini Dateien
+2025-04-27 16:22:02,178 - INFO - 
+Stichproben für Batch_0006:
+2025-04-27 16:22:02,180 - INFO - ATR-SCLAPER-EA-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,182 - INFO - Auto-ADX: 252 .ini Dateien
+2025-04-27 16:22:02,184 - INFO - Auto-Pivot-Plotter-28Mid-Levels-29-41: 252 .ini Dateien
+2025-04-27 16:22:02,184 - INFO - 
+Verarbeite Batch_0007...
+2025-04-27 16:22:02,185 - INFO - 
+Stichproben für Batch_0007:
+2025-04-27 16:22:02,187 - INFO - BalancedScalper-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,189 - INFO - Bands-2: 252 .ini Dateien
+2025-04-27 16:22:02,191 - INFO - BARS-Alligator: 252 .ini Dateien
+2025-04-27 16:22:02,193 - INFO - Basic-CCI-RSI: 252 .ini Dateien
+2025-04-27 16:22:02,195 - INFO - Basic-Martingale-EA-3: 252 .ini Dateien
+2025-04-27 16:22:02,197 - INFO - bb-automated: 252 .ini Dateien
+2025-04-27 16:22:02,199 - INFO - BB-stops-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,202 - INFO - BBPercentile: 252 .ini Dateien
+2025-04-27 16:22:02,204 - INFO - BBPercentile-EA: 252 .ini Dateien
+2025-04-27 16:22:02,205 - INFO - BDCrossOver-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,207 - INFO - 
+Stichproben für Batch_0007:
+2025-04-27 16:22:02,209 - INFO - BalancedScalper-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,210 - INFO - Bands-2: 252 .ini Dateien
+2025-04-27 16:22:02,212 - INFO - BARS-Alligator: 252 .ini Dateien
+2025-04-27 16:22:02,213 - INFO - 
+Verarbeite Batch_0008...
+2025-04-27 16:22:02,213 - INFO - 
+Stichproben für Batch_0008:
+2025-04-27 16:22:02,215 - INFO - BEAR-row-full-EA: 252 .ini Dateien
+2025-04-27 16:22:02,217 - INFO - BIG-DOG: 252 .ini Dateien
+2025-04-27 16:22:02,219 - INFO - BIG-RECOVERY-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,221 - INFO - Bill-Williams: 252 .ini Dateien
+2025-04-27 16:22:02,223 - INFO - bollinger: 252 .ini Dateien
+2025-04-27 16:22:02,225 - INFO - Bollinger-Band-Two-MA-and-Zig-Zag: 252 .ini Dateien
+2025-04-27 16:22:02,227 - INFO - Bollinger-Bands-N-positions: 252 .ini Dateien
+2025-04-27 16:22:02,229 - INFO - Bollinger-Bands-RSI: 252 .ini Dateien
+2025-04-27 16:22:02,231 - INFO - BORN4PIPS-EA-1-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,233 - INFO - BORN4PIPS-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,234 - INFO - 
+Stichproben für Batch_0008:
+2025-04-27 16:22:02,236 - INFO - BEAR-row-full-EA: 252 .ini Dateien
+2025-04-27 16:22:02,238 - INFO - BIG-DOG: 252 .ini Dateien
+2025-04-27 16:22:02,240 - INFO - BIG-RECOVERY-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,240 - INFO - 
+Verarbeite Batch_0009...
+2025-04-27 16:22:02,241 - INFO - 
+Stichproben für Batch_0009:
+2025-04-27 16:22:02,244 - INFO - Brakeout-Trader: 252 .ini Dateien
+2025-04-27 16:22:02,245 - INFO - Brandy: 252 .ini Dateien
+2025-04-27 16:22:02,247 - INFO - Brazilian-EA-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,250 - INFO - Breadandbutter2: 252 .ini Dateien
+2025-04-27 16:22:02,252 - INFO - breakdown: 252 .ini Dateien
+2025-04-27 16:22:02,253 - INFO - Breakdown-catcher: 252 .ini Dateien
+2025-04-27 16:22:02,255 - INFO - Breakout-Str: 252 .ini Dateien
+2025-04-27 16:22:02,257 - INFO - Bronze-Warrioir: 252 .ini Dateien
+2025-04-27 16:22:02,259 - INFO - Bruno: 252 .ini Dateien
+2025-04-27 16:22:02,261 - INFO - BSS-1-0: 252 .ini Dateien
+2025-04-27 16:22:02,262 - INFO - 
+Stichproben für Batch_0009:
+2025-04-27 16:22:02,264 - INFO - Brakeout-Trader: 252 .ini Dateien
+2025-04-27 16:22:02,266 - INFO - Brandy: 252 .ini Dateien
+2025-04-27 16:22:02,268 - INFO - Brazilian-EA-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,268 - INFO - 
+Verarbeite Batch_0010...
+2025-04-27 16:22:02,268 - INFO - 
+Stichproben für Batch_0010:
+2025-04-27 16:22:02,272 - INFO - BTA-Optimal-Trade-Zone-EA-v.1.0-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,274 - INFO - BTA-Sniper-Entry-v.1.0-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,275 - INFO - BULL-row-full-EA: 252 .ini Dateien
+2025-04-27 16:22:02,277 - INFO - Bullish-and-Bearish-Engulfing: 252 .ini Dateien
+2025-04-27 16:22:02,279 - INFO - Burg-Extrapolator: 252 .ini Dateien
+2025-04-27 16:22:02,281 - INFO - BykovTrend-EA: 252 .ini Dateien
+2025-04-27 16:22:02,283 - INFO - BykovTrend_EA_v3: 252 .ini Dateien
+2025-04-27 16:22:02,285 - INFO - Calculate-lotsize-and-Trailling-stop: 252 .ini Dateien
+2025-04-27 16:22:02,287 - INFO - Candle: 252 .ini Dateien
+2025-04-27 16:22:02,289 - INFO - candlepatternsexample: 252 .ini Dateien
+2025-04-27 16:22:02,290 - INFO - 
+Stichproben für Batch_0010:
+2025-04-27 16:22:02,292 - INFO - BTA-Optimal-Trade-Zone-EA-v.1.0-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,294 - INFO - BTA-Sniper-Entry-v.1.0-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,296 - INFO - BULL-row-full-EA: 252 .ini Dateien
+2025-04-27 16:22:02,296 - INFO - 
+Verarbeite Batch_0011...
+2025-04-27 16:22:02,297 - INFO - 
+Stichproben für Batch_0011:
+2025-04-27 16:22:02,299 - INFO - Carbophos: 252 .ini Dateien
+2025-04-27 16:22:02,301 - INFO - CashMachine-5min: 252 .ini Dateien
+2025-04-27 16:22:02,302 - INFO - CCI-MACD-Scalper: 252 .ini Dateien
+2025-04-27 16:22:02,305 - INFO - Cidomo: 252 .ini Dateien
+2025-04-27 16:22:02,307 - INFO - CloseAgent: 252 .ini Dateien
+2025-04-27 16:22:02,308 - INFO - CloseProfit: 252 .ini Dateien
+2025-04-27 16:22:02,310 - INFO - CLOUD: 252 .ini Dateien
+2025-04-27 16:22:02,313 - INFO - cloud's-trade-2: 252 .ini Dateien
+2025-04-27 16:22:02,314 - INFO - Constituents-EA: 252 .ini Dateien
+2025-04-27 16:22:02,316 - INFO - Contrarian-trade-MA: 252 .ini Dateien
+2025-04-27 16:22:02,317 - INFO - 
+Stichproben für Batch_0011:
+2025-04-27 16:22:02,319 - INFO - Carbophos: 252 .ini Dateien
+2025-04-27 16:22:02,321 - INFO - CashMachine-5min: 252 .ini Dateien
+2025-04-27 16:22:02,323 - INFO - CCI-MACD-Scalper: 252 .ini Dateien
+2025-04-27 16:22:02,323 - INFO - 
+Verarbeite Batch_0012...
+2025-04-27 16:22:02,324 - INFO - 
+Stichproben für Batch_0012:
+2025-04-27 16:22:02,326 - INFO - Crossing-Moving-Average: 252 .ini Dateien
+2025-04-27 16:22:02,328 - INFO - CrossMA: 252 .ini Dateien
+2025-04-27 16:22:02,330 - INFO - Currencyprofits-01.1: 252 .ini Dateien
+2025-04-27 16:22:02,332 - INFO - Daily-20reversal-20-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,334 - INFO - Daily-BreakPoint: 252 .ini Dateien
+2025-04-27 16:22:02,336 - INFO - Daily-Candle-ScalperEA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,338 - INFO - Daily-Candle-ScalperEA-MT5-YoForexPremium-1: 252 .ini Dateien
+2025-04-27 16:22:02,340 - INFO - Daily-Open-EA: 252 .ini Dateien
+2025-04-27 16:22:02,342 - INFO - Daily-range: 252 .ini Dateien
+2025-04-27 16:22:02,344 - INFO - Dark-Mimas-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,346 - INFO - 
+Stichproben für Batch_0012:
+2025-04-27 16:22:02,348 - INFO - Crossing-Moving-Average: 252 .ini Dateien
+2025-04-27 16:22:02,349 - INFO - CrossMA: 252 .ini Dateien
+2025-04-27 16:22:02,351 - INFO - Currencyprofits-01.1: 252 .ini Dateien
+2025-04-27 16:22:02,351 - INFO - 
+Verarbeite Batch_0013...
+2025-04-27 16:22:02,352 - INFO - 
+Stichproben für Batch_0013:
+2025-04-27 16:22:02,354 - INFO - Day-Trading-PAMXA: 252 .ini Dateien
+2025-04-27 16:22:02,356 - INFO - Daydream: 252 .ini Dateien
+2025-04-27 16:22:02,357 - INFO - DayTrading: 252 .ini Dateien
+2025-04-27 16:22:02,359 - INFO - Dealers-Trade-v-7.74-MACD: 252 .ini Dateien
+2025-04-27 16:22:02,361 - INFO - Deep-Drawdown-MA: 252 .ini Dateien
+2025-04-27 16:22:02,363 - INFO - DeMarker-gaining-position-volume: 252 .ini Dateien
+2025-04-27 16:22:02,365 - INFO - DeMarker-gaining-position-volume-2: 252 .ini Dateien
+2025-04-27 16:22:02,367 - INFO - DeMarker-Pending: 252 .ini Dateien
+2025-04-27 16:22:02,369 - INFO - DeMarker-Pending-2: 252 .ini Dateien
+2025-04-27 16:22:02,371 - INFO - DeMarker-Pending-2-5: 252 .ini Dateien
+2025-04-27 16:22:02,372 - INFO - 
+Stichproben für Batch_0013:
+2025-04-27 16:22:02,373 - INFO - Day-Trading-PAMXA: 252 .ini Dateien
+2025-04-27 16:22:02,375 - INFO - Daydream: 252 .ini Dateien
+2025-04-27 16:22:02,377 - INFO - DayTrading: 252 .ini Dateien
+2025-04-27 16:22:02,377 - INFO - 
+Verarbeite Batch_0014...
+2025-04-27 16:22:02,378 - INFO - 
+Stichproben für Batch_0014:
+2025-04-27 16:22:02,380 - INFO - Dematus: 252 .ini Dateien
+2025-04-27 16:22:02,382 - INFO - Divergence-20for-20many-20indicator: 252 .ini Dateien
+2025-04-27 16:22:02,384 - INFO - Divergence-EA: 252 .ini Dateien
+2025-04-27 16:22:02,385 - INFO - Divergence-EA-BB: 252 .ini Dateien
+2025-04-27 16:22:02,387 - INFO - Divergence-EA-pip-sl-tp: 252 .ini Dateien
+2025-04-27 16:22:02,389 - INFO - Doji-Arrows: 252 .ini Dateien
+2025-04-27 16:22:02,391 - INFO - DojiTrader: 252 .ini Dateien
+2025-04-27 16:22:02,393 - INFO - Donchian-Chanel-EA: 252 .ini Dateien
+2025-04-27 16:22:02,395 - INFO - DoubleHullMA: 252 .ini Dateien
+2025-04-27 16:22:02,397 - INFO - DoubleHullMA-EA: 252 .ini Dateien
+2025-04-27 16:22:02,398 - INFO - 
+Stichproben für Batch_0014:
+2025-04-27 16:22:02,399 - INFO - Dematus: 252 .ini Dateien
+2025-04-27 16:22:02,402 - INFO - Divergence-20for-20many-20indicator: 252 .ini Dateien
+2025-04-27 16:22:02,404 - INFO - Divergence-EA: 252 .ini Dateien
+2025-04-27 16:22:02,404 - INFO - 
+Verarbeite Batch_0015...
+2025-04-27 16:22:02,405 - INFO - 
+Stichproben für Batch_0015:
+2025-04-27 16:22:02,407 - INFO - DoubleMA-Crossover-EA: 252 .ini Dateien
+2025-04-27 16:22:02,409 - INFO - Doubler: 252 .ini Dateien
+2025-04-27 16:22:02,411 - INFO - Driver-EA-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,413 - INFO - dummy: 252 .ini Dateien
+2025-04-27 16:22:02,415 - INFO - Dynamic-averaging: 252 .ini Dateien
+2025-04-27 16:22:02,417 - INFO - E-Friday: 252 .ini Dateien
+2025-04-27 16:22:02,419 - INFO - E-Skoch-Open: 252 .ini Dateien
+2025-04-27 16:22:02,421 - INFO - e-Skoch-pending-orders: 252 .ini Dateien
+2025-04-27 16:22:02,423 - INFO - e-Smart-Trailing: 252 .ini Dateien
+2025-04-27 16:22:02,425 - INFO - e-TurboFx: 252 .ini Dateien
+2025-04-27 16:22:02,425 - INFO - 
+Stichproben für Batch_0015:
+2025-04-27 16:22:02,427 - INFO - DoubleMA-Crossover-EA: 252 .ini Dateien
+2025-04-27 16:22:02,429 - INFO - Doubler: 252 .ini Dateien
+2025-04-27 16:22:02,431 - INFO - Driver-EA-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,432 - INFO - 
+Verarbeite Batch_0016...
+2025-04-27 16:22:02,432 - INFO - 
+Stichproben für Batch_0016:
+2025-04-27 16:22:02,434 - INFO - EA-Close: 252 .ini Dateien
+2025-04-27 16:22:02,436 - INFO - EA-Gold-Stuff-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,438 - INFO - EA-MA-Stoch-RSI: 252 .ini Dateien
+2025-04-27 16:22:02,440 - INFO - EA-Moving-Average: 252 .ini Dateien
+2025-04-27 16:22:02,442 - INFO - Elevator-Robot-PMT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,444 - INFO - Elite-eFibo-Trader: 252 .ini Dateien
+2025-04-27 16:22:02,446 - INFO - EMA: 252 .ini Dateien
+2025-04-27 16:22:02,447 - INFO - EMA-6.12: 252 .ini Dateien
+2025-04-27 16:22:02,449 - INFO - EMA-CROSS: 252 .ini Dateien
+2025-04-27 16:22:02,451 - INFO - EMA-LWMA-RSI: 252 .ini Dateien
+2025-04-27 16:22:02,452 - INFO - 
+Stichproben für Batch_0016:
+2025-04-27 16:22:02,454 - INFO - EA-Close: 252 .ini Dateien
+2025-04-27 16:22:02,456 - INFO - EA-Gold-Stuff-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,458 - INFO - EA-MA-Stoch-RSI: 252 .ini Dateien
+2025-04-27 16:22:02,458 - INFO - 
+Verarbeite Batch_0017...
+2025-04-27 16:22:02,459 - INFO - 
+Stichproben für Batch_0017:
+2025-04-27 16:22:02,461 - INFO - EMA-RSI-EA: 252 .ini Dateien
+2025-04-27 16:22:02,463 - INFO - EMA-WMA: 252 .ini Dateien
+2025-04-27 16:22:02,466 - INFO - EMA_WMA v2: 252 .ini Dateien
+2025-04-27 16:22:02,468 - INFO - Eugene: 252 .ini Dateien
+2025-04-27 16:22:02,470 - INFO - eur-usd-m5: 252 .ini Dateien
+2025-04-27 16:22:02,472 - INFO - Euronis-Scalper-EA-MT5-With-DLL-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,474 - INFO - EURUSD-breakout: 252 .ini Dateien
+2025-04-27 16:22:02,476 - INFO - EURUSDH1: 252 .ini Dateien
+2025-04-27 16:22:02,478 - INFO - Executer-AC: 252 .ini Dateien
+2025-04-27 16:22:02,480 - INFO - Executor-AO: 252 .ini Dateien
+2025-04-27 16:22:02,481 - INFO - 
+Stichproben für Batch_0017:
+2025-04-27 16:22:02,483 - INFO - EMA-RSI-EA: 252 .ini Dateien
+2025-04-27 16:22:02,485 - INFO - EMA-WMA: 252 .ini Dateien
+2025-04-27 16:22:02,486 - INFO - EMA_WMA v2: 252 .ini Dateien
+2025-04-27 16:22:02,487 - INFO - 
+Verarbeite Batch_0018...
+2025-04-27 16:22:02,487 - INFO - 
+Stichproben für Batch_0018:
+2025-04-27 16:22:02,489 - INFO - e-Breakeven: 252 .ini Dateien
+2025-04-27 16:22:02,491 - INFO - Executor-Candles: 252 .ini Dateien
+2025-04-27 16:22:02,493 - INFO - exp-Amstell: 252 .ini Dateien
+2025-04-27 16:22:02,495 - INFO - Expert-NEWS: 252 .ini Dateien
+2025-04-27 16:22:02,497 - INFO - Expert-RSI-Stochastic-MA: 252 .ini Dateien
+2025-04-27 16:22:02,499 - INFO - ExtremePrice-EA: 252 .ini Dateien
+2025-04-27 16:22:02,501 - INFO - Fi-Trading-Robot-1.0: 252 .ini Dateien
+2025-04-27 16:22:02,503 - INFO - Fi-Trading-Robot-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,506 - INFO - FI-TRADING-ROBOTMT5-yoforexprenium: 252 .ini Dateien
+2025-04-27 16:22:02,508 - INFO - FiboRetracement-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,509 - INFO - 
+Stichproben für Batch_0018:
+2025-04-27 16:22:02,510 - INFO - e-Breakeven: 252 .ini Dateien
+2025-04-27 16:22:02,512 - INFO - Executor-Candles: 252 .ini Dateien
+2025-04-27 16:22:02,514 - INFO - exp-Amstell: 252 .ini Dateien
+2025-04-27 16:22:02,514 - INFO - 
+Verarbeite Batch_0019...
+2025-04-27 16:22:02,514 - INFO - 
+Stichproben für Batch_0019:
+2025-04-27 16:22:02,516 - INFO - Firebird: 252 .ini Dateien
+2025-04-27 16:22:02,518 - INFO - Firestorm-EA: 252 .ini Dateien
+2025-04-27 16:22:02,520 - INFO - Firestorm-indicator: 252 .ini Dateien
+2025-04-27 16:22:02,522 - INFO - Fluctuate: 252 .ini Dateien
+2025-04-27 16:22:02,524 - INFO - Forex-Fraus-M1: 252 .ini Dateien
+2025-04-27 16:22:02,525 - INFO - Forex-Profit: 252 .ini Dateien
+2025-04-27 16:22:02,527 - INFO - Fractals-minimum-distance: 252 .ini Dateien
+2025-04-27 16:22:02,529 - INFO - Fraktrak-xonax: 252 .ini Dateien
+2025-04-27 16:22:02,531 - INFO - Frank-Ud: 252 .ini Dateien
+2025-04-27 16:22:02,532 - INFO - fratal-mt5-EA: 252 .ini Dateien
+2025-04-27 16:22:02,534 - INFO - 
+Stichproben für Batch_0019:
+2025-04-27 16:22:02,535 - INFO - Firebird: 252 .ini Dateien
+2025-04-27 16:22:02,537 - INFO - Firestorm-EA: 252 .ini Dateien
+2025-04-27 16:22:02,539 - INFO - Firestorm-indicator: 252 .ini Dateien
+2025-04-27 16:22:02,539 - INFO - 
+Verarbeite Batch_0020...
+2025-04-27 16:22:02,540 - INFO - 
+Stichproben für Batch_0020:
+2025-04-27 16:22:02,542 - INFO - FT-CCI: 252 .ini Dateien
+2025-04-27 16:22:02,544 - INFO - FT-Sniper-GOLD-MT5-4: 252 .ini Dateien
+2025-04-27 16:22:02,546 - INFO - Fuzzy-logic: 252 .ini Dateien
+2025-04-27 16:22:02,548 - INFO - GalacticExplosion: 252 .ini Dateien
+2025-04-27 16:22:02,550 - INFO - Galaxy-5-1.0-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,552 - INFO - Gandalf-PRO: 252 .ini Dateien
+2025-04-27 16:22:02,553 - INFO - Gap-DM: 252 .ini Dateien
+2025-04-27 16:22:02,556 - INFO - GAP-EA: 252 .ini Dateien
+2025-04-27 16:22:02,557 - INFO - Gaps: 252 .ini Dateien
+2025-04-27 16:22:02,559 - INFO - GBP9AM: 252 .ini Dateien
+2025-04-27 16:22:02,560 - INFO - 
+Stichproben für Batch_0020:
+2025-04-27 16:22:02,562 - INFO - FT-CCI: 252 .ini Dateien
+2025-04-27 16:22:02,564 - INFO - FT-Sniper-GOLD-MT5-4: 252 .ini Dateien
+2025-04-27 16:22:02,565 - INFO - Fuzzy-logic: 252 .ini Dateien
+2025-04-27 16:22:02,566 - INFO - 
+Verarbeite Batch_0021...
+2025-04-27 16:22:02,566 - INFO - 
+Stichproben für Batch_0021:
+2025-04-27 16:22:02,568 - INFO - GbpChf: 252 .ini Dateien
+2025-04-27 16:22:02,570 - INFO - GO: 252 .ini Dateien
+2025-04-27 16:22:02,572 - INFO - Godzillar-EABanker-MT5-FX-XRACKED: 252 .ini Dateien
+2025-04-27 16:22:02,574 - INFO - Gold-Dust: 252 .ini Dateien
+2025-04-27 16:22:02,576 - INFO - GoldHero-FX-Cracked: 252 .ini Dateien
+2025-04-27 16:22:02,579 - INFO - GreenTrade: 252 .ini Dateien
+2025-04-27 16:22:02,580 - INFO - Grid: 252 .ini Dateien
+2025-04-27 16:22:02,583 - INFO - Grid-Martingale: 252 .ini Dateien
+2025-04-27 16:22:02,585 - INFO - GridEA: 252 .ini Dateien
+2025-04-27 16:22:02,587 - INFO - HarVesteR: 252 .ini Dateien
+2025-04-27 16:22:02,588 - INFO - 
+Stichproben für Batch_0021:
+2025-04-27 16:22:02,590 - INFO - GbpChf: 252 .ini Dateien
+2025-04-27 16:22:02,591 - INFO - GO: 252 .ini Dateien
+2025-04-27 16:22:02,593 - INFO - Godzillar-EABanker-MT5-FX-XRACKED: 252 .ini Dateien
+2025-04-27 16:22:02,594 - INFO - 
+Verarbeite Batch_0022...
+2025-04-27 16:22:02,594 - INFO - 
+Stichproben für Batch_0022:
+2025-04-27 16:22:02,596 - INFO - HedgeEA: 252 .ini Dateien
+2025-04-27 16:22:02,598 - INFO - hedger: 252 .ini Dateien
+2025-04-27 16:22:02,600 - INFO - Hedging-EA: 252 .ini Dateien
+2025-04-27 16:22:02,602 - INFO - heiken-ashi-engulf-ea-buy-mt5: 252 .ini Dateien
+2025-04-27 16:22:02,605 - INFO - heiken-ashi-engulf-sell-ea-mt5: 252 .ini Dateien
+2025-04-27 16:22:02,607 - INFO - heiken-ashi-smoothed: 252 .ini Dateien
+2025-04-27 16:22:02,609 - INFO - Heiken-Ashi-Smoothed-EA: 252 .ini Dateien
+2025-04-27 16:22:02,612 - INFO - heiken-ashi-smoothedLine: 252 .ini Dateien
+2025-04-27 16:22:02,614 - INFO - HeikenAshi-Lines: 252 .ini Dateien
+2025-04-27 16:22:02,616 - INFO - HeikenAshi-Lines-EA: 252 .ini Dateien
+2025-04-27 16:22:02,617 - INFO - 
+Stichproben für Batch_0022:
+2025-04-27 16:22:02,619 - INFO - HedgeEA: 252 .ini Dateien
+2025-04-27 16:22:02,621 - INFO - hedger: 252 .ini Dateien
+2025-04-27 16:22:02,623 - INFO - Hedging-EA: 252 .ini Dateien
+2025-04-27 16:22:02,624 - INFO - 
+Verarbeite Batch_0023...
+2025-04-27 16:22:02,624 - INFO - 
+Stichproben für Batch_0023:
+2025-04-27 16:22:02,626 - INFO - Heiken-Ashi-Smoothed-EA-with-MA: 252 .ini Dateien
+2025-04-27 16:22:02,628 - INFO - Heinken-Ashi-Color-Candles: 252 .ini Dateien
+2025-04-27 16:22:02,630 - INFO - HelloSmart: 252 .ini Dateien
+2025-04-27 16:22:02,632 - INFO - High-Low-EA: 252 .ini Dateien
+2025-04-27 16:22:02,634 - INFO - High-Low-Indicator: 252 .ini Dateien
+2025-04-27 16:22:02,636 - INFO - Hoop-master-2: 252 .ini Dateien
+2025-04-27 16:22:02,638 - INFO - i-impulsesystem: 252 .ini Dateien
+2025-04-27 16:22:02,640 - INFO - iCCI-iMA: 252 .ini Dateien
+2025-04-27 16:22:02,642 - INFO - ichimok2005: 252 .ini Dateien
+2025-04-27 16:22:02,644 - INFO - Ichimoku: 252 .ini Dateien
+2025-04-27 16:22:02,645 - INFO - 
+Stichproben für Batch_0023:
+2025-04-27 16:22:02,647 - INFO - Heiken-Ashi-Smoothed-EA-with-MA: 252 .ini Dateien
+2025-04-27 16:22:02,649 - INFO - Heinken-Ashi-Color-Candles: 252 .ini Dateien
+2025-04-27 16:22:02,651 - INFO - HelloSmart: 252 .ini Dateien
+2025-04-27 16:22:02,652 - INFO - 
+Verarbeite Batch_0024...
+2025-04-27 16:22:02,652 - INFO - 
+Stichproben für Batch_0024:
+2025-04-27 16:22:02,655 - INFO - ICH-With-Alert-Derekers: 252 .ini Dateien
+2025-04-27 16:22:02,657 - INFO - ICH-With-Alert-Derekers-EA: 252 .ini Dateien
+2025-04-27 16:22:02,659 - INFO - Ichimoku-20Kijun-20Alert: 252 .ini Dateien
+2025-04-27 16:22:02,661 - INFO - Ichimoku-20Tenkan-20Alert: 252 .ini Dateien
+2025-04-27 16:22:02,662 - INFO - Ichimoku-Dashboard-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,664 - INFO - Ichimoku-Scanner: 252 .ini Dateien
+2025-04-27 16:22:02,667 - INFO - Ichimoku-Scanner-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,669 - INFO - Ichimoku-Signals-and-Alert: 252 .ini Dateien
+2025-04-27 16:22:02,671 - INFO - IchimokuMTF-EA: 252 .ini Dateien
+2025-04-27 16:22:02,674 - INFO - Ilan-iMA: 252 .ini Dateien
+2025-04-27 16:22:02,675 - INFO - 
+Stichproben für Batch_0024:
+2025-04-27 16:22:02,677 - INFO - ICH-With-Alert-Derekers: 252 .ini Dateien
+2025-04-27 16:22:02,680 - INFO - ICH-With-Alert-Derekers-EA: 252 .ini Dateien
+2025-04-27 16:22:02,682 - INFO - Ichimoku-20Kijun-20Alert: 252 .ini Dateien
+2025-04-27 16:22:02,682 - INFO - 
+Verarbeite Batch_0025...
+2025-04-27 16:22:02,683 - INFO - 
+Stichproben für Batch_0025:
+2025-04-27 16:22:02,685 - INFO - Ilan1.4: 252 .ini Dateien
+2025-04-27 16:22:02,687 - INFO - iMA-iStdDev: 252 .ini Dateien
+2025-04-27 16:22:02,689 - INFO - Indices-Tester: 252 .ini Dateien
+2025-04-27 16:22:02,690 - INFO - Inka-20Edho-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,692 - INFO - Intersection-2-iMA: 252 .ini Dateien
+2025-04-27 16:22:02,694 - INFO - IStochastic-Trading: 252 .ini Dateien
+2025-04-27 16:22:02,696 - INFO - Ivan: 252 .ini Dateien
+2025-04-27 16:22:02,698 - INFO - iVIDyA-Simple: 252 .ini Dateien
+2025-04-27 16:22:02,700 - INFO - Jackpot-Strategy-EA: 252 .ini Dateien
+2025-04-27 16:22:02,702 - INFO - JackPot-Strategy-Elite: 252 .ini Dateien
+2025-04-27 16:22:02,703 - INFO - 
+Stichproben für Batch_0025:
+2025-04-27 16:22:02,705 - INFO - Ilan1.4: 252 .ini Dateien
+2025-04-27 16:22:02,707 - INFO - iMA-iStdDev: 252 .ini Dateien
+2025-04-27 16:22:02,709 - INFO - Indices-Tester: 252 .ini Dateien
+2025-04-27 16:22:02,709 - INFO - 
+Verarbeite Batch_0026...
+2025-04-27 16:22:02,710 - INFO - 
+Stichproben für Batch_0026:
+2025-04-27 16:22:02,712 - INFO - JK-BullP-AutoTrader: 252 .ini Dateien
+2025-04-27 16:22:02,714 - INFO - JS-Chaos: 252 .ini Dateien
+2025-04-27 16:22:02,716 - INFO - JS-MA-Day: 252 .ini Dateien
+2025-04-27 16:22:02,718 - INFO - JS-MA-SAR-Trades: 252 .ini Dateien
+2025-04-27 16:22:02,720 - INFO - JS-MA-SAR-Trades-EA-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,722 - INFO - JS-MA-SAR-Trades-Yoforexpremium: 252 .ini Dateien
+2025-04-27 16:22:02,724 - INFO - Juggernaut: 252 .ini Dateien
+2025-04-27 16:22:02,725 - INFO - KA-Gold-Bot: 252 .ini Dateien
+2025-04-27 16:22:02,727 - INFO - KueFx-20Arrows: 252 .ini Dateien
+2025-04-27 16:22:02,729 - INFO - KueFx-20Baseline: 252 .ini Dateien
+2025-04-27 16:22:02,730 - INFO - 
+Stichproben für Batch_0026:
+2025-04-27 16:22:02,732 - INFO - JK-BullP-AutoTrader: 252 .ini Dateien
+2025-04-27 16:22:02,734 - INFO - JS-Chaos: 252 .ini Dateien
+2025-04-27 16:22:02,736 - INFO - JS-MA-Day: 252 .ini Dateien
+2025-04-27 16:22:02,736 - INFO - 
+Verarbeite Batch_0027...
+2025-04-27 16:22:02,737 - INFO - 
+Stichproben für Batch_0027:
+2025-04-27 16:22:02,739 - INFO - KueFx-Arrows: 252 .ini Dateien
+2025-04-27 16:22:02,740 - INFO - KueFx-Arrows-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,743 - INFO - KueFx-Arrows-EA: 252 .ini Dateien
+2025-04-27 16:22:02,745 - INFO - KueFx-Baseline: 252 .ini Dateien
+2025-04-27 16:22:02,747 - INFO - KueFx-Baseline-EA: 252 .ini Dateien
+2025-04-27 16:22:02,749 - INFO - KueFx-Clean-2025-EA: 252 .ini Dateien
+2025-04-27 16:22:02,751 - INFO - KueFxTrend-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,753 - INFO - KueFxTrend-EA: 252 .ini Dateien
+2025-04-27 16:22:02,755 - INFO - KueFx_Arrows_EA_v1.10: 252 .ini Dateien
+2025-04-27 16:22:02,757 - INFO - KueFx_Baseline_EA_v1.10: 252 .ini Dateien
+2025-04-27 16:22:02,758 - INFO - 
+Stichproben für Batch_0027:
+2025-04-27 16:22:02,760 - INFO - KueFx-Arrows: 252 .ini Dateien
+2025-04-27 16:22:02,762 - INFO - KueFx-Arrows-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,764 - INFO - KueFx-Arrows-EA: 252 .ini Dateien
+2025-04-27 16:22:02,764 - INFO - 
+Verarbeite Batch_0028...
+2025-04-27 16:22:02,765 - INFO - 
+Stichproben für Batch_0028:
+2025-04-27 16:22:02,767 - INFO - Kue-Electric-EA: 252 .ini Dateien
+2025-04-27 16:22:02,769 - INFO - KueFx-Extreme-EA: 252 .ini Dateien
+2025-04-27 16:22:02,771 - INFO - KueFx-Harare-EA: 252 .ini Dateien
+2025-04-27 16:22:02,773 - INFO - KueFX-Money-Management: 252 .ini Dateien
+2025-04-27 16:22:02,775 - INFO - KueFx-Motor: 252 .ini Dateien
+2025-04-27 16:22:02,777 - INFO - KueFx-Motor-EA: 252 .ini Dateien
+2025-04-27 16:22:02,779 - INFO - KueFx-Trend: 252 .ini Dateien
+2025-04-27 16:22:02,781 - INFO - LarryConnersRSI2: 252 .ini Dateien
+2025-04-27 16:22:02,783 - INFO - Last-ZZ50: 252 .ini Dateien
+2025-04-27 16:22:02,785 - INFO - Lavika100: 252 .ini Dateien
+2025-04-27 16:22:02,786 - INFO - 
+Stichproben für Batch_0028:
+2025-04-27 16:22:02,788 - INFO - Kue-Electric-EA: 252 .ini Dateien
+2025-04-27 16:22:02,789 - INFO - KueFx-Extreme-EA: 252 .ini Dateien
+2025-04-27 16:22:02,791 - INFO - KueFx-Harare-EA: 252 .ini Dateien
+2025-04-27 16:22:02,792 - INFO - 
+Verarbeite Batch_0029...
+2025-04-27 16:22:02,792 - INFO - 
+Stichproben für Batch_0029:
+2025-04-27 16:22:02,794 - INFO - LazyBot-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,796 - INFO - LBS: 252 .ini Dateien
+2025-04-27 16:22:02,798 - INFO - Lego-EA: 252 .ini Dateien
+2025-04-27 16:22:02,800 - INFO - Lesson-3-Price-Action: 252 .ini Dateien
+2025-04-27 16:22:02,802 - INFO - Lesson-4-Price-Action-MA-Filter: 252 .ini Dateien
+2025-04-27 16:22:02,805 - INFO - Lesson-6-Trailling-ATR: 252 .ini Dateien
+2025-04-27 16:22:02,807 - INFO - Lesson-7-Price-action-Ket-hop-Volume-VSA: 252 .ini Dateien
+2025-04-27 16:22:02,809 - INFO - Little-EA: 252 .ini Dateien
+2025-04-27 16:22:02,811 - INFO - Lock: 252 .ini Dateien
+2025-04-27 16:22:02,813 - INFO - Locker: 252 .ini Dateien
+2025-04-27 16:22:02,814 - INFO - 
+Stichproben für Batch_0029:
+2025-04-27 16:22:02,816 - INFO - LazyBot-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,818 - INFO - LBS: 252 .ini Dateien
+2025-04-27 16:22:02,819 - INFO - Lego-EA: 252 .ini Dateien
+2025-04-27 16:22:02,820 - INFO - 
+Verarbeite Batch_0030...
+2025-04-27 16:22:02,820 - INFO - 
+Stichproben für Batch_0030:
+2025-04-27 16:22:02,822 - INFO - Lucky: 252 .ini Dateien
+2025-04-27 16:22:02,824 - INFO - M.A-break-mt5-buy: 252 .ini Dateien
+2025-04-27 16:22:02,826 - INFO - M.A-break-mt5-sell: 252 .ini Dateien
+2025-04-27 16:22:02,828 - INFO - MA MACD Position averaging v2: 252 .ini Dateien
+2025-04-27 16:22:02,829 - INFO - MA-20Alert: 252 .ini Dateien
+2025-04-27 16:22:02,831 - INFO - MA-20AO-20Arrow: 252 .ini Dateien
+2025-04-27 16:22:02,833 - INFO - MA-Cross: 252 .ini Dateien
+2025-04-27 16:22:02,835 - INFO - MA-Envelopes: 252 .ini Dateien
+2025-04-27 16:22:02,837 - INFO - MA-MACD-Position-averaging: 252 .ini Dateien
+2025-04-27 16:22:02,838 - INFO - MA-Trend: 252 .ini Dateien
+2025-04-27 16:22:02,839 - INFO - 
+Stichproben für Batch_0030:
+2025-04-27 16:22:02,841 - INFO - Lucky: 252 .ini Dateien
+2025-04-27 16:22:02,843 - INFO - M.A-break-mt5-buy: 252 .ini Dateien
+2025-04-27 16:22:02,844 - INFO - M.A-break-mt5-sell: 252 .ini Dateien
+2025-04-27 16:22:02,845 - INFO - 
+Verarbeite Batch_0031...
+2025-04-27 16:22:02,845 - INFO - 
+Stichproben für Batch_0031:
+2025-04-27 16:22:02,848 - INFO - MA2CCI: 252 .ini Dateien
+2025-04-27 16:22:02,850 - INFO - MACD: 252 .ini Dateien
+2025-04-27 16:22:02,852 - INFO - MACD-and-SAR: 252 .ini Dateien
+2025-04-27 16:22:02,854 - INFO - MACD-Cleaner: 252 .ini Dateien
+2025-04-27 16:22:02,856 - INFO - Macd-diver-and-rsi-mt5: 252 .ini Dateien
+2025-04-27 16:22:02,858 - INFO - MACD-No-Sample: 252 .ini Dateien
+2025-04-27 16:22:02,860 - INFO - MACD-signal: 252 .ini Dateien
+2025-04-27 16:22:02,862 - INFO - MACD-Stochastic: 252 .ini Dateien
+2025-04-27 16:22:02,863 - INFO - MACD-Stochastic-2: 252 .ini Dateien
+2025-04-27 16:22:02,865 - INFO - MACD-wonder: 252 .ini Dateien
+2025-04-27 16:22:02,866 - INFO - 
+Stichproben für Batch_0031:
+2025-04-27 16:22:02,869 - INFO - MA2CCI: 252 .ini Dateien
+2025-04-27 16:22:02,870 - INFO - MACD: 252 .ini Dateien
+2025-04-27 16:22:02,872 - INFO - MACD-and-SAR: 252 .ini Dateien
+2025-04-27 16:22:02,872 - INFO - 
+Verarbeite Batch_0032...
+2025-04-27 16:22:02,873 - INFO - 
+Stichproben für Batch_0032:
+2025-04-27 16:22:02,875 - INFO - MACD-EA-H4: 252 .ini Dateien
+2025-04-27 16:22:02,877 - INFO - MACD-wonder-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,878 - INFO - MACDCCI: 252 .ini Dateien
+2025-04-27 16:22:02,881 - INFO - MacdPatternTraderAll: 252 .ini Dateien
+2025-04-27 16:22:02,883 - INFO - MacdPatternTraderAll0.01: 252 .ini Dateien
+2025-04-27 16:22:02,884 - INFO - MagneticBrake: 252 .ini Dateien
+2025-04-27 16:22:02,886 - INFO - MagneticStopExpert: 252 .ini Dateien
+2025-04-27 16:22:02,888 - INFO - MAGrid: 252 .ini Dateien
+2025-04-27 16:22:02,890 - INFO - MAMACD: 252 .ini Dateien
+2025-04-27 16:22:02,892 - INFO - Mariner-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,892 - INFO - 
+Stichproben für Batch_0032:
+2025-04-27 16:22:02,894 - INFO - MACD-EA-H4: 252 .ini Dateien
+2025-04-27 16:22:02,896 - INFO - MACD-wonder-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:02,898 - INFO - MACDCCI: 252 .ini Dateien
+2025-04-27 16:22:02,898 - INFO - 
+Verarbeite Batch_0033...
+2025-04-27 16:22:02,898 - INFO - 
+Stichproben für Batch_0033:
+2025-04-27 16:22:02,900 - INFO - MA-AO-EA: 252 .ini Dateien
+2025-04-27 16:22:02,902 - INFO - Market-Capture: 252 .ini Dateien
+2025-04-27 16:22:02,904 - INFO - Martin: 252 .ini Dateien
+2025-04-27 16:22:02,906 - INFO - Martin-1: 252 .ini Dateien
+2025-04-27 16:22:02,908 - INFO - Martin-for-small-deposits: 252 .ini Dateien
+2025-04-27 16:22:02,910 - INFO - MartingailExpert: 252 .ini Dateien
+2025-04-27 16:22:02,912 - INFO - MartinGaleBreakout: 252 .ini Dateien
+2025-04-27 16:22:02,914 - INFO - Marubozu: 252 .ini Dateien
+2025-04-27 16:22:02,916 - INFO - Marubozu-EA: 252 .ini Dateien
+2025-04-27 16:22:02,918 - INFO - Marubozu_EA_v1.10: 252 .ini Dateien
+2025-04-27 16:22:02,919 - INFO - 
+Stichproben für Batch_0033:
+2025-04-27 16:22:02,920 - INFO - MA-AO-EA: 252 .ini Dateien
+2025-04-27 16:22:02,922 - INFO - Market-Capture: 252 .ini Dateien
+2025-04-27 16:22:02,924 - INFO - Martin: 252 .ini Dateien
+2025-04-27 16:22:02,924 - INFO - 
+Verarbeite Batch_0034...
+2025-04-27 16:22:02,925 - INFO - Verarbeite EA: MelBarTTake325-T-5.5Y-NZD-USD
+2025-04-27 16:22:02,926 - WARNING - Keine optimierte .set Datei gefunden für: MelBarTTake325-T-5.5Y-NZD-USD
+2025-04-27 16:22:02,926 - INFO - 
+Stichproben für Batch_0034:
+2025-04-27 16:22:02,928 - INFO - ma-channels: 252 .ini Dateien
+2025-04-27 16:22:02,930 - INFO - Ma-Crosses-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,932 - INFO - MA-Crossover-mt5-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,934 - INFO - MelBar-EuSwiss-1.85: 252 .ini Dateien
+2025-04-27 16:22:02,937 - INFO - MelBarTTake325-T-5.5Y-NZD-USD.ex5: 252 .ini Dateien
+2025-04-27 16:22:02,939 - INFO - MelBarTTake325-T-5.5Y-NZD-USD.mq5: 252 .ini Dateien
+2025-04-27 16:22:02,941 - INFO - MelBar™Take325-™-5.5Y-NZD-USD: 252 .ini Dateien
+2025-04-27 16:22:02,944 - INFO - Minning-GoldMT5-Yoforexpremium: 252 .ini Dateien
+2025-04-27 16:22:02,946 - INFO - Mobo-Bands: 252 .ini Dateien
+2025-04-27 16:22:02,947 - INFO - Mobo-Bands-EA: 252 .ini Dateien
+2025-04-27 16:22:02,948 - INFO - 
+Stichproben für Batch_0034:
+2025-04-27 16:22:02,950 - INFO - ma-channels: 252 .ini Dateien
+2025-04-27 16:22:02,952 - INFO - Ma-Crosses-MT5: 252 .ini Dateien
+2025-04-27 16:22:02,954 - INFO - MA-Crossover-mt5-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,954 - INFO - 
+Verarbeite Batch_0035...
+2025-04-27 16:22:02,955 - INFO - 
+Stichproben für Batch_0035:
+2025-04-27 16:22:02,957 - INFO - Modified-Moving-Averages: 252 .ini Dateien
+2025-04-27 16:22:02,959 - INFO - Momentum-M15: 252 .ini Dateien
+2025-04-27 16:22:02,961 - INFO - Momo-trades: 252 .ini Dateien
+2025-04-27 16:22:02,963 - INFO - Money-Fixed-Margin: 252 .ini Dateien
+2025-04-27 16:22:02,965 - INFO - Money-Fixed-Risk: 252 .ini Dateien
+2025-04-27 16:22:02,967 - INFO - MoneyRain: 252 .ini Dateien
+2025-04-27 16:22:02,969 - INFO - Morning-evening-star-EA: 252 .ini Dateien
+2025-04-27 16:22:02,970 - INFO - MostasHaR15-Pivot: 252 .ini Dateien
+2025-04-27 16:22:02,973 - INFO - Moving-Average-Trade-System: 252 .ini Dateien
+2025-04-27 16:22:02,975 - INFO - Moving-Averages: 252 .ini Dateien
+2025-04-27 16:22:02,975 - INFO - 
+Stichproben für Batch_0035:
+2025-04-27 16:22:02,977 - INFO - Modified-Moving-Averages: 252 .ini Dateien
+2025-04-27 16:22:02,980 - INFO - Momentum-M15: 252 .ini Dateien
+2025-04-27 16:22:02,981 - INFO - Momo-trades: 252 .ini Dateien
+2025-04-27 16:22:02,982 - INFO - 
+Verarbeite Batch_0036...
+2025-04-27 16:22:02,982 - INFO - 
+Stichproben für Batch_0036:
+2025-04-27 16:22:02,985 - INFO - Moving-20average-20and-20ichimoku-20EA: 252 .ini Dateien
+2025-04-27 16:22:02,987 - INFO - MovingAverage: 252 .ini Dateien
+2025-04-27 16:22:02,989 - INFO - MovingAverageMartinGale: 252 .ini Dateien
+2025-04-27 16:22:02,990 - INFO - MQL5-Wizard-MA-RSI: 252 .ini Dateien
+2025-04-27 16:22:02,993 - INFO - MQL5-Wizard-MACD-Parabolic-SAR: 252 .ini Dateien
+2025-04-27 16:22:02,995 - INFO - MT45: 252 .ini Dateien
+2025-04-27 16:22:02,997 - INFO - MT5-CoupleHedgeEA: 252 .ini Dateien
+2025-04-27 16:22:02,999 - INFO - MT5-RingSystemEA: 252 .ini Dateien
+2025-04-27 16:22:03,001 - INFO - Mt5-williams-directional-index-EA: 252 .ini Dateien
+2025-04-27 16:22:03,003 - INFO - MTC-Сombo: 252 .ini Dateien
+2025-04-27 16:22:03,004 - INFO - 
+Stichproben für Batch_0036:
+2025-04-27 16:22:03,006 - INFO - Moving-20average-20and-20ichimoku-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,008 - INFO - MovingAverage: 252 .ini Dateien
+2025-04-27 16:22:03,010 - INFO - MovingAverageMartinGale: 252 .ini Dateien
+2025-04-27 16:22:03,011 - INFO - 
+Verarbeite Batch_0037...
+2025-04-27 16:22:03,011 - INFO - 
+Stichproben für Batch_0037:
+2025-04-27 16:22:03,013 - INFO - Multi-Stochastic: 252 .ini Dateien
+2025-04-27 16:22:03,015 - INFO - Multi-Trader-BC-Robot: 252 .ini Dateien
+2025-04-27 16:22:03,017 - INFO - MultiMartin: 252 .ini Dateien
+2025-04-27 16:22:03,019 - INFO - MySystem: 252 .ini Dateien
+2025-04-27 16:22:03,021 - INFO - N Candles v2: 252 .ini Dateien
+2025-04-27 16:22:03,023 - INFO - N Candles v3: 252 .ini Dateien
+2025-04-27 16:22:03,024 - INFO - N Candles v4: 252 .ini Dateien
+2025-04-27 16:22:03,026 - INFO - N Candles v5: 252 .ini Dateien
+2025-04-27 16:22:03,028 - INFO - N-Candles: 252 .ini Dateien
+2025-04-27 16:22:03,030 - INFO - N-_Candles_v7: 252 .ini Dateien
+2025-04-27 16:22:03,031 - INFO - 
+Stichproben für Batch_0037:
+2025-04-27 16:22:03,033 - INFO - Multi-Stochastic: 252 .ini Dateien
+2025-04-27 16:22:03,035 - INFO - Multi-Trader-BC-Robot: 252 .ini Dateien
+2025-04-27 16:22:03,036 - INFO - MultiMartin: 252 .ini Dateien
+2025-04-27 16:22:03,037 - INFO - 
+Verarbeite Batch_0038...
+2025-04-27 16:22:03,037 - INFO - 
+Stichproben für Batch_0038:
+2025-04-27 16:22:03,039 - INFO - Nevalyashka: 252 .ini Dateien
+2025-04-27 16:22:03,042 - INFO - Nevalyashka-BreakdownLevel: 252 .ini Dateien
+2025-04-27 16:22:03,044 - INFO - Nevalyashka3-1: 252 .ini Dateien
+2025-04-27 16:22:03,046 - INFO - New-Martin: 252 .ini Dateien
+2025-04-27 16:22:03,047 - INFO - New-Random: 252 .ini Dateien
+2025-04-27 16:22:03,049 - INFO - Nextbar: 252 .ini Dateien
+2025-04-27 16:22:03,051 - INFO - Night-Flat-Trade: 252 .ini Dateien
+2025-04-27 16:22:03,053 - INFO - NightScalper: 252 .ini Dateien
+2025-04-27 16:22:03,055 - INFO - NRTR-Revers: 252 .ini Dateien
+2025-04-27 16:22:03,057 - INFO - NSK-SWING-EA-MT5-Yoforexpremium: 252 .ini Dateien
+2025-04-27 16:22:03,058 - INFO - 
+Stichproben für Batch_0038:
+2025-04-27 16:22:03,060 - INFO - Nevalyashka: 252 .ini Dateien
+2025-04-27 16:22:03,062 - INFO - Nevalyashka-BreakdownLevel: 252 .ini Dateien
+2025-04-27 16:22:03,064 - INFO - Nevalyashka3-1: 252 .ini Dateien
+2025-04-27 16:22:03,065 - INFO - 
+Verarbeite Batch_0039...
+2025-04-27 16:22:03,065 - INFO - 
+Stichproben für Batch_0039:
+2025-04-27 16:22:03,068 - INFO - NSK-SWING-EA-Yoforexpremium: 252 .ini Dateien
+2025-04-27 16:22:03,070 - INFO - NUp1Down: 252 .ini Dateien
+2025-04-27 16:22:03,072 - INFO - Open-Candle-EA: 252 .ini Dateien
+2025-04-27 16:22:03,074 - INFO - Open-Close: 252 .ini Dateien
+2025-04-27 16:22:03,076 - INFO - Opening-and-ilosing-on-time: 252 .ini Dateien
+2025-04-27 16:22:03,079 - INFO - Opening-and-Сlosing-on-time: 252 .ini Dateien
+2025-04-27 16:22:03,080 - INFO - OpenPendingorderAfterPositionGetStopLoss: 252 .ini Dateien
+2025-04-27 16:22:03,082 - INFO - OpenTicks: 252 .ini Dateien
+2025-04-27 16:22:03,084 - INFO - optimization-result: 252 .ini Dateien
+2025-04-27 16:22:03,086 - INFO - ORB-EA-BOX: 252 .ini Dateien
+2025-04-27 16:22:03,087 - INFO - 
+Stichproben für Batch_0039:
+2025-04-27 16:22:03,090 - INFO - NSK-SWING-EA-Yoforexpremium: 252 .ini Dateien
+2025-04-27 16:22:03,091 - INFO - NUp1Down: 252 .ini Dateien
+2025-04-27 16:22:03,093 - INFO - Open-Candle-EA: 252 .ini Dateien
+2025-04-27 16:22:03,094 - INFO - 
+Verarbeite Batch_0040...
+2025-04-27 16:22:03,094 - INFO - 
+Stichproben für Batch_0040:
+2025-04-27 16:22:03,096 - INFO - OsMaSter: 252 .ini Dateien
+2025-04-27 16:22:03,098 - INFO - OTT-20AND-20PRICE-20CROSS-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,100 - INFO - OverHedge: 252 .ini Dateien
+2025-04-27 16:22:03,102 - INFO - OzFx: 252 .ini Dateien
+2025-04-27 16:22:03,105 - INFO - Par-20sar-20mt5-201: 252 .ini Dateien
+2025-04-27 16:22:03,107 - INFO - Parabolic-SAR: 252 .ini Dateien
+2025-04-27 16:22:03,109 - INFO - PARSI-EA: 252 .ini Dateien
+2025-04-27 16:22:03,111 - INFO - Peceptron-Mult: 252 .ini Dateien
+2025-04-27 16:22:03,113 - INFO - Pending-orders-by-time: 252 .ini Dateien
+2025-04-27 16:22:03,115 - INFO - Pending-orders-by-time-2: 252 .ini Dateien
+2025-04-27 16:22:03,116 - INFO - 
+Stichproben für Batch_0040:
+2025-04-27 16:22:03,118 - INFO - OsMaSter: 252 .ini Dateien
+2025-04-27 16:22:03,120 - INFO - OTT-20AND-20PRICE-20CROSS-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,122 - INFO - OverHedge: 252 .ini Dateien
+2025-04-27 16:22:03,122 - INFO - 
+Verarbeite Batch_0041...
+2025-04-27 16:22:03,123 - INFO - 
+Stichproben für Batch_0041:
+2025-04-27 16:22:03,125 - INFO - Pendulum: 252 .ini Dateien
+2025-04-27 16:22:03,127 - INFO - Pinball-machine: 252 .ini Dateien
+2025-04-27 16:22:03,129 - INFO - Pinbar-Magic-EA: 252 .ini Dateien
+2025-04-27 16:22:03,132 - INFO - PinBar-Magic-Indicator: 252 .ini Dateien
+2025-04-27 16:22:03,134 - INFO - Pipsover: 252 .ini Dateien
+2025-04-27 16:22:03,136 - INFO - Plan-X: 252 .ini Dateien
+2025-04-27 16:22:03,139 - INFO - Plateau: 252 .ini Dateien
+2025-04-27 16:22:03,141 - INFO - Poker-SHOW: 252 .ini Dateien
+2025-04-27 16:22:03,144 - INFO - POVERTY-KILLER-GHOSTMT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,147 - INFO - POW-BANKER-EA-MT5-4170-with-SetFiles-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,148 - INFO - 
+Stichproben für Batch_0041:
+2025-04-27 16:22:03,150 - INFO - Pendulum: 252 .ini Dateien
+2025-04-27 16:22:03,152 - INFO - Pinball-machine: 252 .ini Dateien
+2025-04-27 16:22:03,154 - INFO - Pinbar-Magic-EA: 252 .ini Dateien
+2025-04-27 16:22:03,154 - INFO - 
+Verarbeite Batch_0042...
+2025-04-27 16:22:03,154 - INFO - 
+Stichproben für Batch_0042:
+2025-04-27 16:22:03,156 - INFO - Precipice: 252 .ini Dateien
+2025-04-27 16:22:03,158 - INFO - Precipice-MartIn: 252 .ini Dateien
+2025-04-27 16:22:03,161 - INFO - PrizmaL-Pro-EAMT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,162 - INFO - Probe: 252 .ini Dateien
+2025-04-27 16:22:03,164 - INFO - Proffessor: 252 .ini Dateien
+2025-04-27 16:22:03,166 - INFO - PropFirmHelper: 252 .ini Dateien
+2025-04-27 16:22:03,168 - INFO - PROphet: 252 .ini Dateien
+2025-04-27 16:22:03,170 - INFO - Puria-method: 252 .ini Dateien
+2025-04-27 16:22:03,172 - INFO - Rabbit3: 252 .ini Dateien
+2025-04-27 16:22:03,174 - INFO - Range-Breakout: 252 .ini Dateien
+2025-04-27 16:22:03,175 - INFO - 
+Stichproben für Batch_0042:
+2025-04-27 16:22:03,177 - INFO - Precipice: 252 .ini Dateien
+2025-04-27 16:22:03,179 - INFO - Precipice-MartIn: 252 .ini Dateien
+2025-04-27 16:22:03,181 - INFO - PrizmaL-Pro-EAMT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,181 - INFO - 
+Verarbeite Batch_0043...
+2025-04-27 16:22:03,182 - INFO - 
+Stichproben für Batch_0043:
+2025-04-27 16:22:03,184 - INFO - Rapid-Doji-EA: 252 .ini Dateien
+2025-04-27 16:22:03,186 - INFO - Raymond-Cloudy-Day-for-EA: 252 .ini Dateien
+2025-04-27 16:22:03,188 - INFO - RedDragon-v.1.03: 252 .ini Dateien
+2025-04-27 16:22:03,190 - INFO - Reflex: 252 .ini Dateien
+2025-04-27 16:22:03,192 - INFO - Reflex-EA: 252 .ini Dateien
+2025-04-27 16:22:03,194 - INFO - REFLEX-INDICATOR: 252 .ini Dateien
+2025-04-27 16:22:03,196 - INFO - Reversing-Martingale: 252 .ini Dateien
+2025-04-27 16:22:03,198 - INFO - RideAlligator: 252 .ini Dateien
+2025-04-27 16:22:03,200 - INFO - RNN: 252 .ini Dateien
+2025-04-27 16:22:03,203 - INFO - RobotPowerM5-meta4: 252 .ini Dateien
+2025-04-27 16:22:03,204 - INFO - 
+Stichproben für Batch_0043:
+2025-04-27 16:22:03,205 - INFO - Rapid-Doji-EA: 252 .ini Dateien
+2025-04-27 16:22:03,208 - INFO - Raymond-Cloudy-Day-for-EA: 252 .ini Dateien
+2025-04-27 16:22:03,210 - INFO - RedDragon-v.1.03: 252 .ini Dateien
+2025-04-27 16:22:03,210 - INFO - 
+Verarbeite Batch_0044...
+2025-04-27 16:22:03,211 - INFO - 
+Stichproben für Batch_0044:
+2025-04-27 16:22:03,213 - INFO - Robot-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,214 - INFO - Rollback-system: 252 .ini Dateien
+2025-04-27 16:22:03,216 - INFO - RSI EA v2: 252 .ini Dateien
+2025-04-27 16:22:03,218 - INFO - RSI-and-Bollinger-Bands: 252 .ini Dateien
+2025-04-27 16:22:03,220 - INFO - RSI-Arrow: 252 .ini Dateien
+2025-04-27 16:22:03,222 - INFO - RSI-Bollinger-Bands-EA: 252 .ini Dateien
+2025-04-27 16:22:03,224 - INFO - RSI-EA: 252 .ini Dateien
+2025-04-27 16:22:03,225 - INFO - RSI-Eraser: 252 .ini Dateien
+2025-04-27 16:22:03,227 - INFO - RSI-Levels: 252 .ini Dateien
+2025-04-27 16:22:03,229 - INFO - RSI-trader: 252 .ini Dateien
+2025-04-27 16:22:03,230 - INFO - 
+Stichproben für Batch_0044:
+2025-04-27 16:22:03,232 - INFO - Robot-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,233 - INFO - Rollback-system: 252 .ini Dateien
+2025-04-27 16:22:03,235 - INFO - RSI EA v2: 252 .ini Dateien
+2025-04-27 16:22:03,235 - INFO - 
+Verarbeite Batch_0045...
+2025-04-27 16:22:03,236 - INFO - 
+Stichproben für Batch_0045:
+2025-04-27 16:22:03,238 - INFO - RSI-Arrow-EA: 252 .ini Dateien
+2025-04-27 16:22:03,240 - INFO - RSI-Expert: 252 .ini Dateien
+2025-04-27 16:22:03,242 - INFO - RSI-Trend: 252 .ini Dateien
+2025-04-27 16:22:03,244 - INFO - RSI-Trend-EA: 252 .ini Dateien
+2025-04-27 16:22:03,246 - INFO - RSI-with-channels: 252 .ini Dateien
+2025-04-27 16:22:03,248 - INFO - RSI-with-channels-EA: 252 .ini Dateien
+2025-04-27 16:22:03,250 - INFO - RSI_Expert_v2.0: 252 .ini Dateien
+2025-04-27 16:22:03,251 - INFO - Russian20-hp1: 252 .ini Dateien
+2025-04-27 16:22:03,253 - INFO - SampleCheckPendingOrder: 252 .ini Dateien
+2025-04-27 16:22:03,255 - INFO - SampleTrailingstop-MT5: 252 .ini Dateien
+2025-04-27 16:22:03,256 - INFO - 
+Stichproben für Batch_0045:
+2025-04-27 16:22:03,258 - INFO - RSI-Arrow-EA: 252 .ini Dateien
+2025-04-27 16:22:03,260 - INFO - RSI-Expert: 252 .ini Dateien
+2025-04-27 16:22:03,262 - INFO - RSI-Trend: 252 .ini Dateien
+2025-04-27 16:22:03,262 - INFO - 
+Verarbeite Batch_0046...
+2025-04-27 16:22:03,263 - INFO - 
+Stichproben für Batch_0046:
+2025-04-27 16:22:03,265 - INFO - SAR-trading: 252 .ini Dateien
+2025-04-27 16:22:03,267 - INFO - Secwenta: 252 .ini Dateien
+2025-04-27 16:22:03,269 - INFO - Sell-Stop: 252 .ini Dateien
+2025-04-27 16:22:03,272 - INFO - Sensitive: 252 .ini Dateien
+2025-04-27 16:22:03,274 - INFO - Separate-trade: 252 .ini Dateien
+2025-04-27 16:22:03,275 - INFO - SilverTrend: 252 .ini Dateien
+2025-04-27 16:22:03,278 - INFO - Simple-20Price-20Alert-20-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,280 - INFO - Simple-20Volume-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,282 - INFO - Simple-EA-MA-plus-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,284 - INFO - Simple-FX: 252 .ini Dateien
+2025-04-27 16:22:03,285 - INFO - 
+Stichproben für Batch_0046:
+2025-04-27 16:22:03,287 - INFO - SAR-trading: 252 .ini Dateien
+2025-04-27 16:22:03,289 - INFO - Secwenta: 252 .ini Dateien
+2025-04-27 16:22:03,290 - INFO - Sell-Stop: 252 .ini Dateien
+2025-04-27 16:22:03,291 - INFO - 
+Verarbeite Batch_0047...
+2025-04-27 16:22:03,291 - INFO - 
+Stichproben für Batch_0047:
+2025-04-27 16:22:03,293 - INFO - Simple-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,295 - INFO - Simple-Volume-EA: 252 .ini Dateien
+2025-04-27 16:22:03,297 - INFO - SimplePivot: 252 .ini Dateien
+2025-04-27 16:22:03,299 - INFO - Simplest-Hedging-EA-ever: 252 .ini Dateien
+2025-04-27 16:22:03,301 - INFO - SimpleTrade: 252 .ini Dateien
+2025-04-27 16:22:03,303 - INFO - Six-Soldiers: 252 .ini Dateien
+2025-04-27 16:22:03,305 - INFO - Six-Soldiers-EA: 252 .ini Dateien
+2025-04-27 16:22:03,307 - INFO - Six-Soldiers-EA-Grid: 252 .ini Dateien
+2025-04-27 16:22:03,309 - INFO - Small-Inside-Bar-Strategy: 252 .ini Dateien
+2025-04-27 16:22:03,311 - INFO - Smart-Machine-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,313 - INFO - 
+Stichproben für Batch_0047:
+2025-04-27 16:22:03,314 - INFO - Simple-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,316 - INFO - Simple-Volume-EA: 252 .ini Dateien
+2025-04-27 16:22:03,318 - INFO - SimplePivot: 252 .ini Dateien
+2025-04-27 16:22:03,318 - INFO - 
+Verarbeite Batch_0048...
+2025-04-27 16:22:03,319 - INFO - 
+Stichproben für Batch_0048:
+2025-04-27 16:22:03,321 - INFO - Smoothing-Average: 252 .ini Dateien
+2025-04-27 16:22:03,323 - INFO - sound: 252 .ini Dateien
+2025-04-27 16:22:03,325 - INFO - Sound-Fx: 252 .ini Dateien
+2025-04-27 16:22:03,327 - INFO - Spasm: 252 .ini Dateien
+2025-04-27 16:22:03,329 - INFO - Sprd-mt5-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,331 - INFO - SPYDER-EA-V-6.1-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,334 - INFO - ssb5-123: 252 .ini Dateien
+2025-04-27 16:22:03,336 - INFO - Stargogs-Ghost-Spike-Robot-EAMT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,338 - INFO - Stargogs-Pay-EA-MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,341 - INFO - Starter: 252 .ini Dateien
+2025-04-27 16:22:03,342 - INFO - 
+Stichproben für Batch_0048:
+2025-04-27 16:22:03,343 - INFO - Smoothing-Average: 252 .ini Dateien
+2025-04-27 16:22:03,345 - INFO - sound: 252 .ini Dateien
+2025-04-27 16:22:03,347 - INFO - Sound-Fx: 252 .ini Dateien
+2025-04-27 16:22:03,348 - INFO - 
+Verarbeite Batch_0049...
+2025-04-27 16:22:03,348 - INFO - 
+Stichproben für Batch_0049:
+2025-04-27 16:22:03,350 - INFO - Steve-Cartwright-Trader-Camel-CCI-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,352 - INFO - Stoch: 252 .ini Dateien
+2025-04-27 16:22:03,354 - INFO - Stoch-EA-1192: 252 .ini Dateien
+2025-04-27 16:22:03,356 - INFO - Stochastic-20Alert: 252 .ini Dateien
+2025-04-27 16:22:03,358 - INFO - Stochastic-K-Divergence.lua: 252 .ini Dateien
+2025-04-27 16:22:03,361 - INFO - stochastic-three-periods: 252 .ini Dateien
+2025-04-27 16:22:03,363 - INFO - stochasticdiffsign: 252 .ini Dateien
+2025-04-27 16:22:03,365 - INFO - StochasticDiffSign-EA: 252 .ini Dateien
+2025-04-27 16:22:03,367 - INFO - StochMA: 252 .ini Dateien
+2025-04-27 16:22:03,369 - INFO - StochMA-EA: 252 .ini Dateien
+2025-04-27 16:22:03,370 - INFO - 
+Stichproben für Batch_0049:
+2025-04-27 16:22:03,372 - INFO - Steve-Cartwright-Trader-Camel-CCI-MACD: 252 .ini Dateien
+2025-04-27 16:22:03,374 - INFO - Stoch: 252 .ini Dateien
+2025-04-27 16:22:03,376 - INFO - Stoch-EA-1192: 252 .ini Dateien
+2025-04-27 16:22:03,376 - INFO - 
+Verarbeite Batch_0050...
+2025-04-27 16:22:03,377 - INFO - 
+Stichproben für Batch_0050:
+2025-04-27 16:22:03,379 - INFO - Stop-Loss-Take-Profit: 252 .ini Dateien
+2025-04-27 16:22:03,381 - INFO - StraddleqTrail: 252 .ini Dateien
+2025-04-27 16:22:03,383 - INFO - Strategie-Boom-Crash-System-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,385 - INFO - SUPER-TURBO-EAMT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,387 - INFO - Surefirething: 252 .ini Dateien
+2025-04-27 16:22:03,389 - INFO - TAILOR-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,391 - INFO - TAKASHI-SNIPEREA-MT5-yYoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,393 - INFO - TDSGlobal: 252 .ini Dateien
+2025-04-27 16:22:03,395 - INFO - The-MasterMind: 252 .ini Dateien
+2025-04-27 16:22:03,398 - INFO - The-MasterMind-2: 252 .ini Dateien
+2025-04-27 16:22:03,401 - INFO - 
+Stichproben für Batch_0050:
+2025-04-27 16:22:03,408 - INFO - Stop-Loss-Take-Profit: 252 .ini Dateien
+2025-04-27 16:22:03,415 - INFO - StraddleqTrail: 252 .ini Dateien
+2025-04-27 16:22:03,419 - INFO - Strategie-Boom-Crash-System-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,420 - INFO - 
+Verarbeite Batch_0051...
+2025-04-27 16:22:03,421 - INFO - 
+Stichproben für Batch_0051:
+2025-04-27 16:22:03,426 - INFO - The-MasterMind-3: 252 .ini Dateien
+2025-04-27 16:22:03,430 - INFO - The-Puncher: 252 .ini Dateien
+2025-04-27 16:22:03,433 - INFO - TheClassicTurtleTrader-no-dots: 252 .ini Dateien
+2025-04-27 16:22:03,437 - INFO - TheClassicTurtleTrader-no-dots-EA: 252 .ini Dateien
+2025-04-27 16:22:03,440 - INFO - Thomas-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,445 - INFO - Three-indicators: 252 .ini Dateien
+2025-04-27 16:22:03,448 - INFO - Three-neural-networks: 252 .ini Dateien
+2025-04-27 16:22:03,452 - INFO - Three-timeframes: 252 .ini Dateien
+2025-04-27 16:22:03,455 - INFO - Three-Typical-Candles: 252 .ini Dateien
+2025-04-27 16:22:03,459 - INFO - Time-bomb-mt5-1: 252 .ini Dateien
+2025-04-27 16:22:03,461 - INFO - 
+Stichproben für Batch_0051:
+2025-04-27 16:22:03,465 - INFO - The-MasterMind-3: 252 .ini Dateien
+2025-04-27 16:22:03,468 - INFO - The-Puncher: 252 .ini Dateien
+2025-04-27 16:22:03,472 - INFO - TheClassicTurtleTrader-no-dots: 252 .ini Dateien
+2025-04-27 16:22:03,473 - INFO - 
+Verarbeite Batch_0052...
+2025-04-27 16:22:03,474 - INFO - 
+Stichproben für Batch_0052:
+2025-04-27 16:22:03,478 - INFO - Time-sync-forts: 252 .ini Dateien
+2025-04-27 16:22:03,483 - INFO - timer-trade: 252 .ini Dateien
+2025-04-27 16:22:03,487 - INFO - Titan-X-21.18-EA-MT5: 252 .ini Dateien
+2025-04-27 16:22:03,492 - INFO - TMA-ATR-Channel: 252 .ini Dateien
+2025-04-27 16:22:03,496 - INFO - TMA-ATR-EA: 252 .ini Dateien
+2025-04-27 16:22:03,501 - INFO - TMA-CG-EA: 252 .ini Dateien
+2025-04-27 16:22:03,504 - INFO - TMA-CG-Martingale-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,509 - INFO - TMA-CG-mladen: 252 .ini Dateien
+2025-04-27 16:22:03,512 - INFO - TmaTrue-2.0-with-Distances-6xx: 252 .ini Dateien
+2025-04-27 16:22:03,515 - INFO - TmaTrue-3.0-with-Distances-6xx: 252 .ini Dateien
+2025-04-27 16:22:03,517 - INFO - 
+Stichproben für Batch_0052:
+2025-04-27 16:22:03,519 - INFO - Time-sync-forts: 252 .ini Dateien
+2025-04-27 16:22:03,522 - INFO - timer-trade: 252 .ini Dateien
+2025-04-27 16:22:03,524 - INFO - Titan-X-21.18-EA-MT5: 252 .ini Dateien
+2025-04-27 16:22:03,524 - INFO - 
+Verarbeite Batch_0053...
+2025-04-27 16:22:03,525 - INFO - 
+Stichproben für Batch_0053:
+2025-04-27 16:22:03,527 - INFO - TMA-CG-special: 252 .ini Dateien
+2025-04-27 16:22:03,531 - INFO - TMA-slope-bands: 252 .ini Dateien
+2025-04-27 16:22:03,536 - INFO - TP-with-money: 252 .ini Dateien
+2025-04-27 16:22:03,541 - INFO - Trade-in-Channel: 252 .ini Dateien
+2025-04-27 16:22:03,546 - INFO - Trade-on-qualified-RSI: 252 .ini Dateien
+2025-04-27 16:22:03,550 - INFO - Trade-Republic-1.75-MT5: 252 .ini Dateien
+2025-04-27 16:22:03,553 - INFO - Trading-Breakout-MrThanhTan: 252 .ini Dateien
+2025-04-27 16:22:03,557 - INFO - Trend-Trader-Strategy: 252 .ini Dateien
+2025-04-27 16:22:03,559 - INFO - Trend-Trader-Strategy-EA: 252 .ini Dateien
+2025-04-27 16:22:03,562 - INFO - True-Scalper-Profit-Lock: 252 .ini Dateien
+2025-04-27 16:22:03,563 - INFO - 
+Stichproben für Batch_0053:
+2025-04-27 16:22:03,565 - INFO - TMA-CG-special: 252 .ini Dateien
+2025-04-27 16:22:03,567 - INFO - TMA-slope-bands: 252 .ini Dateien
+2025-04-27 16:22:03,569 - INFO - TP-with-money: 252 .ini Dateien
+2025-04-27 16:22:03,570 - INFO - 
+Verarbeite Batch_0054...
+2025-04-27 16:22:03,570 - INFO - 
+Stichproben für Batch_0054:
+2025-04-27 16:22:03,572 - INFO - Tru-EA: 252 .ini Dateien
+2025-04-27 16:22:03,575 - INFO - TrueSort-1100: 252 .ini Dateien
+2025-04-27 16:22:03,577 - INFO - Tunnel-gen4: 252 .ini Dateien
+2025-04-27 16:22:03,580 - INFO - Tunnel-Method: 252 .ini Dateien
+2025-04-27 16:22:03,582 - INFO - Tunnel-Vision-2024-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,585 - INFO - TurnGrid: 252 .ini Dateien
+2025-04-27 16:22:03,587 - INFO - Two-20MA-20RSI-20ADX-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,589 - INFO - Two-20Orders-20Panel: 252 .ini Dateien
+2025-04-27 16:22:03,592 - INFO - Two-pending-orders-2: 252 .ini Dateien
+2025-04-27 16:22:03,593 - INFO - Two-PerBar: 252 .ini Dateien
+2025-04-27 16:22:03,594 - INFO - 
+Stichproben für Batch_0054:
+2025-04-27 16:22:03,596 - INFO - Tru-EA: 252 .ini Dateien
+2025-04-27 16:22:03,598 - INFO - TrueSort-1100: 252 .ini Dateien
+2025-04-27 16:22:03,600 - INFO - Tunnel-gen4: 252 .ini Dateien
+2025-04-27 16:22:03,601 - INFO - 
+Verarbeite Batch_0055...
+2025-04-27 16:22:03,601 - INFO - 
+Stichproben für Batch_0055:
+2025-04-27 16:22:03,604 - INFO - UnityPro: 252 .ini Dateien
+2025-04-27 16:22:03,606 - INFO - UniversalMACrossEA: 252 .ini Dateien
+2025-04-27 16:22:03,608 - INFO - UniversalSignalDemo: 252 .ini Dateien
+2025-04-27 16:22:03,610 - INFO - Universum-3.0: 252 .ini Dateien
+2025-04-27 16:22:03,613 - INFO - UnNomGuai-20EA: 252 .ini Dateien
+2025-04-27 16:22:03,615 - INFO - up3x1: 252 .ini Dateien
+2025-04-27 16:22:03,618 - INFO - up3x1-Investor: 252 .ini Dateien
+2025-04-27 16:22:03,620 - INFO - up3x1-premium-M: 252 .ini Dateien
+2025-04-27 16:22:03,622 - INFO - Upgraded-EA-CRASH-1000MT5-YoforexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,624 - INFO - Urdala-Trol: 252 .ini Dateien
+2025-04-27 16:22:03,626 - INFO - 
+Stichproben für Batch_0055:
+2025-04-27 16:22:03,627 - INFO - UnityPro: 252 .ini Dateien
+2025-04-27 16:22:03,629 - INFO - UniversalMACrossEA: 252 .ini Dateien
+2025-04-27 16:22:03,632 - INFO - UniversalSignalDemo: 252 .ini Dateien
+2025-04-27 16:22:03,632 - INFO - 
+Verarbeite Batch_0056...
+2025-04-27 16:22:03,633 - INFO - 
+Stichproben für Batch_0056:
+2025-04-27 16:22:03,635 - INFO - Very-Blonde-System: 252 .ini Dateien
+2025-04-27 16:22:03,638 - INFO - Virtual-Trailing-Stop: 252 .ini Dateien
+2025-04-27 16:22:03,641 - INFO - VLT-TRADER: 252 .ini Dateien
+2025-04-27 16:22:03,643 - INFO - Volume-trader: 252 .ini Dateien
+2025-04-27 16:22:03,645 - INFO - Vortex-Indicator-System: 252 .ini Dateien
+2025-04-27 16:22:03,647 - INFO - VR-Overturn: 252 .ini Dateien
+2025-04-27 16:22:03,649 - INFO - VR-ZVER: 252 .ini Dateien
+2025-04-27 16:22:03,651 - INFO - VR-ZVER-v.2: 252 .ini Dateien
+2025-04-27 16:22:03,653 - INFO - VZO: 252 .ini Dateien
+2025-04-27 16:22:03,655 - INFO - Waddah-Attar-Win: 252 .ini Dateien
+2025-04-27 16:22:03,656 - INFO - 
+Stichproben für Batch_0056:
+2025-04-27 16:22:03,658 - INFO - Very-Blonde-System: 252 .ini Dateien
+2025-04-27 16:22:03,660 - INFO - Virtual-Trailing-Stop: 252 .ini Dateien
+2025-04-27 16:22:03,662 - INFO - VLT-TRADER: 252 .ini Dateien
+2025-04-27 16:22:03,663 - INFO - 
+Verarbeite Batch_0057...
+2025-04-27 16:22:03,663 - INFO - 
+Stichproben für Batch_0057:
+2025-04-27 16:22:03,667 - INFO - NSK-Swing: 252 .ini Dateien
+2025-04-27 16:22:03,669 - INFO - Simple-Trade: 252 .ini Dateien
+2025-04-27 16:22:03,671 - INFO - Two-Perbar: 252 .ini Dateien
+2025-04-27 16:22:03,673 - INFO - wagonKing1-EA: 252 .ini Dateien
+2025-04-27 16:22:03,675 - INFO - WE-TRUST: 252 .ini Dateien
+2025-04-27 16:22:03,677 - INFO - X-RSIOMA: 252 .ini Dateien
+2025-04-27 16:22:03,679 - INFO - XKPRMST-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,681 - INFO - XT-EURUSD-EA-MT5-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,683 - INFO - Yesterday-Today: 252 .ini Dateien
+2025-04-27 16:22:03,686 - INFO - Yumnaa-Classic-EA-MT5-Setfiles-YoForexPremium: 252 .ini Dateien
+2025-04-27 16:22:03,687 - INFO - 
+Stichproben für Batch_0057:
+2025-04-27 16:22:03,689 - INFO - NSK-Swing: 252 .ini Dateien
+2025-04-27 16:22:03,691 - INFO - Simple-Trade: 252 .ini Dateien
+2025-04-27 16:22:03,693 - INFO - Two-Perbar: 252 .ini Dateien
+2025-04-27 16:22:03,694 - INFO - 
+Verarbeite Batch_0058...
+2025-04-27 16:22:03,694 - INFO - 
+Stichproben für Batch_0058:
+2025-04-27 16:22:03,695 - INFO - 
+Verarbeite Batch_0059...
+2025-04-27 16:22:03,696 - INFO - 
+Stichproben für Batch_0059:
+2025-04-27 16:22:03,696 - INFO - 
+Verarbeite Batch_0060...
+2025-04-27 16:22:03,697 - INFO - 
+Stichproben für Batch_0060:
+2025-04-27 16:22:03,697 - INFO - 
+Gesamtstatistik:
+2025-04-27 16:22:03,697 - INFO - Verarbeitete EAs: 171
+2025-04-27 16:22:03,698 - INFO - Erstellte .ini Dateien: 43092
+2025-04-27 16:22:03,698 - INFO - Durchschnittliche .ini Dateien pro EA: 252.00

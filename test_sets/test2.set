@@ -1,0 +1,20 @@
+;Expert Advisor: Test EA 2
+; Risk parameters
+inp_lots=0.1
+inp_StopLoss=30
+inp_TakeProfit=60
+inp_RiskPercent=1.5
+
+; Technical parameters
+inp_MA_Period=21
+inp_RSI_Period=9
+inp_ATR_Period=10
+
+; Trailing parameters
+inp_TrailingStart=15
+inp_TrailingStop=30
+inp_TrailingStep=3
+
+; System parameters
+inp_MagicNumber=54321
+inp_Comment=Test EA 2

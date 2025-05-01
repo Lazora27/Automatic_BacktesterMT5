@@ -1,0 +1,116 @@
+{
+  "timestamp": "2025-04-17T17:30:02.957593",
+  "file_path": "C:\\Users\\nikol\\CascadeProjects\\Intelligent_set_opt_creator\\test\\optimized\\sample_opt_v20250417_1730.set",
+  "parameter_groups": {
+    "risk": [
+      {
+        "name": "MaximumRisk",
+        "original": "2.0",
+        "optimized": "2.00||1.40||0.10||2.60||Y"
+      },
+      {
+        "name": "StopLoss",
+        "original": "100",
+        "optimized": "100.00||70.00||20.00||130.00||Y"
+      },
+      {
+        "name": "TakeProfit",
+        "original": "150",
+        "optimized": "150.00||105.00||30.00||195.00||Y"
+      }
+    ],
+    "trailing": [
+      {
+        "name": "TrailingStop",
+        "original": "30",
+        "optimized": "30||21||6||39||Y"
+      },
+      {
+        "name": "TrailingStart",
+        "original": "20",
+        "optimized": "20||14||4||26||Y"
+      },
+      {
+        "name": "TrailingStep",
+        "original": "5",
+        "optimized": "5||3||1||6||Y"
+      }
+    ],
+    "breakeven": [
+      {
+        "name": "BreakEvenStart",
+        "original": "25",
+        "optimized": "25||17||5||32||Y"
+      },
+      {
+        "name": "BreakEvenOffset",
+        "original": "2",
+        "optimized": "2||1||1||2||Y"
+      }
+    ],
+    "positioning": [
+      {
+        "name": "Lots",
+        "original": "0.1",
+        "optimized": "0.10||0.07||0.01||0.13||Y"
+      }
+    ],
+    "technical": [
+      {
+        "name": "RSI_Period",
+        "original": "14",
+        "optimized": "14||9||2||18||Y"
+      },
+      {
+        "name": "MA_Period",
+        "original": "20",
+        "optimized": "20||14||4||26||Y"
+      },
+      {
+        "name": "Shift",
+        "original": "1",
+        "optimized": "1||0||1||1||Y"
+      }
+    ],
+    "system": [
+      {
+        "name": "Magic",
+        "original": "12345",
+        "optimized": "12345"
+      },
+      {
+        "name": "Comment",
+        "original": "Sample EA",
+        "optimized": "Sample EA"
+      },
+      {
+        "name": "Slippage",
+        "original": "3",
+        "optimized": "3"
+      }
+    ],
+    "feature_switch": [
+      {
+        "name": "UseTrailing",
+        "original": "true",
+        "optimized": "true"
+      },
+      {
+        "name": "UseBreakEven",
+        "original": "true",
+        "optimized": "true"
+      },
+      {
+        "name": "UseRSI",
+        "original": "true",
+        "optimized": "true"
+      }
+    ]
+  },
+  "ratios": {},
+  "optimization_summary": {
+    "total_parameters": 18,
+    "optimized": 12,
+    "static": 6
+  }
+}
